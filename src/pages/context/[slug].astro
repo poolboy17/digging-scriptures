@@ -1,0 +1,35 @@
+---
+/**
+ * ================================================================================
+ * CONTEXT PAGES ROUTE: /context/[slug]
+ * ================================================================================
+ * Renders context collection entries at semantic URLs
+ * Example: /context/history-of-christian-pilgrimage
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import ContextLayout from '../../layouts/ContextLayout.astro';
+
+export async function getStaticPaths() {
+    const contextArticles = await getCollection('context', ({ data }) => !data.draft);
+    
+    return contextArticles.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<ContextLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    contextType={entry.data.contextType}
+    faithTraditions={entry.data.faithTraditions}
+    regions={entry.data.regions}
+>
+    <Content />
+</ContextLayout>
