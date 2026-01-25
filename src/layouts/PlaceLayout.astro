@@ -1,0 +1,140 @@
+---
+/**
+ * ================================================================================
+ * PLACE PAGE TEMPLATE
+ * ================================================================================
+ * Purpose: Destinations and sacred sites
+ * Word count target: 1200-2500 words
+ * 
+ * MONETIZATION: OPTIONAL
+ * Allowed ONLY in Section 5: "Experiencing This Place Today"
+ * All other sections: NO monetization
+ * 
+ * This template is LOCKED. Do not modify section order without review.
+ * ================================================================================
+ */
+
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+    title: string;
+    description: string;
+    region: string;
+    country: string;
+    faithTraditions?: string[];
+    placeType?: string;
+    hasExperienceSection?: boolean;
+}
+
+const { 
+    title, 
+    description, 
+    region, 
+    country, 
+    faithTraditions, 
+    placeType,
+    hasExperienceSection = false 
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+    <article class="place-page">
+        
+        <!-- ================================================================== -->
+        <!-- SECTION 1: HEADER -->
+        <!-- Purpose: Page title and location context -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <header class="place-header">
+            <h1>{title}</h1>
+            <p class="place-location">{region}, {country}</p>
+            <p class="place-description">{description}</p>
+        </header>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 2: HISTORICAL SIGNIFICANCE -->
+        <!-- Purpose: Historical background and importance -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- Content: Factual, descriptive, non-doctrinal -->
+        <!-- ================================================================== -->
+        <section class="place-history">
+            <h2>Historical Significance</h2>
+            <slot name="history" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 3: CULTURAL CONTEXT -->
+        <!-- Purpose: Cultural and religious context -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- Content: Descriptive, respectful, non-prescriptive -->
+        <!-- ================================================================== -->
+        <section class="place-culture">
+            <h2>Cultural and Spiritual Context</h2>
+            {faithTraditions && faithTraditions.length > 0 && (
+                <p class="faith-traditions">
+                    Associated traditions: {faithTraditions.join(', ')}
+                </p>
+            )}
+            <slot name="culture" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 4: ARCHITECTURAL / NATURAL FEATURES -->
+        <!-- Purpose: Physical description of the place -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="place-features">
+            <h2>Notable Features</h2>
+            <slot name="features" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 5: EXPERIENCING THIS PLACE TODAY -->
+        <!-- Purpose: Practical information for visitors -->
+        <!-- Monetization: ALLOWED -->
+        <!-- ================================================================== -->
+        <!-- 
+        ╔══════════════════════════════════════════════════════════════════════╗
+        ║  MONETIZATION ZONE — START                                           ║
+        ║  Affiliate links, tour recommendations, and contextual ads           ║
+        ║  are PERMITTED in this section ONLY                                  ║
+        ╚══════════════════════════════════════════════════════════════════════╝
+        -->
+        {hasExperienceSection && (
+            <section class="place-experience">
+                <h2>Experiencing This Place Today</h2>
+                <slot name="experience" />
+                <!-- 
+                    ALLOWED CONTENT:
+                    - Tour operator recommendations (affiliate OK)
+                    - Accommodation suggestions (affiliate OK)
+                    - Transportation information
+                    - Visitor guidelines
+                    - Best times to visit
+                    
+                    FORBIDDEN CONTENT:
+                    - Hard-sell CTAs
+                    - Pop-ups or interstitials
+                    - Misleading claims
+                    - Content that violates YMYL guidelines
+                -->
+            </section>
+        )}
+        <!-- 
+        ╔══════════════════════════════════════════════════════════════════════╗
+        ║  MONETIZATION ZONE — END                                             ║
+        ╚══════════════════════════════════════════════════════════════════════╝
+        -->
+
+        <!-- ================================================================== -->
+        <!-- SECTION 6: RELATED CONTENT -->
+        <!-- Purpose: Internal linking to related pages -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="place-related">
+            <h2>Related Content</h2>
+            <slot name="related" />
+        </section>
+
+    </article>
+</BaseLayout>
