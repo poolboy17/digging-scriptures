@@ -1,6 +1,6 @@
 ---
 title: "Santiago de Compostela"
-description: "The cathedral city in Galicia, northwestern Spain, housing the shrine of Saint James and serving as the destination of Europe's most traveled pilgrimage routes."
+description: "The cathedral city in Galicia housing the shrine of Saint James, destination of the Camino."
 region: "Galicia"
 country: "Spain"
 coordinates:
@@ -9,7 +9,7 @@ coordinates:
 faithTraditions:
   - Christianity
   - Catholicism
-placeType: "cathedral"
+placeType: "church"
 parentHub: "faith-based-journeys"
 relatedRoutes:
   - "camino-de-santiago"
