@@ -1,0 +1,34 @@
+---
+/**
+ * ================================================================================
+ * STORIES INDEX: /stories
+ * ================================================================================
+ * Lists all story pages
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const stories = await getCollection('stories', ({ data }) => !data.draft);
+---
+
+<BaseLayout 
+    title="Stories and Traditions" 
+    description="Discover the people, traditions, and cultural narratives behind pilgrimage traditions."
+>
+    <main>
+        <h1>Stories and Traditions</h1>
+        <p>Discover the people, traditions, and cultural narratives behind pilgrimage.</p>
+        
+        <ul>
+            {stories.map((story) => (
+                <li>
+                    <a href={`/stories/${story.slug}`}>{story.data.title}</a>
+                    <p>{story.data.storyType.replace('-', ' ')}</p>
+                    <p>{story.data.description}</p>
+                </li>
+            ))}
+        </ul>
+    </main>
+</BaseLayout>
