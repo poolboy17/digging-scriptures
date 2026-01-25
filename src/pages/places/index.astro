@@ -1,0 +1,34 @@
+---
+/**
+ * ================================================================================
+ * PLACES INDEX: /places
+ * ================================================================================
+ * Lists all place pages
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const places = await getCollection('places', ({ data }) => !data.draft);
+---
+
+<BaseLayout 
+    title="Sacred Places" 
+    description="Discover sacred sites, shrines, temples, and pilgrimage destinations around the world."
+>
+    <main>
+        <h1>Sacred Places</h1>
+        <p>Discover sacred sites and pilgrimage destinations around the world.</p>
+        
+        <ul>
+            {places.map((place) => (
+                <li>
+                    <a href={`/places/${place.slug}`}>{place.data.title}</a>
+                    <p>{place.data.region}, {place.data.country}</p>
+                    <p>{place.data.description}</p>
+                </li>
+            ))}
+        </ul>
+    </main>
+</BaseLayout>
