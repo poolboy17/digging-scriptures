@@ -1,0 +1,162 @@
+---
+/**
+ * ================================================================================
+ * ROUTE PAGE TEMPLATE
+ * ================================================================================
+ * Purpose: Pilgrimage routes and paths
+ * Word count target: 1200-2500 words
+ * 
+ * MONETIZATION: OPTIONAL
+ * Allowed ONLY in Section 5: "Modern Pilgrimage Experiences"
+ * All other sections: NO monetization
+ * 
+ * This template is LOCKED. Do not modify section order without review.
+ * ================================================================================
+ */
+
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+    title: string;
+    description: string;
+    region: string;
+    countries: string[];
+    distanceKm?: number;
+    typicalDurationDays?: number;
+    faithTraditions?: string[];
+    difficulty?: string;
+    hasModernSection?: boolean;
+}
+
+const { 
+    title, 
+    description, 
+    region, 
+    countries,
+    distanceKm,
+    typicalDurationDays,
+    faithTraditions, 
+    difficulty,
+    hasModernSection = false 
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+    <article class="route-page">
+        
+        <!-- ================================================================== -->
+        <!-- SECTION 1: HEADER -->
+        <!-- Purpose: Page title and route overview -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <header class="route-header">
+            <h1>{title}</h1>
+            <p class="route-region">{region}</p>
+            <p class="route-description">{description}</p>
+            
+            <!-- Route quick facts -->
+            <div class="route-facts">
+                {countries && (
+                    <p><strong>Countries:</strong> {countries.join(', ')}</p>
+                )}
+                {distanceKm && (
+                    <p><strong>Distance:</strong> {distanceKm} km</p>
+                )}
+                {typicalDurationDays && (
+                    <p><strong>Typical duration:</strong> {typicalDurationDays} days</p>
+                )}
+                {difficulty && (
+                    <p><strong>Difficulty:</strong> {difficulty}</p>
+                )}
+            </div>
+        </header>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 2: HISTORICAL ORIGINS -->
+        <!-- Purpose: Historical background of the route -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- Content: Factual, descriptive, non-doctrinal -->
+        <!-- ================================================================== -->
+        <section class="route-history">
+            <h2>Historical Origins</h2>
+            <slot name="history" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 3: THE JOURNEY -->
+        <!-- Purpose: Description of the route and its stages -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- Content: Geographic, cultural, experiential description -->
+        <!-- ================================================================== -->
+        <section class="route-journey">
+            <h2>The Journey</h2>
+            {faithTraditions && faithTraditions.length > 0 && (
+                <p class="faith-traditions">
+                    Associated traditions: {faithTraditions.join(', ')}
+                </p>
+            )}
+            <slot name="journey" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 4: SIGNIFICANT PLACES ALONG THE WAY -->
+        <!-- Purpose: Key stops and landmarks on the route -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="route-places">
+            <h2>Significant Places Along the Way</h2>
+            <slot name="places" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 5: MODERN PILGRIMAGE EXPERIENCES -->
+        <!-- Purpose: Contemporary information for those undertaking the route -->
+        <!-- Monetization: ALLOWED -->
+        <!-- ================================================================== -->
+        <!-- 
+        ╔══════════════════════════════════════════════════════════════════════╗
+        ║  MONETIZATION ZONE — START                                           ║
+        ║  Affiliate links, tour recommendations, and contextual ads           ║
+        ║  are PERMITTED in this section ONLY                                  ║
+        ╚══════════════════════════════════════════════════════════════════════╝
+        -->
+        {hasModernSection && (
+            <section class="route-modern">
+                <h2>Modern Pilgrimage Experiences</h2>
+                <slot name="modern" />
+                <!-- 
+                    ALLOWED CONTENT:
+                    - Guided tour recommendations (affiliate OK)
+                    - Accommodation along the route (affiliate OK)
+                    - Equipment and gear suggestions (affiliate OK)
+                    - Transportation options
+                    - Credential/passport information
+                    - Best seasons to travel
+                    - Safety considerations
+                    
+                    FORBIDDEN CONTENT:
+                    - Hard-sell CTAs
+                    - Pop-ups or interstitials
+                    - Misleading claims
+                    - Content that violates YMYL guidelines
+                -->
+            </section>
+        )}
+        <!-- 
+        ╔══════════════════════════════════════════════════════════════════════╗
+        ║  MONETIZATION ZONE — END                                             ║
+        ╚══════════════════════════════════════════════════════════════════════╝
+        -->
+
+        <!-- ================================================================== -->
+        <!-- SECTION 6: RELATED CONTENT -->
+        <!-- Purpose: Internal linking to related pages -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="route-related">
+            <h2>Related Content</h2>
+            <slot name="related" />
+        </section>
+
+    </article>
+</BaseLayout>
