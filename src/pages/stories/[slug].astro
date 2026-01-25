@@ -1,0 +1,35 @@
+---
+/**
+ * ================================================================================
+ * STORY PAGES ROUTE: /stories/[slug]
+ * ================================================================================
+ * Renders story collection entries at semantic URLs
+ * Example: /stories/saint-james-the-apostle
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import StoryLayout from '../../layouts/StoryLayout.astro';
+
+export async function getStaticPaths() {
+    const stories = await getCollection('stories', ({ data }) => !data.draft);
+    
+    return stories.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<StoryLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    storyType={entry.data.storyType}
+    faithTraditions={entry.data.faithTraditions}
+    timePeriod={entry.data.timePeriod}
+>
+    <Content />
+</StoryLayout>
