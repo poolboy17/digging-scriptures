@@ -1,0 +1,39 @@
+---
+/**
+ * ================================================================================
+ * ROUTE PAGES ROUTE: /routes/[slug]
+ * ================================================================================
+ * Renders route collection entries at semantic URLs
+ * Example: /routes/camino-de-santiago
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import RouteLayout from '../../layouts/RouteLayout.astro';
+
+export async function getStaticPaths() {
+    const routes = await getCollection('routes', ({ data }) => !data.draft);
+    
+    return routes.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<RouteLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    region={entry.data.region}
+    countries={entry.data.countries}
+    distanceKm={entry.data.distanceKm}
+    typicalDurationDays={entry.data.typicalDurationDays}
+    faithTraditions={entry.data.faithTraditions}
+    difficulty={entry.data.difficulty}
+    hasModernSection={entry.data.hasModernSection}
+>
+    <Content />
+</RouteLayout>
