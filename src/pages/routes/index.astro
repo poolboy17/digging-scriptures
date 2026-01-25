@@ -1,0 +1,37 @@
+---
+/**
+ * ================================================================================
+ * ROUTES INDEX: /routes
+ * ================================================================================
+ * Lists all route pages
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const routes = await getCollection('routes', ({ data }) => !data.draft);
+---
+
+<BaseLayout 
+    title="Pilgrimage Routes" 
+    description="Explore historic pilgrimage routes and paths traveled by pilgrims across centuries."
+>
+    <main>
+        <h1>Pilgrimage Routes</h1>
+        <p>Explore historic pilgrimage routes traveled across centuries.</p>
+        
+        <ul>
+            {routes.map((route) => (
+                <li>
+                    <a href={`/routes/${route.slug}`}>{route.data.title}</a>
+                    <p>{route.data.region} · {route.data.countries.join(', ')}</p>
+                    {route.data.distanceKm && (
+                        <p>{route.data.distanceKm} km</p>
+                    )}
+                    <p>{route.data.description}</p>
+                </li>
+            ))}
+        </ul>
+    </main>
+</BaseLayout>
