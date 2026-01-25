@@ -1,0 +1,97 @@
+---
+/**
+ * ================================================================================
+ * STORY PAGE TEMPLATE
+ * ================================================================================
+ * Purpose: People, traditions, cultural narratives
+ * Word count target: 1000-2000 words
+ * 
+ * MONETIZATION: NO (by default)
+ * 
+ * This template is LOCKED. Do not modify section order without review.
+ * ================================================================================
+ */
+
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+    title: string;
+    description: string;
+    storyType: string;
+    faithTraditions?: string[];
+    timePeriod?: string;
+}
+
+const { 
+    title, 
+    description, 
+    storyType,
+    faithTraditions,
+    timePeriod
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+    <article class="story-page">
+        
+        <!-- ================================================================== -->
+        <!-- SECTION 1: HEADER -->
+        <!-- Purpose: Page title and story context -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <header class="story-header">
+            <h1>{title}</h1>
+            <p class="story-type">{storyType.replace('-', ' ')}</p>
+            {timePeriod && (
+                <p class="story-period">Time period: {timePeriod}</p>
+            )}
+            <p class="story-description">{description}</p>
+        </header>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 2: THE NARRATIVE -->
+        <!-- Purpose: Main story content -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- Content: Descriptive, respectful, culturally sensitive -->
+        <!-- ================================================================== -->
+        <section class="story-narrative">
+            {faithTraditions && faithTraditions.length > 0 && (
+                <p class="faith-traditions">
+                    Associated traditions: {faithTraditions.join(', ')}
+                </p>
+            )}
+            <slot name="narrative" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 3: HISTORICAL CONTEXT -->
+        <!-- Purpose: Background and historical setting -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="story-context">
+            <h2>Historical Context</h2>
+            <slot name="context" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 4: LEGACY AND SIGNIFICANCE -->
+        <!-- Purpose: Impact and continuing relevance -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="story-legacy">
+            <h2>Legacy and Significance</h2>
+            <slot name="legacy" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 5: RELATED CONTENT -->
+        <!-- Purpose: Internal linking to related pages -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="story-related">
+            <h2>Related Content</h2>
+            <slot name="related" />
+        </section>
+
+    </article>
+</BaseLayout>
