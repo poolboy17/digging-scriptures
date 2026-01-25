@@ -1,0 +1,33 @@
+---
+/**
+ * ================================================================================
+ * JOURNEYS INDEX: /journeys
+ * ================================================================================
+ * Lists all hub pages
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const hubs = await getCollection('hubs', ({ data }) => !data.draft);
+---
+
+<BaseLayout 
+    title="Faith-Based Journeys and Pilgrimages" 
+    description="Explore pilgrimage traditions, sacred journeys, and faith-based travel across world cultures."
+>
+    <main>
+        <h1>Journeys</h1>
+        <p>Explore pilgrimage traditions and sacred journeys across world cultures.</p>
+        
+        <ul>
+            {hubs.map((hub) => (
+                <li>
+                    <a href={`/journeys/${hub.slug}`}>{hub.data.title}</a>
+                    <p>{hub.data.description}</p>
+                </li>
+            ))}
+        </ul>
+    </main>
+</BaseLayout>
