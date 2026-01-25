@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem Old City"
-description: "The walled heart of Jerusalem containing sites sacred to Christianity, Judaism, and Islam, and the destination of Christian pilgrimage since the fourth century."
+description: "The walled heart of Jerusalem, sacred to Christianity, Judaism, and Islam since antiquity."
 region: "Middle East"
 country: "Israel"
 coordinates:
