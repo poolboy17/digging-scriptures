@@ -1,0 +1,35 @@
+---
+/**
+ * ================================================================================
+ * HUB PAGES ROUTE: /journeys/[slug]
+ * ================================================================================
+ * Renders hub collection entries at semantic URLs
+ * Example: /journeys/faith-based-journeys-and-pilgrimages
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import HubLayout from '../../layouts/HubLayout.astro';
+
+export async function getStaticPaths() {
+    const hubs = await getCollection('hubs', ({ data }) => !data.draft);
+    
+    return hubs.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<HubLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    topics={entry.data.topics}
+    relatedPlaces={entry.data.relatedPlaces}
+    relatedRoutes={entry.data.relatedRoutes}
+>
+    <Content />
+</HubLayout>
