@@ -1,0 +1,115 @@
+---
+/**
+ * ================================================================================
+ * HUB PAGE TEMPLATE
+ * ================================================================================
+ * Purpose: Authority pages that define topics and link downward
+ * Word count target: 2000-3000 words
+ * 
+ * MONETIZATION: NEVER
+ * NO CTAs, NO affiliate links, NO ads in this template
+ * 
+ * This template is LOCKED. Do not modify section order without review.
+ * ================================================================================
+ */
+
+import BaseLayout from './BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+interface Props {
+    title: string;
+    description: string;
+    topics?: string[];
+    relatedPlaces?: string[];
+    relatedRoutes?: string[];
+    content: string;
+}
+
+const { title, description, topics, relatedPlaces, relatedRoutes, content } = Astro.props;
+
+// Fetch related content for internal linking
+const allPlaces = relatedPlaces ? await getCollection('places', ({ data }) => 
+    relatedPlaces.includes(data.title) && !data.draft
+) : [];
+
+const allRoutes = relatedRoutes ? await getCollection('routes', ({ data }) => 
+    relatedRoutes.includes(data.title) && !data.draft
+) : [];
+---
+
+<BaseLayout title={title} description={description}>
+    <article class="hub-page">
+        
+        <!-- ================================================================== -->
+        <!-- SECTION 1: HEADER -->
+        <!-- Purpose: Page title and introduction -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <header class="hub-header">
+            <h1>{title}</h1>
+            <p class="hub-description">{description}</p>
+        </header>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 2: MAIN CONTENT -->
+        <!-- Purpose: Authoritative overview of the topic -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- Target: 2000-3000 words of descriptive, non-doctrinal content -->
+        <!-- ================================================================== -->
+        <section class="hub-content">
+            <slot />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 3: RELATED PLACES -->
+        <!-- Purpose: Internal links to place pages -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        {allPlaces.length > 0 && (
+            <section class="hub-related-places">
+                <h2>Sacred Places</h2>
+                <ul>
+                    {allPlaces.map((place) => (
+                        <li>
+                            <a href={`/places/${place.slug}`}>{place.data.title}</a>
+                            <p>{place.data.description}</p>
+                        </li>
+                    ))}
+                </ul>
+            </section>
+        )}
+
+        <!-- ================================================================== -->
+        <!-- SECTION 4: RELATED ROUTES -->
+        <!-- Purpose: Internal links to route pages -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        {allRoutes.length > 0 && (
+            <section class="hub-related-routes">
+                <h2>Pilgrimage Routes</h2>
+                <ul>
+                    {allRoutes.map((route) => (
+                        <li>
+                            <a href={`/routes/${route.slug}`}>{route.data.title}</a>
+                            <p>{route.data.description}</p>
+                        </li>
+                    ))}
+                </ul>
+            </section>
+        )}
+
+        <!-- ================================================================== -->
+        <!-- SECTION 5: CONTEXT LINKS -->
+        <!-- Purpose: Links to background/context articles -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="hub-context">
+            <h2>Further Reading</h2>
+            <p>
+                <!-- Populated by content editors with links to context articles -->
+                <slot name="context-links" />
+            </p>
+        </section>
+
+    </article>
+</BaseLayout>
