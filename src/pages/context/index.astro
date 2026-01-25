@@ -1,0 +1,34 @@
+---
+/**
+ * ================================================================================
+ * CONTEXT INDEX: /context
+ * ================================================================================
+ * Lists all context pages
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const contextArticles = await getCollection('context', ({ data }) => !data.draft);
+---
+
+<BaseLayout 
+    title="Background and Context" 
+    description="Historical and cultural background for understanding pilgrimage traditions."
+>
+    <main>
+        <h1>Background and Context</h1>
+        <p>Historical and cultural background for understanding pilgrimage traditions.</p>
+        
+        <ul>
+            {contextArticles.map((article) => (
+                <li>
+                    <a href={`/context/${article.slug}`}>{article.data.title}</a>
+                    <p>{article.data.contextType.replace('-', ' ')}</p>
+                    <p>{article.data.description}</p>
+                </li>
+            ))}
+        </ul>
+    </main>
+</BaseLayout>
