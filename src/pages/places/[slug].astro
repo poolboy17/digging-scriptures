@@ -1,0 +1,37 @@
+---
+/**
+ * ================================================================================
+ * PLACE PAGES ROUTE: /places/[slug]
+ * ================================================================================
+ * Renders place collection entries at semantic URLs
+ * Example: /places/santiago-de-compostela
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import PlaceLayout from '../../layouts/PlaceLayout.astro';
+
+export async function getStaticPaths() {
+    const places = await getCollection('places', ({ data }) => !data.draft);
+    
+    return places.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<PlaceLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    region={entry.data.region}
+    country={entry.data.country}
+    faithTraditions={entry.data.faithTraditions}
+    placeType={entry.data.placeType}
+    hasExperienceSection={entry.data.hasExperienceSection}
+>
+    <Content />
+</PlaceLayout>
