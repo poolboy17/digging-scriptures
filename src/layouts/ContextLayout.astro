@@ -1,0 +1,100 @@
+---
+/**
+ * ================================================================================
+ * CONTEXT PAGE TEMPLATE
+ * ================================================================================
+ * Purpose: Historical and cultural background articles
+ * Word count target: 1000-2000 words
+ * 
+ * MONETIZATION: NEVER
+ * This is purely educational content. No exceptions.
+ * 
+ * This template is LOCKED. Do not modify section order without review.
+ * ================================================================================
+ */
+
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+    title: string;
+    description: string;
+    contextType: string;
+    faithTraditions?: string[];
+    regions?: string[];
+}
+
+const { 
+    title, 
+    description, 
+    contextType,
+    faithTraditions,
+    regions
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+    <article class="context-page">
+        
+        <!-- ================================================================== -->
+        <!-- SECTION 1: HEADER -->
+        <!-- Purpose: Page title and topic introduction -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <header class="context-header">
+            <h1>{title}</h1>
+            <p class="context-type">{contextType.replace('-', ' ')}</p>
+            <p class="context-description">{description}</p>
+        </header>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 2: MAIN CONTENT -->
+        <!-- Purpose: Educational background information -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- Content: Factual, balanced, non-doctrinal -->
+        <!-- ================================================================== -->
+        <section class="context-content">
+            {faithTraditions && faithTraditions.length > 0 && (
+                <p class="faith-traditions">
+                    Related traditions: {faithTraditions.join(', ')}
+                </p>
+            )}
+            {regions && regions.length > 0 && (
+                <p class="regions">
+                    Regions covered: {regions.join(', ')}
+                </p>
+            )}
+            <slot />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 3: KEY CONCEPTS -->
+        <!-- Purpose: Definitions and explanations -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="context-concepts">
+            <h2>Key Concepts</h2>
+            <slot name="concepts" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 4: FURTHER READING -->
+        <!-- Purpose: Academic and authoritative sources -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="context-sources">
+            <h2>Further Reading</h2>
+            <slot name="sources" />
+        </section>
+
+        <!-- ================================================================== -->
+        <!-- SECTION 5: RELATED CONTENT -->
+        <!-- Purpose: Internal linking to related pages -->
+        <!-- Monetization: FORBIDDEN -->
+        <!-- ================================================================== -->
+        <section class="context-related">
+            <h2>Related Content</h2>
+            <slot name="related" />
+        </section>
+
+    </article>
+</BaseLayout>
