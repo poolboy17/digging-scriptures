@@ -8,7 +8,8 @@
         "start": "astro dev",
         "build": "astro build",
         "preview": "astro preview",
-        "astro": "astro"
+        "astro": "astro",
+        "test:audit": "node tests/audit.mjs"
     },
     "dependencies": {
         "@astrojs/react": "^4.4.0",
@@ -20,6 +21,7 @@
         "tailwindcss": "^4.1.16"
     },
     "devDependencies": {
+        "shared-test-utils": "file:../shared-test-utils",
         "@types/node": "^20.12.7",
         "@types/react": "^19.2.2",
         "@types/react-dom": "^19.2.2"
