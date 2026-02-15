@@ -27,8 +27,8 @@ export default defineConfig({
         inlineStylesheets: 'auto'
     },
     
-    // Site configuration (update before deployment)
-    site: 'https://example.com',
+    // Site configuration
+    site: 'https://diggingscriptures.com',
     
     // Trailing slashes for clean URLs
     trailingSlash: 'never'
