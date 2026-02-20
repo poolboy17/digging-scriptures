@@ -10,6 +10,7 @@
 
 import { getCollection } from 'astro:content';
 import RouteLayout from '../../layouts/RouteLayout.astro';
+import { ROUTE_PRODUCTS } from '../../data/pilgrimage-products';
 
 export async function getStaticPaths() {
     const routes = await getCollection('routes', ({ data }) => !data.draft);
@@ -22,6 +23,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+const sidebarProducts = ROUTE_PRODUCTS[entry.slug] ?? [];
 ---
 
 <RouteLayout
@@ -34,6 +36,7 @@ const { Content } = await entry.render();
     faithTraditions={entry.data.faithTraditions}
     difficulty={entry.data.difficulty}
     hasModernSection={entry.data.hasModernSection}
+    sidebarProducts={sidebarProducts}
 >
     <Content />
 </RouteLayout>
