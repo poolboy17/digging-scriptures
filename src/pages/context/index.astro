@@ -23,7 +23,7 @@ const contextArticles = await getCollection('context', ({ data }) => !data.draft
 >
     <section class="mb-12">
         <h1 class="mb-4">Background and Context</h1>
-        <p class="text-lg text-gray-300 leading-relaxed">Historical and cultural background for understanding pilgrimage traditions.</p>
+        <p class="text-lg text-stone-300 leading-relaxed">Historical and cultural background for understanding pilgrimage traditions.</p>
     </section>
 
     {contextArticles.length > 0 ? (
@@ -31,12 +31,12 @@ const contextArticles = await getCollection('context', ({ data }) => !data.draft
             {contextArticles.map((article) => (
                 <li>
                     <a href={`/context/${article.slug}`} class="text-primary text-lg">{article.data.title}</a>
-                    <p class="text-gray-400 text-sm mt-1">{article.data.contextType.replace('-', ' ')}</p>
-                    <p class="text-gray-300 text-sm">{article.data.description}</p>
+                    <p class="text-stone-400 text-sm mt-1">{article.data.contextType.replace('-', ' ')}</p>
+                    <p class="text-stone-300 text-sm">{article.data.description}</p>
                 </li>
             ))}
         </ul>
     ) : (
-        <p class="text-gray-400 italic">Content coming soon. Check back for historical and cultural context on pilgrimage traditions.</p>
+        <p class="text-stone-400 italic">Content coming soon. Check back for historical and cultural context on pilgrimage traditions.</p>
     )}
 </BaseLayout>

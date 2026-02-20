@@ -29,8 +29,8 @@ const currentPath = Astro.url.pathname;
                             class:list={[
                                 "inline-block px-3 py-1.5 rounded-md text-sm font-medium transition-colors no-underline",
                                 currentPath === item.href || currentPath.startsWith(item.href + '/')
-                                    ? "bg-white/15 text-white"
-                                    : "text-gray-300 hover:text-white hover:bg-white/10"
+                                    ? "bg-white/10 text-primary"
+                                    : "text-stone-400 hover:text-white hover:bg-white/5"
                             ]}
                         >
                             {item.linkText}

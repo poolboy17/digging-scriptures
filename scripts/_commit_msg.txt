@@ -1,10 +1,7 @@
-fix: SEO audit fixes — sitemap, robots.txt, schema, breadcrumbs, nested main tags
+style: warm earth tone color scheme
 
-- Add @astrojs/sitemap integration for auto-generated sitemap-index.xml
-- Add public/robots.txt with sitemap reference
-- Add JSON-LD structured data (WebSite, BreadcrumbList, TouristDestination, Article, TouristTrip)
-- Add breadcrumb navigation to all pages via BaseLayout
-- Fix nested main tags on 5 index pages (places, journeys, routes, stories, context)
-- Add empty state handling for collection index pages with no published content
-- Fix duplicate title between homepage and journeys index
-- Link Netlify site to correct GitHub repo
+Replace steel blue/coral pink palette with warm earth tones:
+- Background: dark warm brown (#2c2218)
+- Primary: terracotta/sandy (#c8956c)
+- Accent: warm gold (#d4a259)
+- Text: stone grays instead of cool grays throughout

@@ -16,7 +16,7 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
 >
     <section class="mb-12">
         <h1 class="mb-4">Faith-Based Journeys and Pilgrimages</h1>
-        <p class="text-lg text-gray-300 leading-relaxed">
+        <p class="text-lg text-stone-300 leading-relaxed">
             A cultural, historical, and experiential guide to understanding pilgrimage 
             as a human practice across cultures and centuries.
         </p>
@@ -31,7 +31,7 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
                         <a href={`/journeys/${hub.slug}`} class="text-primary text-lg">
                             {hub.data.title}
                         </a>
-                        <p class="text-gray-400 text-sm mt-1">{hub.data.description}</p>
+                        <p class="text-stone-400 text-sm mt-1">{hub.data.description}</p>
                     </li>
                 ))}
             </ul>
@@ -47,7 +47,7 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
                         <a href={`/places/${place.slug}`} class="text-primary text-lg">
                             {place.data.title}
                         </a>
-                        <p class="text-gray-400 text-sm mt-1">{place.data.description}</p>
+                        <p class="text-stone-400 text-sm mt-1">{place.data.description}</p>
                     </li>
                 ))}
             </ul>
@@ -63,7 +63,7 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
                         <a href={`/routes/${route.slug}`} class="text-primary text-lg">
                             {route.data.title}
                         </a>
-                        <p class="text-gray-400 text-sm mt-1">{route.data.description}</p>
+                        <p class="text-stone-400 text-sm mt-1">{route.data.description}</p>
                     </li>
                 ))}
             </ul>
@@ -79,7 +79,7 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
                         <a href={`/stories/${story.slug}`} class="text-primary text-lg">
                             {story.data.title}
                         </a>
-                        <p class="text-gray-400 text-sm mt-1">{story.data.description}</p>
+                        <p class="text-stone-400 text-sm mt-1">{story.data.description}</p>
                     </li>
                 ))}
             </ul>

@@ -90,7 +90,7 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
             <div class="flex flex-col w-full max-w-5xl mx-auto grow">
                 <Header />
                 {breadcrumbs && breadcrumbs.length > 0 && (
-                    <nav aria-label="Breadcrumb" class="text-sm text-gray-400 py-3">
+                    <nav aria-label="Breadcrumb" class="text-sm text-stone-400 py-3">
                         <ol class="flex flex-wrap gap-1 items-center">
                             {breadcrumbs.map((crumb, i) => (
                                 <li class="flex items-center gap-1">
@@ -98,7 +98,7 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
                                     {i < breadcrumbs.length - 1 ? (
                                         <a href={crumb.url} class="hover:text-primary transition-colors">{crumb.name}</a>
                                     ) : (
-                                        <span class="text-gray-300" aria-current="page">{crumb.name}</span>
+                                        <span class="text-stone-300" aria-current="page">{crumb.name}</span>
                                     )}
                                 </li>
                             ))}
