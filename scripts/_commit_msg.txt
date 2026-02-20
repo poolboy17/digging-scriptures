@@ -1,7 +1,7 @@
-style: warm earth tone color scheme
+Switch to Desert Rose theme — soft elegant light background
 
-Replace steel blue/coral pink palette with warm earth tones:
-- Background: dark warm brown (#2c2218)
-- Primary: terracotta/sandy (#c8956c)
-- Accent: warm gold (#d4a259)
-- Text: stone grays instead of cool grays throughout
+Replace custom Sacred Manuscript theme with pre-built Desert Rose palette.
+Dusty rose primary, clay accent, sand backgrounds, deep burgundy text.
+All components use semantic color tokens for consistent theming.
+
+Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>

@@ -23,7 +23,7 @@ const hubs = await getCollection('hubs', ({ data }) => !data.draft);
 >
     <section class="mb-12">
         <h1 class="mb-4">Journeys</h1>
-        <p class="text-lg text-gray-300 leading-relaxed">Explore pilgrimage traditions and sacred journeys across world cultures.</p>
+        <p class="text-lg text-text-muted leading-relaxed">Explore pilgrimage traditions and sacred journeys across world cultures.</p>
     </section>
 
     {hubs.length > 0 ? (
@@ -31,11 +31,11 @@ const hubs = await getCollection('hubs', ({ data }) => !data.draft);
             {hubs.map((hub) => (
                 <li>
                     <a href={`/journeys/${hub.slug}`} class="text-primary text-lg">{hub.data.title}</a>
-                    <p class="text-gray-300 text-sm mt-1">{hub.data.description}</p>
+                    <p class="text-text-light text-sm mt-1">{hub.data.description}</p>
                 </li>
             ))}
         </ul>
     ) : (
-        <p class="text-gray-400 italic">Content coming soon. Check back for pilgrimage journeys across world cultures.</p>
+        <p class="text-text-light italic">Content coming soon. Check back for pilgrimage journeys across world cultures.</p>
     )}
 </BaseLayout>
