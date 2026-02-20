@@ -1,12 +1,7 @@
 ---
 /**
- * ================================================================================
  * CONTEXT INDEX: /context
- * ================================================================================
- * Lists all context pages
- * ================================================================================
  */
-
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
@@ -21,22 +16,29 @@ const contextArticles = await getCollection('context', ({ data }) => !data.draft
         { name: 'Context', url: '/context' }
     ]}
 >
-    <section class="mb-12">
+    <section class="py-8 mb-10 border-b border-accent/30">
         <h1 class="mb-4">Background and Context</h1>
-        <p class="text-lg text-text-muted leading-relaxed">Historical and cultural background for understanding pilgrimage traditions.</p>
+        <p class="text-lg text-text-muted leading-relaxed max-w-2xl">Historical and cultural background for understanding pilgrimage traditions.</p>
     </section>
 
     {contextArticles.length > 0 ? (
-        <ul class="space-y-4">
+        <div class="grid gap-4 sm:grid-cols-2">
             {contextArticles.map((article) => (
-                <li>
-                    <a href={`/context/${article.slug}`} class="text-primary text-lg">{article.data.title}</a>
-                    <p class="text-text-light text-sm mt-1">{article.data.contextType.replace('-', ' ')}</p>
-                    <p class="text-text-muted text-sm">{article.data.description}</p>
-                </li>
+                <a href={`/context/${article.slug}`}
+                   class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
+                    <span class="inline-block text-xs text-accent font-medium uppercase tracking-wider mb-2">
+                        {article.data.contextType.replace('-', ' ')}
+                    </span>
+                    <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
+                        {article.data.title}
+                    </h3>
+                    <p class="text-sm text-text-muted leading-relaxed">{article.data.description}</p>
+                </a>
             ))}
-        </ul>
+        </div>
     ) : (
-        <p class="text-text-light italic">Content coming soon. Check back for historical and cultural context on pilgrimage traditions.</p>
+        <div class="p-8 rounded-xl bg-surface/40 border border-accent/20 text-center">
+            <p class="text-text-muted italic">Content coming soon. Check back for historical and cultural context on pilgrimage traditions.</p>
+        </div>
     )}
 </BaseLayout>

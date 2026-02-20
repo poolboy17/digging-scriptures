@@ -1,7 +1,8 @@
-Switch to Desert Rose theme — soft elegant light background
+Redesign all pages with card-based layout and visual hierarchy
 
-Replace custom Sacred Manuscript theme with pre-built Desert Rose palette.
-Dusty rose primary, clay accent, sand backgrounds, deep burgundy text.
-All components use semantic color tokens for consistent theming.
+Replace plain text lists with styled card grids featuring rounded borders,
+hover effects, and proper visual sections. Add hero sections with accent
+dividers, top border accent bar, and empty state cards. Desert Rose theme
+now visible through surface backgrounds, borders, and interactive states.
 
 Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>

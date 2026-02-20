@@ -1,12 +1,7 @@
 ---
 /**
- * ================================================================================
  * JOURNEYS INDEX: /journeys
- * ================================================================================
- * Lists all hub pages
- * ================================================================================
  */
-
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
@@ -21,21 +16,26 @@ const hubs = await getCollection('hubs', ({ data }) => !data.draft);
         { name: 'Journeys', url: '/journeys' }
     ]}
 >
-    <section class="mb-12">
+    <section class="py-8 mb-10 border-b border-accent/30">
         <h1 class="mb-4">Journeys</h1>
-        <p class="text-lg text-text-muted leading-relaxed">Explore pilgrimage traditions and sacred journeys across world cultures.</p>
+        <p class="text-lg text-text-muted leading-relaxed max-w-2xl">Explore pilgrimage traditions and sacred journeys across world cultures.</p>
     </section>
 
     {hubs.length > 0 ? (
-        <ul class="space-y-4">
+        <div class="grid gap-4 sm:grid-cols-2">
             {hubs.map((hub) => (
-                <li>
-                    <a href={`/journeys/${hub.slug}`} class="text-primary text-lg">{hub.data.title}</a>
-                    <p class="text-text-light text-sm mt-1">{hub.data.description}</p>
-                </li>
+                <a href={`/journeys/${hub.slug}`}
+                   class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
+                    <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
+                        {hub.data.title}
+                    </h3>
+                    <p class="text-sm text-text-muted leading-relaxed">{hub.data.description}</p>
+                </a>
             ))}
-        </ul>
+        </div>
     ) : (
-        <p class="text-text-light italic">Content coming soon. Check back for pilgrimage journeys across world cultures.</p>
+        <div class="p-8 rounded-xl bg-surface/40 border border-accent/20 text-center">
+            <p class="text-text-muted italic">Content coming soon. Check back for pilgrimage journeys across world cultures.</p>
+        </div>
     )}
 </BaseLayout>

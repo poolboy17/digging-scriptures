@@ -1,12 +1,7 @@
 ---
 /**
- * ================================================================================
  * PLACES INDEX: /places
- * ================================================================================
- * Lists all place pages
- * ================================================================================
  */
-
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
@@ -21,22 +16,31 @@ const places = await getCollection('places', ({ data }) => !data.draft);
         { name: 'Sacred Places', url: '/places' }
     ]}
 >
-    <section class="mb-12">
+    <section class="py-8 mb-10 border-b border-accent/30">
         <h1 class="mb-4">Sacred Places</h1>
-        <p class="text-lg text-text-muted leading-relaxed">Discover sacred sites and pilgrimage destinations around the world.</p>
+        <p class="text-lg text-text-muted leading-relaxed max-w-2xl">Discover sacred sites and pilgrimage destinations around the world.</p>
     </section>
 
     {places.length > 0 ? (
-        <ul class="space-y-4">
+        <div class="grid gap-4 sm:grid-cols-2">
             {places.map((place) => (
-                <li>
-                    <a href={`/places/${place.slug}`} class="text-primary text-lg">{place.data.title}</a>
-                    <p class="text-text-light text-sm mt-1">{place.data.region}, {place.data.country}</p>
-                    <p class="text-text-light text-sm">{place.data.description}</p>
-                </li>
+                <a href={`/places/${place.slug}`}
+                   class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
+                    <div class="flex items-center gap-2 text-xs text-text-light mb-2">
+                        <span>{place.data.region}</span>
+                        <span>·</span>
+                        <span>{place.data.country}</span>
+                    </div>
+                    <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
+                        {place.data.title}
+                    </h3>
+                    <p class="text-sm text-text-muted leading-relaxed">{place.data.description}</p>
+                </a>
             ))}
-        </ul>
+        </div>
     ) : (
-        <p class="text-text-light italic">Content coming soon. Check back for sacred places from around the world.</p>
+        <div class="p-8 rounded-xl bg-surface/40 border border-accent/20 text-center">
+            <p class="text-text-muted italic">Content coming soon. Check back for sacred places from around the world.</p>
+        </div>
     )}
 </BaseLayout>

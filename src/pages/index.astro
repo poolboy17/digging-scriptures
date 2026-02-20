@@ -2,7 +2,6 @@
 import { getCollection, getEntry } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-// Get homepage content
 const homepage = await getEntry('homepage', 'homepage');
 const hubs = await getCollection('hubs', ({ data }) => !data.draft);
 const places = await getCollection('places', ({ data }) => !data.draft);
@@ -14,75 +13,96 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
     title="Digging Scriptures — Sacred Places, Pilgrimages, and Faith-Based Travel" 
     description="A cultural, historical, and experiential guide to pilgrimage traditions, sacred places, and faith-based travel."
 >
-    <section class="mb-12">
-        <h1 class="mb-4">Faith-Based Journeys and Pilgrimages</h1>
-        <p class="text-lg text-text-muted leading-relaxed">
+    <!-- Hero -->
+    <section class="py-12 sm:py-16 mb-12 border-b border-accent/30">
+        <h1 class="mb-6 text-text-dark">Faith-Based Journeys<br class="hidden sm:block" /> and Pilgrimages</h1>
+        <p class="text-lg sm:text-xl text-text-muted leading-relaxed max-w-2xl">
             A cultural, historical, and experiential guide to understanding pilgrimage 
             as a human practice across cultures and centuries.
         </p>
     </section>
 
+    {/* Journeys */}
     {hubs.length > 0 && (
-        <section class="mb-10">
-            <h2 class="mb-4">Explore Journeys</h2>
-            <ul class="space-y-3">
+        <section class="mb-14">
+            <div class="flex items-center gap-3 mb-6">
+                <span class="text-2xl">✦</span>
+                <h2 class="text-text-dark">Explore Journeys</h2>
+            </div>
+            <div class="grid gap-4 sm:grid-cols-2">
                 {hubs.map((hub) => (
-                    <li>
-                        <a href={`/journeys/${hub.slug}`} class="text-primary text-lg">
+                    <a href={`/journeys/${hub.slug}`} 
+                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
+                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
                             {hub.data.title}
-                        </a>
-                        <p class="text-text-light text-sm mt-1">{hub.data.description}</p>
-                    </li>
+                        </h3>
+                        <p class="text-sm text-text-muted leading-relaxed">{hub.data.description}</p>
+                    </a>
                 ))}
-            </ul>
+            </div>
         </section>
     )}
 
+    {/* Places */}
     {places.length > 0 && (
-        <section class="mb-10">
-            <h2 class="mb-4">Sacred Places</h2>
-            <ul class="space-y-3">
+        <section class="mb-14">
+            <div class="flex items-center gap-3 mb-6">
+                <span class="text-2xl">◆</span>
+                <h2 class="text-text-dark">Sacred Places</h2>
+            </div>
+            <div class="grid gap-4 sm:grid-cols-2">
                 {places.map((place) => (
-                    <li>
-                        <a href={`/places/${place.slug}`} class="text-primary text-lg">
+                    <a href={`/places/${place.slug}`} 
+                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
+                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
                             {place.data.title}
-                        </a>
-                        <p class="text-text-light text-sm mt-1">{place.data.description}</p>
-                    </li>
+                        </h3>
+                        <p class="text-sm text-text-muted leading-relaxed">{place.data.description}</p>
+                    </a>
                 ))}
-            </ul>
+            </div>
         </section>
     )}
 
+    {/* Routes */}
     {routes.length > 0 && (
-        <section class="mb-10">
-            <h2 class="mb-4">Pilgrimage Routes</h2>
-            <ul class="space-y-3">
+        <section class="mb-14">
+            <div class="flex items-center gap-3 mb-6">
+                <span class="text-2xl">⬥</span>
+                <h2 class="text-text-dark">Pilgrimage Routes</h2>
+            </div>
+            <div class="grid gap-4 sm:grid-cols-2">
                 {routes.map((route) => (
-                    <li>
-                        <a href={`/routes/${route.slug}`} class="text-primary text-lg">
+                    <a href={`/routes/${route.slug}`} 
+                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
+                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
                             {route.data.title}
-                        </a>
-                        <p class="text-text-light text-sm mt-1">{route.data.description}</p>
-                    </li>
+                        </h3>
+                        <p class="text-sm text-text-muted leading-relaxed">{route.data.description}</p>
+                    </a>
                 ))}
-            </ul>
+            </div>
         </section>
     )}
 
+    {/* Stories */}
     {stories.length > 0 && (
-        <section class="mb-10">
-            <h2 class="mb-4">Stories &amp; Traditions</h2>
-            <ul class="space-y-3">
+        <section class="mb-14">
+            <div class="flex items-center gap-3 mb-6">
+                <span class="text-2xl">❖</span>
+                <h2 class="text-text-dark">Stories & Traditions</h2>
+            </div>
+            <div class="grid gap-4 sm:grid-cols-2">
                 {stories.map((story) => (
-                    <li>
-                        <a href={`/stories/${story.slug}`} class="text-primary text-lg">
+                    <a href={`/stories/${story.slug}`} 
+                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
+                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
                             {story.data.title}
-                        </a>
-                        <p class="text-text-light text-sm mt-1">{story.data.description}</p>
-                    </li>
+                        </h3>
+                        <p class="text-sm text-text-muted leading-relaxed">{story.data.description}</p>
+                    </a>
                 ))}
-            </ul>
+            </div>
         </section>
     )}
 </BaseLayout>
