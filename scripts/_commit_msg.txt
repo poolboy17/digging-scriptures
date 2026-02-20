@@ -1,0 +1,10 @@
+fix: SEO audit fixes — sitemap, robots.txt, schema, breadcrumbs, nested main tags
+
+- Add @astrojs/sitemap integration for auto-generated sitemap-index.xml
+- Add public/robots.txt with sitemap reference
+- Add JSON-LD structured data (WebSite, BreadcrumbList, TouristDestination, Article, TouristTrip)
+- Add breadcrumb navigation to all pages via BaseLayout
+- Fix nested main tags on 5 index pages (places, journeys, routes, stories, context)
+- Add empty state handling for collection index pages with no published content
+- Fix duplicate title between homepage and journeys index
+- Link Netlify site to correct GitHub repo

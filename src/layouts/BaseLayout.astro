@@ -21,12 +21,35 @@ import Footer from '../components/Footer.astro';
 interface Props {
     title: string;
     description: string;
+    schema?: Record<string, any>;
+    breadcrumbs?: { name: string; url: string }[];
 }
 
-const { title, description } = Astro.props;
+const { title, description, schema, breadcrumbs } = Astro.props;
 const siteUrl = 'https://diggingscriptures.com';
 const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
 const ogImage = `${siteUrl}/images/og-default.jpg`;
+
+// Build WebSite schema (global on every page)
+const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Digging Scriptures",
+    "url": siteUrl,
+    "description": "A cultural, historical, and experiential guide to pilgrimage traditions, sacred places, and faith-based travel."
+};
+
+// Build BreadcrumbList schema if breadcrumbs provided
+const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": breadcrumbs.map((crumb, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "name": crumb.name,
+        "item": crumb.url.startsWith('http') ? crumb.url : `${siteUrl}${crumb.url}`
+    }))
+} : null;
 ---
 
 <!doctype html>
@@ -56,11 +79,32 @@ const ogImage = `${siteUrl}/images/og-default.jpg`;
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={ogImage} />
+
+        <!-- JSON-LD Structured Data -->
+        <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+        {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+        {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     </head>
     <body class="antialiased text-white bg-complementary">
         <div class="flex flex-col min-h-screen px-6 sm:px-12">
             <div class="flex flex-col w-full max-w-5xl mx-auto grow">
                 <Header />
+                {breadcrumbs && breadcrumbs.length > 0 && (
+                    <nav aria-label="Breadcrumb" class="text-sm text-gray-400 py-3">
+                        <ol class="flex flex-wrap gap-1 items-center">
+                            {breadcrumbs.map((crumb, i) => (
+                                <li class="flex items-center gap-1">
+                                    {i > 0 && <span aria-hidden="true">/</span>}
+                                    {i < breadcrumbs.length - 1 ? (
+                                        <a href={crumb.url} class="hover:text-primary transition-colors">{crumb.name}</a>
+                                    ) : (
+                                        <span class="text-gray-300" aria-current="page">{crumb.name}</span>
+                                    )}
+                                </li>
+                            ))}
+                        </ol>
+                    </nav>
+                )}
                 <main class="grow"><slot /></main>
                 <Footer />
             </div>

@@ -58,7 +58,23 @@ const {
 const hasSidebar = sidebarProducts.length > 0;
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout 
+    title={title} 
+    description={description}
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Routes', url: '/routes' },
+        { name: title, url: Astro.url.pathname }
+    ]}
+    schema={{
+        "@context": "https://schema.org",
+        "@type": "TouristTrip",
+        "name": title,
+        "description": description,
+        "url": `https://diggingscriptures.com${Astro.url.pathname}`,
+        "touristType": "Pilgrim"
+    }}
+>
     <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
     <article class:list={["route-page", hasSidebar ? "lg:w-2/3" : "w-full"]}>
         

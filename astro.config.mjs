@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
+import sitemap from '@astrojs/sitemap';
 
 // ================================================================================
 // ASTRO CONFIGURATION — PILGRIMAGE SITE
@@ -18,8 +19,8 @@ export default defineConfig({
         plugins: [tailwindcss()]
     },
     
-    // Integrations - React for interactive components only
-    integrations: [react()],
+    // Integrations
+    integrations: [react(), sitemap()],
     
     // Build configuration
     build: {

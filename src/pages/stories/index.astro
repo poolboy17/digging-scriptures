@@ -16,19 +16,27 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
 <BaseLayout 
     title="Stories and Traditions" 
     description="Discover the people, traditions, and cultural narratives behind pilgrimage traditions."
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Stories', url: '/stories' }
+    ]}
 >
-    <main>
-        <h1>Stories and Traditions</h1>
-        <p>Discover the people, traditions, and cultural narratives behind pilgrimage.</p>
-        
-        <ul>
+    <section class="mb-12">
+        <h1 class="mb-4">Stories and Traditions</h1>
+        <p class="text-lg text-gray-300 leading-relaxed">Discover the people, traditions, and cultural narratives behind pilgrimage.</p>
+    </section>
+
+    {stories.length > 0 ? (
+        <ul class="space-y-4">
             {stories.map((story) => (
                 <li>
-                    <a href={`/stories/${story.slug}`}>{story.data.title}</a>
-                    <p>{story.data.storyType.replace('-', ' ')}</p>
-                    <p>{story.data.description}</p>
+                    <a href={`/stories/${story.slug}`} class="text-primary text-lg">{story.data.title}</a>
+                    <p class="text-gray-400 text-sm mt-1">{story.data.storyType.replace('-', ' ')}</p>
+                    <p class="text-gray-300 text-sm">{story.data.description}</p>
                 </li>
             ))}
         </ul>
-    </main>
+    ) : (
+        <p class="text-gray-400 italic">Content coming soon. Check back for stories and traditions from pilgrimage cultures.</p>
+    )}
 </BaseLayout>

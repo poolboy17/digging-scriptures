@@ -16,22 +16,30 @@ const routes = await getCollection('routes', ({ data }) => !data.draft);
 <BaseLayout 
     title="Pilgrimage Routes" 
     description="Explore historic pilgrimage routes and paths traveled by pilgrims across centuries."
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Pilgrimage Routes', url: '/routes' }
+    ]}
 >
-    <main>
-        <h1>Pilgrimage Routes</h1>
-        <p>Explore historic pilgrimage routes traveled across centuries.</p>
-        
-        <ul>
+    <section class="mb-12">
+        <h1 class="mb-4">Pilgrimage Routes</h1>
+        <p class="text-lg text-gray-300 leading-relaxed">Explore historic pilgrimage routes traveled across centuries.</p>
+    </section>
+
+    {routes.length > 0 ? (
+        <ul class="space-y-4">
             {routes.map((route) => (
                 <li>
-                    <a href={`/routes/${route.slug}`}>{route.data.title}</a>
-                    <p>{route.data.region} · {route.data.countries.join(', ')}</p>
+                    <a href={`/routes/${route.slug}`} class="text-primary text-lg">{route.data.title}</a>
+                    <p class="text-gray-400 text-sm mt-1">{route.data.region} · {route.data.countries.join(', ')}</p>
                     {route.data.distanceKm && (
-                        <p>{route.data.distanceKm} km</p>
+                        <p class="text-gray-400 text-sm">{route.data.distanceKm} km</p>
                     )}
-                    <p>{route.data.description}</p>
+                    <p class="text-gray-300 text-sm">{route.data.description}</p>
                 </li>
             ))}
         </ul>
-    </main>
+    ) : (
+        <p class="text-gray-400 italic">Content coming soon. Check back for historic pilgrimage routes.</p>
+    )}
 </BaseLayout>

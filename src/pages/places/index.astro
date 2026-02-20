@@ -16,19 +16,27 @@ const places = await getCollection('places', ({ data }) => !data.draft);
 <BaseLayout 
     title="Sacred Places" 
     description="Discover sacred sites, shrines, temples, and pilgrimage destinations around the world."
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Sacred Places', url: '/places' }
+    ]}
 >
-    <main>
-        <h1>Sacred Places</h1>
-        <p>Discover sacred sites and pilgrimage destinations around the world.</p>
-        
-        <ul>
+    <section class="mb-12">
+        <h1 class="mb-4">Sacred Places</h1>
+        <p class="text-lg text-gray-300 leading-relaxed">Discover sacred sites and pilgrimage destinations around the world.</p>
+    </section>
+
+    {places.length > 0 ? (
+        <ul class="space-y-4">
             {places.map((place) => (
                 <li>
-                    <a href={`/places/${place.slug}`}>{place.data.title}</a>
-                    <p>{place.data.region}, {place.data.country}</p>
-                    <p>{place.data.description}</p>
+                    <a href={`/places/${place.slug}`} class="text-primary text-lg">{place.data.title}</a>
+                    <p class="text-gray-400 text-sm mt-1">{place.data.region}, {place.data.country}</p>
+                    <p class="text-gray-300 text-sm">{place.data.description}</p>
                 </li>
             ))}
         </ul>
-    </main>
+    ) : (
+        <p class="text-gray-400 italic">Content coming soon. Check back for sacred places from around the world.</p>
+    )}
 </BaseLayout>

@@ -37,7 +37,26 @@ const allRoutes = relatedRoutes ? await getCollection('routes', ({ data }) =>
 ) : [];
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout 
+    title={title} 
+    description={description}
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Journeys', url: '/journeys' },
+        { name: title, url: Astro.url.pathname }
+    ]}
+    schema={{
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": title,
+        "description": description,
+        "url": `https://diggingscriptures.com${Astro.url.pathname}`,
+        "publisher": {
+            "@type": "Organization",
+            "name": "Digging Scriptures"
+        }
+    }}
+>
     <article class="hub-page">
         
         <!-- ================================================================== -->
