@@ -15,6 +15,19 @@
  */
 
 import BaseLayout from './BaseLayout.astro';
+import PilgrimageSidebar from '../components/PilgrimageSidebar.astro';
+
+interface SidebarProduct {
+    title: string;
+    url: string;
+    image?: string;
+    tier: 'hero' | 'value' | 'premium';
+    price?: string;
+    rating?: number;
+    reviews?: number;
+    label?: string;
+    duration?: string;
+}
 
 interface Props {
     title: string;
@@ -26,6 +39,7 @@ interface Props {
     faithTraditions?: string[];
     difficulty?: string;
     hasModernSection?: boolean;
+    sidebarProducts?: SidebarProduct[];
 }
 
 const { 
@@ -37,12 +51,16 @@ const {
     typicalDurationDays,
     faithTraditions, 
     difficulty,
-    hasModernSection = false 
+    hasModernSection = false,
+    sidebarProducts = []
 } = Astro.props;
+
+const hasSidebar = sidebarProducts.length > 0;
 ---
 
 <BaseLayout title={title} description={description}>
-    <article class="route-page">
+    <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
+    <article class:list={["route-page", hasSidebar ? "lg:w-2/3" : "w-full"]}>
         
         <!-- ================================================================== -->
         <!-- SECTION 1: HEADER -->
@@ -159,4 +177,9 @@ const {
         </section>
 
     </article>
+
+    {hasSidebar && (
+        <PilgrimageSidebar products={sidebarProducts} heading="Plan Your Journey" />
+    )}
+    </div>
 </BaseLayout>

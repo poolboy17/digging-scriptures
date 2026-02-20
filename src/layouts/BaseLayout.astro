@@ -3,11 +3,20 @@
  * ================================================================================
  * BASE LAYOUT — PILGRIMAGE SITE
  * ================================================================================
- * This is the root layout for all pages.
- * Styling is inherited from the starter template.
- * Do NOT modify styling without architectural review.
+ * Root layout for ALL content pages. Provides:
+ * - Global styles + Inter font
+ * - Header navigation
+ * - Footer
+ * - OG / Twitter meta
+ * - Canonical URL
  * ================================================================================
  */
+
+import '../styles/globals.css';
+import '@fontsource-variable/inter/wght.css';
+import interWoff2 from '@fontsource-variable/inter/files/inter-latin-wght-normal.woff2?url';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
 
 interface Props {
     title: string;
@@ -30,6 +39,7 @@ const ogImage = `${siteUrl}/images/og-default.jpg`;
         <link rel="canonical" href={canonicalUrl} />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="sitemap" href="/sitemap-index.xml" />
+        <link rel="preload" as="font" type="font/woff2" href={interWoff2} crossorigin />
 
         <!-- Open Graph -->
         <meta property="og:title" content={title} />
@@ -47,7 +57,13 @@ const ogImage = `${siteUrl}/images/og-default.jpg`;
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={ogImage} />
     </head>
-    <body>
-        <slot />
+    <body class="antialiased text-white bg-complementary">
+        <div class="flex flex-col min-h-screen px-6 sm:px-12">
+            <div class="flex flex-col w-full max-w-5xl mx-auto grow">
+                <Header />
+                <main class="grow"><slot /></main>
+                <Footer />
+            </div>
+        </div>
     </body>
 </html>

@@ -7,68 +7,82 @@ const homepage = await getEntry('homepage', 'homepage');
 const hubs = await getCollection('hubs', ({ data }) => !data.draft);
 const places = await getCollection('places', ({ data }) => !data.draft);
 const routes = await getCollection('routes', ({ data }) => !data.draft);
+const stories = await getCollection('stories', ({ data }) => !data.draft);
 ---
 
 <BaseLayout 
     title="Faith-Based Journeys and Pilgrimages" 
     description="A cultural, historical, and experiential guide to pilgrimage traditions, sacred places, and faith-based travel."
 >
-    <main class="max-w-4xl mx-auto px-4 py-12">
-        <h1 class="text-4xl font-bold mb-8">Faith-Based Journeys and Pilgrimages</h1>
-        
-        <section class="mb-12">
-            <p class="text-xl text-gray-600 mb-6">
-                A cultural, historical, and experiential guide to understanding pilgrimage 
-                as a human practice across cultures and centuries.
-            </p>
+    <section class="mb-12">
+        <h1 class="mb-4">Faith-Based Journeys and Pilgrimages</h1>
+        <p class="text-lg text-gray-300 leading-relaxed">
+            A cultural, historical, and experiential guide to understanding pilgrimage 
+            as a human practice across cultures and centuries.
+        </p>
+    </section>
+
+    {hubs.length > 0 && (
+        <section class="mb-10">
+            <h2 class="mb-4">Explore Journeys</h2>
+            <ul class="space-y-3">
+                {hubs.map((hub) => (
+                    <li>
+                        <a href={`/journeys/${hub.slug}`} class="text-primary text-lg">
+                            {hub.data.title}
+                        </a>
+                        <p class="text-gray-400 text-sm mt-1">{hub.data.description}</p>
+                    </li>
+                ))}
+            </ul>
         </section>
+    )}
 
-        {hubs.length > 0 && (
-            <section class="mb-12">
-                <h2 class="text-2xl font-semibold mb-4">Explore Journeys</h2>
-                <ul class="space-y-3">
-                    {hubs.map((hub) => (
-                        <li>
-                            <a href={`/journeys/${hub.slug}`} class="text-blue-600 hover:underline text-lg">
-                                {hub.data.title}
-                            </a>
-                            <p class="text-gray-500 text-sm">{hub.data.description}</p>
-                        </li>
-                    ))}
-                </ul>
-            </section>
-        )}
+    {places.length > 0 && (
+        <section class="mb-10">
+            <h2 class="mb-4">Sacred Places</h2>
+            <ul class="space-y-3">
+                {places.map((place) => (
+                    <li>
+                        <a href={`/places/${place.slug}`} class="text-primary text-lg">
+                            {place.data.title}
+                        </a>
+                        <p class="text-gray-400 text-sm mt-1">{place.data.description}</p>
+                    </li>
+                ))}
+            </ul>
+        </section>
+    )}
 
-        {places.length > 0 && (
-            <section class="mb-12">
-                <h2 class="text-2xl font-semibold mb-4">Sacred Places</h2>
-                <ul class="space-y-3">
-                    {places.map((place) => (
-                        <li>
-                            <a href={`/places/${place.slug}`} class="text-blue-600 hover:underline text-lg">
-                                {place.data.title}
-                            </a>
-                            <p class="text-gray-500 text-sm">{place.data.description}</p>
-                        </li>
-                    ))}
-                </ul>
-            </section>
-        )}
+    {routes.length > 0 && (
+        <section class="mb-10">
+            <h2 class="mb-4">Pilgrimage Routes</h2>
+            <ul class="space-y-3">
+                {routes.map((route) => (
+                    <li>
+                        <a href={`/routes/${route.slug}`} class="text-primary text-lg">
+                            {route.data.title}
+                        </a>
+                        <p class="text-gray-400 text-sm mt-1">{route.data.description}</p>
+                    </li>
+                ))}
+            </ul>
+        </section>
+    )}
 
-        {routes.length > 0 && (
-            <section class="mb-12">
-                <h2 class="text-2xl font-semibold mb-4">Pilgrimage Routes</h2>
-                <ul class="space-y-3">
-                    {routes.map((route) => (
-                        <li>
-                            <a href={`/routes/${route.slug}`} class="text-blue-600 hover:underline text-lg">
-                                {route.data.title}
-                            </a>
-                            <p class="text-gray-500 text-sm">{route.data.description}</p>
-                        </li>
-                    ))}
-                </ul>
-            </section>
-        )}
-    </main>
+    {stories.length > 0 && (
+        <section class="mb-10">
+            <h2 class="mb-4">Stories &amp; Traditions</h2>
+            <ul class="space-y-3">
+                {stories.map((story) => (
+                    <li>
+                        <a href={`/stories/${story.slug}`} class="text-primary text-lg">
+                            {story.data.title}
+                        </a>
+                        <p class="text-gray-400 text-sm mt-1">{story.data.description}</p>
+                    </li>
+                ))}
+            </ul>
+        </section>
+    )}
 </BaseLayout>
