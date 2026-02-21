@@ -74,110 +74,67 @@ const hasSidebar = sidebarProducts.length > 0;
         }
     }}
 >
-    <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
-    <article class:list={["place-page", hasSidebar ? "lg:w-2/3" : "w-full"]}>
+    <article class="section">
+        <div class="container">
+
+        <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
+        <div class:list={[hasSidebar ? "lg:w-2/3" : "w-full"]}>
 
         
-        <!-- ================================================================== -->
-        <!-- SECTION 1: HEADER -->
-        <!-- Purpose: Page title and location context -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <header class="place-header">
-            <h1>{title}</h1>
-            <p class="place-location">{region}, {country}</p>
-            <p class="place-description">{description}</p>
-        </header>
+            <!-- SECTION 1: HEADER -->
+            <header class="mb-10">
+                <div class="card-meta mb-4">
+                    <span class="badge">{placeType || 'Sacred Place'}</span>
+                    <span>{region}, {country}</span>
+                </div>
+                <h1 class="mb-4">{title}</h1>
+                <p class="text-lg text-text-muted leading-relaxed">{description}</p>
+            </header>
 
-        <!-- ================================================================== -->
-        <!-- SECTION 2: HISTORICAL SIGNIFICANCE -->
-        <!-- Purpose: Historical background and importance -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- Content: Factual, descriptive, non-doctrinal -->
-        <!-- ================================================================== -->
-        <section class="place-history">
-            <h2>Historical Significance</h2>
-            <slot name="history" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 3: CULTURAL CONTEXT -->
-        <!-- Purpose: Cultural and religious context -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- Content: Descriptive, respectful, non-prescriptive -->
-        <!-- ================================================================== -->
-        <section class="place-culture">
-            <h2>Cultural and Spiritual Context</h2>
-            {faithTraditions && faithTraditions.length > 0 && (
-                <p class="faith-traditions">
-                    Associated traditions: {faithTraditions.join(', ')}
-                </p>
-            )}
-            <slot name="culture" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 4: ARCHITECTURAL / NATURAL FEATURES -->
-        <!-- Purpose: Physical description of the place -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="place-features">
-            <h2>Notable Features</h2>
-            <slot name="features" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 5: EXPERIENCING THIS PLACE TODAY -->
-        <!-- Purpose: Practical information for visitors -->
-        <!-- Monetization: ALLOWED -->
-        <!-- ================================================================== -->
-        <!-- 
-        ╔══════════════════════════════════════════════════════════════════════╗
-        ║  MONETIZATION ZONE — START                                           ║
-        ║  Affiliate links, tour recommendations, and contextual ads           ║
-        ║  are PERMITTED in this section ONLY                                  ║
-        ╚══════════════════════════════════════════════════════════════════════╝
-        -->
-        {hasExperienceSection && (
-            <section class="place-experience">
-                <h2>Experiencing This Place Today</h2>
-                <slot name="experience" />
-                <!-- 
-                    ALLOWED CONTENT:
-                    - Tour operator recommendations (affiliate OK)
-                    - Accommodation suggestions (affiliate OK)
-                    - Transportation information
-                    - Visitor guidelines
-                    - Best times to visit
-                    
-                    FORBIDDEN CONTENT:
-                    - Hard-sell CTAs
-                    - Pop-ups or interstitials
-                    - Misleading claims
-                    - Content that violates YMYL guidelines
-                -->
+            <!-- SECTION 2: HISTORICAL SIGNIFICANCE -->
+            <section class="content mb-10">
+                <h2>Historical Significance</h2>
+                <slot name="history" />
             </section>
+
+            <!-- SECTION 3: CULTURAL CONTEXT -->
+            <section class="content mb-10 pt-8 border-t border-border">
+                <h2>Cultural and Spiritual Context</h2>
+                {faithTraditions && faithTraditions.length > 0 && (
+                    <p class="text-sm text-text-muted italic mb-4">
+                        Associated traditions: {faithTraditions.join(', ')}
+                    </p>
+                )}
+                <slot name="culture" />
+            </section>
+
+            <!-- SECTION 4: NOTABLE FEATURES -->
+            <section class="content mb-10 pt-8 border-t border-border">
+                <h2>Notable Features</h2>
+                <slot name="features" />
+            </section>
+
+            <!-- SECTION 5: EXPERIENCING THIS PLACE TODAY (MONETIZATION ALLOWED) -->
+            {hasExperienceSection && (
+                <section class="content mb-10 pt-8 border-t border-border">
+                    <h2>Experiencing This Place Today</h2>
+                    <slot name="experience" />
+                </section>
+            )}
+
+            <!-- SECTION 6: RELATED CONTENT -->
+            <section class="mt-12 pt-8 border-t border-border">
+                <h2 class="mb-4">Related Content</h2>
+                <slot name="related" />
+            </section>
+
+        </div>
+
+        {hasSidebar && (
+            <PilgrimageSidebar products={sidebarProducts} heading="Plan Your Visit" />
         )}
-        <!-- 
-        ╔══════════════════════════════════════════════════════════════════════╗
-        ║  MONETIZATION ZONE — END                                             ║
-        ╚══════════════════════════════════════════════════════════════════════╝
-        -->
+        </div>
 
-        <!-- ================================================================== -->
-        <!-- SECTION 6: RELATED CONTENT -->
-        <!-- Purpose: Internal linking to related pages -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="place-related">
-            <h2>Related Content</h2>
-            <slot name="related" />
-        </section>
-
+        </div>
     </article>
-
-    {hasSidebar && (
-        <PilgrimageSidebar products={sidebarProducts} heading="Plan Your Visit" />
-    )}
-    </div>
 </BaseLayout>

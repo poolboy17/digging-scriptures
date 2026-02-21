@@ -1,108 +1,81 @@
 ---
-import { getCollection, getEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const homepage = await getEntry('homepage', 'homepage');
 const hubs = await getCollection('hubs', ({ data }) => !data.draft);
 const places = await getCollection('places', ({ data }) => !data.draft);
 const routes = await getCollection('routes', ({ data }) => !data.draft);
 const stories = await getCollection('stories', ({ data }) => !data.draft);
+
+// Combine all content into a single feed
+const allContent = [
+    ...hubs.map(h => ({ ...h, category: 'Journeys', href: `/journeys/${h.slug}` })),
+    ...places.map(p => ({ ...p, category: 'Places', href: `/places/${p.slug}` })),
+    ...routes.map(r => ({ ...r, category: 'Routes', href: `/routes/${r.slug}` })),
+    ...stories.map(s => ({ ...s, category: 'Stories', href: `/stories/${s.slug}` })),
+];
+
+const featured = allContent[0];
+const rest = allContent.slice(1);
 ---
 
 <BaseLayout 
     title="Digging Scriptures — Sacred Places, Pilgrimages, and Faith-Based Travel" 
     description="A cultural, historical, and experiential guide to pilgrimage traditions, sacred places, and faith-based travel."
 >
-    <!-- Hero -->
-    <section class="py-12 sm:py-16 mb-12 border-b border-accent/30">
-        <h1 class="mb-6 text-text-dark">Faith-Based Journeys<br class="hidden sm:block" /> and Pilgrimages</h1>
-        <p class="text-lg sm:text-xl text-text-muted leading-relaxed max-w-2xl">
-            A cultural, historical, and experiential guide to understanding pilgrimage 
-            as a human practice across cultures and centuries.
-        </p>
+    <section class="section">
+        {/* Featured article — large hero card */}
+        {featured && (
+            <a href={featured.href} class="card block mb-12">
+                <div class="overflow-hidden rounded-lg">
+                    <img 
+                        src={featured.data.image || '/images/posts/pilgrimage-default.svg'} 
+                        alt={featured.data.title}
+                        width="925" height="475"
+                        class="w-full aspect-[925/475] object-cover"
+                    />
+                </div>
+                <div class="pt-6">
+                    <div class="card-meta">
+                        <span class="badge">{featured.category}</span>
+                    </div>
+                    <h2 class="mb-3 text-text-dark hover:text-primary transition-colors">
+                        {featured.data.title}
+                    </h2>
+                    <p class="text-text-muted leading-relaxed line-clamp-2">
+                        {featured.data.description}
+                    </p>
+                </div>
+            </a>
+        )}
+
+        {/* Card grid — 2 columns */}
+        {rest.length > 0 && (
+            <div class="grid gap-8 sm:grid-cols-2">
+                {rest.map((item) => (
+                    <a href={item.href} class="card block">
+                        <div class="overflow-hidden rounded-lg">
+                            <img 
+                                src={item.data.image || '/images/posts/pilgrimage-default.svg'} 
+                                alt={item.data.title}
+                                width="445" height="230"
+                                class="w-full aspect-[445/230] object-cover"
+                            />
+                        </div>
+                        <div class="pt-4">
+                            <div class="card-meta">
+                                <span class="badge">{item.category}</span>
+                            </div>
+                            <h3 class="mb-2 text-text-dark hover:text-primary transition-colors">
+                                {item.data.title}
+                            </h3>
+                            <p class="text-sm text-text-muted leading-relaxed line-clamp-2">
+                                {item.data.description}
+                            </p>
+                        </div>
+                    </a>
+                ))}
+            </div>
+        )}
     </section>
-
-    {/* Journeys */}
-    {hubs.length > 0 && (
-        <section class="mb-14">
-            <div class="flex items-center gap-3 mb-6">
-                <span class="text-2xl">✦</span>
-                <h2 class="text-text-dark">Explore Journeys</h2>
-            </div>
-            <div class="grid gap-4 sm:grid-cols-2">
-                {hubs.map((hub) => (
-                    <a href={`/journeys/${hub.slug}`} 
-                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
-                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
-                            {hub.data.title}
-                        </h3>
-                        <p class="text-sm text-text-muted leading-relaxed">{hub.data.description}</p>
-                    </a>
-                ))}
-            </div>
-        </section>
-    )}
-
-    {/* Places */}
-    {places.length > 0 && (
-        <section class="mb-14">
-            <div class="flex items-center gap-3 mb-6">
-                <span class="text-2xl">◆</span>
-                <h2 class="text-text-dark">Sacred Places</h2>
-            </div>
-            <div class="grid gap-4 sm:grid-cols-2">
-                {places.map((place) => (
-                    <a href={`/places/${place.slug}`} 
-                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
-                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
-                            {place.data.title}
-                        </h3>
-                        <p class="text-sm text-text-muted leading-relaxed">{place.data.description}</p>
-                    </a>
-                ))}
-            </div>
-        </section>
-    )}
-
-    {/* Routes */}
-    {routes.length > 0 && (
-        <section class="mb-14">
-            <div class="flex items-center gap-3 mb-6">
-                <span class="text-2xl">⬥</span>
-                <h2 class="text-text-dark">Pilgrimage Routes</h2>
-            </div>
-            <div class="grid gap-4 sm:grid-cols-2">
-                {routes.map((route) => (
-                    <a href={`/routes/${route.slug}`} 
-                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
-                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
-                            {route.data.title}
-                        </h3>
-                        <p class="text-sm text-text-muted leading-relaxed">{route.data.description}</p>
-                    </a>
-                ))}
-            </div>
-        </section>
-    )}
-
-    {/* Stories */}
-    {stories.length > 0 && (
-        <section class="mb-14">
-            <div class="flex items-center gap-3 mb-6">
-                <span class="text-2xl">❖</span>
-                <h2 class="text-text-dark">Stories & Traditions</h2>
-            </div>
-            <div class="grid gap-4 sm:grid-cols-2">
-                {stories.map((story) => (
-                    <a href={`/stories/${story.slug}`} 
-                       class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
-                        <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
-                            {story.data.title}
-                        </h3>
-                        <p class="text-sm text-text-muted leading-relaxed">{story.data.description}</p>
-                    </a>
-                ))}
-            </div>
-        </section>
-    )}
 </BaseLayout>

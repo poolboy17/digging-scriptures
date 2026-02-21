@@ -75,127 +75,94 @@ const hasSidebar = sidebarProducts.length > 0;
         "touristType": "Pilgrim"
     }}
 >
-    <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
-    <article class:list={["route-page", hasSidebar ? "lg:w-2/3" : "w-full"]}>
+    <article class="section">
+        <div class="container">
+
+        <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
+        <div class:list={[hasSidebar ? "lg:w-2/3" : "w-full"]}>
         
-        <!-- ================================================================== -->
-        <!-- SECTION 1: HEADER -->
-        <!-- Purpose: Page title and route overview -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <header class="route-header">
-            <h1>{title}</h1>
-            <p class="route-region">{region}</p>
-            <p class="route-description">{description}</p>
-            
-            <!-- Route quick facts -->
-            <div class="route-facts">
-                {countries && (
-                    <p><strong>Countries:</strong> {countries.join(', ')}</p>
-                )}
-                {distanceKm && (
-                    <p><strong>Distance:</strong> {distanceKm} km</p>
-                )}
-                {typicalDurationDays && (
-                    <p><strong>Typical duration:</strong> {typicalDurationDays} days</p>
-                )}
-                {difficulty && (
-                    <p><strong>Difficulty:</strong> {difficulty}</p>
-                )}
-            </div>
-        </header>
+            <!-- SECTION 1: HEADER -->
+            <header class="mb-10">
+                <div class="card-meta mb-4">
+                    <span class="badge">Route</span>
+                    <span>{region}</span>
+                </div>
+                <h1 class="mb-4">{title}</h1>
+                <p class="text-lg text-text-muted leading-relaxed mb-6">{description}</p>
+                
+                <!-- Route quick facts -->
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+                    {countries && (
+                        <div class="bg-light rounded-lg p-3 text-center">
+                            <p class="text-xs text-text-muted uppercase tracking-wider">Countries</p>
+                            <p class="text-sm font-semibold text-text-dark">{countries.join(', ')}</p>
+                        </div>
+                    )}
+                    {distanceKm && (
+                        <div class="bg-light rounded-lg p-3 text-center">
+                            <p class="text-xs text-text-muted uppercase tracking-wider">Distance</p>
+                            <p class="text-sm font-semibold text-text-dark">{distanceKm} km</p>
+                        </div>
+                    )}
+                    {typicalDurationDays && (
+                        <div class="bg-light rounded-lg p-3 text-center">
+                            <p class="text-xs text-text-muted uppercase tracking-wider">Duration</p>
+                            <p class="text-sm font-semibold text-text-dark">{typicalDurationDays} days</p>
+                        </div>
+                    )}
+                    {difficulty && (
+                        <div class="bg-light rounded-lg p-3 text-center">
+                            <p class="text-xs text-text-muted uppercase tracking-wider">Difficulty</p>
+                            <p class="text-sm font-semibold text-text-dark">{difficulty}</p>
+                        </div>
+                    )}
+                </div>
+            </header>
 
-        <!-- ================================================================== -->
-        <!-- SECTION 2: HISTORICAL ORIGINS -->
-        <!-- Purpose: Historical background of the route -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- Content: Factual, descriptive, non-doctrinal -->
-        <!-- ================================================================== -->
-        <section class="route-history">
-            <h2>Historical Origins</h2>
-            <slot name="history" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 3: THE JOURNEY -->
-        <!-- Purpose: Description of the route and its stages -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- Content: Geographic, cultural, experiential description -->
-        <!-- ================================================================== -->
-        <section class="route-journey">
-            <h2>The Journey</h2>
-            {faithTraditions && faithTraditions.length > 0 && (
-                <p class="faith-traditions">
-                    Associated traditions: {faithTraditions.join(', ')}
-                </p>
-            )}
-            <slot name="journey" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 4: SIGNIFICANT PLACES ALONG THE WAY -->
-        <!-- Purpose: Key stops and landmarks on the route -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="route-places">
-            <h2>Significant Places Along the Way</h2>
-            <slot name="places" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 5: MODERN PILGRIMAGE EXPERIENCES -->
-        <!-- Purpose: Contemporary information for those undertaking the route -->
-        <!-- Monetization: ALLOWED -->
-        <!-- ================================================================== -->
-        <!-- 
-        ╔══════════════════════════════════════════════════════════════════════╗
-        ║  MONETIZATION ZONE — START                                           ║
-        ║  Affiliate links, tour recommendations, and contextual ads           ║
-        ║  are PERMITTED in this section ONLY                                  ║
-        ╚══════════════════════════════════════════════════════════════════════╝
-        -->
-        {hasModernSection && (
-            <section class="route-modern">
-                <h2>Modern Pilgrimage Experiences</h2>
-                <slot name="modern" />
-                <!-- 
-                    ALLOWED CONTENT:
-                    - Guided tour recommendations (affiliate OK)
-                    - Accommodation along the route (affiliate OK)
-                    - Equipment and gear suggestions (affiliate OK)
-                    - Transportation options
-                    - Credential/passport information
-                    - Best seasons to travel
-                    - Safety considerations
-                    
-                    FORBIDDEN CONTENT:
-                    - Hard-sell CTAs
-                    - Pop-ups or interstitials
-                    - Misleading claims
-                    - Content that violates YMYL guidelines
-                -->
+            <!-- SECTION 2: HISTORICAL ORIGINS -->
+            <section class="content mb-10">
+                <h2>Historical Origins</h2>
+                <slot name="history" />
             </section>
+
+            <!-- SECTION 3: THE JOURNEY -->
+            <section class="content mb-10 pt-8 border-t border-border">
+                <h2>The Journey</h2>
+                {faithTraditions && faithTraditions.length > 0 && (
+                    <p class="text-sm text-text-muted italic mb-4">
+                        Associated traditions: {faithTraditions.join(', ')}
+                    </p>
+                )}
+                <slot name="journey" />
+            </section>
+
+            <!-- SECTION 4: SIGNIFICANT PLACES -->
+            <section class="content mb-10 pt-8 border-t border-border">
+                <h2>Significant Places Along the Way</h2>
+                <slot name="places" />
+            </section>
+
+            <!-- SECTION 5: MODERN EXPERIENCES (MONETIZATION ALLOWED) -->
+            {hasModernSection && (
+                <section class="content mb-10 pt-8 border-t border-border">
+                    <h2>Modern Pilgrimage Experiences</h2>
+                    <slot name="modern" />
+                </section>
+            )}
+
+            <!-- SECTION 6: RELATED CONTENT -->
+            <section class="mt-12 pt-8 border-t border-border">
+                <h2 class="mb-4">Related Content</h2>
+                <slot name="related" />
+            </section>
+
+        </div>
+
+        {hasSidebar && (
+            <PilgrimageSidebar products={sidebarProducts} heading="Plan Your Journey" />
         )}
-        <!-- 
-        ╔══════════════════════════════════════════════════════════════════════╗
-        ║  MONETIZATION ZONE — END                                             ║
-        ╚══════════════════════════════════════════════════════════════════════╝
-        -->
+        </div>
 
-        <!-- ================================================================== -->
-        <!-- SECTION 6: RELATED CONTENT -->
-        <!-- Purpose: Internal linking to related pages -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="route-related">
-            <h2>Related Content</h2>
-            <slot name="related" />
-        </section>
-
+        </div>
     </article>
-
-    {hasSidebar && (
-        <PilgrimageSidebar products={sidebarProducts} heading="Plan Your Journey" />
-    )}
-    </div>
 </BaseLayout>

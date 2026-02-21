@@ -1,7 +1,4 @@
 ---
-/**
- * JOURNEYS INDEX: /journeys
- */
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
@@ -16,26 +13,33 @@ const hubs = await getCollection('hubs', ({ data }) => !data.draft);
         { name: 'Journeys', url: '/journeys' }
     ]}
 >
-    <section class="py-8 mb-10 border-b border-accent/30">
-        <h1 class="mb-4">Journeys</h1>
-        <p class="text-lg text-text-muted leading-relaxed max-w-2xl">Explore pilgrimage traditions and sacred journeys across world cultures.</p>
-    </section>
+    <section class="section">
+        <div class="container">
+            <h1 class="page-heading">Journeys</h1>
 
-    {hubs.length > 0 ? (
-        <div class="grid gap-4 sm:grid-cols-2">
-            {hubs.map((hub) => (
-                <a href={`/journeys/${hub.slug}`}
-                   class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
-                    <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
-                        {hub.data.title}
-                    </h3>
-                    <p class="text-sm text-text-muted leading-relaxed">{hub.data.description}</p>
-                </a>
-            ))}
+            {hubs.length > 0 ? (
+                <div class="grid gap-8 sm:grid-cols-2">
+                    {hubs.map((hub) => (
+                        <a href={`/journeys/${hub.slug}`} class="card block">
+                            <div class="overflow-hidden rounded-lg">
+                                <img 
+                                    src={hub.data.image || '/images/posts/pilgrimage-default.svg'} 
+                                    alt={hub.data.title}
+                                    width="445" height="230"
+                                    class="w-full aspect-[445/230] object-cover"
+                                />
+                            </div>
+                            <div class="pt-4">
+                                <span class="badge mb-2">Journey</span>
+                                <h3 class="mb-2 text-text-dark">{hub.data.title}</h3>
+                                <p class="text-sm text-text-muted leading-relaxed line-clamp-2">{hub.data.description}</p>
+                            </div>
+                        </a>
+                    ))}
+                </div>
+            ) : (
+                <p class="text-center text-text-muted italic">Content coming soon.</p>
+            )}
         </div>
-    ) : (
-        <div class="p-8 rounded-xl bg-surface/40 border border-accent/20 text-center">
-            <p class="text-text-muted italic">Content coming soon. Check back for pilgrimage journeys across world cultures.</p>
-        </div>
-    )}
+    </section>
 </BaseLayout>

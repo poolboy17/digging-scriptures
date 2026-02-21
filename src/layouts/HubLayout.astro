@@ -57,27 +57,22 @@ const allRoutes = relatedRoutes ? await getCollection('routes', ({ data }) =>
         }
     }}
 >
-    <article class="hub-page">
+    <article class="section">
+        <div class="container">
         
-        <!-- ================================================================== -->
-        <!-- SECTION 1: HEADER -->
-        <!-- Purpose: Page title and introduction -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <header class="hub-header">
-            <h1>{title}</h1>
-            <p class="hub-description">{description}</p>
-        </header>
+            <!-- HEADER -->
+            <header class="mb-10">
+                <div class="card-meta mb-4">
+                    <span class="badge">Journey</span>
+                </div>
+                <h1 class="mb-4">{title}</h1>
+                <p class="text-lg text-text-muted leading-relaxed">{description}</p>
+            </header>
 
-        <!-- ================================================================== -->
-        <!-- SECTION 2: MAIN CONTENT -->
-        <!-- Purpose: Authoritative overview of the topic -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- Target: 2000-3000 words of descriptive, non-doctrinal content -->
-        <!-- ================================================================== -->
-        <section class="hub-content">
-            <slot />
-        </section>
+            <!-- MAIN CONTENT -->
+            <section class="content mb-12">
+                <slot />
+            </section>
 
         <!-- ================================================================== -->
         <!-- SECTION 3: RELATED PLACES -->
@@ -85,35 +80,30 @@ const allRoutes = relatedRoutes ? await getCollection('routes', ({ data }) =>
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
         {allPlaces.length > 0 && (
-            <section class="hub-related-places">
-                <h2>Sacred Places</h2>
-                <ul>
+            <section class="mt-12 pt-8 border-t border-border">
+                <h2 class="mb-6">Sacred Places</h2>
+                <div class="grid gap-6 sm:grid-cols-2">
                     {allPlaces.map((place) => (
-                        <li>
-                            <a href={`/places/${place.slug}`}>{place.data.title}</a>
-                            <p>{place.data.description}</p>
-                        </li>
+                        <a href={`/places/${place.slug}`} class="card block p-5 rounded-lg bg-light">
+                            <h3 class="mb-2 text-text-dark">{place.data.title}</h3>
+                            <p class="text-sm text-text-muted">{place.data.description}</p>
+                        </a>
                     ))}
-                </ul>
+                </div>
             </section>
         )}
 
-        <!-- ================================================================== -->
-        <!-- SECTION 4: RELATED ROUTES -->
-        <!-- Purpose: Internal links to route pages -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
         {allRoutes.length > 0 && (
-            <section class="hub-related-routes">
-                <h2>Pilgrimage Routes</h2>
-                <ul>
+            <section class="mt-12 pt-8 border-t border-border">
+                <h2 class="mb-6">Pilgrimage Routes</h2>
+                <div class="grid gap-6 sm:grid-cols-2">
                     {allRoutes.map((route) => (
-                        <li>
-                            <a href={`/routes/${route.slug}`}>{route.data.title}</a>
-                            <p>{route.data.description}</p>
-                        </li>
+                        <a href={`/routes/${route.slug}`} class="card block p-5 rounded-lg bg-light">
+                            <h3 class="mb-2 text-text-dark">{route.data.title}</h3>
+                            <p class="text-sm text-text-muted">{route.data.description}</p>
+                        </a>
                     ))}
-                </ul>
+                </div>
             </section>
         )}
 
@@ -122,13 +112,11 @@ const allRoutes = relatedRoutes ? await getCollection('routes', ({ data }) =>
         <!-- Purpose: Links to background/context articles -->
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
-        <section class="hub-context">
-            <h2>Further Reading</h2>
-            <p>
-                <!-- Populated by content editors with links to context articles -->
-                <slot name="context-links" />
-            </p>
+        <section class="mt-12 pt-8 border-t border-border">
+            <h2 class="mb-4">Further Reading</h2>
+            <slot name="context-links" />
         </section>
 
+        </div>
     </article>
 </BaseLayout>

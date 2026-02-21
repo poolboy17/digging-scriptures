@@ -1,7 +1,4 @@
 ---
-/**
- * CONTEXT INDEX: /context
- */
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
@@ -16,29 +13,35 @@ const contextArticles = await getCollection('context', ({ data }) => !data.draft
         { name: 'Context', url: '/context' }
     ]}
 >
-    <section class="py-8 mb-10 border-b border-accent/30">
-        <h1 class="mb-4">Background and Context</h1>
-        <p class="text-lg text-text-muted leading-relaxed max-w-2xl">Historical and cultural background for understanding pilgrimage traditions.</p>
-    </section>
+    <section class="section">
+        <div class="container">
+            <h1 class="page-heading">Background & Context</h1>
 
-    {contextArticles.length > 0 ? (
-        <div class="grid gap-4 sm:grid-cols-2">
-            {contextArticles.map((article) => (
-                <a href={`/context/${article.slug}`}
-                   class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
-                    <span class="inline-block text-xs text-accent font-medium uppercase tracking-wider mb-2">
-                        {article.data.contextType.replace('-', ' ')}
-                    </span>
-                    <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
-                        {article.data.title}
-                    </h3>
-                    <p class="text-sm text-text-muted leading-relaxed">{article.data.description}</p>
-                </a>
-            ))}
+            {contextArticles.length > 0 ? (
+                <div class="grid gap-8 sm:grid-cols-2">
+                    {contextArticles.map((article) => (
+                        <a href={`/context/${article.slug}`} class="card block">
+                            <div class="overflow-hidden rounded-lg">
+                                <img 
+                                    src={article.data.image || '/images/posts/pilgrimage-default.svg'} 
+                                    alt={article.data.title}
+                                    width="445" height="230"
+                                    class="w-full aspect-[445/230] object-cover"
+                                />
+                            </div>
+                            <div class="pt-4">
+                                <div class="card-meta">
+                                    <span class="badge">{article.data.contextType.replace('-', ' ')}</span>
+                                </div>
+                                <h3 class="mb-2 text-text-dark">{article.data.title}</h3>
+                                <p class="text-sm text-text-muted leading-relaxed line-clamp-2">{article.data.description}</p>
+                            </div>
+                        </a>
+                    ))}
+                </div>
+            ) : (
+                <p class="text-center text-text-muted italic">Content coming soon.</p>
+            )}
         </div>
-    ) : (
-        <div class="p-8 rounded-xl bg-surface/40 border border-accent/20 text-center">
-            <p class="text-text-muted italic">Content coming soon. Check back for historical and cultural context on pilgrimage traditions.</p>
-        </div>
-    )}
+    </section>
 </BaseLayout>

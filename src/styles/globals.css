@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@plugin '@tailwindcss/typography';
 
 @theme {
     --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -10,19 +11,33 @@
     --color-text-dark: #5d2e46;
     --color-text-muted: #7a5468;
     --color-text-light: #9a7e8d;
+    --color-border: #d5c4b3;
+    --color-light: #f5ede4;
 }
 
 @layer base {
+    body {
+        @apply leading-relaxed;
+    }
+
     h1 {
-        @apply text-4xl font-bold tracking-tight sm:text-5xl;
+        @apply text-3xl font-bold tracking-tight leading-tight sm:text-4xl;
     }
 
     h2 {
-        @apply text-2xl font-bold sm:text-3xl;
+        @apply text-2xl font-bold leading-tight sm:text-3xl;
     }
 
-    a:not(.btn) {
-        @apply underline transition hover:opacity-80;
+    h3 {
+        @apply text-xl font-bold leading-tight;
+    }
+
+    a:not(.btn):not(.card) {
+        @apply text-primary no-underline transition hover:text-text-dark;
+    }
+
+    img {
+        @apply inline-block;
     }
 
     pre {
@@ -30,48 +45,90 @@
     }
 
     :not(pre) > code {
-        @apply px-1 py-0.5 font-mono rounded bg-surface text-primary;
+        @apply px-1 py-0.5 font-mono rounded bg-light text-primary;
         font-size: 0.9em;
     }
 }
 
 @layer components {
-    .markdown {
-        > * {
-            @apply my-6;
-        }
+    .section {
+        @apply py-16;
+    }
 
-        :where(h1, h2) {
-            @apply mt-12 mb-6;
-        }
+    .container {
+        @apply max-w-[1000px] px-4 md:px-8 mx-auto;
+    }
 
-        > :first-child {
-            @apply mt-0;
-        }
+    .page-heading {
+        @apply mb-16 text-center font-bold leading-tight text-text-dark;
+    }
 
-        > :last-child {
-            @apply mb-0;
-        }
+    .page-heading:after {
+        @apply mx-auto mt-4 block h-1 w-10 rounded-full bg-primary content-[''];
+    }
+
+    /* Card component for content listings */
+    .card {
+        @apply block rounded-lg overflow-hidden no-underline transition-all duration-300;
+    }
+
+    .card:hover {
+        @apply shadow-lg;
+    }
+
+    .card:hover img {
+        @apply scale-[1.03];
+    }
+
+    .card img {
+        @apply w-full object-cover transition-transform duration-300;
+    }
+
+    .card-body {
+        @apply p-5;
+    }
+
+    .card-meta {
+        @apply flex flex-wrap items-center gap-3 text-sm text-text-light mb-3;
+    }
+
+    .card-meta a {
+        @apply font-medium hover:text-primary;
+    }
+
+    /* Rich article content with typography plugin */
+    .content {
+        @apply prose max-w-none;
+        @apply prose-headings:font-bold prose-headings:text-text-dark;
+        @apply prose-h1:text-3xl prose-h2:text-2xl prose-h3:text-xl;
+        @apply prose-p:text-text-muted prose-p:leading-relaxed;
+        @apply prose-a:text-primary prose-a:no-underline hover:prose-a:text-text-dark;
+        @apply prose-blockquote:rounded-lg prose-blockquote:border-primary prose-blockquote:bg-light prose-blockquote:px-7 prose-blockquote:py-3;
+        @apply prose-img:rounded-lg;
+        @apply prose-strong:text-text-dark;
+        @apply prose-li:text-text-muted;
+    }
+
+    /* Category/tag badges */
+    .badge {
+        @apply inline-block px-3 py-1 rounded-full text-xs font-medium bg-light text-text-muted transition-colors;
+    }
+
+    .badge:hover {
+        @apply bg-primary text-primary-content;
     }
 
     .btn {
-        @apply inline-flex items-center justify-center gap-2 bg-primary text-primary-content cursor-pointer text-center font-semibold no-underline transition-colors;
-        padding: var(--btn-py, 0.875rem) var(--btn-px, 1.25rem);
-        font-size: var(--btn-font-size, 0.875rem);
-        border-radius: var(--btn-border-radius, 0.25rem);
-
-        &:hover {
-            @apply bg-primary/85;
-        }
-
-        &:disabled {
-            @apply text-text-light bg-surface cursor-not-allowed;
-        }
+        @apply inline-flex items-center justify-center gap-2 bg-primary text-primary-content cursor-pointer text-center font-semibold no-underline transition-colors rounded;
+        padding: 0.875rem 1.25rem;
+        font-size: 0.875rem;
     }
 
-    .btn-lg {
-        --btn-font-size: 1.125rem;
-        --btn-px: 1.5rem;
-        --btn-py: 1.125rem;
+    .btn:hover {
+        @apply bg-primary/85;
+    }
+
+    .btn:disabled {
+        @apply text-text-light bg-surface cursor-not-allowed;
     }
 }

@@ -1,7 +1,4 @@
 ---
-/**
- * ROUTES INDEX: /routes
- */
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
@@ -16,34 +13,37 @@ const routes = await getCollection('routes', ({ data }) => !data.draft);
         { name: 'Pilgrimage Routes', url: '/routes' }
     ]}
 >
-    <section class="py-8 mb-10 border-b border-accent/30">
-        <h1 class="mb-4">Pilgrimage Routes</h1>
-        <p class="text-lg text-text-muted leading-relaxed max-w-2xl">Explore historic pilgrimage routes traveled across centuries.</p>
-    </section>
+    <section class="section">
+        <div class="container">
+            <h1 class="page-heading">Pilgrimage Routes</h1>
 
-    {routes.length > 0 ? (
-        <div class="grid gap-4 sm:grid-cols-2">
-            {routes.map((route) => (
-                <a href={`/routes/${route.slug}`}
-                   class="group block p-6 rounded-xl bg-surface/60 border border-accent/20 hover:border-primary/40 hover:shadow-md transition-all duration-300 no-underline">
-                    <div class="flex items-center gap-2 text-xs text-text-light mb-2">
-                        <span>{route.data.region}</span>
-                        <span>·</span>
-                        <span>{route.data.countries.join(', ')}</span>
-                        {route.data.distanceKm && (
-                            <span>· {route.data.distanceKm} km</span>
-                        )}
-                    </div>
-                    <h3 class="text-lg font-semibold text-text-dark group-hover:text-primary transition-colors mb-2">
-                        {route.data.title}
-                    </h3>
-                    <p class="text-sm text-text-muted leading-relaxed">{route.data.description}</p>
-                </a>
-            ))}
+            {routes.length > 0 ? (
+                <div class="grid gap-8 sm:grid-cols-2">
+                    {routes.map((route) => (
+                        <a href={`/routes/${route.slug}`} class="card block">
+                            <div class="overflow-hidden rounded-lg">
+                                <img 
+                                    src={route.data.image || '/images/posts/pilgrimage-default.svg'} 
+                                    alt={route.data.title}
+                                    width="445" height="230"
+                                    class="w-full aspect-[445/230] object-cover"
+                                />
+                            </div>
+                            <div class="pt-4">
+                                <div class="card-meta">
+                                    <span class="badge">Route</span>
+                                    <span>{route.data.region} · {route.data.countries.join(', ')}</span>
+                                    {route.data.distanceKm && <span>· {route.data.distanceKm} km</span>}
+                                </div>
+                                <h3 class="mb-2 text-text-dark">{route.data.title}</h3>
+                                <p class="text-sm text-text-muted leading-relaxed line-clamp-2">{route.data.description}</p>
+                            </div>
+                        </a>
+                    ))}
+                </div>
+            ) : (
+                <p class="text-center text-text-muted italic">Content coming soon.</p>
+            )}
         </div>
-    ) : (
-        <div class="p-8 rounded-xl bg-surface/40 border border-accent/20 text-center">
-            <p class="text-text-muted italic">Content coming soon. Check back for historic pilgrimage routes.</p>
-        </div>
-    )}
+    </section>
 </BaseLayout>
