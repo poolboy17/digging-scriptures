@@ -26,7 +26,7 @@ const routes = await getCollection('routes', ({ data }) => !data.draft);
                                     src={route.data.image || '/images/posts/pilgrimage-default.svg'} 
                                     alt={route.data.title}
                                     width="445" height="230"
-                                    class="w-full aspect-[445/230] object-cover"
+                                    class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
                                 />
                             </div>
                             <div class="pt-4">

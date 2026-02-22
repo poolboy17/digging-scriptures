@@ -32,7 +32,7 @@ const rest = allContent.slice(1);
                         src={featured.data.image || '/images/posts/pilgrimage-default.svg'} 
                         alt={featured.data.title}
                         width="925" height="475"
-                        class="w-full aspect-[925/475] object-cover"
+                        class="w-full aspect-[925/475] object-cover" loading="lazy" decoding="async"
                     />
                 </div>
                 <div class="pt-6">
@@ -59,7 +59,7 @@ const rest = allContent.slice(1);
                                 src={item.data.image || '/images/posts/pilgrimage-default.svg'} 
                                 alt={item.data.title}
                                 width="445" height="230"
-                                class="w-full aspect-[445/230] object-cover"
+                                class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
                             />
                         </div>
                         <div class="pt-4">

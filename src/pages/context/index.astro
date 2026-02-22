@@ -26,7 +26,7 @@ const contextArticles = await getCollection('context', ({ data }) => !data.draft
                                     src={article.data.image || '/images/posts/pilgrimage-default.svg'} 
                                     alt={article.data.title}
                                     width="445" height="230"
-                                    class="w-full aspect-[445/230] object-cover"
+                                    class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
                                 />
                             </div>
                             <div class="pt-4">
