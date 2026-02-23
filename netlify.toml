@@ -6,6 +6,9 @@
   NODE_VERSION = "18"
 
 # Image optimization
+[images]
+  remote_images = ["https://media-cdn\\.tripadvisor\\.com/.*", "https://images\\.unsplash\\.com/.*"]
+
 [[headers]]
   for = "/images/*"
   [headers.values]
