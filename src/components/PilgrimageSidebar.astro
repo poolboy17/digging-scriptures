@@ -1,4 +1,5 @@
 ---
+import CdnImage from './CdnImage.astro';
 /**
  * ================================================================================
  * PILGRIMAGE SIDEBAR — Sticky affiliate sidebar for monetized pages
@@ -50,9 +51,9 @@ const tierConfig = {
                 class="group block rounded-lg overflow-hidden bg-surface border border-text-light/20 hover:border-primary/50 transition-all duration-300 no-underline">
                 {heroProduct.image && (
                     <div class="aspect-video overflow-hidden">
-                        <img src={heroProduct.image} alt={heroProduct.title}
+                        <CdnImage src={heroProduct.image} alt={heroProduct.title}
                             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                            width="720" height="480" loading="lazy" decoding="async" />
+                            width={720} height={480} loading="lazy" decoding="async" />
                     </div>
                 )}
                 <div class="p-4">

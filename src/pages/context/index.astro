@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import CdnImage from '../../components/CdnImage.astro';
 
 const contextArticles = await getCollection('context', ({ data }) => !data.draft);
 ---
@@ -22,10 +23,10 @@ const contextArticles = await getCollection('context', ({ data }) => !data.draft
                     {contextArticles.map((article) => (
                         <a href={`/context/${article.slug}`} class="card block">
                             <div class="overflow-hidden rounded-lg">
-                                <img 
+                                <CdnImage 
                                     src={article.data.image || '/images/posts/pilgrimage-default.svg'} 
                                     alt={article.data.title}
-                                    width="445" height="230"
+                                    width={445} height={230}
                                     class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
                                 />
                             </div>

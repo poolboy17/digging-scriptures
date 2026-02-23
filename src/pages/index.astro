@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import CdnImage from '../components/CdnImage.astro';
 
 const hubs = await getCollection('hubs', ({ data }) => !data.draft);
 const places = await getCollection('places', ({ data }) => !data.draft);
@@ -28,10 +29,10 @@ const rest = allContent.slice(1);
         {featured && (
             <a href={featured.href} class="card block mb-12">
                 <div class="overflow-hidden rounded-lg">
-                    <img 
+                    <CdnImage 
                         src={featured.data.image || '/images/posts/pilgrimage-default.svg'} 
                         alt={featured.data.title}
-                        width="925" height="475"
+                        width={925} height={475}
                         class="w-full aspect-[925/475] object-cover" loading="lazy" decoding="async"
                     />
                 </div>
@@ -55,10 +56,10 @@ const rest = allContent.slice(1);
                 {rest.map((item) => (
                     <a href={item.href} class="card block">
                         <div class="overflow-hidden rounded-lg">
-                            <img 
+                            <CdnImage 
                                 src={item.data.image || '/images/posts/pilgrimage-default.svg'} 
                                 alt={item.data.title}
-                                width="445" height="230"
+                                width={445} height={230}
                                 class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
                             />
                         </div>
