@@ -15,7 +15,7 @@ relatedRoutes:
   - "camino-de-santiago"
 hasExperienceSection: true
 lastUpdated: 2026-01-25
-draft: true
+draft: false
 ---
 
 <Fragment slot="history">

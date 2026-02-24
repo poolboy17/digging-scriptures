@@ -17,7 +17,7 @@ placesOnRoute:
   - "santiago-de-compostela"
 hasModernSection: true
 lastUpdated: 2026-01-25
-draft: true
+draft: false
 ---
 
 <Fragment slot="introduction">
