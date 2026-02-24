@@ -18,7 +18,7 @@ who want to understand, not just believe.
 **Content directory:** `src/content/{hubs,stories,places,routes,context}/`
 **File format:** Markdown (.md) with YAML frontmatter (schemas enforced by Astro collections)
 **URL patterns:**
-- Hubs: `/{hub-slug}/`
+- Hubs: `/journeys/{hub-slug}/`
 - Places: `/places/{place-slug}/`
 - Routes: `/routes/{route-slug}/`
 - Stories: `/stories/{story-slug}/`
@@ -302,7 +302,7 @@ draft: false
 - **Hubs: link to ALL related content** — no minimum/maximum, link comprehensively
 - **Anchor text:** descriptive, 3-6 words
   - ✅ "the [Camino de Santiago route](/routes/camino-de-santiago/)"
-  - ✅ "[Christian pilgrimage traditions](/christian-pilgrimage-traditions/) that shaped Europe"
+  - ✅ "[Christian pilgrimage traditions](/journeys/christian-pilgrimage-traditions/) that shaped Europe"
   - ❌ "click here" / "read more"
 
 ---
@@ -359,7 +359,7 @@ draft: false
   "requiredEntities": ["Historical Figure", "Place Name", "Primary Source"],
   "faithTraditions": ["Christianity", "Judaism"],
   "internalLinks": {
-    "parentHub": "/hub-slug/",
+    "parentHub": "/journeys/hub-slug/",
     "relatedPlaces": ["/places/place-1/"],
     "relatedRoutes": ["/routes/route-1/"],
     "relatedStories": ["/stories/story-1/"]
