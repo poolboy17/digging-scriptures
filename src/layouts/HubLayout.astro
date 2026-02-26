@@ -31,9 +31,12 @@ interface Props {
     topics?: string[];
     relatedPlaces?: string[];
     relatedRoutes?: string[];
+    image?: string;
+    imageAlt?: string;
+    imageCredit?: string;
 }
 
-const { title, description, topics, relatedPlaces, relatedRoutes } = Astro.props;
+const { title, description, topics, relatedPlaces, relatedRoutes, image, imageAlt, imageCredit } = Astro.props;
 const hubSlug = Astro.url.pathname.replace('/journeys/', '').replace(/\/$/, '');
 
 // Auto-discover all spoke content linked to this hub
@@ -93,6 +96,23 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
 
 <!-- ═══════════════════ HERO ═══════════════════ -->
 <header class="hub-hero">
+    {image && (
+        <div class="hub-hero-img-wrap">
+            <img
+                src={`/.netlify/images?url=${encodeURIComponent(image)}&w=1080`}
+                srcset={[320,480,640,800,1080].map(w => `/.netlify/images?url=${encodeURIComponent(image)}&w=${w} ${w}w`).join(', ')}
+                sizes="100vw"
+                alt={imageAlt || title}
+                width="1200"
+                height="600"
+                loading="eager"
+                decoding="async"
+                fetchpriority="high"
+                class="hub-hero-img"
+            />
+        </div>
+        <div class="hub-hero-overlay"></div>
+    )}
     <div class="hub-hero-inner container">
         <div class="hub-hero-meta">
             <span class="hub-hero-badge">Pilgrimage Tradition</span>
