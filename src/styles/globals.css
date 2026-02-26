@@ -1,6 +1,17 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 
+/* Override Tailwind's built-in .container utility.
+   Un-layered CSS beats @layer utilities specificity. */
+.container {
+    max-width: 1080px;
+    padding-inline: 1.25rem;
+    margin-inline: auto;
+}
+@media (min-width: 48rem) {
+    .container { padding-inline: 2rem; }
+}
+
 @theme {
     --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     --font-serif: 'Source Serif 4 Variable', 'Georgia', 'Cambria', 'Times New Roman', serif;
@@ -64,10 +75,6 @@
 @layer components {
     .section {
         @apply py-16;
-    }
-
-    .container {
-        @apply max-w-[1080px] px-5 md:px-8 mx-auto;
     }
 
     .page-heading {
