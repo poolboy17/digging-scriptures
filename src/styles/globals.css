@@ -22,8 +22,13 @@
 }
 
 @layer base {
+    html {
+        overflow-x: hidden;
+    }
+
     body {
         @apply leading-relaxed;
+        overflow-x: hidden;
     }
 
     h1 {
