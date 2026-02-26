@@ -9,40 +9,75 @@ const routes = await getCollection('routes', ({ data }) => !data.draft);
 const stories = await getCollection('stories', ({ data }) => !data.draft);
 const contextArticles = await getCollection('context', ({ data }) => !data.draft);
 
-// All published content sorted by lastUpdated
-const allContent = [
-    ...places.map(p => ({ ...p, category: 'Place', href: `/places/${p.slug}`, icon: '📍' })),
-    ...routes.map(r => ({ ...r, category: 'Route', href: `/routes/${r.slug}`, icon: '🥾' })),
-    ...stories.map(s => ({ ...s, category: 'Story', href: `/stories/${s.slug}`, icon: '📖' })),
-    ...contextArticles.map(c => ({ ...c, category: 'Context', href: `/context/${c.slug}`, icon: '🔎' })),
-].sort((a, b) => {
-    const dateA = a.data.lastUpdated ? new Date(a.data.lastUpdated).getTime() : 0;
-    const dateB = b.data.lastUpdated ? new Date(b.data.lastUpdated).getTime() : 0;
-    return dateB - dateA;
-});
+// Build a balanced "Latest" section: pick 2 from each collection
+// This ensures variety instead of all-places when dates are identical
+function pickN<T>(arr: T[], n: number): T[] {
+    return arr.slice(0, n);
+}
 
-const totalArticles = hubs.length + allContent.length;
+const latestPicks = [
+    ...pickN(places, 2).map(p => ({ ...p, category: 'Place' as const, href: `/places/${p.slug}` })),
+    ...pickN(routes, 2).map(r => ({ ...r, category: 'Route' as const, href: `/routes/${r.slug}` })),
+    ...pickN(stories, 2).map(s => ({ ...s, category: 'Story' as const, href: `/stories/${s.slug}` })),
+    ...pickN(contextArticles, 2).map(c => ({ ...c, category: 'Context' as const, href: `/context/${c.slug}` })),
+];
+
+const totalArticles = hubs.length + places.length + routes.length + stories.length + contextArticles.length;
+
+// Featured place for hero — pick one with a strong image
+const featuredPlace = places.find(p => p.slug === 'jerusalem-old-city') || places[0];
 
 // Section counts for the explore grid
 const sections = [
-    { name: 'Sacred Places', href: '/places', count: places.length, desc: 'Where faith, history, and geography converge', icon: '📍' },
-    { name: 'Pilgrimage Routes', href: '/routes', count: routes.length, desc: 'Ancient paths walked across centuries', icon: '🥾' },
-    { name: 'Stories & Legends', href: '/stories', count: stories.length, desc: 'People and narratives behind the sites', icon: '📖' },
-    { name: 'Historical Context', href: '/context', count: contextArticles.length, desc: 'Background illuminating pilgrimage', icon: '🔎' },
+    { name: 'Sacred Places', href: '/places', count: places.length, desc: 'Shrines, temples, and pilgrimage destinations where faith and geography converge', icon: 'place' },
+    { name: 'Pilgrimage Routes', href: '/routes', count: routes.length, desc: 'Ancient and modern paths walked by pilgrims across centuries and continents', icon: 'route' },
+    { name: 'Stories & Legends', href: '/stories', count: stories.length, desc: 'The people, miracles, and narratives that shaped pilgrimage traditions', icon: 'story' },
+    { name: 'Historical Context', href: '/context', count: contextArticles.length, desc: 'Background articles illuminating the history and theology of sacred travel', icon: 'context' },
 ];
+
+// Schema for homepage
+const homepageSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Digging Scriptures",
+    "description": "A scholarly guide to pilgrimage traditions, sacred places, and faith-based travel across world religions.",
+    "url": "https://diggingscriptures.com",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Digging Scriptures",
+        "url": "https://diggingscriptures.com"
+    }
+};
 ---
 
 <BaseLayout 
     title="Digging Scriptures — Sacred Places & Pilgrimage Travel" 
     description="A cultural, historical, and experiential guide to pilgrimage traditions, sacred places, and faith-based travel across world religions."
+    schema={homepageSchema}
 >
 
-<!-- HERO -->
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- HERO — Full-width image with overlay                   -->
+<!-- ════════════════════════════════════════════════════════ -->
 <section class="hero">
-    <div class="hero-inner container">
+    {featuredPlace?.data.image && (
+        <div class="hero-img-wrap">
+            <CdnImage 
+                src={featuredPlace.data.image}
+                alt={featuredPlace.data.imageAlt || featuredPlace.data.title}
+                width={1200} height={600}
+                loading="eager"
+                fetchpriority="high"
+                sizes="100vw"
+                class="hero-img"
+            />
+        </div>
+    )}
+    <div class="hero-overlay"></div>
+    <div class="hero-content container">
         <p class="hero-eyebrow">Scholarly pilgrimage research across world religions</p>
         <h1 class="hero-title">
-            Sacred places.<br />Ancient routes.<br />Living traditions.
+            Sacred places.<br class="hero-br" />Ancient routes.<br class="hero-br" />Living traditions.
         </h1>
         <p class="hero-subtitle">
             We trace the routes, uncover the history, and explore the sites where 
@@ -50,31 +85,33 @@ const sections = [
             Judaism, Buddhism, and Hinduism.
         </p>
         <div class="hero-actions">
-            <a href="/journeys" class="btn">Explore traditions</a>
-            <a href="/places" class="btn-outline-hero">Browse places &rarr;</a>
+            <a href="/journeys" class="hero-btn-primary">Explore traditions</a>
+            <a href="/places" class="hero-btn-ghost">Browse places &rarr;</a>
         </div>
     </div>
 </section>
 
 
-<!-- STATS BAR -->
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- STATS BAR                                               -->
+<!-- ════════════════════════════════════════════════════════ -->
 <section class="stats-bar">
     <div class="container">
         <div class="stats-grid">
             <div class="stat">
-                <span class="stat-number">{totalArticles}</span>
+                <span class="stat-num">{totalArticles}</span>
                 <span class="stat-label">Articles</span>
             </div>
             <div class="stat">
-                <span class="stat-number">{hubs.length}</span>
+                <span class="stat-num">{hubs.length}</span>
                 <span class="stat-label">Traditions</span>
             </div>
             <div class="stat">
-                <span class="stat-number">{places.length}</span>
-                <span class="stat-label">Sacred Places</span>
+                <span class="stat-num">{places.length}</span>
+                <span class="stat-label">Sacred places</span>
             </div>
             <div class="stat">
-                <span class="stat-number">{routes.length}</span>
+                <span class="stat-num">{routes.length}</span>
                 <span class="stat-label">Routes</span>
             </div>
         </div>
@@ -82,7 +119,9 @@ const sections = [
 </section>
 
 
-<!-- EXPLORE BY TYPE -->
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- EXPLORE BY TYPE — 4 category cards with SVG icons       -->
+<!-- ════════════════════════════════════════════════════════ -->
 <section class="section container">
     <div class="section-header">
         <span class="section-label">Explore</span>
@@ -92,9 +131,14 @@ const sections = [
         {sections.map((sec) => (
             <a href={sec.href} class="explore-card">
                 <div class="explore-icon-wrap">
-                    <span class="explore-icon">{sec.icon}</span>
+                    <svg class="explore-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        {sec.icon === 'place' && <><circle cx="12" cy="10" r="3" /><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" /></>}
+                        {sec.icon === 'route' && <><path d="M3 17l4-4 4 4 4-4 4 4" /><path d="M3 7l4 4 4-4 4 4 4-4" /></>}
+                        {sec.icon === 'story' && <><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" /></>}
+                        {sec.icon === 'context' && <><circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></>}
+                    </svg>
                 </div>
-                <div>
+                <div class="explore-text">
                     <h3 class="explore-name">{sec.name}</h3>
                     <p class="explore-desc">{sec.desc}</p>
                 </div>
@@ -105,7 +149,9 @@ const sections = [
 </section>
 
 
-<!-- PILGRIMAGE TRADITIONS (Hubs) -->
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- TRADITIONS (Hubs) — The core hub-spoke entry points     -->
+<!-- ════════════════════════════════════════════════════════ -->
 {hubs.length > 0 && (
 <section class="section container">
     <div class="section-header">
@@ -113,13 +159,24 @@ const sections = [
         <h2 class="section-title">Pilgrimage across world religions</h2>
     </div>
     <div class="hub-grid">
-        {hubs.map((hub, i) => (
+        {hubs.map((hub) => (
             <a href={`/journeys/${hub.slug}`} class="hub-card">
-                <div class="hub-card-accent"></div>
+                {hub.data.image && (
+                    <div class="hub-card-img">
+                        <CdnImage 
+                            src={hub.data.image}
+                            alt={hub.data.imageAlt || hub.data.title}
+                            width={400} height={220}
+                            loading="lazy"
+                            decoding="async"
+                            class="hub-card-photo"
+                        />
+                    </div>
+                )}
                 <div class="hub-card-body">
                     <h3 class="hub-card-title">{hub.data.title}</h3>
                     <p class="hub-card-desc">{hub.data.description}</p>
-                    <span class="hub-card-link">Read more &rarr;</span>
+                    <span class="hub-card-link">Explore tradition &rarr;</span>
                 </div>
             </a>
         ))}
@@ -128,47 +185,53 @@ const sections = [
 )}
 
 
-<!-- LATEST ARTICLES -->
-{allContent.length > 0 && (
-<section class="latest-section">
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- FEATURED CONTENT — Balanced picks from all collections  -->
+<!-- ════════════════════════════════════════════════════════ -->
+{latestPicks.length > 0 && (
+<section class="featured-section">
     <div class="container">
         <div class="section-header">
-            <span class="section-label">Latest</span>
-            <h2 class="section-title">Recently published</h2>
+            <span class="section-label">Featured</span>
+            <h2 class="section-title">Across the collection</h2>
         </div>
-        <div class="articles-grid">
-            {allContent.slice(0, 8).map((item, i) => (
-                <a href={item.href} class="article-card">
+        <div class="featured-grid">
+            {latestPicks.map((item, i) => (
+                <a href={item.href} class="featured-card">
                     {item.data.image && (
-                        <div class="article-card-img">
+                        <div class="featured-card-img">
                             <CdnImage 
                                 src={item.data.image} 
                                 alt={item.data.imageAlt || item.data.title}
-                                width={400} height={225}
+                                width={400} height={240}
                                 loading={i < 4 ? 'eager' : 'lazy'}
                                 decoding={i < 4 ? 'sync' : 'async'}
+                                class="featured-card-photo"
                             />
                         </div>
                     )}
-                    <div class="article-card-content">
-                        <div class="article-card-top">
-                            <span class="article-badge">{item.category}</span>
-                        </div>
-                        <h3 class="article-card-title">{item.data.title}</h3>
-                        <p class="article-card-desc">{item.data.description}</p>
+                    <div class="featured-card-body">
+                        <span class="featured-badge">{item.category}</span>
+                        <h3 class="featured-card-title">{item.data.title}</h3>
+                        <p class="featured-card-desc">{item.data.description}</p>
                     </div>
                 </a>
             ))}
         </div>
-        <div class="text-center mt-10">
-            <a href="/places" class="btn-outline">View all content &rarr;</a>
+        <div class="featured-cta-row">
+            <a href="/places" class="featured-cta">All places</a>
+            <a href="/routes" class="featured-cta">All routes</a>
+            <a href="/stories" class="featured-cta">All stories</a>
+            <a href="/context" class="featured-cta">All context</a>
         </div>
     </div>
 </section>
 )}
 
 
-<!-- ABOUT -->
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- ABOUT                                                   -->
+<!-- ════════════════════════════════════════════════════════ -->
 <section class="section container">
     <div class="about-block">
         <h2 class="about-heading">What is Digging Scriptures?</h2>
@@ -192,101 +255,135 @@ const sections = [
 </BaseLayout>
 
 <style>
-/* ── HERO ── */
+/* ═══════════════════════════════════════════════════════ */
+/* HERO — image-backed with dark overlay                  */
+/* ═══════════════════════════════════════════════════════ */
 .hero {
-    background: #1c1917;
-    color: #fafaf9;
     position: relative;
     overflow: hidden;
+    min-height: 420px;
+    display: flex;
+    align-items: flex-end;
 }
 
-.hero::before {
-    content: '';
+@media (min-width: 640px) { .hero { min-height: 520px; } }
+@media (min-width: 900px) { .hero { min-height: 560px; } }
+
+.hero-img-wrap {
     position: absolute;
     inset: 0;
-    background: radial-gradient(ellipse at 30% 50%, rgba(109,40,217,0.20) 0%, transparent 60%),
-                radial-gradient(ellipse at 80% 20%, rgba(153,27,27,0.10) 0%, transparent 50%);
-    pointer-events: none;
 }
 
-.hero-inner {
+.hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 40%;
+}
+
+.hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+        to top,
+        rgba(15,12,10,0.92) 0%,
+        rgba(15,12,10,0.70) 40%,
+        rgba(15,12,10,0.35) 100%
+    );
+}
+
+.hero-content {
     position: relative;
-    z-index: 1;
-    padding: 3rem 0 2.5rem;
+    z-index: 2;
+    padding: 3rem 0 2.75rem;
+    color: #fafaf9;
 }
 
-@media (min-width: 640px) {
-    .hero-inner { padding: 5rem 0 4.5rem; }
-}
-
-@media (min-width: 900px) {
-    .hero-inner { padding: 6rem 0 5.5rem; }
-}
+@media (min-width: 640px) { .hero-content { padding: 4rem 0 3.5rem; } }
+@media (min-width: 900px) { .hero-content { padding: 5rem 0 4rem; } }
 
 .hero-eyebrow {
-    font-size: 0.75rem;
-    font-weight: 500;
-    letter-spacing: 0.03em;
-    color: #8B5CF6;
-    margin-bottom: 1.25rem;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(139,92,246,0.9);
+    margin-bottom: 1rem;
 }
+
+@media (min-width: 640px) { .hero-eyebrow { font-size: 0.75rem; margin-bottom: 1.25rem; } }
 
 .hero-title {
-    font-size: clamp(1.75rem, 5vw, 3.5rem);
+    font-family: var(--font-serif);
+    font-size: clamp(1.75rem, 5vw, 3.25rem);
     font-weight: 800;
     line-height: 1.15;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.025em;
     margin-bottom: 1.25rem;
 }
 
+.hero-br { display: inline; }
+@media (min-width: 640px) { .hero-br { display: block; } }
+
 .hero-subtitle {
-    max-width: 34rem;
+    max-width: 36rem;
     font-size: 0.9375rem;
     line-height: 1.7;
-    color: #a8a29e;
+    color: rgba(168,162,158,0.9);
     margin-bottom: 2rem;
 }
 
-@media (min-width: 640px) {
-    .hero-subtitle { font-size: 1.0625rem; margin-bottom: 2.5rem; }
-}
+@media (min-width: 640px) { .hero-subtitle { font-size: 1rem; margin-bottom: 2.5rem; } }
 
-.hero-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-}
+.hero-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; }
 
-.hero-actions .btn,
-.btn-outline-hero {
-    font-size: 0.8125rem;
-    padding: 0.625rem 1.25rem;
-}
-
-@media (min-width: 640px) {
-    .hero-actions .btn,
-    .btn-outline-hero { font-size: 0.875rem; padding: 0.75rem 1.5rem; }
-}
-
-.btn-outline-hero {
+.hero-btn-primary {
     display: inline-flex;
     align-items: center;
-    gap: 0.375rem;
-    border: 1px solid rgba(250,250,249,0.2);
-    border-radius: 0.5rem;
-    color: #fafaf9;
+    padding: 0.6875rem 1.375rem;
+    background: var(--color-primary);
+    color: #faf5ff;
+    font-size: 0.8125rem;
     font-weight: 600;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 1px 3px rgba(109,40,217,0.3);
+}
+
+.hero-btn-primary:hover {
+    background: #5B21B6;
+    box-shadow: 0 4px 12px rgba(109,40,217,0.35);
+}
+
+.hero-btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.6875rem 1.375rem;
+    border: 1px solid rgba(250,250,249,0.2);
+    color: #fafaf9;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    border-radius: 0.5rem;
     text-decoration: none;
     transition: all 0.2s;
 }
 
-.btn-outline-hero:hover {
-    border-color: rgba(250,250,249,0.5);
-    background: rgba(250,250,249,0.05);
+.hero-btn-ghost:hover {
+    border-color: rgba(250,250,249,0.45);
+    background: rgba(250,250,249,0.06);
+}
+
+@media (min-width: 640px) {
+    .hero-btn-primary,
+    .hero-btn-ghost { font-size: 0.875rem; padding: 0.75rem 1.5rem; }
 }
 
 
-/* ── STATS BAR ── */
+/* ═══════════════════════════════════════════════════════ */
+/* STATS BAR                                               */
+/* ═══════════════════════════════════════════════════════ */
 .stats-bar {
     background: #ffffff;
     border-bottom: 1px solid var(--color-border);
@@ -302,11 +399,9 @@ const sections = [
     text-align: center;
 }
 
-@media (min-width: 480px) {
-    .stats-grid { grid-template-columns: repeat(4, 1fr); gap: 1rem; }
-}
+@media (min-width: 480px) { .stats-grid { grid-template-columns: repeat(4, 1fr); gap: 1rem; } }
 
-.stat-number {
+.stat-num {
     display: block;
     font-size: 1.375rem;
     font-weight: 800;
@@ -314,7 +409,7 @@ const sections = [
     letter-spacing: -0.02em;
 }
 
-@media (min-width: 640px) { .stat-number { font-size: 1.75rem; } }
+@media (min-width: 640px) { .stat-num { font-size: 1.75rem; } }
 
 .stat-label {
     font-size: 0.6875rem;
@@ -325,11 +420,10 @@ const sections = [
 }
 
 
-/* ── SECTION HEADINGS ── */
-.section-header {
-    margin-bottom: 1.5rem;
-}
-
+/* ═══════════════════════════════════════════════════════ */
+/* SECTION HEADINGS                                        */
+/* ═══════════════════════════════════════════════════════ */
+.section-header { margin-bottom: 1.5rem; }
 @media (min-width: 640px) { .section-header { margin-bottom: 2rem; } }
 
 .section-label {
@@ -352,15 +446,15 @@ const sections = [
 @media (min-width: 640px) { .section-title { font-size: 1.625rem; } }
 
 
-/* ── EXPLORE GRID ── */
+/* ═══════════════════════════════════════════════════════ */
+/* EXPLORE GRID — SVG icons instead of emoji               */
+/* ═══════════════════════════════════════════════════════ */
 .explore-grid {
     display: grid;
     gap: 0.625rem;
 }
 
-@media (min-width: 640px) {
-    .explore-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
-}
+@media (min-width: 640px) { .explore-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; } }
 
 .explore-card {
     display: flex;
@@ -375,9 +469,7 @@ const sections = [
     min-width: 0;
 }
 
-@media (min-width: 640px) {
-    .explore-card { padding: 1.25rem 1.5rem; gap: 1rem; }
-}
+@media (min-width: 640px) { .explore-card { padding: 1.25rem 1.5rem; gap: 1rem; } }
 
 .explore-card:hover {
     border-color: var(--color-primary);
@@ -393,12 +485,19 @@ const sections = [
     justify-content: center;
     background: #f5f3ff;
     border-radius: 0.625rem;
-    font-size: 1.125rem;
 }
 
-@media (min-width: 640px) {
-    .explore-icon-wrap { width: 2.75rem; height: 2.75rem; font-size: 1.25rem; }
+@media (min-width: 640px) { .explore-icon-wrap { width: 2.75rem; height: 2.75rem; } }
+
+.explore-svg {
+    width: 1.125rem;
+    height: 1.125rem;
+    color: var(--color-primary);
 }
+
+@media (min-width: 640px) { .explore-svg { width: 1.25rem; height: 1.25rem; } }
+
+.explore-text { min-width: 0; flex: 1; }
 
 .explore-name {
     font-size: 0.875rem;
@@ -428,22 +527,20 @@ const sections = [
 }
 
 
-/* ── HUB CARDS ── */
+/* ═══════════════════════════════════════════════════════ */
+/* HUB CARDS — now with images                             */
+/* ═══════════════════════════════════════════════════════ */
 .hub-grid {
     display: grid;
     gap: 0.75rem;
 }
 
-@media (min-width: 640px) {
-    .hub-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
-}
-
-@media (min-width: 900px) {
-    .hub-grid { grid-template-columns: repeat(3, 1fr); }
-}
+@media (min-width: 640px) { .hub-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } }
+@media (min-width: 900px) { .hub-grid { grid-template-columns: repeat(3, 1fr); } }
 
 .hub-card {
-    display: block;
+    display: flex;
+    flex-direction: column;
     background: #ffffff;
     border: 1px solid var(--color-border);
     border-radius: 0.75rem;
@@ -458,15 +555,23 @@ const sections = [
     transform: translateY(-2px);
 }
 
-.hub-card-accent {
-    height: 3px;
-    background: linear-gradient(90deg, #6D28D9, #991B1B);
+.hub-card-img {
+    height: 140px;
+    overflow: hidden;
 }
 
-.hub-card-body {
-    padding: 1.25rem;
+@media (min-width: 640px) { .hub-card-img { height: 160px; } }
+
+.hub-card-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
 }
 
+.hub-card:hover .hub-card-photo { transform: scale(1.05); }
+
+.hub-card-body { padding: 1.25rem; }
 @media (min-width: 640px) { .hub-card-body { padding: 1.5rem; } }
 
 .hub-card-title {
@@ -497,35 +602,30 @@ const sections = [
     transition: color 0.2s;
 }
 
-.hub-card:hover .hub-card-link {
-    color: var(--color-accent);
-}
+.hub-card:hover .hub-card-link { color: var(--color-accent); }
 
 
-/* ── LATEST ARTICLES ── */
-.latest-section {
+/* ═══════════════════════════════════════════════════════ */
+/* FEATURED CONTENT — balanced picks from all collections  */
+/* ═══════════════════════════════════════════════════════ */
+.featured-section {
     background: #ffffff;
     padding: 2.5rem 0;
     border-top: 1px solid var(--color-border);
     border-bottom: 1px solid var(--color-border);
 }
 
-@media (min-width: 640px) { .latest-section { padding: 4rem 0; } }
+@media (min-width: 640px) { .featured-section { padding: 4rem 0; } }
 
-.articles-grid {
+.featured-grid {
     display: grid;
     gap: 0.75rem;
 }
 
-@media (min-width: 480px) {
-    .articles-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
-}
+@media (min-width: 480px) { .featured-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } }
+@media (min-width: 900px) { .featured-grid { grid-template-columns: repeat(4, 1fr); } }
 
-@media (min-width: 900px) {
-    .articles-grid { grid-template-columns: repeat(4, 1fr); }
-}
-
-.article-card {
+.featured-card {
     display: flex;
     flex-direction: column;
     background: var(--color-surface);
@@ -536,44 +636,33 @@ const sections = [
     overflow: hidden;
 }
 
-.article-card:hover {
+.featured-card:hover {
     border-color: var(--color-primary);
     background: #ffffff;
     box-shadow: 0 4px 16px rgba(0,0,0,0.06);
 }
 
-.article-card-img {
+.featured-card-img {
     width: 100%;
     height: 140px;
     overflow: hidden;
 }
 
-@media (min-width: 640px) { .article-card-img { height: 160px; } }
+@media (min-width: 640px) { .featured-card-img { height: 160px; } }
 
-.article-card-img img {
+.featured-card-photo {
     width: 100%;
     height: 100%;
     object-fit: cover;
     transition: transform 0.3s;
 }
 
-.article-card:hover .article-card-img img {
-    transform: scale(1.05);
-}
+.featured-card:hover .featured-card-photo { transform: scale(1.05); }
 
-.article-card-content {
-    padding: 1rem;
-}
+.featured-card-body { padding: 1rem; }
+@media (min-width: 640px) { .featured-card-body { padding: 1.25rem; } }
 
-@media (min-width: 640px) { .article-card-content { padding: 1.25rem; } }
-
-.article-card-top {
-    margin-bottom: 0.5rem;
-}
-
-@media (min-width: 640px) { .article-card-top { margin-bottom: 0.75rem; } }
-
-.article-badge {
+.featured-badge {
     display: inline-block;
     font-size: 0.625rem;
     font-weight: 600;
@@ -583,13 +672,12 @@ const sections = [
     border-radius: 0.375rem;
     background: #f5f3ff;
     color: #6D28D9;
+    margin-bottom: 0.5rem;
 }
 
-@media (min-width: 640px) {
-    .article-badge { font-size: 0.6875rem; padding: 0.25rem 0.5rem; }
-}
+@media (min-width: 640px) { .featured-badge { font-size: 0.6875rem; padding: 0.25rem 0.5rem; margin-bottom: 0.75rem; } }
 
-.article-card-title {
+.featured-card-title {
     font-size: 0.875rem;
     font-weight: 700;
     color: var(--color-text-dark);
@@ -597,11 +685,9 @@ const sections = [
     line-height: 1.3;
 }
 
-@media (min-width: 640px) {
-    .article-card-title { font-size: 0.9375rem; margin-bottom: 0.375rem; }
-}
+@media (min-width: 640px) { .featured-card-title { font-size: 0.9375rem; margin-bottom: 0.375rem; } }
 
-.article-card-desc {
+.featured-card-desc {
     font-size: 0.75rem;
     color: var(--color-text-muted);
     line-height: 1.5;
@@ -611,13 +697,42 @@ const sections = [
     overflow: hidden;
 }
 
-@media (min-width: 640px) { .article-card-desc { font-size: 0.8125rem; } }
+@media (min-width: 640px) { .featured-card-desc { font-size: 0.8125rem; } }
 
-
-/* ── ABOUT ── */
-.about-block {
-    max-width: 48rem;
+.featured-cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 2rem;
 }
+
+@media (min-width: 640px) { .featured-cta-row { gap: 0.75rem; margin-top: 2.5rem; } }
+
+.featured-cta {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1.25rem;
+    border: 1.5px solid var(--color-border);
+    border-radius: 2rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.featured-cta:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    background: #f5f3ff;
+}
+
+
+/* ═══════════════════════════════════════════════════════ */
+/* ABOUT                                                   */
+/* ═══════════════════════════════════════════════════════ */
+.about-block { max-width: 48rem; }
 
 .about-heading {
     font-size: 1.25rem;
@@ -630,18 +745,14 @@ const sections = [
     display: inline-block;
 }
 
-@media (min-width: 640px) {
-    .about-heading { font-size: 1.375rem; margin-bottom: 1.25rem; padding-bottom: 1rem; }
-}
+@media (min-width: 640px) { .about-heading { font-size: 1.375rem; margin-bottom: 1.25rem; padding-bottom: 1rem; } }
 
 .about-cols {
     display: grid;
     gap: 1rem;
 }
 
-@media (min-width: 640px) {
-    .about-cols { grid-template-columns: 1fr 1fr; gap: 2rem; }
-}
+@media (min-width: 640px) { .about-cols { grid-template-columns: 1fr 1fr; gap: 2rem; } }
 
 .about-cols p {
     font-size: 0.875rem;
