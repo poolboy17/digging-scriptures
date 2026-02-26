@@ -25,6 +25,13 @@ Sarnath is where Buddhism became a teaching rather than a private realization. A
 
 The first discourse, known as the Dhammacakkappavattana Sutta (Setting the Wheel of Dharma in Motion), laid out the framework that would define Buddhist thought: the Middle Way between indulgence and extreme asceticism, the Four Noble Truths concerning the nature and cessation of suffering, and the Eightfold Path of ethical conduct, mental discipline, and wisdom. The five ascetics became the first members of the Sangha, the Buddhist monastic community, making Sarnath the birthplace not only of Buddhist teaching but of Buddhism as an organized tradition.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=800" alt="Archaeological ruins of ancient monasteries at Sarnath" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Archaeological ruins of ancient monasteries at Sarnath</figcaption>
+</figure>
+
+
 The Emperor Ashoka visited Sarnath in the third century BCE and erected a polished sandstone pillar crowned with four lions — a sculpture that became the national emblem of modern India. He also commissioned the construction of a stupa and several monasteries, establishing Sarnath as one of the great centers of Buddhist learning and devotion. During the Gupta period (fourth to sixth centuries CE), Sarnath flourished as a major monastic complex, housing an estimated fifteen hundred monks and supporting sophisticated artistic production. The Dhamek Stupa, the massive cylindrical structure that dominates the site today, dates substantially to this period, though it encases an earlier Ashokan core.
 
 Sarnath declined with the broader retreat of Buddhism from the Indian subcontinent. The monasteries were damaged during Turkic invasions in the twelfth century, and the site gradually fell into ruin. Systematic archaeological excavation began under Alexander Cunningham in the 1830s and continued through the nineteenth and twentieth centuries, uncovering the foundations of monasteries, temples, and stupas that now constitute the archaeological park. Anagarika Dharmapala, the Sri Lankan Buddhist reformer who also campaigned for the restoration of Bodh Gaya, established the Maha Bodhi Society at Sarnath in 1931, beginning the process of returning the site to active Buddhist use.
@@ -46,6 +53,13 @@ The relationship between Sarnath and neighboring Varanasi creates an unusual jux
 <Fragment slot="features">
 
 The Dhamek Stupa is Sarnath's most prominent monument, a cylindrical structure rising approximately forty-three meters with a diameter of nearly twenty-eight meters at its base. The lower sections feature carved bands of geometric and floral ornamentation dating to the Gupta period — among the finest surviving examples of Gupta decorative sculpture. The stupa's massive, unadorned upper drum gives it a quality of austere solidity that distinguishes it from the more elaborate stupas of Southeast Asia. No internal chamber has been found, and the stupa is understood as a solid monument marking the approximate location of the first sermon.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=800" alt="The Ashoka lion capital from Sarnath, now India's national emblem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Ashoka lion capital from Sarnath, now India's national emblem</figcaption>
+</figure>
+
 
 The Ashoka Pillar, though now broken, remains one of the most historically significant objects at the site. The lion capital — four Asiatic lions standing back to back on an abacus decorated with a horse, bull, elephant, and lion separated by dharma wheels — was adopted as the State Emblem of India upon independence in 1947. The capital is now housed in the Sarnath Archaeological Museum and is among the most reproduced works of Indian art, appearing on every Indian banknote and official document. The dharma wheel from the abacus appears at the center of the Indian national flag.
 

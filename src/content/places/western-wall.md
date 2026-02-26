@@ -25,6 +25,13 @@ The Western Wall (HaKotel HaMa'aravi) is a section of the ancient retaining wall
 
 The wall's transformation from structural remnant to Judaism's holiest site occurred gradually over centuries. After the Bar Kokhba revolt (132-135 CE), the Emperor Hadrian expelled Jews from Jerusalem, and access to the Temple Mount area was severely restricted. As Jews returned in limited numbers during later periods, they gathered at the nearest accessible point to where the Temple had stood—the western retaining wall—to mourn the destruction and pray for restoration.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=800" alt="Worshippers praying at the Western Wall in Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Worshippers praying at the Western Wall in Jerusalem</figcaption>
+</figure>
+
+
 By the Ottoman period (1517-1917), the section of wall used for Jewish prayer measured approximately twenty-eight meters in length, bordered by an alley less than four meters wide. This cramped space, in the shadow of buildings from the Mughrabi quarter, served as the primary venue for Jewish communal prayer at the site for four centuries. The wall acquired the name "Wailing Wall" among European observers, a reference to the visible grief of Jewish worshippers mourning the Temple's destruction—a term that Jews themselves generally consider inappropriate.
 
 Following the 1948 Arab-Israeli War, Jordan controlled East Jerusalem, and Jews were denied access to the Western Wall for nineteen years. Israel's capture of the Old City in June 1967 restored Jewish access. Within days, the Israeli government demolished the Mughrabi quarter adjacent to the wall, creating the large prayer plaza that exists today and exposing additional courses of Herodian stonework that had been hidden behind buildings for centuries.
@@ -36,6 +43,13 @@ Following the 1948 Arab-Israeli War, Jordan controlled East Jerusalem, and Jews 
 The Western Wall's sanctity derives not from the wall itself but from its proximity to the Temple Mount—specifically, to the site of the Holy of Holies (Kodesh HaKodashim), the innermost chamber of the Temple where the Ark of the Covenant was housed and where the divine presence was understood to dwell. Talmudic tradition states that "the Divine Presence (Shekhinah) has never departed from the Western Wall," a teaching that attributes ongoing sacred status to the site even in the Temple's absence.
 
 The practice of inserting written prayers (kvitlach) into crevices between the wall's stones has become one of the most recognized features of Western Wall worship. The origins of this practice are unclear—some scholars trace it to the eighteenth century—but it has become so widespread that the notes are collected twice a year and buried on the Mount of Olives in accordance with the principle that written prayers and sacred texts should not be destroyed.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=800" alt="The Western Wall plaza with the golden Dome of the Rock above" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Western Wall plaza with the golden Dome of the Rock above</figcaption>
+</figure>
+
 
 The wall plaza is divided into separate sections for men and women, a partition reflecting Orthodox Jewish law (halakha) regarding mixed-gender worship spaces. This arrangement has generated significant controversy, with Reform and Conservative Jewish movements advocating for egalitarian prayer space. A compromise section at Robinson's Arch, south of the main plaza, provides space for non-Orthodox worship, though disputes over its status and adequacy continue.
 

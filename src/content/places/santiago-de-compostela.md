@@ -27,6 +27,13 @@ imageCredit: "Photo by Linda Cunningham on Unsplash"
 
 Santiago de Compostela became one of the three great pilgrimage destinations of medieval Christendom through a reported discovery in the early ninth century. According to tradition, a hermit named Pelayo followed mysterious lights to a field where he found a tomb containing human remains. The local bishop identified these as the relics of Saint James the Greater, one of the twelve apostles, who Spanish tradition held had preached in Iberia before his martyrdom in Jerusalem around 44 CE.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=800" alt="The ornate Baroque facade of Santiago de Compostela Cathedral" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The ornate Baroque facade of Santiago de Compostela Cathedral</figcaption>
+</figure>
+
+
 The historical basis for James's presence in Spain remains uncertain, and scholarly debate continues regarding the origins of the shrine. What is documented is the rapid growth of the cult from the ninth century onward. The Asturian kings of the Christian territories in northwestern Iberia provided royal patronage, constructing a succession of churches over the relics. The shrine's fame spread throughout Europe through ecclesiastical networks, pilgrims' accounts, and deliberate promotion.
 
 The shrine's rise occurred during the centuries of conflict between Christian and Muslim powers in Iberia. Saint James became associated with Christian military efforts, reportedly appearing on battlefields and acquiring the epithet Matamoros. This martial dimension of the Santiago cult, inseparable from its medieval development, has become uncomfortable for many contemporary observers. The historical record shows how pilgrimage, politics, and warfare intertwined in ways that resist simple characterization.
@@ -42,6 +49,13 @@ The Reformation reduced pilgrimage throughout northern Europe, though Santiago, 
 ## Religious and Cultural Traditions
 
 The Cathedral of Santiago de Compostela houses the relics of Saint James in a silver reliquary beneath the main altar. The building that shelters them represents over nine centuries of construction and modification, creating a complex architectural record of the shrine's development. The Romanesque structure begun in 1075 remains substantially intact beneath baroque additions and modifications that significantly altered the building's exterior appearance.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=800" alt="The cathedral nave where pilgrims gather after completing the Camino" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The cathedral nave where pilgrims gather after completing the Camino</figcaption>
+</figure>
+
 
 The pilgrim arriving at Santiago traditionally performs several ritual actions marking the journey's completion. The embrace of the medieval statue of Saint James, positioned behind and above the main altar and reached by ascending stairs, physically connects the pilgrim to the object of devotion. Pilgrims have placed their hands on the marble pillar below this statue for so long that their fingers have worn visible grooves into the stone. The descent to the crypt permits close approach to the silver chest containing the relics. These gestures—the embrace, the veneration of relics—have marked pilgrimage completion for centuries.
 

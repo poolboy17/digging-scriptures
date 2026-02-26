@@ -26,6 +26,13 @@ Rome's status as a Christian pilgrimage destination rests on two foundational cl
 
 The transformation of Rome from imperial capital to Christian pilgrimage center occurred gradually over the fourth and fifth centuries. Constantine's legalization of Christianity in 313 CE and his subsequent construction of basilicas over the traditional sites of Peter's and Paul's burials created the architectural framework for pilgrimage. The Basilica of St. Peter, the Basilica of St. Paul Outside the Walls, and the Basilica of St. John Lateran — the cathedral of Rome — became the primary destinations for those seeking proximity to apostolic authority.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=800" alt="The grand interior of St. Peter's Basilica in Vatican City" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The grand interior of St. Peter's Basilica in Vatican City</figcaption>
+</figure>
+
+
 The cult of martyrs amplified Rome's pilgrim appeal enormously. The Roman catacombs, underground burial networks used by early Christians, contained the remains of thousands of martyrs whose suffering during imperial persecutions gave them intercessory power in the eyes of the faithful. The itineraries compiled for seventh-century pilgrims reveal elaborate circuits of catacomb visits, each stop associated with specific saints and the miracles attributed to them.
 
 Medieval pilgrimage to Rome peaked during Jubilee Years, first declared by Pope Boniface VIII in 1300. The Jubilee offered a plenary indulgence — complete remission of temporal punishment for sins — to those who visited Rome's major basilicas during the designated year. The first Jubilee drew an estimated two million visitors, overwhelming the city's infrastructure and demonstrating the extraordinary drawing power of spiritual incentives. Subsequent Jubilees, initially held every century and later every twenty-five years, continued to generate massive pilgrim flows that reshaped the city's economy and urban fabric.
@@ -39,6 +46,13 @@ The Counter-Reformation of the sixteenth and seventeenth centuries produced a re
 The Vatican, an independent city-state of forty-four hectares, serves as the administrative and spiritual center of the Roman Catholic Church and its approximately 1.3 billion members. The Pope's role as Bishop of Rome links the institution to the apostolic succession traced from Peter, making the Vatican not merely an administrative headquarters but a site of living sacred authority that pilgrims come to witness firsthand.
 
 St. Peter's Basilica, completed in its current form in 1626 after more than a century of construction, ranks among the largest churches in the world. Its design reflects contributions from Bramante, Michelangelo, Maderno, and Bernini, each architect adding elements that collectively create one of the most recognizable buildings on earth. Michelangelo's dome, rising 136 meters above the floor, dominates the Roman skyline and serves as a visual beacon for approaching pilgrims just as it has for centuries.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=800" alt="Ancient Roman catacombs beneath the city" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Ancient Roman catacombs beneath the city</figcaption>
+</figure>
+
 
 The Sistine Chapel, within the Vatican Palace complex, houses Michelangelo's ceiling frescoes (1508–1512) and his Last Judgment (1536–1541), works that rank among the supreme achievements of Western art. The chapel serves as the venue for papal conclaves, connecting artistic legacy with institutional continuity. Pilgrims and visitors queue daily for admission, the experience of viewing the ceiling combining aesthetic wonder with the weight of centuries of prayer and deliberation conducted beneath it.
 

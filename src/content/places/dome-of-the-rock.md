@@ -26,6 +26,13 @@ The Dome of the Rock was completed in 691-692 CE under the Umayyad caliph Abd al
 
 The Foundation Stone carries layered meanings. In Jewish tradition, it is the Even ha-Shetiyah, the foundation stone of creation and the site where Abraham prepared to sacrifice Isaac (the Aqedah). In Islamic tradition, it is the point from which the Prophet Muhammad ascended through the heavens during the Isra and Mi'raj, the night journey described in the Quran's seventeenth surah. The stone thus anchors two distinct but interconnected sacred narratives within a single physical location.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=800" alt="Intricate blue and turquoise tilework on the Dome of the Rock" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Intricate blue and turquoise tilework on the Dome of the Rock</figcaption>
+</figure>
+
+
 Abd al-Malik's motivations have been debated by historians. Some scholars, following the tenth-century geographer al-Muqaddasi, suggest he sought to create a monument rivaling the Church of the Holy Sepulchre. Others emphasize political motivations: asserting Umayyad legitimacy during a period when a rival caliph controlled Mecca. More recent scholarship suggests the building was conceived primarily as a commemorative shrine celebrating Islam's relationship to the Abrahamic tradition and Jerusalem's sacred geography.
 
 The Crusaders captured Jerusalem in 1099 and converted the Dome of the Rock into a church, the Templum Domini, adding an altar and a cross atop the dome. Saladin's reconquest in 1187 restored the building to Islamic use, and he commissioned extensive renovations including the removal of Christian additions and the restoration of Islamic inscriptions. The Mamluks and Ottomans maintained the structure, with Sultan Suleiman the Magnificent undertaking a major renovation in the sixteenth century that included the ceramic tile exterior that largely survives today.
@@ -49,6 +56,13 @@ The building's golden dome—originally lead-covered, gilded in 1994 with eighty
 The Dome of the Rock's octagonal plan, approximately twenty meters per side, supports a dome approximately twenty meters in diameter rising to a height of thirty-five meters above the platform. The design reflects late antique architectural traditions, drawing on Byzantine centrally planned buildings while creating something distinctly new. The double-ambulatory plan—two concentric walkways around the central rock—guides visitors in circumambulation, a practice that parallels the tawaf around the Kaaba.
 
 The exterior is clad in ceramic tiles installed during Suleiman the Magnificent's renovation, replacing the original glass mosaic. The tiles, predominantly blue, green, and white with geometric and floral patterns, create a surface that shifts in appearance with changing light. The upper register bears Quranic inscriptions in gold on a blue ground, including passages from Surah Ya Sin and Surah al-Isra that reference the night journey and the unity of God.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=800" alt="The gold mosaic interior of the Dome of the Rock" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The gold mosaic interior of the Dome of the Rock</figcaption>
+</figure>
+
 
 The interior preserves the original seventh-century mosaic program—the oldest surviving large-scale Islamic mosaic decoration. The mosaics feature crowns, jewels, and vegetation on gold ground, with inscriptions that include the earliest known written Quranic passages. Notably, some inscriptions address Christians directly, affirming Jesus as a prophet while denying the Trinity and the divinity of Christ. Art historians consider these mosaics among the supreme achievements of early Islamic art.
 

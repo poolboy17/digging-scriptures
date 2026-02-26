@@ -26,6 +26,13 @@ Mecca's sacred status predates Islam by centuries. The city occupied a strategic
 
 The Prophet Muhammad was born in Mecca around 570 CE and received his first revelations there around 610 CE. His message of monotheism and social justice met resistance from the Quraysh, the tribe that controlled the city and profited from the pilgrimage trade. Muhammad's emigration to Medina in 622 CE (the Hijra) marked the beginning of the Islamic calendar, and his return to Mecca in 630 CE—achieved largely without bloodshed—established Muslim control over the city and its sacred precinct. Muhammad cleansed the Kaaba of its idols and rededicated it to the worship of the one God, transforming a polytheistic pilgrimage center into the focal point of Islamic monotheism.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmecca-tawaf.jpg&w=800" alt="Pilgrims circling the Kaaba during the Hajj pilgrimage" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims circling the Kaaba during the Hajj pilgrimage</figcaption>
+</figure>
+
+
 Under the early caliphates, Mecca's religious infrastructure expanded. The Umayyad and Abbasid dynasties enlarged the Masjid al-Haram (the Sacred Mosque) surrounding the Kaaba. The Ottoman Empire, which controlled Mecca from 1517 to 1916, undertook further renovations. The most dramatic transformations came under Saudi rule in the twentieth and twenty-first centuries, with massive expansion projects that increased the mosque's capacity from tens of thousands to over two million worshippers.
 </Fragment>
 
@@ -34,6 +41,13 @@ Under the early caliphates, Mecca's religious infrastructure expanded. The Umayy
 Mecca is unique among the world's sacred cities in one crucial respect: non-Muslims are prohibited from entering the city. This restriction, based on Quranic interpretation and enforced by Saudi law, means that Mecca exists as a space exclusively devoted to Muslim worship and pilgrimage. The boundary (haram) around the city is marked by checkpoints, and visitors must present documentation of their Muslim faith to proceed.
 
 The experience of approaching Mecca has been described by pilgrims across centuries as overwhelming. The first sight of the Kaaba—usually upon entering the Masjid al-Haram through one of its many gates—produces a response that travelers from Ibn Battuta in the fourteenth century to Malcolm X in the twentieth have struggled to articulate. The physical encounter with a structure that has oriented every prayer and symbolized the unity of the Muslim community generates emotions that combine the personal and the communal in ways few other pilgrimages achieve.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmecca-night.jpg&w=800" alt="The Grand Mosque in Mecca illuminated at night" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Grand Mosque in Mecca illuminated at night</figcaption>
+</figure>
+
 
 The ihram state, entered before reaching Mecca's boundary, equalizes all pilgrims. Men don two white unsewn cloths; women wear modest clothing with faces uncovered. The physical uniformity erases visible markers of wealth and status, enacting a theology of equality before God. The talbiyah—a prayer chanted continuously during the approach—declares the pilgrim's response to God's call: "Here I am, O God, here I am."
 

@@ -39,6 +39,13 @@ Jewish women have maintained a particularly strong devotional attachment to Rach
 
 The custom of wrapping a red thread around the tomb seven times and then wearing it as a bracelet became widely popular in the late twentieth century, partly through the influence of Kabbalistic communities. The thread is understood to carry Rachel's protective blessing, particularly for expectant mothers. While some rabbinic authorities dismiss the practice as superstition, its popularity has only grown, and the red thread has become one of the most recognizable symbols of popular Jewish devotion.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=800" alt="A woman praying by candlelight at a sacred tomb" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A woman praying by candlelight at a sacred tomb</figcaption>
+</figure>
+
+
 The eleventh of the Hebrew month of Cheshvan, traditionally identified as the anniversary of Rachel's death, draws the largest annual gathering. Tens of thousands of worshippers visit the tomb throughout the day and night, with continuous psalm recitation and communal prayer. The atmosphere combines the intimacy of personal petition — women pressing their hands against the tomb's covering, whispering their requests — with the collective energy of mass pilgrimage.
 
 Rachel's position in Jewish theology extends beyond her role as matriarch. In Kabbalistic thought, she is identified with the Shekhinah, the feminine aspect of the divine presence that accompanies Israel in exile. Praying at her tomb is thus understood not merely as visiting an ancestral grave but as communing with an aspect of the divine that shares in human suffering and advocates for mercy. This theological layer gives Rachel's Tomb a depth of meaning that elevates it beyond historical commemoration into active spiritual encounter.

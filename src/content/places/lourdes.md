@@ -25,6 +25,13 @@ In 1858, a fourteen-year-old girl named Bernadette Soubirous reported eighteen v
 
 The ecclesiastical investigation, conducted by the Bishop of Tarbes between 1858 and 1862, ultimately endorsed the authenticity of the apparitions. This official recognition, combined with reported healings associated with the spring water, transformed Lourdes from an obscure Pyrenean market town into one of the most visited pilgrimage destinations in the Catholic world. By the late nineteenth century, the development of the railway system enabled mass pilgrimage to the site on a scale previously impossible, and the construction of basilicas above and around the grotto created the architectural framework for organized worship.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=800" alt="The grotto at Lourdes where Bernadette reported her visions" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The grotto at Lourdes where Bernadette reported her visions</figcaption>
+</figure>
+
+
 The Basilica of the Immaculate Conception, completed in 1871, rises directly above the grotto in a neo-Gothic style that announces the site's significance from a distance. The Basilica of the Rosary, built below it in a neo-Byzantine design and completed in 1889, provided additional capacity for the growing numbers of pilgrims arriving by rail. The underground Basilica of St. Pius X, consecrated in 1958 for the centenary of the apparitions, accommodates up to 25,000 worshippers in a single vast space — one of the largest church interiors in the world, designed to handle the scale of modern mass pilgrimage.
 
 The Medical Bureau of Lourdes, established in 1883, provides a unique institutional mechanism for evaluating reported healings. Physicians of any faith or none may participate in the examination process, lending it a transparency unusual in religious contexts. Of the thousands of reported cures, the Church has officially recognized seventy as miraculous — a notably conservative number that reflects rigorous medical and theological scrutiny rather than uncritical acceptance. The most recent recognized miracle occurred in 2018, involving a French nun's recovery from a debilitating neurological condition.
@@ -38,6 +45,13 @@ Bernadette Soubirous herself left Lourdes in 1866, entering the Sisters of Chari
 Lourdes receives approximately six million visitors annually, making it, after Paris, the second most visited destination in France by some measures. The pilgrim population includes a significant proportion of sick and disabled individuals who come seeking healing — physical, emotional, or spiritual. The organized assistance provided to these pilgrims by volunteer helpers known as brancardiers and handmaids constitutes one of the most distinctive features of the Lourdes experience, creating a community where service to the vulnerable takes visible precedence.
 
 The International Military Pilgrimage, held annually since 1958, brings military personnel from dozens of countries to Lourdes, creating one of the more unexpected dimensions of the site's pilgrim constituency. The Order of Malta, various Catholic hospital orders, and diocesan pilgrimage organizations coordinate group visits throughout the pilgrimage season, which runs from April through October, each bringing their own liturgical traditions and communal practices.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=800" alt="The Basilica of Our Lady of the Rosary at Lourdes" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Basilica of Our Lady of the Rosary at Lourdes</figcaption>
+</figure>
+
 
 Water from the Lourdes spring plays a central role in pilgrim devotion. The baths, where pilgrims are immersed in the spring water, represent one of the most characteristic Lourdes practices. The experience of being lowered into cold water by volunteer attendants while reciting prayers creates a ritual of vulnerability and trust that many pilgrims describe as profoundly moving regardless of whether physical healing results. The water itself has been tested repeatedly and found to contain no unusual mineral or chemical properties — whatever its significance, science has not identified a physical mechanism for the reported healings.
 

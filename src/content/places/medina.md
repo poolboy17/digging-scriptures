@@ -26,6 +26,13 @@ Medina—originally known as Yathrib—entered Islamic history in 622 CE when th
 
 Muhammad's first act upon arrival was to establish a mosque, initially a simple structure of palm trunks and mud brick with a courtyard open to the sky. This building, al-Masjid an-Nabawi (the Prophet's Mosque), served simultaneously as a place of worship, a community center, a court of law, and eventually the Prophet's residence. When Muhammad died in 632 CE, he was buried in the room of his wife Aisha, adjacent to the mosque—a decision that permanently fused the mosque with the Prophet's tomb and established Medina's enduring sacred status.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=800" alt="The Prophet's Mosque in Medina with its distinctive green dome" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Prophet's Mosque in Medina with its distinctive green dome</figcaption>
+</figure>
+
+
 The first four caliphs—Abu Bakr, Umar, Uthman, and Ali—governed the expanding Islamic empire from Medina, though Ali later moved the capital to Kufa. Abu Bakr and Umar were buried alongside Muhammad in Aisha's chamber, creating a site of triple veneration. The Umayyad dynasty's transfer of the capital to Damascus in 661 CE diminished Medina's political importance but did nothing to reduce its spiritual significance. The city remained a center of Islamic scholarship, with the great legal traditions of Imam Malik ibn Anas developing there in the eighth century.
 
 </Fragment>
@@ -34,6 +41,13 @@ The first four caliphs—Abu Bakr, Umar, Uthman, and Ali—governed the expandin
 Visiting Medina, while not a formal requirement of the Hajj, is strongly encouraged in Islamic tradition and nearly universally undertaken by pilgrims traveling to Mecca. The Prophet Muhammad himself said, "Whoever visits my grave, my intercession becomes guaranteed for him," though the authenticity of this hadith is debated among scholars. The practice of visiting the Prophet's Mosque and offering salutations at his tomb constitutes one of the most emotionally significant acts of Muslim devotion.
 
 The Prophet's Mosque occupies a unique position in Islamic sacred geography. It is one of three mosques to which the Prophet specifically encouraged travel—the others being the Masjid al-Haram in Mecca and al-Aqsa Mosque in Jerusalem. Prayer in the Prophet's Mosque is understood to carry a thousand times the reward of prayer elsewhere (excepting Mecca), a hadith that incentivizes worship there beyond the visit to the tomb itself.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=800" alt="The columned interior of the Prophet's Mosque in Medina" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The columned interior of the Prophet's Mosque in Medina</figcaption>
+</figure>
+
 
 The Rawdah—a section of the mosque between the Prophet's tomb and his pulpit (minbar)—is considered one of the gardens of Paradise, based on a hadith in which Muhammad described it as such. This relatively small area, marked by green carpet distinguishing it from the red carpet of the surrounding mosque, draws intense devotion. Pilgrims seek to pray within the Rawdah, though access is regulated due to crowding, with specific times allocated for men and women.
 

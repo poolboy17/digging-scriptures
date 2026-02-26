@@ -27,6 +27,13 @@ The Old City of Jerusalem occupies less than one square kilometer, yet within th
 
 The city's sacred status predates Christianity. As the location of Solomon's Temple and the center of ancient Israelite worship, Jerusalem was already a pilgrimage city when Jesus traveled there for festivals described in the gospels. The destruction of the Second Temple by Roman forces in 70 CE transformed both the city and the religious traditions connected to it.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=800" alt="The interior of the Church of the Holy Sepulchre in Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The interior of the Church of the Holy Sepulchre in Jerusalem</figcaption>
+</figure>
+
+
 The Romans rebuilt Jerusalem as Aelia Capitolina following the Bar Kokhba revolt of 132-135 CE, constructing pagan temples over Jewish and early Christian sacred sites. This period of suppression lasted until the conversion of Emperor Constantine in the early fourth century. Constantine's mother Helena traveled to Jerusalem around 326-328 CE, traditionally credited with identifying the sites of the crucifixion and burial of Christ beneath the Roman temple of Venus.
 
 Constantine ordered the construction of the Church of the Holy Sepulchre over these sites, creating the structure that remains the focal point of Christian pilgrimage to Jerusalem. The original fourth-century building underwent destruction and reconstruction multiple times, most notably following its demolition by the Fatimid caliph al-Hakim in 1009. The current structure dates substantially from the Crusader period of the twelfth century, with subsequent modifications by various communities.
@@ -40,6 +47,13 @@ The city passed through many hands over subsequent centuries: Byzantine, Persian
 The Old City is divided into four quarters: Christian, Muslim, Jewish, and Armenian. This division, formalized during the Ottoman period, reflects the complex religious geography of the city, though the boundaries have shifted over time and the quarters were never entirely homogeneous.
 
 The Christian Quarter clusters around the Church of the Holy Sepulchre, containing numerous churches, monasteries, and hospices built to serve pilgrims over the centuries. The Greek Orthodox, Roman Catholic, Armenian Apostolic, Coptic, Ethiopian, and Syriac Orthodox churches all maintain presence within or near the Holy Sepulchre, their rights and territories within the building governed by the Status Quo arrangement dating from the Ottoman period.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=800" alt="Narrow stone streets of Jerusalem's Old City" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Narrow stone streets of Jerusalem's Old City</figcaption>
+</figure>
+
 
 The Via Dolorosa, the path traditionally believed to trace Jesus's route from condemnation to crucifixion, winds through the Muslim Quarter before reaching the Holy Sepulchre. This processional way developed over centuries, with stations marking events described in the gospels and Christian tradition. The current route dates from the eighteenth century, though earlier pilgrims followed different paths reflecting different understandings of the city's sacred geography.
 

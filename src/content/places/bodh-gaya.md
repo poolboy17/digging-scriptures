@@ -25,6 +25,13 @@ Bodh Gaya marks the location where Siddhartha Gautama, after years of ascetic pr
 
 The Emperor Ashoka visited Bodh Gaya in the third century BCE and is credited with constructing the first shrine at the site. The original Bodhi Tree—or its immediate successor—was reportedly destroyed and replanted multiple times during political upheavals. A cutting from the tree was sent to Sri Lanka in the third century BCE by Ashoka's daughter Sanghamitta, and that tree (the Jaya Sri Maha Bodhi in Anuradhapura) survives, making it one of the oldest verified human-planted trees in the world. The tree currently standing at Bodh Gaya is understood to be a descendant of the original.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=800" alt="The Bodhi Tree at Bodh Gaya, where pilgrims meditate beneath its branches" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Bodhi Tree at Bodh Gaya, where pilgrims meditate beneath its branches</figcaption>
+</figure>
+
+
 The Mahabodhi Temple, the pyramidal structure that dominates the site today, dates substantially from the fifth to sixth century CE, though it incorporates elements from earlier periods and has undergone multiple restorations. The temple fell into disuse following the decline of Buddhism in India, and by the nineteenth century, the site was managed by a Hindu Shaivite monastery. The British archaeologist Alexander Cunningham's investigations in the 1880s and subsequent advocacy by the Sri Lankan Buddhist leader Anagarika Dharmapala led to a restoration campaign and eventually to the establishment of joint Buddhist-Hindu management through the Bodh Gaya Temple Management Committee, formalized by Indian legislation in 1949.
 
 UNESCO designated the Mahabodhi Temple Complex a World Heritage Site in 2002, recognizing it as "one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment."
@@ -36,6 +43,13 @@ UNESCO designated the Mahabodhi Temple Complex a World Heritage Site in 2002, re
 Bodh Gaya is unique among Buddhist pilgrimage sites in attracting devotees from every Buddhist tradition. Theravada Buddhists from Sri Lanka, Myanmar, and Thailand; Mahayana Buddhists from China, Korea, and Vietnam; Vajrayana Buddhists from Tibet, Bhutan, and Mongolia—all regard Bodh Gaya as the supreme sacred site. This ecumenical significance is reflected in the monasteries and temples built by Buddhist communities from across Asia surrounding the Mahabodhi Temple, creating an international Buddhist precinct unlike any other.
 
 The Tibetan Buddhist community maintains a particularly strong presence, partly because the fourteenth Dalai Lama conducts teachings at Bodh Gaya annually, attracting tens of thousands of followers. The Kalachakra initiation, a major Vajrayana ceremony that the Dalai Lama has performed at Bodh Gaya multiple times, has drawn crowds exceeding 200,000—transforming the small town into a temporary city of tents, prayer flags, and chanting.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=800" alt="Buddhist monks gathering for ceremony at the Mahabodhi Temple complex" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Buddhist monks gathering for ceremony at the Mahabodhi Temple complex</figcaption>
+</figure>
+
 
 Meditation practice is central to the Bodh Gaya pilgrim experience. Many visitors come not merely to see the site but to meditate where the Buddha meditated, understanding physical presence at the location as supporting their own contemplative practice. Meditation retreats offered by various Buddhist organizations provide structured opportunities for intensive practice, some lasting several weeks. The Mahabodhi Temple's inner courtyard, where the Bodhi Tree casts dappled shade over meditating figures at all hours, embodies the continuity between the Buddha's practice and that of contemporary practitioners.
 

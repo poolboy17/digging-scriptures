@@ -25,6 +25,13 @@ Lumbini preserves the site where, according to Buddhist tradition, Queen Maya De
 
 The site's identification rests on archaeological evidence of unusual strength. The Emperor Ashoka visited Lumbini around 249 BCE and erected a sandstone pillar inscribed in Brahmi script: "Here the Buddha, the Sage of the Shakyas, was born." This inscription, rediscovered in 1896 by the German archaeologist Alois Anton Fuhrer and the Nepalese governor Khadga Shumsher Rana, provided definitive identification of the site after centuries of obscurity. The pillar remains standing, its inscription legible, constituting one of the most important archaeological documents in the history of religion.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flumbini-maya-devi.jpg&w=800" alt="The Maya Devi Temple at Lumbini, marking the Buddha's birthplace" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Maya Devi Temple at Lumbini, marking the Buddha's birthplace</figcaption>
+</figure>
+
+
 Archaeological excavations have revealed layers of habitation predating Ashoka's visit. In 2013, a team from Durham University excavated beneath the Maya Devi Temple and discovered a timber structure dating to the sixth century BCE—the earliest archaeological evidence associated with the life of the Buddha. A central open space within the structure, free of roof supports and apparently never roofed, may represent the earliest known Buddhist shrine, possibly marking a sacred tree associated with the nativity narrative.
 
 The site declined following the collapse of Buddhist patronage in India. The Chinese pilgrim Xuanzang, visiting in the seventh century, found the monasteries deserted and the Ashoka pillar struck by lightning. Lumbini remained largely forgotten until its rediscovery in the late nineteenth century. Systematic development began in the 1970s under a UNESCO-backed master plan.
@@ -36,6 +43,13 @@ The site declined following the collapse of Buddhist patronage in India. The Chi
 Lumbini occupies a distinctive position in Buddhist sacred geography as the only one of the four great sites located outside India (in Nepal). This geographical fact carries political significance: Nepal claims the Buddha as a Nepali figure, while Indian discourse often subsumes him within the broader Indian civilizational narrative. The tension surfaces periodically in diplomatic contexts and affects the framing of Lumbini's development and promotion.
 
 The site's development follows a master plan designed by the Japanese architect Kenzo Tange in 1978, commissioned by the United Nations. Tange's plan organizes the complex into three zones: a Sacred Garden containing the archaeological remains and the Ashoka Pillar, a Monastic Zone where Buddhist communities from around the world have constructed monasteries and temples, and a New Lumbini Village providing visitor services. The plan's implementation has been gradual, with some elements still incomplete.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flumbini-peace-pagoda.jpg&w=800" alt="The World Peace Pagoda overlooking the Lumbini sacred garden" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The World Peace Pagoda overlooking the Lumbini sacred garden</figcaption>
+</figure>
+
 
 The Monastic Zone creates a remarkable cross-cultural . Monasteries built by communities from Myanmar, Thailand, Sri Lanka, China, South Korea, Germany, France, Vietnam, Cambodia, and other countries line a central canal, each constructed in its national architectural style. A Theravada section and a Mahayana section face each other across the water, creating a physical representation of Buddhism's major divisions coexisting at the tradition's point of origin.
 

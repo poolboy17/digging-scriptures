@@ -25,6 +25,13 @@ Safed (Tzfat) sits at approximately 900 meters elevation in the Upper Galilee, m
 
 The expulsion of Jews from Spain in 1492 scattered one of the most intellectually productive Jewish communities in history. Many expelled scholars eventually settled in the Ottoman Empire, and a significant number gravitated to Safed, drawn by its proximity to the tombs of Talmudic sages in the surrounding Galilee and by the mystical traditions already associated with the region. By the mid-sixteenth century, Safed housed a community of perhaps ten thousand Jews, including some of the most influential thinkers in Jewish history.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=800" alt="The interior of a historic synagogue in Safed" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The interior of a historic synagogue in Safed</figcaption>
+</figure>
+
+
 Rabbi Isaac Luria (1534-1572), known as the Ari (the Lion), arrived in Safed in 1570 and in just two years before his death transformed Jewish mysticism through teachings that his students compiled and disseminated. Lurianic Kabbalah—with its concepts of tzimtzum (divine contraction), shevirat hakelim (shattering of the vessels), and tikkun (repair)—became the dominant theological framework of Jewish mysticism and profoundly influenced subsequent Jewish thought, including Hasidism. Luria's grave, in the ancient cemetery below the city, became and remains a major pilgrimage destination.
 
 Rabbi Joseph Karo (1488-1575), author of the Shulchan Aruch—the most authoritative code of Jewish law—lived and worked in Safed during the same period. The coincidence of the era's greatest legal mind and its greatest mystical teacher in the same small city created an intellectual environment of extraordinary intensity. Karo himself practiced mystical meditation alongside his legal scholarship, exemplifying the integration of rationalist and mystical approaches that characterized Safed's golden age.
@@ -36,6 +43,13 @@ Rabbi Joseph Karo (1488-1575), author of the Shulchan Aruch—the most authorita
 The Kabbalistic tradition that flowered in Safed understood the city and its surroundings as a charged with spiritual significance. The Ari and his circle developed practices tied to specific locations: meditation at the tombs of ancient sages, ritual immersion in natural springs, and Friday afternoon processions into the fields to welcome the Sabbath—a practice that generated the hymn Lecha Dodi, now sung in synagogues worldwide every Friday evening.
 
 The concept of tikkun olam (repair of the world), which has become one of the most widely invoked ideas in contemporary Judaism, traces its theological elaboration to Lurianic Kabbalah as taught in Safed. In Luria's framework, divine sparks scattered during creation's cataclysmic beginning are trapped in material existence, and human action—particularly the performance of mitzvot (commandments) with proper mystical intention (kavanah)—liberates these sparks and contributes to cosmic restoration. This teaching gave every individual Jew a role in the redemptive process, democratizing mystical practice in ways that had lasting consequences.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=800" alt="The blue-painted streets of Safed's artists' quarter" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The blue-painted streets of Safed's artists' quarter</figcaption>
+</figure>
+
 
 Safed's artistic quarter, established in the 1950s and 1960s in the former Arab quarter of the city, has created a contemporary cultural dimension alongside the historical and religious ones. Artists drawn by the light, the , and the mystical associations have established galleries and studios that attract visitors whose interests are aesthetic as much as spiritual. This coexistence of artistic and religious communities gives Safed a character distinct from more exclusively devotional pilgrimage sites.
 

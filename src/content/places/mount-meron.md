@@ -37,6 +37,13 @@ The Lag BaOmer pilgrimage to Meron is unlike any other event in Jewish life. It 
 
 The custom of chalaka — bringing three-year-old boys to Meron for their first haircut — is one of the most widely observed practices at the site. In the tradition of upsherin, a boy's hair is left uncut until his third birthday, when it is ceremonially trimmed, leaving the peyot (sidelocks). Performing this ritual at bar Yochai's tomb is considered an auspicious beginning to the child's life of Torah study. Families travel from across Israel and the diaspora to observe this custom, and the sight of small boys receiving their first haircuts while surrounded by bonfires, music, and dense crowds is one of the defining images of the Meron pilgrimage.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=800" alt="A Lag BaOmer bonfire celebration at night" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Lag BaOmer bonfire celebration at night</figcaption>
+</figure>
+
+
 Music and dance are central to the experience. Hasidic groups set up stages and sound systems throughout the mountain, and the singing and dancing continue throughout the night. The repertoire draws heavily on the mystical poetry of the Zohar and on Hasidic niggunim (wordless melodies) that are understood to elevate the soul and facilitate connection with the divine. The energy is cumulative — as the night deepens and the bonfires intensify, the singing grows louder and the dancing more ecstatic, reaching a peak around the hadlaka.
 
 Beyond Lag BaOmer, Meron attracts visitors throughout the year. The tomb compound is open daily, and Jews of all backgrounds — Ashkenazi and Sephardi, Hasidic and non-Hasidic, religious and nominally secular — come to pray at bar Yochai's grave. The site functions as a place of personal petition: visitors recite psalms, light candles, and leave written requests at the tomb, asking for healing, fertility, livelihood, and spiritual guidance. The Kabbalistic association of bar Yochai with the revelation of hidden wisdom gives prayers at his tomb a particular intensity — the sense that one is approaching a figure who penetrated the deepest layers of reality.
@@ -48,6 +55,13 @@ Beyond Lag BaOmer, Meron attracts visitors throughout the year. The tomb compoun
 The tomb compound consists of a stone building over the graves attributed to Rabbi Shimon bar Yochai and his son Rabbi Elazar. The interior is divided into men's and women's prayer sections, with the cenotaphs accessible to worshippers through a partition. The walls are lined with bookshelves holding prayer books, Zohar volumes, and collections of psalms. Candles burn continuously, and the air carries the scent of wax and incense.
 
 The roof of the tomb building serves as the platform for the Lag BaOmer bonfires. Following the 2021 reforms, the surrounding infrastructure has been significantly upgraded, with widened pathways, improved crowd-flow systems, and new lighting and safety installations. The approaches to the tomb, once narrow hillside paths that funneled hundreds of thousands of people through tight spaces, have been engineered to prevent the density conditions that led to the tragedy.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=800" alt="Worshippers praying at the tomb shrine on Mount Meron" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Worshippers praying at the tomb shrine on Mount Meron</figcaption>
+</figure>
+
 
 The broader Mount Meron area is a nature reserve of significant ecological value. The mountain supports Mediterranean oak and pine forests, and its summit area preserves remnants of the ancient woodland that once covered much of the Galilee. The Nahal Meron trail offers hikers a route through the forested slopes, passing seasonal streams and wildflower meadows. The juxtaposition of intense religious devotion at the tomb with the quiet beauty of the surrounding landscape is one of the distinctive qualities of a Meron visit.
 

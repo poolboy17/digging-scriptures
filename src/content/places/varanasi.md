@@ -27,6 +27,13 @@ Varanasi (also known as Banaras or Kashi, "the Luminous One") claims to be one o
 
 Hindu tradition identifies Varanasi as the city of Shiva, where the great deity maintains perpetual presence. The Kashi Vishwanath Temple, dedicated to Shiva as Lord of the Universe, has served as the city's religious center for at least two millennia, though the current structure dates from 1780, built by the Maratha queen Ahilyabai Holkar after the previous temple was destroyed by the Mughal emperor Aurangzeb in 1669. Aurangzeb constructed a mosque (the Gyanvapi Mosque) immediately adjacent to the temple site, creating a juxtaposition that remains legally and politically contested.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=800" alt="Morning rituals on the ghats along the Ganges in Varanasi" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Morning rituals on the ghats along the Ganges in Varanasi</figcaption>
+</figure>
+
+
 For Buddhism, Varanasi holds significance through its proximity to Sarnath, approximately ten kilometers away, where the Buddha delivered his first sermon. The Buddha himself reportedly visited Varanasi, and the city appears in numerous Jataka tales (stories of the Buddha's previous lives). Varanasi also holds importance for Jainism: the twenty-third Tirthankara, Parshvanatha, is traditionally believed to have been born here in the eighth century BCE.
 
 Mark Twain, visiting in 1897, wrote that Varanasi was "older than history, older than tradition, older even than legend, and looks twice as old as all of them put together." While the observation was literary rather than archaeological, it captures something real about the city's accumulated weight of continuous sacred use—a layering of devotion, destruction, and reconstruction that extends beyond documented history.
@@ -38,6 +45,13 @@ Mark Twain, visiting in 1897, wrote that Varanasi was "older than history, older
 The ghats—broad stone stairways descending to the Ganges along approximately seven kilometers of riverfront—define Varanasi's sacred geography. Eighty-four ghats serve different functions: bathing, cremation, worship, meditation, and commerce. Each morning at dawn, thousands of worshippers descend the ghats to immerse themselves in the Ganges, performing ablutions understood as purifying both body and soul. The river itself is personified as the goddess Ganga, and contact with her waters is believed to wash away sins accumulated over multiple lifetimes.
 
 Cremation at Varanasi holds unique significance in Hindu belief. Death in Kashi is understood to grant moksha—liberation from the cycle of rebirth—regardless of one's accumulated karma. This belief makes the city a destination for the dying: families bring terminally ill relatives to die in Varanasi, and the cremation ghats (primarily Manikarnika and Harishchandra) operate continuously, burning approximately 200 to 300 bodies daily. The fires at Manikarnika Ghat are said to have burned without interruption for thousands of years, tended by the Dom caste who hold hereditary rights over the cremation process.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=800" alt="Boats on the Ganges River at Varanasi" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Boats on the Ganges River at Varanasi</figcaption>
+</figure>
+
 
 The evening Ganga Aarti ceremony at Dashashwamedh Ghat constitutes one of Hinduism's most spectacular regular rituals. Priests perform synchronized worship with large fire lamps (deepas), bells, incense, and conch shells as thousands of spectators watch from the ghat steps and from boats on the river. The ceremony, conducted nightly at sunset, draws both pilgrims and tourists, creating a communal experience that bridges devotional practice and cultural performance.
 

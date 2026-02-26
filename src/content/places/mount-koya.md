@@ -27,6 +27,13 @@ Mount Koya (Koyasan) was established in 816 CE when the monk Kukai (774-835), po
 
 Kukai had studied esoteric Buddhist teachings in China under the master Huiguo and brought these practices back to Japan, founding the Shingon (True Word) school. Shingon emphasizes ritual practice, mantra recitation, and visualization as means of achieving enlightenment in the present body—a teaching that distinguished it from traditions requiring many lifetimes of practice. Mount Koya served as the primary training center for Shingon monks and as a site of intensive ritual practice removed from the distractions of lowland society.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=800" alt="The moss-covered Okunoin cemetery path on Mount Koya" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The moss-covered Okunoin cemetery path on Mount Koya</figcaption>
+</figure>
+
+
 Kukai died on Mount Koya in 835 CE—or, in Shingon belief, entered eternal meditation (nyujo) rather than dying, and remains in a state of deep samadhi in his mausoleum, Okunoin. This belief transforms Mount Koya from a historical site into a place of living sacred presence: Kobo Daishi is understood to be meditating still, awaiting the coming of the future Buddha Maitreya, and monks bring him meals twice daily. The belief gives pilgrimage to Mount Koya an immediacy that purely historical sites cannot match.
 
 At its peak in the medieval period, Mount Koya housed over a thousand sub-temples and a monastic population of several thousand. The mountain suffered devastation from fires (particularly in 1521 and 1888) and from the anti-Buddhist policies of the early Meiji government (1868-1872), which briefly threatened the destruction of Japan's Buddhist institutions. Recovery followed, and today approximately 117 temples operate on the mountain, with about fifty offering overnight accommodation to visitors.
@@ -38,6 +45,13 @@ At its peak in the medieval period, Mount Koya housed over a thousand sub-temple
 Mount Koya functions simultaneously as a monastic center, a pilgrimage destination, and a vast memorial park. The mountain's dual character—living religious community and repository of the dead—creates an atmosphere unlike any other Buddhist site. The ancient cedar forests lining the approach to Okunoin contain over 200,000 memorial stones, stupas, and monuments spanning a thousand years. Feudal lords, samurai, corporate executives, and ordinary families all have memorials here, drawn by the desire to rest near Kobo Daishi until Maitreya's coming.
 
 The overnight temple stay (shukubo) has become one of Mount Koya's most distinctive offerings. Guests sleep in tatami-matted rooms, eat Buddhist vegetarian cuisine (shojin ryori) prepared according to centuries-old traditions, and may participate in morning prayers and fire rituals (goma) conducted by resident monks. The experience provides an immersive encounter with monastic life that few other pilgrimage destinations can offer, and it has made Mount Koya one of Japan's most popular spiritual tourism destinations.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=800" alt="A traditional temple gate on Mount Koya in autumn" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A traditional temple gate on Mount Koya in autumn</figcaption>
+</figure>
+
 
 Shingon ritual practice is richly aesthetic. The goma ceremony involves the construction of a fire altar, the offering of wooden sticks inscribed with prayers, and the chanting of mantras accompanied by ritual implements—bells, vajras, and lotus wands. The visual drama of the ceremony, with flames rising amid clouds of incense smoke while monks chant in deep voices, engages the senses in ways that Shingon theology considers essential to spiritual transformation. Visitors may attend these ceremonies in several of the mountain's temples.
 

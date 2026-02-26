@@ -25,6 +25,13 @@ Najaf and Karbala are the two most sacred cities in Shia Islam, and their signif
 
 Karbala, eighty kilometers to the north, is where Imam Hussein — Ali's son and Muhammad's grandson — was killed in 680 CE in a confrontation with the forces of the Umayyad caliph Yazid I. Hussein had refused to pledge allegiance to Yazid, whom he regarded as an illegitimate ruler, and traveled from Medina to Iraq with a small group of family members and followers. They were intercepted on the plains of Karbala, besieged, denied water, and killed. Hussein's death, along with that of most of his male companions, became the foundational tragedy of Shia Islam — an event whose theological and emotional weight within the tradition is difficult to overstate.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=800" alt="The golden dome of the Imam Ali Shrine in Najaf" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The golden dome of the Imam Ali Shrine in Najaf</figcaption>
+</figure>
+
+
 The shrines at both cities have been destroyed, rebuilt, expanded, and adorned repeatedly over the centuries. The Abbasid caliphs, Buyid rulers, Safavid shahs, and Ottoman sultans all left their marks on the architecture. The most devastating attack came in 1802, when Wahhabi forces from the Arabian Peninsula sacked Karbala, damaging the shrine of Hussein and killing thousands. The shrine was rebuilt with Persian patronage, and the golden dome that now defines its silhouette dates from the Qajar period. Under Saddam Hussein's Ba'athist regime (1979–2003), the shrines were restricted, and the Shia population of southern Iraq faced severe repression. The fall of the regime in 2003 opened the cities to mass pilgrimage on a scale not seen for decades.
 
 </Fragment>
@@ -34,6 +41,13 @@ The shrines at both cities have been destroyed, rebuilt, expanded, and adorned r
 The relationship between Shia devotion and the events at Karbala is not merely historical — it is liturgical, emotional, and present-tense. The annual commemoration of Ashura, observed on the tenth of Muharram, reenacts the suffering and martyrdom of Hussein through processions, passion plays (ta'ziyeh), chest-beating (latmiyya), and public mourning. The rituals are intense and communal, involving millions of participants in Iraq, Iran, Lebanon, Pakistan, India, and Shia communities worldwide. The grief expressed during Ashura is not performative nostalgia; practitioners understand themselves as mourning an ongoing injustice — the defeat of righteousness by tyranny — that transcends its historical moment.
 
 The Arba'een pilgrimage, held forty days after Ashura, has become the world's largest annual gathering of people. Estimates vary, but in recent years between fifteen and twenty million pilgrims have walked from Najaf to Karbala — a distance of roughly eighty kilometers — over several days. The route is lined with mawakib, temporary stations run by volunteers who provide free food, water, tea, medical care, and places to rest. The logistical operation is almost entirely grassroots: families, neighborhoods, and organizations set up stations out of devotion, expecting no compensation.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=800" alt="Pilgrims walking during the Arba'een pilgrimage to Karbala" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims walking during the Arba'een pilgrimage to Karbala</figcaption>
+</figure>
+
 
 The Arba'een walk is notable for its radical hospitality. Iraqi Sunnis, Christians, Yazidis, and even non-Muslim foreigners have been welcomed at mawakib along the route. The event's scale and its ethos of unconditional generosity have drawn attention from journalists, scholars, and international organizations, yet it remains relatively unknown outside the Islamic world — partly because foreign media access has been limited by security conditions in Iraq.
 

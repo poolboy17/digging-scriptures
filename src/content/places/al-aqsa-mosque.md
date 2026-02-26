@@ -25,6 +25,13 @@ Jerusalem's holiness in Islam rests primarily on a single event: the Isra and Mi
 
 The Haram al-Sharif (Noble Sanctuary) — the raised platform in Jerusalem's Old City known to Jews as the Temple Mount — was identified as the location of the Farthest Mosque early in Islamic tradition. When the second caliph, Umar ibn al-Khattab, conquered Jerusalem in 637 CE, he is reported to have prayed on the platform and ordered the construction of a prayer house. The silver-domed Al-Aqsa Mosque that stands today on the southern edge of the platform was first built in the early eighth century under the Umayyad caliphs, substantially rebuilt after earthquakes in 746 and 1033, and has been modified and restored repeatedly since.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=800" alt="The Dome of the Chain on the Haram al-Sharif in Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Dome of the Chain on the Haram al-Sharif in Jerusalem</figcaption>
+</figure>
+
+
 The Dome of the Rock, the gold-domed octagonal structure at the platform's center, was completed in 691 CE under the Umayyad caliph Abd al-Malik ibn Marwan. It is not primarily a mosque but a commemorative shrine built over the rock (al-Sakhra) from which Muhammad is believed to have ascended. The building is among the oldest surviving works of Islamic architecture and remains one of the most visually iconic structures on earth.
 
 The site's history is inseparable from political conflict. The Crusaders captured Jerusalem in 1099, converted Al-Aqsa into a palace and the Dome of the Rock into a church, and used the platform as the headquarters of the Knights Templar. Saladin recaptured Jerusalem in 1187 and restored the Islamic character of the site. Ottoman, British Mandate, Jordanian, and Israeli control have followed, each period bringing new tensions over access, governance, and sovereignty.

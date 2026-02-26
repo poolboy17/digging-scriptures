@@ -27,6 +27,13 @@ imageCredit: "Photo by George 🦅 on Unsplash"
 
 Jerusalem occupies a position in pilgrimage history that no other city can claim. For Christians, it is the place where the events narrated in the gospels—the teaching, trial, crucifixion, and resurrection of Jesus—are understood to have occurred. For Jews, it is the site of the Temple, the center of ancient Israelite worship and the direction toward which prayers are oriented. For Muslims, it is al-Quds, the Noble Sanctuary, from which the Prophet Muhammad is understood to have ascended to heaven. This convergence of sacred meanings in a single location has made Jerusalem a destination of extraordinary significance for nearly two millennia.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=800" alt="A panoramic view of Jerusalem with the Dome of the Rock" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A panoramic view of Jerusalem with the Dome of the Rock</figcaption>
+</figure>
+
+
 The city's importance for Christian pilgrimage emerged in the fourth century, following the conversion of the Roman Emperor Constantine. Before this period, Christians had visited Jerusalem, but the practice remained limited and the sites unmarked. Constantine's legalization of Christianity and his subsequent patronage transformed the sacred geography of the city. His mother Helena traveled to Jerusalem around 326-328 CE, traditionally credited with identifying the locations of the crucifixion and burial of Christ beneath a Roman temple that had been constructed over them.
 
 The construction of the Church of the Holy Sepulchre, ordered by Constantine over these identified sites, established the architectural and devotional center of Christian Jerusalem. This building, encompassing both the rock of Golgotha and the tomb from which Christ rose, became the preeminent goal of Christian pilgrimage. The fourth-century pilgrim Egeria left detailed descriptions of the liturgies celebrated at these sites, preserving evidence of early pilgrimage practice that shaped subsequent centuries.
@@ -40,6 +47,13 @@ Subsequent centuries added churches, monasteries, and hospices throughout the ci
 ## Religious and Cultural Traditions
 
 The Christian Quarter of Jerusalem's Old City clusters around the Church of the Holy Sepulchre, containing churches, monasteries, and hospices representing traditions from across the Christian world. The Greek Orthodox, Roman Catholic, Armenian Apostolic, Coptic, Ethiopian, and Syriac Orthodox churches all maintain presence within the Holy Sepulchre itself, their respective territories within the building governed by arrangements dating from the Ottoman period.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=800" alt="The Mount of Olives overlooking the Old City of Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Mount of Olives overlooking the Old City of Jerusalem</figcaption>
+</figure>
+
 
 This diversity of Christian presence reflects the historical development of the church and the political circumstances through which Jerusalem has passed. The current arrangements, known as the Status Quo, were formalized in 1853 and regulate not only which communities may use which spaces but also the timing of liturgies and even the placement of objects within the church. What appears to visitors as confusion or competition represents centuries of negotiated coexistence among communities with different theological emphases and liturgical traditions.
 
