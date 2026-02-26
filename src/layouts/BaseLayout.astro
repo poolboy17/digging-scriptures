@@ -90,8 +90,8 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
     </head>
     <body class="antialiased text-text-dark bg-surface">
         <div class="min-h-screen">
+            <Header />
             <div class="container">
-                <Header />
                 {breadcrumbs && breadcrumbs.length > 0 && (
                     <nav aria-label="Breadcrumb" class="text-sm text-text-light py-3">
                         <ol class="flex flex-wrap gap-1 items-center">

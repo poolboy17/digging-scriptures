@@ -1,9 +1,4 @@
 ---
-/**
- * Site-wide header navigation for Digging Scriptures.
- * Responsive: horizontal nav on desktop, hamburger menu on mobile.
- */
-
 const navItems = [
     { linkText: 'Journeys', href: '/journeys' },
     { linkText: 'Places', href: '/places' },
@@ -15,22 +10,61 @@ const navItems = [
 const currentPath = Astro.url.pathname;
 ---
 
-<header class="header">
-    <a href="/" class="header-logo">
-        <span class="header-logo-mark">DS</span>
-        <span class="header-logo-text">Digging Scriptures</span>
-    </a>
+<div class="header-outer">
+    <header class="header container">
+        <a href="/" class="header-wordmark">
+            Digging<span class="header-wordmark-accent">Scriptures</span>
+        </a>
 
-    {/* Desktop nav */}
-    <ul class="header-nav-desktop">
+        {/* Desktop nav */}
+        <nav class="header-desktop-nav" aria-label="Main navigation">
+            {navItems.map((item) => (
+                <a 
+                    href={item.href} 
+                    class:list={[
+                        "header-link",
+                        (currentPath === item.href || currentPath.startsWith(item.href + '/'))
+                            && "header-link--active"
+                    ]}
+                >
+                    {item.linkText}
+                </a>
+            ))}
+        </nav>
+
+        {/* Mobile menu button */}
+        <button class="header-menu-btn" id="menu-toggle" aria-label="Open menu" aria-expanded="false">
+            <svg class="header-menu-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+                <line x1="3" y1="7" x2="21" y2="7" class="menu-line menu-line-top" />
+                <line x1="3" y1="12" x2="21" y2="12" class="menu-line menu-line-mid" />
+                <line x1="3" y1="17" x2="21" y2="17" class="menu-line menu-line-bot" />
+            </svg>
+        </button>
+    </header>
+</div>
+
+{/* Mobile overlay */}
+<div class="mobile-overlay" id="mobile-overlay"></div>
+<nav class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+    <div class="mobile-drawer-head">
+        <a href="/" class="header-wordmark">
+            Digging<span class="header-wordmark-accent">Scriptures</span>
+        </a>
+        <button class="mobile-close-btn" id="menu-close" aria-label="Close menu">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" width="20" height="20">
+                <line x1="6" y1="6" x2="18" y2="18" /><line x1="18" y1="6" x2="6" y2="18" />
+            </svg>
+        </button>
+    </div>
+    <ul class="mobile-drawer-links">
         {navItems.map((item) => (
             <li>
                 <a 
                     href={item.href} 
                     class:list={[
-                        "header-nav-link",
+                        "mobile-link",
                         (currentPath === item.href || currentPath.startsWith(item.href + '/'))
-                            && "header-nav-link--active"
+                            && "mobile-link--active"
                     ]}
                 >
                     {item.linkText}
@@ -38,122 +72,262 @@ const currentPath = Astro.url.pathname;
             </li>
         ))}
     </ul>
-
-    {/* Mobile hamburger */}
-    <button class="header-burger" id="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
-        <span class="header-burger-line"></span>
-        <span class="header-burger-line"></span>
-        <span class="header-burger-line"></span>
-    </button>
-</header>
-
-{/* Mobile nav drawer */}
-<nav class="mobile-nav" id="mobile-nav" aria-hidden="true">
-    <ul class="mobile-nav-list">
-        {navItems.map((item) => (
-            <li>
-                <a 
-                    href={item.href} 
-                    class:list={[
-                        "mobile-nav-link",
-                        (currentPath === item.href || currentPath.startsWith(item.href + '/'))
-                            && "mobile-nav-link--active"
-                    ]}
-                >
-                    {item.linkText}
-                </a>
-            </li>
-        ))}
-    </ul>
+    <div class="mobile-drawer-foot">
+        <p class="mobile-drawer-tagline">Sacred places · Ancient routes · Living traditions</p>
+    </div>
 </nav>
 
 <script>
-    const toggle = document.getElementById('menu-toggle');
-    const nav = document.getElementById('mobile-nav');
-    toggle?.addEventListener('click', () => {
-        const open = nav?.classList.toggle('mobile-nav--open');
-        toggle.classList.toggle('header-burger--open');
-        toggle.setAttribute('aria-expanded', String(!!open));
-        nav?.setAttribute('aria-hidden', String(!open));
-    });
+    const btn = document.getElementById('menu-toggle');
+    const close = document.getElementById('menu-close');
+    const drawer = document.getElementById('mobile-drawer');
+    const overlay = document.getElementById('mobile-overlay');
+
+    function openMenu() {
+        drawer?.classList.add('mobile-drawer--open');
+        overlay?.classList.add('mobile-overlay--visible');
+        document.body.style.overflow = 'hidden';
+        btn?.setAttribute('aria-expanded', 'true');
+    }
+    function closeMenu() {
+        drawer?.classList.remove('mobile-drawer--open');
+        overlay?.classList.remove('mobile-overlay--visible');
+        document.body.style.overflow = '';
+        btn?.setAttribute('aria-expanded', 'false');
+    }
+
+    btn?.addEventListener('click', openMenu);
+    close?.addEventListener('click', closeMenu);
+    overlay?.addEventListener('click', closeMenu);
 </script>
 
 <style>
+    /* ═══════════════════════════════════════════ */
+    /* HEADER BAR                                  */
+    /* ═══════════════════════════════════════════ */
+    .header-outer {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background: rgba(255,255,255,0.92);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-bottom: 1px solid var(--color-border);
+    }
+
     .header {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 0.875rem 0;
-    }
-    @media (min-width: 640px) { .header { padding: 1.25rem 0; } }
-
-    .header-logo {
-        display: flex; align-items: center; gap: 0.5rem;
-        font-size: 1.0625rem; font-weight: 700;
-        color: var(--color-text-dark); text-decoration: none;
-        letter-spacing: -0.01em; transition: opacity 0.2s; flex-shrink: 0;
-    }
-    .header-logo:hover { opacity: 0.8; }
-    .header-logo-mark {
-        display: inline-flex; align-items: center; justify-content: center;
-        width: 1.875rem; height: 1.875rem; border-radius: 0.5rem;
-        background: var(--color-primary); color: var(--color-primary-content);
-        font-size: 0.6875rem; font-weight: 900;
+        height: 3.5rem;
     }
 
-    /* Desktop nav — hidden below 768px */
-    .header-nav-desktop {
-        display: none; list-style: none; margin: 0; padding: 0; gap: 0.125rem;
-    }
     @media (min-width: 768px) {
-        .header-nav-desktop { display: flex; align-items: center; }
+        .header { height: 4rem; }
     }
-    .header-nav-link {
-        display: inline-block; padding: 0.375rem 0.75rem; border-radius: 0.5rem;
-        font-size: 0.875rem; font-weight: 500; color: var(--color-text-muted);
-        text-decoration: none; transition: all 0.15s;
+
+    /* ── Wordmark ── */
+    .header-wordmark {
+        font-family: var(--font-serif);
+        font-size: 1.1875rem;
+        font-weight: 700;
+        color: var(--color-text-dark);
+        text-decoration: none;
+        letter-spacing: -0.02em;
+        line-height: 1;
+        transition: color 0.2s;
     }
-    .header-nav-link:hover { color: var(--color-text-dark); background: var(--color-light); }
-    .header-nav-link--active {
+
+    .header-wordmark:hover {
         color: var(--color-primary);
-        background: color-mix(in srgb, var(--color-primary) 8%, transparent);
+    }
+
+    .header-wordmark-accent {
+        color: var(--color-primary);
+    }
+
+    @media (min-width: 768px) {
+        .header-wordmark { font-size: 1.3125rem; }
+    }
+
+    /* ── Desktop nav ── */
+    .header-desktop-nav {
+        display: none;
+        align-items: center;
+        gap: 0.125rem;
+    }
+
+    @media (min-width: 768px) {
+        .header-desktop-nav { display: flex; }
+    }
+
+    .header-link {
+        position: relative;
+        padding: 0.4375rem 0.875rem;
+        font-size: 0.8125rem;
+        font-weight: 500;
+        color: var(--color-text-muted);
+        text-decoration: none;
+        letter-spacing: 0.01em;
+        transition: color 0.15s;
+    }
+
+    .header-link:hover {
+        color: var(--color-text-dark);
+    }
+
+    .header-link--active {
+        color: var(--color-primary);
         font-weight: 600;
     }
 
-    /* Hamburger — visible below 768px */
-    .header-burger {
-        display: flex; flex-direction: column; justify-content: center; gap: 5px;
-        width: 2.25rem; height: 2.25rem; padding: 0.375rem;
-        border: none; background: none; cursor: pointer;
-        border-radius: 0.375rem; transition: background 0.15s;
+    .header-link--active::after {
+        content: '';
+        position: absolute;
+        bottom: -0.125rem;
+        left: 0.875rem;
+        right: 0.875rem;
+        height: 2px;
+        background: var(--color-primary);
+        border-radius: 1px;
     }
-    .header-burger:hover { background: var(--color-light); }
-    @media (min-width: 768px) { .header-burger { display: none; } }
 
-    .header-burger-line {
-        display: block; width: 100%; height: 2px;
-        background: var(--color-text-dark); border-radius: 1px;
-        transition: all 0.25s ease; transform-origin: center;
+    /* ── Menu button ── */
+    .header-menu-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.25rem;
+        height: 2.25rem;
+        border: none;
+        background: none;
+        cursor: pointer;
+        color: var(--color-text-dark);
+        border-radius: 0.375rem;
+        transition: background 0.15s;
     }
-    .header-burger--open .header-burger-line:nth-child(1) { transform: translateY(7px) rotate(45deg); }
-    .header-burger--open .header-burger-line:nth-child(2) { opacity: 0; }
-    .header-burger--open .header-burger-line:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
-    /* Mobile nav drawer */
-    .mobile-nav { display: none; padding: 0 0 1rem; border-bottom: 1px solid var(--color-border); }
-    @media (min-width: 768px) { .mobile-nav { display: none !important; } }
-    .mobile-nav--open { display: block; }
+    .header-menu-btn:hover { background: var(--color-light); }
 
-    .mobile-nav-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.125rem; }
-    .mobile-nav-link {
-        display: block; padding: 0.75rem 1rem; border-radius: 0.5rem;
-        font-size: 1rem; font-weight: 500; color: var(--color-text-muted);
-        text-decoration: none; transition: all 0.15s;
+    @media (min-width: 768px) { .header-menu-btn { display: none; } }
+
+    .header-menu-icon {
+        width: 22px;
+        height: 22px;
     }
-    .mobile-nav-link:hover { background: var(--color-light); color: var(--color-text-dark); }
-    .mobile-nav-link--active {
+
+
+    /* ═══════════════════════════════════════════ */
+    /* MOBILE DRAWER                               */
+    /* ═══════════════════════════════════════════ */
+    .mobile-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 199;
+        background: rgba(0,0,0,0.3);
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.25s ease;
+    }
+
+    .mobile-overlay--visible {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    .mobile-drawer {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 200;
+        width: min(20rem, 85vw);
+        background: #ffffff;
+        box-shadow: -4px 0 24px rgba(0,0,0,0.08);
+        transform: translateX(100%);
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mobile-drawer--open {
+        transform: translateX(0);
+    }
+
+    @media (min-width: 768px) {
+        .mobile-drawer { display: none !important; }
+        .mobile-overlay { display: none !important; }
+    }
+
+    .mobile-drawer-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem 1.5rem;
+        border-bottom: 1px solid var(--color-border);
+    }
+
+    .mobile-close-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 2rem;
+        height: 2rem;
+        border: none;
+        background: none;
+        cursor: pointer;
+        color: var(--color-text-muted);
+        border-radius: 0.375rem;
+        transition: all 0.15s;
+    }
+
+    .mobile-close-btn:hover {
+        background: var(--color-light);
+        color: var(--color-text-dark);
+    }
+
+    .mobile-drawer-links {
+        list-style: none;
+        margin: 0;
+        padding: 1rem 1rem;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 0.125rem;
+    }
+
+    .mobile-link {
+        display: block;
+        padding: 0.875rem 0.75rem;
+        font-size: 0.9375rem;
+        font-weight: 500;
+        color: var(--color-text-muted);
+        text-decoration: none;
+        border-radius: 0.5rem;
+        transition: all 0.15s;
+        letter-spacing: 0.005em;
+    }
+
+    .mobile-link:hover {
+        background: var(--color-light);
+        color: var(--color-text-dark);
+    }
+
+    .mobile-link--active {
         color: var(--color-primary);
-        background: color-mix(in srgb, var(--color-primary) 8%, transparent);
         font-weight: 600;
+        background: color-mix(in srgb, var(--color-primary) 6%, transparent);
+    }
+
+    .mobile-drawer-foot {
+        padding: 1.25rem 1.5rem;
+        border-top: 1px solid var(--color-border);
+    }
+
+    .mobile-drawer-tagline {
+        font-size: 0.75rem;
+        color: var(--color-text-light);
+        margin: 0;
+        letter-spacing: 0.01em;
     }
 </style>
