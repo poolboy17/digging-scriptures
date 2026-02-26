@@ -3,6 +3,7 @@
 
 @theme {
     --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    --font-serif: 'Source Serif 4 Variable', 'Georgia', 'Cambria', 'Times New Roman', serif;
     --color-primary: #b87d6d;
     --color-primary-content: #faf6f2;
     --color-complementary: #faf6f2;

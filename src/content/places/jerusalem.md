@@ -28,7 +28,7 @@ The city's importance for Christian pilgrimage emerged in the fourth century, fo
 
 The construction of the Church of the Holy Sepulchre, ordered by Constantine over these identified sites, established the architectural and devotional center of Christian Jerusalem. This building, encompassing both the rock of Golgotha and the tomb from which Christ rose, became the preeminent goal of Christian pilgrimage. The fourth-century pilgrim Egeria left detailed descriptions of the liturgies celebrated at these sites, preserving evidence of early pilgrimage practice that shaped subsequent centuries.
 
-Subsequent centuries added churches, monasteries, and hospices throughout the city, creating an infrastructure to receive pilgrims from across the Christian world. The city has changed hands repeatedly—passing from Byzantine to Persian to Arab to Crusader to Mamluk to Ottoman to British to Jordanian to Israeli control—yet pilgrimage has continued through these transitions. Each period has left its mark on the sacred landscape, and pilgrims today encounter a city layered with the traces of this complex history.
+Subsequent centuries added churches, monasteries, and hospices throughout the city, creating an infrastructure to receive pilgrims from across the Christian world. The city has changed hands repeatedly—passing from Byzantine to Persian to Arab to Crusader to Mamluk to Ottoman to British to Jordanian to Israeli control—yet pilgrimage has continued through these transitions. Each period has left its mark on the sacred , and pilgrims today encounter a city layered with the traces of this complex history.
 
 </Fragment>
 

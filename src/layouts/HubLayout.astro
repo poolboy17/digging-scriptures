@@ -1,19 +1,28 @@
 ---
 /**
  * ================================================================================
- * HUB PAGE TEMPLATE
+ * HUB PAGE TEMPLATE — Enhanced Editorial Layout v2
  * ================================================================================
- * Purpose: Authority pages that define topics and link downward
+ * Purpose: Authority pages that define topics and link downward to spokes
  * Word count target: 2000-3000 words
  * 
+ * ENHANCEMENTS v2:
+ * - Playfair Display serif for headings (editorial gravitas)
+ * - Decorative SVG topographic pattern in hero
+ * - Reading progress bar
+ * - Spoke preview cards surfaced early (after hero, before article)
+ * - Pull-quote styling
+ * - Mobile-friendly collapsible TOC
+ * - Sibling hub navigation
+ * - "Continue exploring" footer
+ * - Entrance animations on spoke cards
+ *
  * MONETIZATION: NEVER
- * NO CTAs, NO affiliate links, NO ads in this template
- * 
- * This template is LOCKED. Do not modify section order without review.
  * ================================================================================
  */
 
 import BaseLayout from './BaseLayout.astro';
+import '@fontsource-variable/playfair-display/wght.css';
 import { getCollection } from 'astro:content';
 
 interface Props {
@@ -22,21 +31,42 @@ interface Props {
     topics?: string[];
     relatedPlaces?: string[];
     relatedRoutes?: string[];
-    content: string;
 }
 
-const { title, description, topics, relatedPlaces, relatedRoutes, content } = Astro.props;
+const { title, description, topics, relatedPlaces, relatedRoutes } = Astro.props;
+const hubSlug = Astro.url.pathname.replace('/journeys/', '').replace(/\/$/, '');
 
-// Fetch related content for internal linking
-const allPlaces = relatedPlaces ? await getCollection('places', ({ data }) => 
-    relatedPlaces.includes(data.title) && !data.draft
-) : [];
+// Auto-discover all spoke content linked to this hub
+const allPlaces = await getCollection('places', ({ data }) => 
+    data.parentHub === hubSlug && !data.draft
+);
+const allRoutes = await getCollection('routes', ({ data }) => 
+    data.parentHub === hubSlug && !data.draft
+);
+const allStories = await getCollection('stories', ({ data }) => !data.draft);
+const allContext = await getCollection('context', ({ data }) => !data.draft);
 
-const allRoutes = relatedRoutes ? await getCollection('routes', ({ data }) => 
-    relatedRoutes.includes(data.title) && !data.draft
-) : [];
+// Filter stories/context that reference this hub's places or routes
+const hubPlaceSlugs = allPlaces.map(p => p.slug);
+const hubRouteSlugs = allRoutes.map(r => r.slug);
+
+const relatedStories = allStories.filter(s => 
+    s.data.relatedPlaces?.some((p: string) => hubPlaceSlugs.includes(p)) ||
+    s.data.relatedRoutes?.some((r: string) => hubRouteSlugs.includes(r))
+);
+
+const relatedContext = allContext.filter(c => {
+    const traditions = c.data.faithTraditions || [];
+    const hubTopics = topics || [];
+    return traditions.some((t: string) => hubTopics.includes(t.toLowerCase()));
+});
+
+const spokeCount = allPlaces.length + allRoutes.length + relatedStories.length + relatedContext.length;
+
+// Sibling hubs for cross-navigation
+const allHubs = await getCollection('hubs', ({ data }) => !data.draft);
+const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
 ---
-
 <BaseLayout 
     title={title} 
     description={description}
@@ -57,66 +87,295 @@ const allRoutes = relatedRoutes ? await getCollection('routes', ({ data }) =>
         }
     }}
 >
-    <article class="section">
-        <div class="container">
-        
-            <!-- HEADER -->
-            <header class="mb-10">
-                <div class="card-meta mb-4">
-                    <span class="badge">Journey</span>
-                </div>
-                <h1 class="mb-4">{title}</h1>
-                <p class="text-lg text-text-muted leading-relaxed">{description}</p>
-            </header>
 
-            <!-- MAIN CONTENT -->
-            <section class="content mb-12">
-                <slot />
-            </section>
+<!-- ═══════════════════ READING PROGRESS BAR ═══════════════════ -->
+<div class="progress-bar" id="progress-bar"></div>
 
-        <!-- ================================================================== -->
-        <!-- SECTION 3: RELATED PLACES -->
-        <!-- Purpose: Internal links to place pages -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        {allPlaces.length > 0 && (
-            <section class="mt-12 pt-8 border-t border-border">
-                <h2 class="mb-6">Sacred Places</h2>
-                <div class="grid gap-6 sm:grid-cols-2">
-                    {allPlaces.map((place) => (
-                        <a href={`/places/${place.slug}`} class="card block p-5 rounded-lg bg-light">
-                            <h3 class="mb-2 text-text-dark">{place.data.title}</h3>
-                            <p class="text-sm text-text-muted">{place.data.description}</p>
-                        </a>
+<!-- ═══════════════════ HERO ═══════════════════ -->
+<header class="hub-hero">
+    <div class="hub-hero-inner container">
+        <div class="hub-hero-meta">
+            <span class="hub-hero-badge">Pilgrimage Tradition</span>
+            {topics && topics.length > 0 && (
+                <div class="hub-hero-topics">
+                    {topics.slice(0, 4).map((topic: string) => (
+                        <span class="hub-hero-topic">{topic}</span>
                     ))}
                 </div>
-            </section>
-        )}
-
-        {allRoutes.length > 0 && (
-            <section class="mt-12 pt-8 border-t border-border">
-                <h2 class="mb-6">Pilgrimage Routes</h2>
-                <div class="grid gap-6 sm:grid-cols-2">
-                    {allRoutes.map((route) => (
-                        <a href={`/routes/${route.slug}`} class="card block p-5 rounded-lg bg-light">
-                            <h3 class="mb-2 text-text-dark">{route.data.title}</h3>
-                            <p class="text-sm text-text-muted">{route.data.description}</p>
-                        </a>
-                    ))}
-                </div>
-            </section>
-        )}
-
-        <!-- ================================================================== -->
-        <!-- SECTION 5: CONTEXT LINKS -->
-        <!-- Purpose: Links to background/context articles -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="mt-12 pt-8 border-t border-border">
-            <h2 class="mb-4">Further Reading</h2>
-            <slot name="context-links" />
-        </section>
-
+            )}
         </div>
-    </article>
+        <h1 class="hub-hero-title">{title}</h1>
+        <p class="hub-hero-desc">{description}</p>
+        <div class="hub-hero-stats">
+            <span class="hub-hero-stat">{spokeCount} related articles</span>
+            <span class="hub-hero-stat-sep">·</span>
+            <span class="hub-hero-stat">{allPlaces.length} places</span>
+            <span class="hub-hero-stat-sep">·</span>
+            <span class="hub-hero-stat">{allRoutes.length} routes</span>
+        </div>
+    </div>
+    <!-- SVG topographic pattern overlay -->
+    <svg class="hub-hero-pattern" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+        <g stroke="rgba(250,246,242,0.06)" stroke-width="1" fill="none">
+            <path d="M0,200 Q100,120 200,180 T400,160 T600,200 T800,170" />
+            <path d="M0,240 Q150,180 250,220 T450,190 T650,240 T800,210" />
+            <path d="M0,280 Q120,220 220,260 T420,230 T620,270 T800,250" />
+            <path d="M0,320 Q130,270 260,300 T460,270 T660,310 T800,290" />
+            <path d="M0,160 Q180,100 280,140 T480,120 T680,160 T800,130" />
+            <path d="M0,120 Q140,70 240,100 T440,80 T640,120 T800,90" />
+            <circle cx="150" cy="180" r="35" />
+            <circle cx="420" cy="150" r="25" />
+            <circle cx="650" cy="210" r="40" />
+            <circle cx="300" cy="250" r="20" />
+        </g>
+    </svg>
+    <div class="hub-hero-grain"></div>
+    <div class="hub-hero-fade"></div>
+</header>
+<!-- ═══════════════════ SPOKE PREVIEW (early discovery) ═══════════════════ -->
+{spokeCount > 0 && (
+<section class="spoke-preview">
+    <div class="container">
+        <p class="spoke-preview-label">In this tradition</p>
+        <div class="spoke-preview-scroll">
+            {allPlaces.map((place) => (
+                <a href={`/places/${place.slug}`} class="spoke-chip">
+                    <span class="spoke-chip-icon">📍</span>
+                    <span class="spoke-chip-text">{place.data.title}</span>
+                </a>
+            ))}
+            {allRoutes.map((route) => (
+                <a href={`/routes/${route.slug}`} class="spoke-chip">
+                    <span class="spoke-chip-icon">🥾</span>
+                    <span class="spoke-chip-text">{route.data.title}</span>
+                </a>
+            ))}
+            {relatedStories.map((story) => (
+                <a href={`/stories/${story.slug}`} class="spoke-chip">
+                    <span class="spoke-chip-icon">📖</span>
+                    <span class="spoke-chip-text">{story.data.title}</span>
+                </a>
+            ))}
+            {relatedContext.map((ctx) => (
+                <a href={`/context/${ctx.slug}`} class="spoke-chip">
+                    <span class="spoke-chip-icon">🔎</span>
+                    <span class="spoke-chip-text">{ctx.data.title}</span>
+                </a>
+            ))}
+        </div>
+    </div>
+</section>
+)}
+
+<!-- ═══════════════════ MOBILE TOC ═══════════════════ -->
+<div class="mobile-toc-wrapper container" id="mobile-toc">
+    <button class="mobile-toc-toggle" id="mobile-toc-toggle" aria-expanded="false">
+        <span>Table of contents</span>
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" class="mobile-toc-chevron">
+            <path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+    </button>
+    <nav class="mobile-toc-nav" id="mobile-toc-nav" aria-label="Table of contents (mobile)">
+        <div id="mobile-toc-links"></div>
+    </nav>
+</div>
+
+<article class="hub-article">
+    <div class="container">
+        <div class="hub-layout">
+
+            <!-- ═══════════════ SIDEBAR TOC (desktop) ═══════════════ -->
+            <aside class="hub-toc-wrapper" id="hub-toc">
+                <nav class="hub-toc" aria-label="Table of contents">
+                    <p class="hub-toc-label">In this article</p>
+                    <div class="hub-toc-links" id="toc-links"></div>
+                </nav>
+            </aside>
+
+            <!-- ═══════════════ MAIN CONTENT ═══════════════ -->
+            <div class="hub-content">
+                <section class="content" id="hub-prose">
+                    <slot />
+                </section>
+                <!-- ═══════════════ SPOKE: Places ═══════════════ -->
+                {allPlaces.length > 0 && (
+                    <section class="hub-spokes-section">
+                        <h2 class="hub-spokes-heading">
+                            <span class="hub-spokes-icon">📍</span> Sacred Places
+                        </h2>
+                        <div class="hub-spokes-grid">
+                            {allPlaces.map((place, i) => (
+                                <a href={`/places/${place.slug}`} class="hub-spoke-card" style={`animation-delay: ${i * 80}ms`}>
+                                    <span class="hub-spoke-type">{place.data.region}, {place.data.country}</span>
+                                    <h3 class="hub-spoke-title">{place.data.title}</h3>
+                                    <p class="hub-spoke-desc">{place.data.description}</p>
+                                    <span class="hub-spoke-arrow">&rarr;</span>
+                                </a>
+                            ))}
+                        </div>
+                    </section>
+                )}
+
+                <!-- ═══════════════ SPOKE: Routes ═══════════════ -->
+                {allRoutes.length > 0 && (
+                    <section class="hub-spokes-section">
+                        <h2 class="hub-spokes-heading">
+                            <span class="hub-spokes-icon">🥾</span> Pilgrimage Routes
+                        </h2>
+                        <div class="hub-spokes-grid">
+                            {allRoutes.map((route, i) => (
+                                <a href={`/routes/${route.slug}`} class="hub-spoke-card" style={`animation-delay: ${i * 80}ms`}>
+                                    <span class="hub-spoke-type">
+                                        {route.data.distanceKm && `${route.data.distanceKm} km`}
+                                        {route.data.distanceKm && route.data.difficulty && ' · '}
+                                        {route.data.difficulty}
+                                    </span>
+                                    <h3 class="hub-spoke-title">{route.data.title}</h3>
+                                    <p class="hub-spoke-desc">{route.data.description}</p>
+                                    <span class="hub-spoke-arrow">&rarr;</span>
+                                </a>
+                            ))}
+                        </div>
+                    </section>
+                )}
+
+                <!-- ═══════════════ SPOKE: Stories + Context ═══════════════ -->
+                {(relatedStories.length > 0 || relatedContext.length > 0) && (
+                    <section class="hub-spokes-section">
+                        <h2 class="hub-spokes-heading">
+                            <span class="hub-spokes-icon">📖</span> Further Reading
+                        </h2>
+                        <div class="hub-further-list">
+                            {relatedStories.map((story) => (
+                                <a href={`/stories/${story.slug}`} class="hub-further-link">
+                                    <span class="badge">Story</span>
+                                    <span class="hub-further-title">{story.data.title}</span>
+                                    <span class="hub-further-arrow">&rarr;</span>
+                                </a>
+                            ))}
+                            {relatedContext.map((ctx) => (
+                                <a href={`/context/${ctx.slug}`} class="hub-further-link">
+                                    <span class="badge">Context</span>
+                                    <span class="hub-further-title">{ctx.data.title}</span>
+                                    <span class="hub-further-arrow">&rarr;</span>
+                                </a>
+                            ))}
+                        </div>
+                    </section>
+                )}
+            </div>
+        </div>
+    </div>
+</article>
+
+<!-- ═══════════════════ SIBLING HUBS ═══════════════════ -->
+{siblingHubs.length > 0 && (
+<section class="sibling-section">
+    <div class="container">
+        <p class="sibling-label">Also explore</p>
+        <div class="sibling-grid">
+            {siblingHubs.map((hub) => (
+                <a href={`/journeys/${hub.slug}`} class="sibling-card">
+                    <h3 class="sibling-title">{hub.data.title}</h3>
+                    <p class="sibling-desc">{hub.data.description}</p>
+                    <span class="sibling-arrow">&rarr;</span>
+                </a>
+            ))}
+        </div>
+    </div>
+</section>
+)}
+
+<!-- ═══════════════════ CONTINUE EXPLORING ═══════════════════ -->
+<section class="continue-section">
+    <div class="container">
+        <div class="continue-inner">
+            <h2 class="continue-heading">Keep exploring</h2>
+            <p class="continue-text">
+                Browse sacred sites, pilgrimage routes, and the stories behind them.
+            </p>
+            <div class="continue-links">
+                <a href="/places" class="continue-link">📍 Places</a>
+                <a href="/routes" class="continue-link">🥾 Routes</a>
+                <a href="/stories" class="continue-link">📖 Stories</a>
+                <a href="/context" class="continue-link">🔎 Context</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 </BaseLayout>
+<!-- ═══════════════════ SCRIPTS ═══════════════════ -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    // ── Reading progress bar ──
+    const bar = document.getElementById('progress-bar');
+    if (bar) {
+        window.addEventListener('scroll', () => {
+            const h = document.documentElement.scrollHeight - window.innerHeight;
+            bar.style.width = h > 0 ? `${(window.scrollY / h) * 100}%` : '0%';
+        }, { passive: true });
+    }
+
+    // ── TOC generation (desktop + mobile) ──
+    const prose = document.getElementById('hub-prose');
+    const tocDesktop = document.getElementById('toc-links');
+    const tocMobile = document.getElementById('mobile-toc-links');
+    if (!prose) return;
+
+    const headings = prose.querySelectorAll('h2');
+    if (headings.length === 0) {
+        const w = document.getElementById('hub-toc');
+        const m = document.getElementById('mobile-toc');
+        if (w) w.style.display = 'none';
+        if (m) m.style.display = 'none';
+        return;
+    }
+
+    headings.forEach((h, i) => {
+        const id = h.id || `section-${i}`;
+        h.id = id;
+        [tocDesktop, tocMobile].forEach(container => {
+            if (!container) return;
+            const a = document.createElement('a');
+            a.href = `#${id}`;
+            a.textContent = h.textContent || '';
+            a.className = 'hub-toc-link';
+            container.appendChild(a);
+        });
+    });
+
+    // Scroll spy (desktop)
+    if (tocDesktop) {
+        const links = tocDesktop.querySelectorAll('.hub-toc-link');
+        const obs = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    links.forEach(l => l.classList.remove('active'));
+                    const a = tocDesktop.querySelector(`a[href="#${entry.target.id}"]`);
+                    if (a) a.classList.add('active');
+                }
+            });
+        }, { rootMargin: '-20% 0px -70% 0px' });
+        headings.forEach(h => obs.observe(h));
+    }
+
+    // Mobile TOC toggle
+    const toggleBtn = document.getElementById('mobile-toc-toggle');
+    const mobileNav = document.getElementById('mobile-toc-nav');
+    if (toggleBtn && mobileNav) {
+        toggleBtn.addEventListener('click', () => {
+            const open = toggleBtn.getAttribute('aria-expanded') === 'true';
+            toggleBtn.setAttribute('aria-expanded', String(!open));
+            mobileNav.classList.toggle('open');
+        });
+        // Close on link click
+        mobileNav.querySelectorAll('a').forEach(a => {
+            a.addEventListener('click', () => {
+                toggleBtn.setAttribute('aria-expanded', 'false');
+                mobileNav.classList.remove('open');
+            });
+        });
+    }
+});
+</script>

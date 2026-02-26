@@ -14,7 +14,9 @@
 
 import '../styles/globals.css';
 import '@fontsource-variable/inter/wght.css';
+import '@fontsource-variable/source-serif-4/wght.css';
 import interWoff2 from '@fontsource-variable/inter/files/inter-latin-wght-normal.woff2?url';
+import sourceSerifWoff2 from '@fontsource-variable/source-serif-4/files/source-serif-4-latin-wght-normal.woff2?url';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
@@ -63,6 +65,7 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="sitemap" href="/sitemap-index.xml" />
         <link rel="preload" as="font" type="font/woff2" href={interWoff2} crossorigin />
+        <link rel="preload" as="font" type="font/woff2" href={sourceSerifWoff2} crossorigin />
 
         <!-- Open Graph -->
         <meta property="og:title" content={title} />
