@@ -50,6 +50,13 @@ This raises questions that scholars and practitioners continue to debate. Is a j
 
 **Hajj** — The annual Islamic pilgrimage to Mecca, obligatory once in a lifetime for Muslims who have the means and health to undertake it. The Hajj is the largest annual pilgrimage gathering in the world, drawing over two million participants to perform rituals that recapitulate the story of Ibrahim (Abraham).
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpilgrimage-definition.jpg&w=800" alt="An ancient footpath through the countryside, a timeless pilgrim trail" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">An ancient footpath through the countryside, a timeless pilgrim trail</figcaption>
+</figure>
+
+
 **Communitas** — A term coined by anthropologist Victor Turner to describe the intense, egalitarian fellowship that can emerge among people undergoing a shared ritual passage. Pilgrims often describe the experience of communitas — a temporary dissolution of social hierarchies — as one of the most powerful aspects of the journey.
 
 **Aliyah LeRegel** — Literally "going up by foot," the Hebrew term for the three annual pilgrimage festivals (Pesach, Shavuot, Sukkot) during which Jewish men were commanded to appear at the Temple in Jerusalem. The practice ceased with the Temple's destruction in 70 CE but remains central to Jewish liturgical memory.

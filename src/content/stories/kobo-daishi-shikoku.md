@@ -24,6 +24,13 @@ Kūkai was born in 774 CE on the island of Shikoku, in what is now Kagawa Prefec
 
 The young Kūkai's asceticism was extreme even by the standards of Japanese mountain Buddhism. He practiced in caves, on isolated headlands, and in dense forests, subjecting his body to exposure, fasting, and marathon meditation sessions. A passage in his later writings describes his practice at Cape Muroto on Shikoku's southeastern coast: seated in meditation facing the ocean, he recited mantras continuously until, he reported, the morning star (Venus) entered his mouth — a breakthrough experience that confirmed his spiritual vocation. The cave at Cape Muroto where this experience reportedly occurred remains a pilgrimage site today, directly connected to the Shikoku 88 Temple circuit.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=800" alt="A Buddhist monk statue at a Japanese temple, honoring Kobo Daishi" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Buddhist monk statue at a Japanese temple, honoring Kobo Daishi</figcaption>
+</figure>
+
+
 In 804, Kūkai received imperial permission to travel to Tang dynasty China as part of a diplomatic mission. He spent approximately two years in Chang'an (modern Xi'an), then one of the world's largest and most cosmopolitan cities, where he studied Sanskrit, Chinese poetry, calligraphy, and — most consequentially — esoteric Buddhism under the master Huiguo at the Qinglong Temple. Huiguo, recognizing exceptional capacity in his Japanese student, transmitted to Kūkai the complete teachings and ritual lineages of esoteric Buddhism in a remarkably compressed period. Kūkai later wrote that Huiguo told him: "I have waited long for you. Now that you have come, I can transmit all that I have received."
 
 Kūkai returned to Japan in 806 carrying texts, ritual implements, mandalas, and a comprehensive knowledge of esoteric Buddhist theory and practice that was without precedent in Japan. Over the following decades, he established Shingon ("True Word") Buddhism as a distinct school, founded the monastic complex on Mount Kōya that remains Shingon's headquarters today, served as abbot of the important Tō-ji temple in Kyoto, and produced a body of philosophical, poetic, and calligraphic work that earned him recognition as one of the supreme cultural figures of Japanese civilization.

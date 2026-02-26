@@ -25,6 +25,13 @@ St. Olav's Way — known in Norwegian as Pilegrimsleden — traces its origins t
 
 The cult of St. Olav spread rapidly across Scandinavia and beyond. Churches dedicated to him appeared throughout Norway, Sweden, Denmark, Iceland, the Faroe Islands, and even in England and the Baltic states. Trondheim became a pilgrimage destination of European significance, drawing pilgrims from across northern Europe who traveled by land and sea to venerate Olav's relics and seek his intercession. The pilgrimage route from the south — from Oslo (then Christiania) through the Gudbrandsdalen valley to Trondheim — became the most established overland path.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=800" alt="Nidaros Cathedral in Trondheim, the destination of St Olav's Way" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Nidaros Cathedral in Trondheim, the destination of St Olav's Way</figcaption>
+</figure>
+
+
 The medieval pilgrimage to Nidaros represented not merely religious devotion but an assertion of Norwegian identity. St. Olav served simultaneously as patron saint, national hero, and symbol of Norway's place within the community of Christian nations. The pilgrimage route traversed the country's core agricultural heartland, passing through communities whose churches, farms, and market towns constituted the infrastructure of medieval Norwegian civilization.
 
 The Reformation arrived in Norway in 1537, when Christian III of Denmark imposed Lutheranism and dissolved the Catholic institutional framework. The pilgrimage to Nidaros was officially abolished, Olav's shrine was dismantled, and the relics disappeared — their fate remains unknown. The route itself gradually faded from use as a pilgrim path, though it continued to function as a travel corridor between Norway's two most important cities.
@@ -38,6 +45,13 @@ The revival of St. Olav's Way began in the 1990s, inspired by the broader Europe
 The main route (Gudbrandsdalsleden) runs approximately 643 kilometers from Oslo to Trondheim, following a corridor that largely parallels the historical path through the Gudbrandsdalen valley while diverging in places to incorporate scenic terrain and avoid modern highways. The journey typically requires thirty to thirty-five days on foot, though variations in pace, rest days, and weather can extend or compress this timeline considerably.
 
 The departure from Oslo begins at the medieval church ruins at Gamle Aker Kirke, the city's oldest surviving building, before heading north through the suburban and into the forests of Akershus county. The initial days of walking ease the pilgrim out of urban life and into the rhythms of long-distance travel, with the terrain rising gradually as the route approaches the lake district of Mjøsa.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=800" alt="A mountain trail through the Norwegian countryside" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A mountain trail through the Norwegian countryside</figcaption>
+</figure>
+
 
 The passage along Lake Mjøsa, Norway's largest lake, provides a section of relatively gentle walking with views across the water to the agricultural s of Hedmark. The stave church at Ringebu, one of the surviving medieval wooden churches that dot the Norwegian countryside, marks the entrance to the Gudbrandsdalen proper. These stave churches, with their dragon-headed gables and dark wooden interiors, connect the walker to the architectural world of medieval Scandinavia in ways that stone buildings elsewhere in Europe cannot match.
 

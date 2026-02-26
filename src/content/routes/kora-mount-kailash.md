@@ -26,6 +26,13 @@ Mount Kailash, rising 6,638 meters above the Tibetan Plateau in the remote Ngari
 
 No mountain on earth carries such a density of sacred meaning across so many traditions. This convergence is not coincidental — it reflects Mount Kailash's position at the hydrological and geographical heart of Asia. Four of the continent's great rivers — the Indus, Sutlej, Brahmaputra, and Karnali (a tributary of the Ganges) — originate near its base, a geographical fact that ancient cosmographers interpreted as evidence of divine design. The mountain's distinctive symmetrical peak, its four faces aligned roughly with the cardinal directions, and its isolation from other peaks of comparable size all contributed to its identification as the axis mundi — the center and pillar of the world.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=800" alt="Mount Kailash rising above the Tibetan plateau" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Mount Kailash rising above the Tibetan plateau</figcaption>
+</figure>
+
+
 The practice of circumambulating Mount Kailash — known as kora in Tibetan, parikrama in Sanskrit — represents one of the oldest continuously performed pilgrimage rituals on earth. Hindu texts dating to the early centuries of the Common Era describe the circumambulation, and the practice likely predates these written records by centuries. The act of walking around the mountain, keeping it always to one's right (for Hindus and Buddhists; Bön practitioners and Jains walk counterclockwise), transforms the pilgrim's body into an instrument of devotion, tracing a circle that mirrors the cosmic cycles of creation, existence, and dissolution.
 
 Tibetan Buddhist tradition holds that a single kora erases the sins of one lifetime, while 108 circuits guarantee enlightenment. The most devoted practitioners perform the kora by full-body prostration — lying face down, marking the spot reached by the fingertips, standing, walking to that mark, and prostrating again — a method that extends the three-day walk to two or three weeks and demands extraordinary physical endurance and spiritual commitment.
@@ -39,6 +46,13 @@ The political history of the region has alternately facilitated and restricted a
 The kora circuit of approximately 52 kilometers typically requires three days for walkers, though exceptionally fit pilgrims may complete it in a single long day and prostrating pilgrims may take two to three weeks. The route reaches its highest point at the Drolma La pass (5,636 meters), one of the highest points regularly crossed by pilgrims anywhere in the world. The altitude alone makes this among the most physically demanding pilgrimage routes in existence, and adequate acclimatization is essential.
 
 **Day 1** begins at the town of Darchen (4,575 meters), the base camp for the kora. The path heads west before turning north along the western face of the mountain, passing the Tarboche flagpole, where thousands of prayer flags are renewed annually during the Saga Dawa festival. The day's walk of approximately 20 kilometers follows the Lha Chu (River of the Gods) valley, gradually gaining elevation while providing increasingly dramatic views of Kailash's western and northern faces. The night is spent at Dirapuk Monastery (4,909 meters), positioned directly opposite the mountain's north face — a wall of ice and rock that rises over 1,700 meters above the monastery in a single vertical sweep.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=800" alt="A Tibetan Buddhist pilgrim prostrating on the kora path" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Tibetan Buddhist pilgrim prostrating on the kora path</figcaption>
+</figure>
+
 
 **Day 2** constitutes the kora's physical and spiritual crux. The route climbs steeply from Dirapuk to the Drolma La pass, gaining over 700 meters of elevation across technically non-demanding but exhausting terrain at extreme altitude. The pass itself, festooned with prayer flags and marked by a large boulder known as the Drolma Rock, is considered the point of spiritual death and rebirth — pilgrims are said to leave their old karma at the pass and descend as renewed beings. The descent, steep and demanding on the knees, leads to Lake Gauri Kund, a small sacred lake that is often frozen, before reaching the overnight stop at Zutulpuk Monastery (4,790 meters).
 

@@ -23,6 +23,13 @@ In the spring of 1798, Rabbi Nachman of Breslov — great-grandson of the Baal S
 
 The journey itself was an ordeal. Nachman traveled overland through the Ottoman Empire at a moment when Napoleon's Egyptian campaign had destabilized the entire eastern Mediterranean. He arrived in the port of Istanbul and secured passage on a ship to the coast of Palestine, arriving in Haifa in September 1798. The sea voyage was dangerous — Ottoman naval patrols and the aftermath of Napoleon's fleet movements made Mediterranean travel hazardous — and Nachman later described moments during the journey when he felt certain he would die.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=800" alt="Hasidic prayer candles glowing in a devotional setting" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Hasidic prayer candles glowing in a devotional setting</figcaption>
+</figure>
+
+
 His time in the Land of Israel was remarkably brief — approximately seven months — and his itinerary was surprisingly modest. He visited Haifa, Tiberias, Safed, and possibly other sites in the Galilee, but there is no clear evidence that he reached Jerusalem. The Ottoman authorities and the disruptions of the French-Ottoman conflict limited movement in the region, and Nachman's financial resources were minimal. Yet the brevity and apparent modesty of the visit stands in striking contrast to the importance Nachman attached to it. He declared that his journey to the Land of Israel was the accomplishment of his life, and his subsequent teachings consistently reflected the transformative impact he attributed to the experience.
 
 Nachman's understanding of what the journey accomplished operated on a level that resists conventional explanation. In Hasidic thought, the Land of Israel possesses a unique spiritual quality — it is the place where divine presence is most intensely accessible, where prayer reaches its highest efficacy, and where the soul can achieve refinements impossible elsewhere. Nachman understood his presence in the Land not as tourism or even conventional pilgrimage but as a metaphysical operation: by bringing his consciousness into contact with the Land's spiritual essence, he believed he had activated capacities within himself that would inform his teaching for the rest of his life.

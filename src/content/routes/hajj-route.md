@@ -27,6 +27,13 @@ The Hajj represents one of the Five Pillars of Islam — the fundamental obligat
 
 The pre-Islamic Hajj had evolved considerably from its Abrahamic origins by the time of Muhammad's birth around 570 CE. The Kaaba housed hundreds of tribal idols, and the pilgrimage to Mecca incorporated polytheistic practices alongside surviving elements of monotheistic worship. The annual gathering served commercial as well as religious purposes, with the sacred months surrounding the Hajj providing a period of truce during which trade could be conducted safely.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=800" alt="The vast tent city at Mina during the Hajj pilgrimage" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The vast tent city at Mina during the Hajj pilgrimage</figcaption>
+</figure>
+
+
 Muhammad's conquest of Mecca in 630 CE and the subsequent purification of the Kaaba — the removal of its idols and its rededication to the worship of the one God — transformed the Hajj from a regional polytheistic festival into the central pilgrimage obligation of a rapidly expanding monotheistic faith. The Prophet performed the Hajj once after the conquest, in 632 CE, just months before his death. This "Farewell Pilgrimage" established the rituals, sequence, and spiritual significance that define the Hajj to this day.
 
 The historical logistics of the Hajj shaped the political geography of the Islamic world for centuries. The great Hajj caravans — from Damascus, Cairo, Baghdad, and across North Africa — were major logistical undertakings requiring military escorts, water supplies, and diplomatic arrangements with the tribes and rulers along their routes. The ability to protect and provision the Hajj caravan served as a mark of sovereign legitimacy, and control of the Hijaz region containing Mecca and Medina conferred unique prestige within the Islamic political order.
@@ -40,6 +47,13 @@ The advent of steamship travel in the nineteenth century and air travel in the t
 The Hajj unfolds over five to six days during the eighth through thirteenth of Dhul Hijjah, the twelfth month of the Islamic lunar calendar. The rituals follow a precise sequence that moves pilgrims through several sites in and around Mecca, each movement carrying specific theological significance rooted in Quranic narrative and Prophetic practice.
 
 **Day 1 (8th Dhul Hijjah):** Pilgrims enter the state of ihram — a condition of ritual purity marked by specific garments (two seamless white cloths for men, modest dress for women) and behavioral restrictions including prohibitions on cutting hair, using perfume, and engaging in disputes. The ihram garments eliminate visual markers of wealth and status, embodying the Islamic principle that all believers stand equal before God. Pilgrims travel to Mina, a tent city east of Mecca, where they spend the night in prayer and contemplation.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=800" alt="Pilgrims gathered on the Plain of Arafat during Hajj" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims gathered on the Plain of Arafat during Hajj</figcaption>
+</figure>
+
 
 **Day 2 (9th Dhul Hijjah — Day of Arafat):** This is considered the most important day of the Hajj. Pilgrims travel to the Plain of Arafat, approximately twenty kilometers east of Mecca, where they stand in prayer and supplication from noon until sunset. This standing, known as wuquf, is the essential rite of the Hajj — the Prophet stated that "Hajj is Arafat," meaning that missing this observance invalidates the entire pilgrimage. The gathering at Arafat is often described as a foretaste of the Day of Judgment, when all humanity will stand before God.
 

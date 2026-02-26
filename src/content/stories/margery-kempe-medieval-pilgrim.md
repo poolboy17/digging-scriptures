@@ -25,6 +25,13 @@ Margery Kempe, born around 1373 in Bishop's Lynn (modern King's Lynn), Norfolk, 
 
 Her spiritual awakening followed a severe mental crisis after the birth of her first child, during which she experienced terrifying visions of demons. Recovery came through a vision of Christ, which initiated a lifelong pattern of intense mystical experiences including visions, voices, and episodes of uncontrollable weeping that she understood as divine gifts but that many of her contemporaries found deeply disturbing. The weeping in particular — loud, sustained, and occurring during church services and at sacred sites — generated reactions ranging from reverent awe to furious hostility throughout her travels.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=800" alt="A medieval English Gothic church from Margery Kempe's era" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A medieval English Gothic church from Margery Kempe's era</figcaption>
+</figure>
+
+
 Margery's first major pilgrimage, to Jerusalem in 1413–1414, involved an overland journey through Germany and Italy to Venice, followed by a sea crossing to Jaffa and the arduous overland trip to the Holy City. The journey tested her both physically and socially. Her fellow pilgrims, irritated by her constant weeping, her refusal to eat meat, and her insistence on discussing religious topics at meals, attempted to abandon her at several points. She traveled portions of the route alone or with temporary companions, relying on the charity of strangers and, she believed, the direct intervention of divine providence.
 
 In Jerusalem, Margery's mystical experiences reached their peak intensity. At the Church of the Holy Sepulchre, standing at the site of the Crucifixion, she experienced what she described as a complete emotional and physical collapse, crying and screaming in response to a vivid interior vision of Christ's suffering. This episode marked the beginning of the "gift of tears" that would characterize the rest of her spiritual life — a form of mystical expression with precedents in figures like Mary Magdalene and contemporary continental mystics like Bridget of Sweden, but one that proved uniquely controversial in the English context.

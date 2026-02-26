@@ -27,6 +27,13 @@ Three times each year — at Pesach (Passover), Shavuot (Weeks), and Sukkot (Tab
 
 The pilgrim's journey began well before reaching Jerusalem. Travelers from the Galilee, the coastal plain, the Transjordan, and eventually from diaspora communities in Mesopotamia, Egypt, and the Roman Mediterranean made their way along established routes. The Mishnah describes pilgrims traveling in organized groups, singing the Psalms of Ascent (Psalms 120-134) as they approached Jerusalem. These psalms, which progress from distress to joy and from exile to homecoming, functioned as a liturgical soundtrack for the journey, building anticipation with each step.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=800" alt="Ancient steps near the Jerusalem archaeological park" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Ancient steps near the Jerusalem archaeological park</figcaption>
+</figure>
+
+
 Approaching Jerusalem from the south — the most common route from the Hebron road — pilgrims would first catch sight of the Temple from the ridge of the Mount of Olives. The Talmud records that this view provoked tears, prayer, and tearing of garments among those seeing the Temple for the first time or returning after long absence. The emotional impact was architectural as well as theological: Herod's expansion of the Temple Mount had created a platform of extraordinary scale, and the Temple itself, faced with white stone and gold, was visible for miles.
 
 The ascent to the Temple Mount followed a defined sequence. Pilgrims first immersed in one of the dozens of mikvaot (ritual baths) that archaeological excavation has uncovered south and west of the Temple Mount. These stepped pools, carved into the bedrock, accommodated large numbers of people simultaneously, reflecting the enormous volumes of pilgrims who needed to achieve ritual purity before entering the sacred precincts. The recently excavated Pilgrims' Road, a monumental stepped street running from the Pool of Siloam to the Temple Mount's southern gates, has revealed the actual pavement walked by pilgrims during the Second Temple period.
@@ -40,6 +47,13 @@ The Southern Steps — a broad, monumental staircase leading up to the Hulda Gat
 The Temple pilgrimage was not merely a religious obligation but a defining expression of Jewish collective identity. The Mishnah's tractate Hagigah and the historical accounts of Josephus describe Jerusalem during the festivals as a city transformed. The population, normally around 60,000 during the late Second Temple period, swelled to several hundred thousand. Pilgrims camped in the surrounding hills, filled the city's guest rooms, and overflowed into nearby towns. The economic impact was enormous — the pilgrimage trade sustained Jerusalem's economy — but the social impact was greater. Jews from across the Mediterranean world, speaking different languages and following different local customs, gathered in a single place, reinforcing the sense of a people united by covenant and practice.
 
 The sacrificial rituals performed at the Temple during each festival were specific and elaborate. At Pesach, every family group slaughtered a lamb in the Temple courtyard, an act of participatory worship that connected individual households to the national narrative of the Exodus. At Sukkot, priests performed the water libation ceremony — drawing water from the Pool of Siloam and pouring it on the altar — accompanied by celebrations that the Mishnah describes as so joyous that "whoever has not seen the joy of the water-drawing has never seen joy in his life." At Shavuot, pilgrims brought the first fruits of the harvest in elaborate processions, with the Mishnah providing a detailed choreography of the presentation before the priests.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=800" alt="A detailed model of the ancient Jerusalem Temple" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A detailed model of the ancient Jerusalem Temple</figcaption>
+</figure>
+
 
 The destruction of the Temple in 70 CE by Roman forces ended the pilgrimage system abruptly. The loss was not only of a building but of an entire way of being Jewish — the sacrificial system, the priestly liturgy, the festival gatherings, and the physical act of ascending to God's presence. Rabbinic Judaism, which emerged in the generations after the destruction, transformed the pilgrimage impulse into prayer, study, and memory. The synagogue service incorporated language from the Temple liturgy. The festival prayers included petitions for the restoration of the Temple. And the Western Wall — the surviving retaining wall of Herod's platform — became the focal point for the grief and longing that had no temple to absorb.
 

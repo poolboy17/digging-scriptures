@@ -27,6 +27,13 @@ The Cave of Machpelah in Hebron holds claims to being one of the oldest continuo
 
 The massive stone enclosure visible today—walls rising twelve meters high, built of Herodian-era limestone blocks similar to those of the Western Wall in Jerusalem—dates to the reign of Herod the Great (first century BCE). Herod's construction created a monumental frame around the cave entrance, establishing the architectural presence that has dominated the site for two millennia. The building's survival through successive conquests—Roman, Byzantine, Arab, Crusader, Mamluk, Ottoman, British, Jordanian, and Israeli—testifies to the reverence in which all occupying powers held the patriarchal tombs.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=800" alt="Ancient stone architecture in the Holy Land" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Ancient stone architecture in the Holy Land</figcaption>
+</figure>
+
+
 The Crusaders converted the structure into a church in the twelfth century, and Saladin transformed it into a mosque after recapturing Hebron in 1188. The Mamluks prohibited non-Muslim access in 1267, a ban that persisted under Ottoman and Jordanian rule for seven centuries—Jews were permitted to approach no higher than the seventh step of the eastern staircase. Israel's capture of the West Bank in 1967 restored Jewish access to the interior for the first time since 1267.
 
 </Fragment>

@@ -60,6 +60,13 @@ Contemporary women pilgrims frequently describe the journey as a space of autono
 
 **Peregrinatio** — The Latin term for the early Christian practice of religious wandering, which could mean both a specific pilgrimage to a holy site and a broader spiritual discipline of displacement from home. Women like Egeria practiced peregrinatio as a form of devotion that combined travel, liturgical observation, and spiritual seeking.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=800" alt="Women gathered in prayer at a temple" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Women gathered in prayer at a temple</figcaption>
+</figure>
+
+
 **Tirtha-yatra** — The Hindu practice of pilgrimage to sacred crossing places (tirthas), described in the Mahabharata and other texts as spiritually meritorious for all persons regardless of gender or caste. Women's participation in tirtha-yatra has been documented from the earliest historical periods.
 
 </Fragment>

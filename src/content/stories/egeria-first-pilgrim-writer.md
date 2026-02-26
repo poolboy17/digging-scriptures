@@ -22,6 +22,13 @@ Sometime around 381–384 CE, a woman known to us as Egeria — her name is unce
 
 Egeria was almost certainly a woman of considerable means and social standing, though her exact identity remains debated. The ease with which she traveled, the deference shown to her by bishops and monks, and the protection afforded by Roman military escorts all suggest either aristocratic birth or institutional backing of significant weight. She traveled not as a solitary wanderer but as a figure who could command resources — guides, animals, military accompaniment through dangerous territory — and whose arrival at major churches and monasteries warranted personal attention from their leaders.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fegeria-manuscript.jpg&w=800" alt="An ancient manuscript on parchment, similar to Egeria's travel diary" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">An ancient manuscript on parchment, similar to Egeria's travel diary</figcaption>
+</figure>
+
+
 Her journey covered an extraordinary geographical range. The surviving text describes visits to Mount Sinai, where she climbed to the summit guided by monks who pointed out the locations associated with Moses and the Exodus narrative. She traveled to Mesopotamia to visit the tomb of the apostle Thomas at Edessa (modern Şanlıurfa) and the reputed site of Abraham's home at Harran. She explored the sites associated with the patriarch Job in the Hauran region of modern Syria. Throughout these travels, she sought out the specific places mentioned in scripture, asking local informants to identify the exact locations of biblical events and describing the terrain, vegetation, and distances with a precision that has allowed modern scholars to trace her routes.
 
 The most valuable portion of Egeria's account describes the liturgical practices of the Jerusalem church during her extended stay in the city. She documents the daily offices — the prayers conducted at the Church of the Holy Sepulchre at the third, sixth, and ninth hours, and the all-night vigils on Sundays. She provides the first detailed description of Holy Week observances in Jerusalem, recording processions that moved from site to site around the city, each stop marked by scripture readings appropriate to the events that tradition placed at that location. Her account reveals a liturgy that was intensely geographical — the worship of the Jerusalem church was structured around movement through sacred space, not merely the performance of rituals within a single building.
@@ -35,6 +42,13 @@ Egeria's writing style combines practical observation with devotional enthusiasm
 Egeria's pilgrimage took place during a formative period for Christian sacred geography. Helena's visit to Palestine approximately fifty years earlier had initiated the construction of major basilicas at the Crucifixion and Nativity sites, and the process of identifying and architecturally enshrining other biblical locations was still actively underway. Egeria arrived in a being transformed from Roman provincial territory into the Holy Land — a process she witnessed and documented from the perspective of a pilgrim for whom these identifications were both exciting discoveries and confirmations of scriptural truth.
 
 The liturgical practices Egeria describes illuminate a Christianity still in the process of developing the worship forms that would become standard across the centuries. The stational liturgy of Jerusalem — in which the congregation processed from site to site, reading at each location the biblical passage associated with that place — represents an approach to worship that used geography as a liturgical text. The pilgrim did not merely hear about the Crucifixion; she stood at the place where it occurred and heard the relevant Gospel passage read aloud in the hearing of the assembled faithful. This integration of space, text, and community created an intensity of devotional experience that pilgrims sought to replicate in their home churches, influencing the development of liturgy throughout the Christian world.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fegeria-holy-land.jpg&w=800" alt="A landscape in the Holy Land that Egeria may have traversed" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A landscape in the Holy Land that Egeria may have traversed</figcaption>
+</figure>
+
 
 Egeria's gender and the apparent audience of her letters — a community of women — place her account within the history of women's participation in early Christian pilgrimage and religious life. Her travels were neither unique nor unprecedented; other women of means, including the Roman aristocrat Paula (documented by Jerome), undertook comparable journeys during the same period. The surviving accounts suggest that the fourth and fifth centuries represented a period of relatively expansive opportunity for women's participation in pilgrimage and religious leadership, a space that would narrow considerably in later centuries.
 

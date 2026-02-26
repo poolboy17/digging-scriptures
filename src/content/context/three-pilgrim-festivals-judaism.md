@@ -56,6 +56,13 @@ The Western Wall in Jerusalem became the closest accessible point to the Temple'
 
 **Korban Pesach** — The Paschal sacrifice, a yearling lamb or goat slaughtered on the fourteenth of Nisan and consumed in family groups within Jerusalem. The sacrifice's regulations, detailed in Exodus 12, provided the ritual center of the Passover pilgrimage.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=800" alt="A Torah scroll in a synagogue, central to Jewish festival traditions" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Torah scroll in a synagogue, central to Jewish festival traditions</figcaption>
+</figure>
+
+
 **Bikkurim** — The first fruits offering brought to the Temple during Shavuot. The ceremony of presentation, described in Deuteronomy 26, required the pilgrim to recite a historical summary beginning "My father was a wandering Aramean" — linking the individual's agricultural gratitude to the collective narrative of Israelite history.
 
 **Sukkah** — The temporary booth in which Jews dwell during the seven days of Sukkot. The sukkah's fragility and impermanence are essential to its symbolism — it represents both the vulnerability of the wilderness wanderings and the trust in divine protection that made survival possible.

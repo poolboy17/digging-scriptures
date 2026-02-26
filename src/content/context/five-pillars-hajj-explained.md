@@ -48,6 +48,13 @@ Women's participation in the Hajj has been the subject of evolving jurisprudenti
 
 **Sa'i** — The walking seven times between the hills of Safa and Marwa, commemorating Hagar's desperate search for water for her infant son Ismail. The ritual recalls a moment of maternal devotion and divine mercy — God responded to Hagar's distress by causing the spring of Zamzam to flow, a spring that continues to provide water to pilgrims today.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=800" alt="Islamic calligraphy from the Quran, the spiritual foundation of Hajj" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Islamic calligraphy from the Quran, the spiritual foundation of Hajj</figcaption>
+</figure>
+
+
 **Ihram** — Both the state of ritual purity and the garments that mark it. Entering ihram involves a ritual washing, the donning of specified garments, and the declaration of intention (niyyah) to perform the Hajj. The restrictions of ihram — no perfume, no cutting of hair or nails, no sexual relations, no hunting — create a condition of simplicity and self-denial that prepares the pilgrim for sacred encounter.
 
 **Jamarat** — The three stone pillars (now replaced by walls for safety) at Mina that represent the points where Satan attempted to tempt Ibrahim. The stoning ritual, performed with small pebbles collected at Muzdalifah, enacts the rejection of temptation and the triumph of obedience to God over self-interest.

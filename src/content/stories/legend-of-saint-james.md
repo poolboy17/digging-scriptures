@@ -25,6 +25,13 @@ imageCredit: "Photo by David Magalhães on Unsplash"
 James the son of Zebedee appears in the gospels as one of the earliest and most prominent disciples of Jesus. Together with his brother John and with Simon Peter, James formed an inner circle present at pivotal moments: the Transfiguration on Mount Tabor, the raising of Jairus's daughter, and the agony in the Garden of Gethsemane. The gospels characterize the brothers as Boanerges, "sons of thunder," suggesting a temperament that later tradition would elaborate into a portrait of boldness and missionary zeal.
 The Acts of the Apostles records James's death with stark brevity: "Herod the king laid violent hands upon some who belonged to the church. He killed James the brother of John with the sword" (Acts 12:1-2). This execution, dated to approximately 44 CE, makes James the first of the twelve apostles to suffer martyrdom. The biblical account places this event firmly in Jerusalem, under the reign of Herod Agrippa I, and says nothing about any prior mission to lands beyond Palestine.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=800" alt="A medieval pilgrim sculpture on the way to Santiago" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A medieval pilgrim sculpture on the way to Santiago</figcaption>
+</figure>
+
+
 The gap between this scriptural record and the tradition that James preached in Iberia represents one of the most consequential silences in Christian hagiography. No text earlier than the seventh century connects James to Spain. The Breviarium Apostolorum, a Latin text from around 600 CE, assigns Spain as James's preaching territory, but scholars including Richard Fletcher and Klaus Herbers have noted that this attribution likely reflects a systematic effort to distribute apostolic missions across known regions rather than historical memory. The silence of earlier sources—Paul's letters, early church historians like Eusebius, the various apocryphal Acts—leaves the historical question unresolved.
 
 What matters for the pilgrimage tradition, however, is not whether James actually reached Iberia but that communities in northwestern Spain came to believe he had. This belief, once established, proved powerful enough to generate one of the most significant pilgrimage movements in Christian history.

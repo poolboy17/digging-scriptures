@@ -69,6 +69,13 @@ The challenge for the coming decades will be to manage this impulse in ways that
 
 **Commodification** — The process by which sacred experiences and objects are transformed into commercial products. The sale of Lourdes water, Camino souvenirs, or Hajj packages raises questions about whether commercial transactions enhance or undermine the spiritual dimensions of pilgrimage.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftourism-modern.jpg&w=800" alt="Tourists visiting an ancient sacred site in the modern era" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Tourists visiting an ancient sacred site in the modern era</figcaption>
+</figure>
+
+
 **Authenticity** — A contested concept in pilgrimage studies, referring to the perceived genuineness of a sacred site or pilgrim experience. Debates about authenticity — whether a rebuilt shrine is "real," whether a motorized pilgrim's experience is "genuine" — reveal underlying assumptions about what gives pilgrimage its value.
 
 **Dark Tourism** — The practice of visiting sites associated with death, suffering, or tragedy. Some pilgrimage destinations, particularly those associated with martyrdom or historical violence, overlap with dark tourism, raising questions about the relationship between devotion and spectacle.

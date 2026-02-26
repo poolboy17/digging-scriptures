@@ -52,6 +52,13 @@ The phrase "Next year in Jerusalem," recited at the conclusion of the Passover S
 
 **Re'iyah** — The obligation to "be seen" before God at the Temple. Rabbinic discussion explored the paradox: does the pilgrim come to see God, or to be seen by God? The answer, according to the Talmud, is both — "Just as He comes to see you, so He comes to be seen by you" — establishing the pilgrimage as a mutual encounter rather than a one-directional obligation.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=800" alt="Ancient Jerusalem stone walls where pilgrims once ascended" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Ancient Jerusalem stone walls where pilgrims once ascended</figcaption>
+</figure>
+
+
 **Korban Hagigah** — The festival peace offering that every pilgrim was required to bring, in addition to any personal sacrifices. The hagigah was eaten by the pilgrim and his family on the first day of the festival, creating a sacred communal meal within the Temple precincts that combined worship with celebration.
 
 **Ma'amad** — The system by which ordinary Israelites participated in the daily Temple service even when not physically present in Jerusalem. The country was divided into twenty-four districts, each assigned a week during which its representatives stood in the Temple during the sacrifices while their communities at home fasted and prayed simultaneously. This system extended the pilgrimage principle beyond the three festivals into ordinary time.

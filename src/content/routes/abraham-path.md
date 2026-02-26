@@ -33,6 +33,13 @@ Abraham — known as Ibrahim in Arabic and Avraham in Hebrew — occupies a posi
 
 The historicity of Abraham remains a subject of scholarly debate. The patriarchal narratives in Genesis, dating in their written form to roughly the tenth through fifth centuries BCE, describe events that tradition places around 2000–1800 BCE. Archaeological evidence neither confirms nor definitively refutes the existence of a historical Abraham, though the cultural details in the narratives — patterns of semi-nomadic pastoralism, legal customs, naming conventions — fit plausibly within the Middle Bronze Age context. What is beyond dispute is the extraordinary influence of the Abraham narrative on three civilizations that collectively encompass more than half the world's population.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fabraham-path-desert.jpg&w=800" alt="A desert hiking trail along the Abraham Path" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A desert hiking trail along the Abraham Path</figcaption>
+</figure>
+
+
 In Jewish tradition, Abraham's journey represents the foundational act of faith: God's command to "go forth from your land" (lech lecha) and Abraham's obedient departure into unknown territory establish the pattern of covenant relationship between God and the Jewish people. The land promised to Abraham and his descendants through Isaac becomes the theological basis for the Jewish connection to the Land of Israel, a connection that has shaped Jewish identity and aspiration across millennia of diaspora.
 
 In Christian theology, Abraham is understood as the father of faith whose trust in God prefigures the faith demanded of Christians. Paul's letters, particularly Romans and Galatians, develop Abraham as a universal figure whose faith-based relationship with God transcends the ethnic particularity of the Mosaic covenant. The Abraham narrative thus serves Christianity as a bridge between its Jewish origins and its universal aspirations.
@@ -46,6 +53,13 @@ In Islamic tradition, Ibrahim holds the title Khalil Allah — Friend of God —
 The modern Abraham Path, conceived in 2007 by Harvard University's Global Negotiation Project, translates the ancient narrative into a contemporary walking route. The path was designed not primarily as a religious pilgrimage but as a cultural initiative — a way of using the shared figure of Abraham to foster understanding among communities divided by political, ethnic, and religious conflict. The route passes through villages and towns where local hosts provide accommodation and cultural exchange, making the journey as much about human encounter as physical movement.
 
 The Turkish section begins near Şanlıurfa (ancient Edessa), traditionally identified as Abraham's birthplace in Islamic tradition and near the site of Harran where Abraham lived before his departure for Canaan. The of southeastern Turkey — rolling steppe, ancient tells, and the upper reaches of the Euphrates — provides a setting that has changed less than one might expect since the Bronze Age. Walkers traverse terrain that still supports the pastoral economy described in the Genesis narratives.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fabraham-path-village.jpg&w=800" alt="A hillside village in the Middle East along the Abraham Path" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A hillside village in the Middle East along the Abraham Path</figcaption>
+</figure>
+
 
 The Jordanian section, the most developed portion of the trail, runs approximately 330 kilometers through some of the Middle East's most dramatic s. The route passes through the Dana Nature Reserve, the ancient Nabataean city of Petra (not directly associated with Abraham but an extraordinary site along the way), and the rolling hills of northern Jordan. Bedouin communities along the route offer traditional hospitality that echoes the emphasis on welcoming strangers found in all three Abrahamic traditions' accounts of the patriarch.
 

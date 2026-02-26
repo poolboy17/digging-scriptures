@@ -26,6 +26,13 @@ The Kumano Kodō, a network of pilgrimage trails threading through the densely f
 
 The religious significance of the Kumano region predates organized Buddhism and Shinto alike, rooting in the Japanese tradition of nature worship and the veneration of specific s as dwelling places of the divine. The deep forests, powerful waterfalls, hot springs, and rugged coastline of the Kii Peninsula generated a sense of spiritual potency that attracted ascetic practitioners from the earliest periods of Japanese religious history. The mountains were understood not merely as beautiful but as alive with sacred presence — a concept expressed in the Japanese term shizen, which encompasses both "nature" and "the way things naturally are."
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=800" alt="A torii gate along the forested Kumano Kodo pilgrimage trail" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A torii gate along the forested Kumano Kodo pilgrimage trail</figcaption>
+</figure>
+
+
 The integration of Shinto kami (spirits/deities) and Buddhist figures through the syncretistic system known as shinbutsu-shūgō produced a religious in which the same sites could be venerated within both frameworks simultaneously. The Kumano deities were identified with specific Buddhist figures — Amida Buddha, the Medicine Buddha, and the Thousand-Armed Kannon — allowing pilgrims to approach the shrines with either Shinto or Buddhist devotional frameworks, or both. This theological flexibility broadened the pilgrimage's appeal across sectarian boundaries.
 
 Imperial pilgrimage to Kumano reached its peak during the Heian period (794–1185), when the practice became virtually obligatory for the court aristocracy. Historical records document over a hundred imperial pilgrimages between the tenth and thirteenth centuries, some involving retinues of hundreds of courtiers traveling for weeks through mountain terrain that tested their physical capacity. The phrase "the ant procession to Kumano" (ari no Kumano mōde) captured the continuous flow of pilgrims along the trails during this period.
@@ -55,6 +62,13 @@ The daily rhythm of Kumano walking involves early starts to maximize daylight, s
 **Kumano Hongū Taisha**, the principal shrine of the Kumano Sanzan, sits amid ancient cryptomeria trees near the confluence of the Kumano and Otonashi rivers. The shrine's current location dates from 1889, when catastrophic flooding forced its relocation from the original site at Ōyunohara, a broad sandbar where the original torii gate — now the world's largest at over thirty meters tall — still stands as a dramatic memorial to the shrine's former position.
 
 **Kumano Nachi Taisha** combines shrine architecture with one of Japan's most spectacular natural features. The Nachi waterfall, visible from the shrine precincts, plunges 133 meters in a single drop that generates a permanent mist and a sound that permeates the surrounding forest. The waterfall itself is venerated as a kami, and the shrine's position beside it represents the characteristically Japanese integration of built religious architecture with the natural features that originally generated sacred significance.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=800" alt="Nachi Falls, one of the sacred sites along the Kumano Kodo" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Nachi Falls, one of the sacred sites along the Kumano Kodo</figcaption>
+</figure>
+
 
 **Kumano Hayatama Taisha**, located at the mouth of the Kumano River in the coastal town of Shingū, served historically as the arrival point for pilgrims who traveled to Kumano by boat. The shrine's proximity to the ocean gives it a different character from the mountain-sited Hongū and Nachi shrines, and its sacred tree — an ancient nagi (Podocarpus nagi) believed to be over a thousand years old — is considered a natural monument.
 

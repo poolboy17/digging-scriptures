@@ -63,6 +63,13 @@ The scholarly study of relics, pioneered by historians like Peter Brown and Patr
 
 **Stupa/Chorten/Pagoda** — Architectural forms developed across Buddhist cultures to enshrine relics. The basic dome shape of the Indian stupa was adapted into the chorten of Tibetan Buddhism, the dagoba of Sri Lankan Buddhism, and the pagoda of East Asian Buddhism, each preserving the fundamental function of relic containment within culturally specific architectural traditions.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=800" alt="A gold reliquary in a medieval church, housing sacred relics" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A gold reliquary in a medieval church, housing sacred relics</figcaption>
+</figure>
+
+
 **Contact Relic** — An object that acquires sacred significance through physical contact with a primary relic or sacred person. The concept operates across traditions: a cloth touched to a saint's tomb, a prayer bead rubbed against a stupa, a pilgrim's garment worn at a sacred site — all become carriers of holiness through the logic of contact.
 
 **Incorruptibility** — The preservation of a saint's body from decay, regarded in Catholic tradition as evidence of sanctity. Incorrupt bodies — or bodies that have resisted normal decomposition — are displayed in churches across Europe, their preserved state serving as a visible argument for the reality of holiness.

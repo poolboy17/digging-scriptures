@@ -24,6 +24,13 @@ In June 1325, a twenty-one-year-old legal scholar named Abu Abdullah Muhammad Ib
 
 Ibn Battuta's initial motivation was straightforward: the Hajj. As a young man of the educated Berber class, trained in Maliki Islamic jurisprudence, the pilgrimage to Mecca was both a religious obligation and a professional opportunity — the journey would expose him to scholars and legal traditions beyond his North African training. He traveled overland across North Africa, joining pilgrim caravans that provided safety in numbers across territories where bandits and political instability made solo travel perilous.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=800" alt="A medieval Islamic-style map of the known world" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A medieval Islamic-style map of the known world</figcaption>
+</figure>
+
+
 The journey east revealed a world that was simultaneously vast and connected. The Dar al-Islam — the house of Islam — stretched from Morocco to Indonesia, and within this enormous cultural sphere, a common religious framework, shared legal traditions, and the Arabic language of scholarship created networks of hospitality and exchange that facilitated travel on a scale unmatched in the contemporary Christian world. Ibn Battuta exploited these networks masterfully, presenting himself in each new territory as a scholar and judge whose legal expertise commanded both respect and material support.
 
 His first Hajj, performed in 1326, was a transformative experience that deepened rather than satisfied his appetite for travel. Rather than returning directly to Morocco, he explored Iraq, Persia, and the East African coast before performing the Hajj a second time. He then traveled to Anatolia, crossed the Black Sea to the territories of the Golden Horde, journeyed to Constantinople as part of a diplomatic mission, traversed Central Asia to reach India, spent eight years in the service of the Sultan of Delhi, and eventually made his way to China — all while continuing to perform the Hajj whenever his travels brought him within range of Mecca.

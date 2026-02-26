@@ -50,6 +50,13 @@ Despite theological opposition, ziyarat remains one of the most widely practiced
 
 **Tawassul** — The practice of seeking nearness to God through the intercession of a righteous person, whether living or dead. Supporters cite Quranic and hadith evidence for the practice; critics argue that only God should be addressed in supplication.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=800" alt="An ornate Islamic shrine doorway adorned with decorative tilework" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">An ornate Islamic shrine doorway adorned with decorative tilework</figcaption>
+</figure>
+
+
 **Urs** — Literally "wedding," the annual festival commemorating a Sufi saint's death, understood as the soul's union with God. Urs celebrations typically involve recitation of the Quran, devotional music (qawwali or sama), communal meals, and all-night gatherings at the saint's tomb.
 
 **Shirk** — The theological concept of associating partners with God, considered the gravest sin in Islam. Opponents of ziyarat argue that requesting intercession from deceased saints constitutes a form of shirk; proponents counter that they are asking the saint to pray to God on their behalf, not worshipping the saint.

@@ -53,6 +53,13 @@ This difficulty may itself be part of the process. The psychologist Robert Kegan
 
 **Communitas** — The spontaneous, egalitarian fellowship that arises among people sharing a liminal experience. Distinguished from ordinary community by its intensity and its disregard for social hierarchies, communitas is one of the most consistently reported psychological experiences of pilgrimage.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=800" alt="A person walking a quiet nature path in contemplation" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A person walking a quiet nature path in contemplation</figcaption>
+</figure>
+
+
 **Collective Effervescence** — Émile Durkheim's term for the heightened emotional and spiritual energy generated when large groups engage in shared ritual activity. Mass pilgrimages like the Hajj and Kumbh Mela are among the most powerful examples of this phenomenon.
 
 **Bilateral Stimulation** — The neurological effect of sustained rhythmic movement that engages both sides of the body. Walking activates alternating brain hemispheres and has been associated with improved emotional processing — a mechanism also used therapeutically in EMDR (Eye Movement Desensitization and Reprocessing).

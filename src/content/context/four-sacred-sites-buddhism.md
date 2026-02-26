@@ -62,6 +62,13 @@ The four sites, while individually significant, gain additional meaning when und
 
 **Bodhi** — Enlightenment or awakening; the direct, complete understanding of the nature of reality that the Buddha achieved at Bodh Gaya. The term gives Bodh Gaya its name and the Bodhi Tree its significance.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=800" alt="A Buddhist stupa at sunset, one of the faith's sacred sites" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Buddhist stupa at sunset, one of the faith's sacred sites</figcaption>
+</figure>
+
+
 **Dharmachakra** — The Wheel of the Dharma, set in motion by the Buddha's first sermon at Sarnath. The wheel symbolizes the teaching as a force that, once set in motion, continues to roll forward through history.
 
 **Stupa** — A dome-shaped reliquary mound that serves as a focus for Buddhist devotion. The original stupas housed relics of the Buddha distributed after his cremation; later stupas were built to mark sacred sites and to house the relics of other revered figures.

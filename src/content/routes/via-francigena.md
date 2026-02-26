@@ -29,6 +29,13 @@ The Via Francigena — literally "the road that comes from France" — emerged a
 
 The Via Francigena served purposes beyond pilgrimage. It functioned as a diplomatic highway connecting the papacy with the kingdoms of northern Europe, a commercial corridor for the movement of goods between the Mediterranean and the English Channel, and a military route used by armies from Charlemagne's era through the Italian Wars. This multiplicity of functions sustained the infrastructure of bridges, hospices, and way stations that made pilgrimage feasible for ordinary travelers who could not carry sufficient supplies for weeks of walking.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=800" alt="The Tuscan countryside along the Via Francigena" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Tuscan countryside along the Via Francigena</figcaption>
+</figure>
+
+
 The route crosses four countries and passes through dramatically varied s: the chalk downlands of Kent, the plains of northern France, the vineyard-covered hills of Champagne and Burgundy, the Alpine passes of the Great St. Bernard, the rice paddies of the Po Valley, and the rolling hills of Tuscany and Lazio. Each section presented distinct challenges and developed its own infrastructure of accommodation and assistance for travelers.
 
 The hospice tradition along the Via Francigena represents one of medieval Europe's most significant charitable institutions. The Hospice of the Great St. Bernard, founded in the eleventh century at the Alpine pass bearing its name, provided shelter to travelers crossing one of the route's most dangerous sections. Similar institutions operated at regular intervals, their endowments sustained by donations from pilgrims, nobles, and monarchs who recognized both the spiritual merit and the practical necessity of maintaining the pilgrimage infrastructure.
@@ -42,6 +49,13 @@ The route's decline began in the sixteenth century as the Reformation reduced pi
 The journey begins at Canterbury Cathedral, where the murder of Archbishop Thomas Becket in 1170 created a pilgrimage destination that drew visitors from across Europe. Pilgrims traditionally departed from the cathedral's western portal, walking southeast through Kent to the English Channel. The crossing to Calais marks the first of the route's major transitions, as the pilgrim leaves the island of England for the continental road system that would carry them to Rome.
 
 The French section, comprising roughly a third of the total distance, passes through the cathedral cities of Laon and Reims before reaching the Champagne region. The medieval champagne fairs, which drew merchants from across Europe, ensured that this section of the route maintained superior infrastructure. Pilgrims shared the road with traders, and the distinction between commercial and sacred travel was often blurred — many travelers combined pilgrimage with business.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=800" alt="An ancient Roman road section of the Via Francigena" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">An ancient Roman road section of the Via Francigena</figcaption>
+</figure>
+
 
 The crossing of the Alps via the Great St. Bernard Pass, at 2,469 meters, represents the route's physical and psychological climax. The pass is typically accessible from June through October, and medieval pilgrims who arrived outside this window faced the choice of waiting or attempting the crossing in potentially lethal conditions. The hospice at the summit, with its famous rescue dogs, became legendary for the assistance it provided to travelers in distress. The descent into the Aosta Valley brings the pilgrim into Italy, where the shifts to Mediterranean vegetation and the cultural atmosphere becomes recognizably Italian.
 

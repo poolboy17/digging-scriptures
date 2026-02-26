@@ -22,6 +22,13 @@ In 629 CE, a Buddhist monk named Xuanzang slipped out of the Tang dynasty capita
 
 The journey that followed lasted seventeen years and covered approximately 16,000 kilometers across some of the most forbidding terrain on earth. Xuanzang crossed the Gobi Desert, nearly dying of thirst when he lost his water supply and wandered for five days without finding an oasis. He traversed the Tian Shan mountains in winter, losing several members of his party to cold and altitude. He passed through the kingdoms of Central Asia — Turfan, Samarkand, Balkh — where Buddhist communities provided hospitality and local rulers offered patronage and protection.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=800" alt="The vast Silk Road landscape through Central Asia" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The vast Silk Road landscape through Central Asia</figcaption>
+</figure>
+
+
 His arrival in India, the source land of Buddhism, initiated a period of intensive study and pilgrimage that lasted over a decade. Xuanzang visited every major Buddhist site on the subcontinent, including Bodh Gaya (where the Buddha attained enlightenment), Sarnath (where the Buddha delivered his first sermon), Kushinagar (where the Buddha died), and Lumbini (the Buddha's birthplace). At each site, he documented the current state of monuments and monasteries, recorded local traditions, and measured buildings and stupas with a precision that has made his account invaluable to modern archaeologists.
 
 The intellectual center of Xuanzang's Indian sojourn was Nalanda, the great Buddhist university in Bihar, where he studied for five years under the master Shilabhadra. Nalanda, which housed several thousand monks and students, represented the summit of Buddhist intellectual achievement, and Xuanzang's detailed description of its curriculum, library, debate practices, and daily routines provides the most comprehensive account of the institution at its height. He mastered Sanskrit, studied the major schools of Buddhist philosophy, and engaged in formal debates that enhanced his reputation across the Indian Buddhist world.

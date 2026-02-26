@@ -23,6 +23,13 @@ In 326 or 327 CE, Helena Augusta — mother of the Roman Emperor Constantine, ap
 
 Helena's personal history had prepared her for this role in unexpected ways. Born around 248 CE, probably in Drepanum (later renamed Helenopolis in her honor) in the Roman province of Bithynia, she came from humble origins — the historian Ambrose described her as a stabularia, an innkeeper's daughter. Her relationship with the general Constantius Chlorus produced a son, the future emperor Constantine, but she was set aside when Constantius made a politically advantageous marriage. Helena spent decades in relative obscurity before her son's rise to power restored her to prominence and eventually to the highest social rank the empire could confer.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=800" alt="A gold-adorned church interior in the Holy Land" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A gold-adorned church interior in the Holy Land</figcaption>
+</figure>
+
+
 Constantine's conversion to Christianity — or at least his decision to favor the Christian God, beginning with the Battle of the Milvian Bridge in 312 CE — transformed his mother's social restoration into a religious mission. Helena received the title Augusta and access to the imperial treasury, and she directed these resources toward charitable works and, ultimately, toward the project that would define her legacy: the identification and architectural enshrinement of the sites associated with the life, death, and resurrection of Jesus.
 
 The central narrative of Helena's journey involves the discovery of the True Cross — the wooden cross on which Jesus was crucified. According to traditions that crystallized in the late fourth century (the earliest accounts, by Eusebius, mention Helena's journey but not the cross discovery), Helena directed excavations near the site of the Crucifixion and discovered three crosses buried beneath a Roman temple. The true cross was identified through a miracle — in some versions, a sick woman was healed upon touching it; in others, a corpse was restored to life. The discovery, whether historical event or devotional legend, provided Christianity with its most significant relic and established the precedent of archaeological recovery as a mode of sacred encounter.

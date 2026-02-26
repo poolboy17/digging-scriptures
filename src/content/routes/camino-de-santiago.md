@@ -29,6 +29,13 @@ imageCredit: "Photo by Damien Dufour on Unsplash"
 
 The Camino de Santiago exists as a network of paths rather than a single road, and this multiplicity reveals something essential about pilgrimage itself. Pilgrims have never simply traveled to Santiago de Compostela; they have walked to it, their bodies moving through s over days and weeks, their experience shaped as much by the journey as by the arrival. The routes to Santiago demonstrate that pilgrimage is fundamentally an act of sustained movement through space and time.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=800" alt="Pilgrims walking a country road on the Camino de Santiago in Spain" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims walking a country road on the Camino de Santiago in Spain</figcaption>
+</figure>
+
+
 The Latin word for pilgrim, peregrinus, means stranger or foreigner. The pilgrim becomes foreign by leaving home, entering unfamiliar territory, and remaining in motion until the destination is reached. This condition of displacement—voluntary, temporary, purposeful—distinguishes pilgrimage from other forms of travel. The tourist visits; the migrant relocates; the pilgrim journeys with a different quality of intention.
 
 The Camino has preserved this understanding of pilgrimage as journey more consistently than perhaps any other route in the Christian world. While modern transportation allows pilgrims to reach Jerusalem or Rome in hours, the Camino continues to be walked. The routes remain marked, the infrastructure of hostels and waypoints continues to function, and hundreds of thousands of people each year still choose to cover the distance on foot. This persistence of walking, when walking is no longer necessary, suggests that the journey itself carries meaning that arrival alone cannot provide.
@@ -57,6 +64,13 @@ The modern revival of the Camino began in the mid-twentieth century. A parish pr
 ## Geography, Stages, and Movement Along the Path
 
 The Camino Francés, the most traveled route, runs approximately eight hundred kilometers from the French border to Santiago de Compostela. Most contemporary walkers begin at Saint-Jean-Pied-de-Port, a small town in the French Pyrenees that has served as a gathering point for pilgrims for centuries. The crossing of the mountains via the Roncesvalles pass presents the journey's first major challenge, a demanding day of ascent and descent that has tested pilgrims since the route was established.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=800" alt="The scallop shell waymark guiding pilgrims along the Camino" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The scallop shell waymark guiding pilgrims along the Camino</figcaption>
+</figure>
+
 
 The path descends from the mountains into Navarra, passing through Pamplona and continuing westward through La Rioja, Spain's premier wine region. The shifts from mountain to valley to the vineyards that line portions of the route. Towns and villages appear at intervals suited to a walking pace, their churches and hospices marking stages that have structured pilgrim journeys for centuries.
 

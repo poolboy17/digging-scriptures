@@ -76,6 +76,13 @@ The study of pilgrimage has itself become a significant academic field. Scholars
 - **Status Quo** — The arrangement, formalized in 1853 during the Ottoman period, governing the rights of different Christian communities at shared holy sites, particularly the Church of the Holy Sepulchre in Jerusalem
 - **Communitas** — A concept developed by anthropologist Victor Turner to describe the egalitarian sense of shared humanity that emerges among pilgrims, dissolving ordinary social hierarchies during the liminal period of the journey
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fchristian-history.jpg&w=800" alt="Medieval Romanesque church architecture from the pilgrimage era" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Medieval Romanesque church architecture from the pilgrimage era</figcaption>
+</figure>
+
+
 </Fragment>
 
 <Fragment slot="sources">

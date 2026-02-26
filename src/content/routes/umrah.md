@@ -26,6 +26,13 @@ The Umrah is the lesser pilgrimage to Mecca, distinguished from the Hajj by its 
 
 The rituals of Umrah are a subset of the Hajj rituals. Both begin with entering the state of ihram — the condition of ritual purity marked by specific clothing, behavioral restrictions, and the declaration of intention (niyyah). Both include Tawaf, the sevenfold circumambulation of the Kaaba, and Sa'i, the walking seven times between the hills of Safa and Marwa. But the Umrah omits the Hajj's defining rites: the standing at Arafat, the overnight stay at Muzdalifah, the stoning at Mina, and the animal sacrifice. Where the Hajj unfolds over five or six days across multiple sites in the greater Mecca area, the Umrah can be completed in a few hours.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=800" alt="Pilgrims performing Tawaf around the Kaaba during Umrah" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims performing Tawaf around the Kaaba during Umrah</figcaption>
+</figure>
+
+
 The historical development of the Umrah as a distinct practice reflects the evolving needs of the Muslim community. In the early centuries of Islam, when travel to Mecca was dangerous and expensive, most Muslims could aspire to the Hajj only once — if at all. The Umrah offered an alternative: a shorter, less demanding pilgrimage that could be performed outside the specific Hajj dates (the eighth through thirteenth of Dhul Hijjah) and that carried spiritual reward without the full logistical burden. As travel became easier, the Umrah grew in popularity, and it is now performed by millions of Muslims annually, far outnumbering the Hajj pilgrims.
 
 The Saudi government has progressively expanded Umrah access. The introduction of dedicated Umrah visas, the expansion of the Grand Mosque (Masjid al-Haram) to accommodate over two million worshippers, and the development of transportation and hospitality infrastructure in Mecca have transformed the Umrah from an occasional devotional act into a year-round pilgrimage industry. During Ramadan, when the spiritual rewards of Umrah are understood to be multiplied, the Grand Mosque reaches its maximum capacity.
@@ -37,6 +44,13 @@ The Saudi government has progressively expanded Umrah access. The introduction o
 The Umrah begins before the pilgrim reaches Mecca. Travelers enter the state of ihram at designated boundary points called miqat — stations on the major routes approaching the city. Each miqat corresponds to a historical direction of approach: Dhul Hulayfah for pilgrims from Medina, al-Juhfah for those from the direction of Syria and Egypt, Qarn al-Manazil for those from the Najd, Yalamlam for those from Yemen, and Dhat Irq for those from Iraq. Pilgrims arriving by air typically enter ihram before or during the flight, as the airplane crosses the miqat boundary.
 
 Entering ihram involves a ritual washing (ghusl), the donning of ihram garments — two unstitched white cloths for men; regular modest clothing for women, with face and hands uncovered — and the recitation of the Talbiyah: "Labbayka Allahumma labbayk" (Here I am, O God, here I am). From this point, the pilgrim observes a set of restrictions: no perfume, no cutting of hair or nails, no sexual relations, no hunting. These restrictions create a condition of simplicity that mirrors the state in which the pilgrim will stand before God.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=800" alt="The grand corridor where pilgrims perform the Sai ritual" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The grand corridor where pilgrims perform the Sai ritual</figcaption>
+</figure>
+
 
 Upon reaching the Grand Mosque, the pilgrim performs Tawaf — seven counterclockwise circuits around the Kaaba, the cube-shaped structure at the mosque's center that Muslims regard as the house of God built by Ibrahim and his son Ismail. The circuits begin and end at the Black Stone (al-Hajar al-Aswad), set into the Kaaba's eastern corner. Kissing or touching the Black Stone is recommended but, given the density of crowds, most pilgrims simply gesture toward it as they pass. During Tawaf, pilgrims recite prayers and supplications, many walking in a state of intense emotional engagement — weeping, whispering, or silent.
 

@@ -26,6 +26,13 @@ The Shikoku Pilgrimage, known in Japanese as the Shikoku Henro, traces a circuit
 
 The historical development of the pilgrimage from scattered sites of ascetic practice to a formalized circuit of eighty-eight temples occurred gradually over several centuries. References to religious practitioners traveling among sacred sites on Shikoku appear as early as the twelfth century, but the standardization of the route with its specific number of temples and established sequence seems to date from the seventeenth century, when guidebooks for the pilgrimage began to appear in print. The number eighty-eight carries multiple symbolic associations in Buddhism, including the eighty-eight worldly desires (bonnō) that the pilgrimage is said to help overcome.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=800" alt="A pilgrim at a Japanese temple on the Shikoku pilgrimage" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A pilgrim at a Japanese temple on the Shikoku pilgrimage</figcaption>
+</figure>
+
+
 Each of the eighty-eight temples belongs to one of several Buddhist schools, though the pilgrimage itself is associated primarily with the Shingon tradition founded by Kūkai. The temples are grouped into four sections corresponding to Shikoku's four prefectures, each section associated with a stage of spiritual development: awakening (hosshin) in Tokushima, ascetic training (shugyō) in Kōchi, enlightenment (bodai) in Ehime, and nirvana (nehan) in Kagawa. This fourfold structure gives the circular route a progressive spiritual narrative, even as the physical path returns the pilgrim to approximately where they began.
 
 The Edo period (1603–1868) saw the Shikoku Pilgrimage develop into a popular devotional practice accessible to ordinary people, not only to monks and ascetics. The cultural institution of settai — the offering of food, drink, shelter, or small gifts to passing pilgrims by local residents — became firmly established during this period and continues today. Settai reflects the Buddhist understanding that supporting pilgrims generates merit for the giver, creating a reciprocal economy of spiritual benefit that sustains the pilgrimage infrastructure through community generosity.
@@ -39,6 +46,13 @@ The pilgrimage's association with Kōbō Daishi extends beyond historical connec
 The traditional starting point is Temple 1 (Ryōzen-ji) in Tokushima Prefecture, though pilgrims may begin at any temple and need not walk the circuit in numerical order. The full circuit of approximately 1,200 kilometers typically requires forty to sixty days on foot, passing through coastal lowlands, mountain forests, agricultural valleys, and urban areas. The terrain varies from flat coastal paths to strenuous mountain ascents, with several temples located at significant elevation.
 
 The Tokushima section (Temples 1–23) introduces the pilgrim to the practice through relatively accessible terrain along the eastern coast and inland valleys. The temples in this section tend to be closely spaced, allowing new walkers to adjust to the physical demands gradually. The alternates between farming communities, fishing villages, and forested hillsides that give early intimation of the mountain walking to come.
+
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=800" alt="A forested mountain path on the Shikoku 88 temple circuit" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A forested mountain path on the Shikoku 88 temple circuit</figcaption>
+</figure>
+
 
 The Kōchi section (Temples 24–39), associated with ascetic training, presents the pilgrimage's most physically demanding stretches. The rugged southern coast of Shikoku offers spectacular scenery — rocky headlands, crashing surf, dense subtropical vegetation — but the distances between temples are significantly greater than in other sections. Several stretches require walking thirty or more kilometers between services, and the isolation can test a pilgrim's determination. Cape Muroto and Cape Ashizuri, two dramatic headlands, mark turning points both geographical and psychological.
 

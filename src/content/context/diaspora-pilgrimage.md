@@ -58,6 +58,13 @@ The relationship between ancient pilgrimage and modern practice remains a subjec
 
 **Halukka** — The system of charitable distribution that supported the Old Yishuv. Diaspora communities contributed funds that were distributed to scholars and their families living in the Holy Land, enabling them to devote themselves to study and prayer rather than commerce. The system linked diaspora Jews to the Land of Israel through financial participation in the pilgrimage project.
 
+
+<figure>
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=800" alt="A Jewish prayer shawl, symbol of diaspora longing for Zion" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Jewish prayer shawl, symbol of diaspora longing for Zion</figcaption>
+</figure>
+
+
 **Tikkun Chatzot** — The midnight prayer of mourning for the Temple's destruction and the exile of the Shekhinah, formalized by the Safed Kabbalists. Recited by candlelight on the floor, often facing Jerusalem, the prayer enacts the grief of interrupted pilgrimage in the most intimate possible setting.
 
 **Kivrei Tzaddikim** — The tombs of the righteous, which became the primary destinations of Jewish pilgrimage in the Land of Israel after the Temple's destruction. The practice of visiting these graves — praying, lighting candles, leaving written petitions — transferred some of the devotional energy of Temple pilgrimage to sites scattered across the Galilee, Judea, and beyond.
