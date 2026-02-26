@@ -11,10 +11,11 @@ const currentPath = Astro.url.pathname;
 ---
 
 <div class="header-outer">
-    <header class="header container">
-        <a href="/" class="header-wordmark">
-            Digging<span class="header-wordmark-accent">Scriptures</span>
-        </a>
+    <div class="container">
+        <header class="header">
+            <a href="/" class="header-wordmark">
+                Digging<span class="header-wordmark-accent">Scriptures</span>
+            </a>
 
         {/* Desktop nav */}
         <nav class="header-desktop-nav" aria-label="Main navigation">
@@ -40,7 +41,8 @@ const currentPath = Astro.url.pathname;
                 <line x1="3" y1="17" x2="21" y2="17" class="menu-line menu-line-bot" />
             </svg>
         </button>
-    </header>
+        </header>
+    </div>
 </div>
 
 {/* Mobile overlay */}
