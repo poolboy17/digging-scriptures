@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Privacy Policy — Digging Scriptures";
+const description = "How Digging Scriptures handles visitor data, cookies, and third-party services.";
+const breadcrumbs = [
+    { name: "Home", url: "/" },
+    { name: "Privacy Policy", url: "/privacy" },
+];
+---
+
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
+    <div class="container section">
+        <article class="content" style="max-width: 65ch;">
+            <h1>Privacy Policy</h1>
+            <p class="text-text-light text-sm">Last updated: February 26, 2026</p>
+
+            <p>Digging Scriptures ("we," "us," or "the site") is a content website dedicated to scholarly pilgrimage research. We respect your privacy and are committed to being transparent about how we handle information when you visit our site.</p>
+
+            <h2>What We Collect</h2>
+
+            <h3>Server Logs</h3>
+            <p>Our hosting provider, Netlify, automatically collects standard server log data when you visit the site. This may include your IP address, browser type, operating system, referring URL, pages visited, and the date and time of your visit. This data is used for site performance monitoring and security purposes. We do not combine server logs with any other data sources to identify individual visitors.</p>
+
+            <h3>Analytics</h3>
+            <p>We use Netlify Analytics, a server-side analytics service that measures site traffic without placing cookies on your device or running client-side tracking scripts. Netlify Analytics processes data on the server level and provides us with aggregate information about page views, top pages, and traffic sources. No personal data is collected by this service, and no data is shared with third-party advertising networks.</p>
+
+            <h3>Cookies</h3>
+            <p>Digging Scriptures does not set any first-party cookies. We do not use cookie-based tracking, retargeting, or advertising tools. If your browser stores cookies from our domain, they originate from our hosting infrastructure (such as Netlify's CDN) for technical purposes like load balancing and are not used to track your behavior.</p>
+
+            <h2>Third-Party Services</h2>
+
+            <p>The site uses the following third-party services:</p>
+
+            <p><strong>Netlify</strong> provides hosting, content delivery, and server-side analytics. Netlify's privacy policy is available at <a href="https://www.netlify.com/privacy/" rel="noopener noreferrer" target="_blank">netlify.com/privacy</a>.</p>
+
+            <p><strong>Google Fonts</strong> — We self-host our web fonts (Inter and Source Serif 4). No requests are made to Google's servers when you visit the site.</p>
+
+            <p><strong>Unsplash</strong> — Images on the site were sourced from Unsplash and are self-hosted on our servers. No requests are made to Unsplash's servers when you view our pages.</p>
+
+            <h2>Data We Do Not Collect</h2>
+
+            <p>We do not collect email addresses, names, payment information, or any other personally identifiable information. We do not have user accounts, newsletters, comment systems, or contact forms. We do not sell, rent, or share any data with third parties for advertising or marketing purposes.</p>
+
+            <h2>Children's Privacy</h2>
+
+            <p>The site is a general-audience educational resource. We do not knowingly collect any information from children under 13. Because we collect no personal data from any visitor, no special provisions for children's data are necessary.</p>
+
+            <h2>Your Rights</h2>
+
+            <p>Because we do not collect personal data, there is generally no personal information for us to provide, correct, or delete. If you believe we hold any data about you and wish to exercise your rights under the GDPR, CCPA, or other applicable privacy legislation, please contact us at the address below.</p>
+
+            <h2>Changes to This Policy</h2>
+
+            <p>We may update this privacy policy from time to time to reflect changes in our practices or applicable law. The "Last updated" date at the top of this page indicates the most recent revision. We encourage you to review this page periodically.</p>
+
+            <h2>Contact</h2>
+
+            <p>If you have questions about this privacy policy, you can reach us through our GitHub repository at <a href="https://github.com/poolboy17/digging-scriptures" rel="noopener noreferrer" target="_blank">github.com/poolboy17/digging-scriptures</a>.</p>
+
+        </article>
+    </div>
+</BaseLayout>
