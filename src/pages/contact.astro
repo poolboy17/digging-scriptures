@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Contact — Digging Scriptures";
+const description = "Get in touch with the Digging Scriptures team about content, corrections, partnerships, or general inquiries.";
+const breadcrumbs = [
+    { name: "Home", url: "/" },
+    { name: "Contact", url: "/contact" },
+];
+---
+
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
+    <div class="container section">
+        <article class="content" style="max-width: 65ch;">
+            <h1>Contact Us</h1>
+
+            <p>Digging Scriptures is a small, independently run project dedicated to scholarly pilgrimage research. We welcome hearing from readers, researchers, and fellow travelers.</p>
+
+            <h2>General Inquiries</h2>
+
+            <p>For questions, feedback, or suggestions, reach us by email at <a href="mailto:hello@diggingscriptures.com">hello@diggingscriptures.com</a>.</p>
+
+            <h2>Corrections and Updates</h2>
+
+            <p>We take accuracy seriously. If you spot a factual error, an outdated access detail, or something we've misrepresented about a tradition or site, please let us know. Corrections from readers — especially from those with firsthand knowledge of the places and practices we cover — make the site better for everyone. Email us or open an issue on our <a href="https://github.com/poolboy17/digging-scriptures" rel="noopener noreferrer" target="_blank">GitHub repository</a>.</p>
+
+            <h2>Partnerships</h2>
+
+            <p>We are selectively open to partnerships with tour operators, pilgrimage organizations, cultural institutions, and publishers whose work aligns with the educational mission of the site. We do not accept sponsored content or pay-for-coverage arrangements. If you'd like to discuss a potential collaboration, please email us with details about your organization and what you have in mind.</p>
+
+            <h2>Media and Press</h2>
+
+            <p>Journalists and researchers are welcome to cite Digging Scriptures with attribution. If you'd like to discuss our work, request a comment, or explore a collaboration, please reach out by email.</p>
+
+            <h2>Response Time</h2>
+
+            <p>We're a small team and may take a few days to respond. We read everything and do our best to reply to all substantive inquiries.</p>
+
+        </article>
+    </div>
+</BaseLayout>
