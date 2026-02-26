@@ -14,6 +14,9 @@ relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1627240146136-b53671cbf184?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxzYWZlZCUyMGlzcmFlbCUyMHN5bmFnb2d1ZXxlbnwxfDB8fHwxNzcyMDg3OTYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "blue and brown wooden door"
+imageCredit: "Photo by Levi Meir Clancy on Unsplash"
 ---
 
 <Fragment slot="history">

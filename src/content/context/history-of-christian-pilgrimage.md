@@ -12,6 +12,9 @@ regions:
   - Middle East
 lastUpdated: 2026-02-24
 draft: false
+image: "https://images.unsplash.com/photo-1724398931860-b13443c86997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxtZWRpZXZhbCUyMGNocmlzdGlhbiUyMHBpbGdyaW1hZ2V8ZW58MXwwfHx8MTc3MjA4ODAwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "An aerial view of a small town with a church"
+imageCredit: "Photo by Gary Walker-Jones on Unsplash"
 ---
 
 ## Roots in the Ancient World

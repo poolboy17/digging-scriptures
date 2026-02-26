@@ -16,6 +16,9 @@ relatedRoutes:
 hasExperienceSection: true
 lastUpdated: 2026-01-25
 draft: false
+image: "https://images.unsplash.com/photo-1662917625298-50b4d1520b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxzYW50aWFnbyUyMGRlJTIwY29tcG9zdGVsYSUyMGNhdGhlZHJhbHxlbnwxfDB8fHwxNzcyMDg3OTY2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "a large building with towers"
+imageCredit: "Photo by Linda Cunningham on Unsplash"
 ---
 
 <Fragment slot="history">

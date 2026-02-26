@@ -13,6 +13,9 @@ regions:
   - East Asia
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1759053680015-1cc9aab5e309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxyZWxpZ2lvdXMlMjByZWxpY3MlMjBzYWNyZWQlMjBvYmplY3RzfGVufDF8MHx8fDE3NzIwODgwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "Religious artifacts displayed in a museum exhibit."
+imageCredit: "Photo by Andrew V on Unsplash"
 ---
 
 ## The Paradox of Sacred Materiality

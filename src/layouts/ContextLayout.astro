@@ -21,6 +21,9 @@ interface Props {
     contextType: string;
     faithTraditions?: string[];
     regions?: string[];
+    image?: string;
+    imageAlt?: string;
+    imageCredit?: string;
 }
 
 const { 
@@ -28,18 +31,25 @@ const {
     description, 
     contextType,
     faithTraditions,
-    regions
+    regions,
+    image,
+    imageAlt,
+    imageCredit,
 } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description}>
     <article class="context-page">
         
-        <!-- ================================================================== -->
+        <!-- HERO IMAGE -->
+        {image && (
+            <div style="max-width:900px;margin:0 auto 2rem;border-radius:0.75rem;overflow:hidden;">
+                <img src={image} alt={imageAlt || title} loading="eager" width="1080" height="720" style="width:100%;height:auto;object-fit:cover;max-height:420px;" />
+                {imageCredit && <p style="font-size:0.75rem;color:#a8a29e;margin-top:0.5rem;">{imageCredit}</p>}
+            </div>
+        )}
+
         <!-- SECTION 1: HEADER -->
-        <!-- Purpose: Page title and topic introduction -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
         <header class="context-header">
             <h1>{title}</h1>
             <p class="context-type">{contextType.replace('-', ' ')}</p>

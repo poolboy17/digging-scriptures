@@ -12,6 +12,9 @@ relatedRoutes:
   - "hajj-route"
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1696513553729-17129c427356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxtZWRpZXZhbCUyMGlzbGFtaWMlMjB0cmF2ZWwlMjBtYXB8ZW58MXwwfHx8MTc3MjA4Nzk5MHww&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "a group of arabic writing on a piece of paper"
+imageCredit: "Photo by The Cleveland Museum of Art on Unsplash"
 ---
 
 <Fragment slot="narrative">

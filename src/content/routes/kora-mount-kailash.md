@@ -15,6 +15,9 @@ placesOnRoute: []
 hasModernSection: true
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1559619746-888639c84e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxtb3VudCUyMGthaWxhc2glMjB0aWJldCUyMHBpbGdyaW1hZ2V8ZW58MXwwfHx8MTc3MjA4Nzk3N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "brown field under white clouds"
+imageCredit: "Photo by Nandini Khandelwal on Unsplash"
 ---
 
 <Fragment slot="history">

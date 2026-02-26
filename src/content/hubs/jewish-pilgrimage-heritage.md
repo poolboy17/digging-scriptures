@@ -13,6 +13,9 @@ relatedPlaces:
 relatedRoutes: []
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1763966287576-a1b49fca6bf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxqZXdpc2glMjBwaWxncmltYWdlJTIwd2VzdGVybiUyMHdhbGx8ZW58MXwwfHx8MTc3MjA4Nzk0MHww&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "Cityscape with illuminated buildings at dusk"
+imageCredit: "Photo by amr Sandouka on Unsplash"
 ---
 
 ## Pilgrimage and the Temple

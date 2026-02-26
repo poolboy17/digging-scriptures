@@ -15,6 +15,9 @@ placesOnRoute:
 hasModernSection: true
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1771100887710-96934db2a47c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxqYXBhbiUyMGFuY2llbnQlMjBmb3Jlc3QlMjB0cmFpbCUyMHRvcmlpfGVufDB8MHx8fDE3NzIwODgwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "Traditional japanese shrine gates in a lush forest"
+imageCredit: "Photo by Alexander Korte on Unsplash"
 ---
 
 <Fragment slot="history">

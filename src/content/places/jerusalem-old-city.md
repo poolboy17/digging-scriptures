@@ -16,6 +16,9 @@ relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-01-25
 draft: false
+image: "https://images.unsplash.com/photo-1576429595853-cdf8d8d2787f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxqZXJ1c2FsZW0lMjB3ZXN0ZXJuJTIwd2FsbCUyMG9sZCUyMGNpdHl8ZW58MXwwfHx8MTc3MjA4Nzk0N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "men facing wall"
+imageCredit: "Photo by Thomas Vogel on Unsplash"
 ---
 
 <Fragment slot="history">

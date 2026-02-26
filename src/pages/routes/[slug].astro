@@ -37,6 +37,9 @@ const sidebarProducts = ROUTE_PRODUCTS[entry.slug] ?? [];
     difficulty={entry.data.difficulty}
     hasModernSection={entry.data.hasModernSection}
     sidebarProducts={sidebarProducts}
+    image={entry.data.image}
+    imageAlt={entry.data.imageAlt}
+    imageCredit={entry.data.imageCredit}
 >
     <Content />
 </RouteLayout>

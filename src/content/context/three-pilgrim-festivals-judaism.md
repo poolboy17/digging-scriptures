@@ -8,6 +8,9 @@ regions:
   - Middle East
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1768306444285-5853122bd092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxqZXdpc2glMjBwaWxncmltYWdlJTIwamVydXNhbGVtJTIwdGVtcGxlfGVufDF8MHx8fDE3NzIwODgwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "Golden dome of the rock in jerusalem cityscape"
+imageCredit: "Photo by George 🦅 on Unsplash"
 ---
 
 ## The Biblical Commandment

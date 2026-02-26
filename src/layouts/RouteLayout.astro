@@ -40,6 +40,9 @@ interface Props {
     difficulty?: string;
     hasModernSection?: boolean;
     sidebarProducts?: SidebarProduct[];
+    image?: string;
+    imageAlt?: string;
+    imageCredit?: string;
 }
 
 const { 
@@ -52,7 +55,10 @@ const {
     faithTraditions, 
     difficulty,
     hasModernSection = false,
-    sidebarProducts = []
+    sidebarProducts = [],
+    image,
+    imageAlt,
+    imageCredit,
 } = Astro.props;
 
 const hasSidebar = sidebarProducts.length > 0;
@@ -81,6 +87,14 @@ const hasSidebar = sidebarProducts.length > 0;
         <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
         <div class:list={[hasSidebar ? "lg:w-2/3" : "w-full"]}>
         
+            <!-- HERO IMAGE -->
+            {image && (
+                <div class="hero-image mb-8 rounded-xl overflow-hidden">
+                    <img src={image} alt={imageAlt || title} loading="eager" width="1080" height="720" style="width:100%;height:auto;object-fit:cover;max-height:420px;" />
+                    {imageCredit && <p class="text-xs text-text-light mt-2">{imageCredit}</p>}
+                </div>
+            )}
+
             <!-- SECTION 1: HEADER -->
             <header class="mb-10">
                 <div class="card-meta mb-4">

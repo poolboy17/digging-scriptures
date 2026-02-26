@@ -20,6 +20,9 @@ interface Props {
     storyType: string;
     faithTraditions?: string[];
     timePeriod?: string;
+    image?: string;
+    imageAlt?: string;
+    imageCredit?: string;
 }
 
 const { 
@@ -27,18 +30,25 @@ const {
     description, 
     storyType,
     faithTraditions,
-    timePeriod
+    timePeriod,
+    image,
+    imageAlt,
+    imageCredit,
 } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description}>
     <article class="story-page">
         
-        <!-- ================================================================== -->
+        <!-- HERO IMAGE -->
+        {image && (
+            <div class="hero-image mb-8 rounded-xl overflow-hidden" style="max-width:900px;margin:0 auto 2rem;">
+                <img src={image} alt={imageAlt || title} loading="eager" width="1080" height="720" style="width:100%;height:auto;object-fit:cover;max-height:420px;border-radius:0.75rem;" />
+                {imageCredit && <p style="font-size:0.75rem;color:#a8a29e;margin-top:0.5rem;">{imageCredit}</p>}
+            </div>
+        )}
+
         <!-- SECTION 1: HEADER -->
-        <!-- Purpose: Page title and story context -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
         <header class="story-header">
             <h1>{title}</h1>
             <p class="story-type">{storyType.replace('-', ' ')}</p>

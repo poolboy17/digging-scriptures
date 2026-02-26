@@ -31,6 +31,11 @@ const hubs = defineCollection({
         relatedPlaces: z.array(z.string()).optional(),
         relatedRoutes: z.array(z.string()).optional(),
         
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        imageCredit: z.string().optional(),
+        
         // Publishing state
         draft: z.boolean().default(false),
     }),
@@ -80,6 +85,11 @@ const places = defineCollection({
         // When true, the "Experiencing This Place Today" section is enabled
         hasExperienceSection: z.boolean().default(false),
         
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        imageCredit: z.string().optional(),
+        
         // SEO and metadata
         lastUpdated: z.date().optional(),
         
@@ -119,6 +129,11 @@ const routes = defineCollection({
         // Monetization flag
         // When true, the "Modern Pilgrimage Experiences" section is enabled
         hasModernSection: z.boolean().default(false),
+        
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        imageCredit: z.string().optional(),
         
         // SEO and metadata
         lastUpdated: z.date().optional(),
@@ -160,6 +175,11 @@ const stories = defineCollection({
         relatedPlaces: z.array(z.string()).optional(),
         relatedRoutes: z.array(z.string()).optional(),
         
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        imageCredit: z.string().optional(),
+        
         // SEO and metadata
         lastUpdated: z.date().optional(),
         
@@ -195,6 +215,11 @@ const context = defineCollection({
         // Taxonomy
         faithTraditions: z.array(z.string()).optional(),
         regions: z.array(z.string()).optional(),
+        
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        imageCredit: z.string().optional(),
         
         // SEO and metadata
         lastUpdated: z.date().optional(),

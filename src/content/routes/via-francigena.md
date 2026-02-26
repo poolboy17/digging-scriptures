@@ -18,6 +18,9 @@ placesOnRoute:
 hasModernSection: true
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1666099279306-056552e1c72d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHx2aWElMjBmcmFuY2lnZW5hJTIwaXRhbHklMjBwaWxncmltYWdlJTIwcGF0aHxlbnwxfDB8fHwxNzcyMDg3OTg0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "a dirt road with trees on either side of it"
+imageCredit: "Photo by Max Böhme on Unsplash"
 ---
 
 <Fragment slot="history">

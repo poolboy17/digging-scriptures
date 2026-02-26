@@ -11,6 +11,9 @@ relatedPlaces:
 relatedRoutes: []
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1661428393262-207b7625f4fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxjaHVyY2glMjBob2x5JTIwc2VwdWxjaHJlJTIwamVydXNhbGVtfGVufDF8MHx8fDE3NzIwODc5ODh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "a large clock on Church of the Holy Sepulchre"
+imageCredit: "Photo by Mario La Pergola on Unsplash"
 ---
 
 <Fragment slot="narrative">

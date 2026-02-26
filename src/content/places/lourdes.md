@@ -14,6 +14,9 @@ relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
+image: "https://images.unsplash.com/photo-1641070977656-40142308ab27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxsb3VyZGVzJTIwZ3JvdHRvJTIwZnJhbmNlfGVufDF8MHx8fDE3NzIwODc5NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+imageAlt: "a group of people standing inside of a cave"
+imageCredit: "Photo by Nick Castelli on Unsplash"
 ---
 
 <Fragment slot="history">

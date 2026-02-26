@@ -35,6 +35,9 @@ const sidebarProducts = PLACE_PRODUCTS[entry.slug] ?? [];
     placeType={entry.data.placeType}
     hasExperienceSection={entry.data.hasExperienceSection}
     sidebarProducts={sidebarProducts}
+    image={entry.data.image}
+    imageAlt={entry.data.imageAlt}
+    imageCredit={entry.data.imageCredit}
 >
     <Content />
 </PlaceLayout>
