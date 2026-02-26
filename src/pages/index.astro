@@ -9,22 +9,39 @@ const routes = await getCollection('routes', ({ data }) => !data.draft);
 const stories = await getCollection('stories', ({ data }) => !data.draft);
 const contextArticles = await getCollection('context', ({ data }) => !data.draft);
 
-// Build a balanced "Latest" section: pick 2 from each collection
-// This ensures variety instead of all-places when dates are identical
-function pickN<T>(arr: T[], n: number): T[] {
-    return arr.slice(0, n);
-}
-
-const latestPicks = [
-    ...pickN(places, 2).map(p => ({ ...p, category: 'Place' as const, href: `/places/${p.slug}` })),
-    ...pickN(routes, 2).map(r => ({ ...r, category: 'Route' as const, href: `/routes/${r.slug}` })),
-    ...pickN(stories, 2).map(s => ({ ...s, category: 'Story' as const, href: `/stories/${s.slug}` })),
-    ...pickN(contextArticles, 2).map(c => ({ ...c, category: 'Context' as const, href: `/context/${c.slug}` })),
-];
-
 const totalArticles = hubs.length + places.length + routes.length + stories.length + contextArticles.length;
 
-// Featured place for hero — pick one with a strong image
+// ──────────────────────────────────────────────────────────
+// BUILD HUB DATA: each hub gets its spoke articles attached
+// This drives the hub-spoke sections on the homepage
+// ──────────────────────────────────────────────────────────
+const hubData = await Promise.all(hubs.map(async (hub) => {
+    const hubSlug = hub.slug;
+    const hubPlaces = places.filter(p => p.data.parentHub === hubSlug);
+    const hubRoutes = routes.filter(r => r.data.parentHub === hubSlug);
+    
+    // Pick representative spokes to feature (up to 3)
+    const featuredSpokes = [
+        ...hubPlaces.slice(0, 2).map(p => ({ 
+            title: p.data.title, 
+            href: `/places/${p.slug}`,
+            type: 'Place' as const
+        })),
+        ...hubRoutes.slice(0, 1).map(r => ({ 
+            title: r.data.title, 
+            href: `/routes/${r.slug}`,
+            type: 'Route' as const
+        })),
+    ];
+    
+    return {
+        ...hub,
+        spokeCount: hubPlaces.length + hubRoutes.length,
+        featuredSpokes,
+    };
+}));
+
+// Featured place for hero
 const featuredPlace = places.find(p => p.slug === 'jerusalem-old-city') || places[0];
 
 // Section counts for the explore grid
@@ -35,7 +52,7 @@ const sections = [
     { name: 'Historical Context', href: '/context', count: contextArticles.length, desc: 'Background articles illuminating the history and theology of sacred travel', icon: 'context' },
 ];
 
-// Schema for homepage
+// Schema
 const homepageSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -57,7 +74,7 @@ const homepageSchema = {
 >
 
 <!-- ════════════════════════════════════════════════════════ -->
-<!-- HERO — Full-width image with overlay                   -->
+<!-- HERO                                                    -->
 <!-- ════════════════════════════════════════════════════════ -->
 <section class="hero">
     {featuredPlace?.data.image && (
@@ -85,8 +102,9 @@ const homepageSchema = {
             Judaism, Buddhism, and Hinduism.
         </p>
         <div class="hero-actions">
-            <a href="/journeys" class="hero-btn-primary">Explore traditions</a>
-            <a href="/places" class="hero-btn-ghost">Browse places &rarr;</a>
+            {hubData.slice(0, 3).map((hub) => (
+                <a href={`/journeys/${hub.slug}`} class="hero-hub-pill">{hub.data.title.replace(' Pilgrimage Traditions', '').replace(' Pilgrimage Paths', '').replace(' Pilgrimage Heritage', '').replace(' Journeys and Pilgrimages', '').replace('Faith-Based', 'All Traditions')}</a>
+            ))}
         </div>
     </div>
 </section>
@@ -120,12 +138,63 @@ const homepageSchema = {
 
 
 <!-- ════════════════════════════════════════════════════════ -->
-<!-- EXPLORE BY TYPE — 4 category cards with SVG icons       -->
+<!-- TIER-1 HUBS — The core of the SEO pyramid               -->
+<!-- Each hub card shows image, description, and spoke links  -->
+<!-- This is the primary link equity section                  -->
 <!-- ════════════════════════════════════════════════════════ -->
 <section class="section container">
     <div class="section-header">
-        <span class="section-label">Explore</span>
-        <h2 class="section-title">Browse by content type</h2>
+        <span class="section-label">Pilgrimage traditions</span>
+        <h2 class="section-title">Explore by world religion</h2>
+    </div>
+
+    <div class="hub-stack">
+        {hubData.map((hub, i) => (
+            <article class="hub-row">
+                <a href={`/journeys/${hub.slug}`} class="hub-row-img-link">
+                    {hub.data.image && (
+                        <CdnImage 
+                            src={hub.data.image}
+                            alt={hub.data.imageAlt || hub.data.title}
+                            width={480} height={320}
+                            loading={i < 2 ? 'eager' : 'lazy'}
+                            decoding={i < 2 ? 'sync' : 'async'}
+                            class="hub-row-photo"
+                        />
+                    )}
+                </a>
+                <div class="hub-row-body">
+                    <a href={`/journeys/${hub.slug}`} class="hub-row-title-link">
+                        <h3 class="hub-row-title">{hub.data.title}</h3>
+                    </a>
+                    <p class="hub-row-desc">{hub.data.description}</p>
+                    {hub.featuredSpokes.length > 0 && (
+                        <div class="hub-row-spokes">
+                            {hub.featuredSpokes.map((spoke) => (
+                                <a href={spoke.href} class="hub-spoke-chip">
+                                    <span class="hub-spoke-type">{spoke.type}</span>
+                                    {spoke.title}
+                                </a>
+                            ))}
+                        </div>
+                    )}
+                    <a href={`/journeys/${hub.slug}`} class="hub-row-cta">
+                        Read full guide <span class="hub-row-arrow">&rarr;</span>
+                    </a>
+                </div>
+            </article>
+        ))}
+    </div>
+</section>
+
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- BROWSE BY TYPE — Secondary nav into content types       -->
+<!-- ════════════════════════════════════════════════════════ -->
+<section class="section container">
+    <div class="section-header">
+        <span class="section-label">Browse</span>
+        <h2 class="section-title">Content by type</h2>
     </div>
     <div class="explore-grid">
         {sections.map((sec) => (
@@ -150,86 +219,6 @@ const homepageSchema = {
 
 
 <!-- ════════════════════════════════════════════════════════ -->
-<!-- TRADITIONS (Hubs) — The core hub-spoke entry points     -->
-<!-- ════════════════════════════════════════════════════════ -->
-{hubs.length > 0 && (
-<section class="section container">
-    <div class="section-header">
-        <span class="section-label">Traditions</span>
-        <h2 class="section-title">Pilgrimage across world religions</h2>
-    </div>
-    <div class="hub-grid">
-        {hubs.map((hub) => (
-            <a href={`/journeys/${hub.slug}`} class="hub-card">
-                {hub.data.image && (
-                    <div class="hub-card-img">
-                        <CdnImage 
-                            src={hub.data.image}
-                            alt={hub.data.imageAlt || hub.data.title}
-                            width={400} height={220}
-                            loading="lazy"
-                            decoding="async"
-                            class="hub-card-photo"
-                        />
-                    </div>
-                )}
-                <div class="hub-card-body">
-                    <h3 class="hub-card-title">{hub.data.title}</h3>
-                    <p class="hub-card-desc">{hub.data.description}</p>
-                    <span class="hub-card-link">Explore tradition &rarr;</span>
-                </div>
-            </a>
-        ))}
-    </div>
-</section>
-)}
-
-
-<!-- ════════════════════════════════════════════════════════ -->
-<!-- FEATURED CONTENT — Balanced picks from all collections  -->
-<!-- ════════════════════════════════════════════════════════ -->
-{latestPicks.length > 0 && (
-<section class="featured-section">
-    <div class="container">
-        <div class="section-header">
-            <span class="section-label">Featured</span>
-            <h2 class="section-title">Across the collection</h2>
-        </div>
-        <div class="featured-grid">
-            {latestPicks.map((item, i) => (
-                <a href={item.href} class="featured-card">
-                    {item.data.image && (
-                        <div class="featured-card-img">
-                            <CdnImage 
-                                src={item.data.image} 
-                                alt={item.data.imageAlt || item.data.title}
-                                width={400} height={240}
-                                loading={i < 4 ? 'eager' : 'lazy'}
-                                decoding={i < 4 ? 'sync' : 'async'}
-                                class="featured-card-photo"
-                            />
-                        </div>
-                    )}
-                    <div class="featured-card-body">
-                        <span class="featured-badge">{item.category}</span>
-                        <h3 class="featured-card-title">{item.data.title}</h3>
-                        <p class="featured-card-desc">{item.data.description}</p>
-                    </div>
-                </a>
-            ))}
-        </div>
-        <div class="featured-cta-row">
-            <a href="/places" class="featured-cta">All places</a>
-            <a href="/routes" class="featured-cta">All routes</a>
-            <a href="/stories" class="featured-cta">All stories</a>
-            <a href="/context" class="featured-cta">All context</a>
-        </div>
-    </div>
-</section>
-)}
-
-
-<!-- ════════════════════════════════════════════════════════ -->
 <!-- ABOUT                                                   -->
 <!-- ════════════════════════════════════════════════════════ -->
 <section class="section container">
@@ -243,7 +232,10 @@ const homepageSchema = {
                 in evidence and respectful of all faith traditions.
             </p>
             <p>
-                We cover Christianity, Judaism, Islam, Buddhism, Hinduism, and indigenous 
+                We cover <a href="/journeys/christian-pilgrimage-traditions">Christianity</a>, 
+                <a href="/journeys/jewish-pilgrimage-heritage">Judaism</a>, 
+                <a href="/journeys/islamic-pilgrimage-traditions">Islam</a>, 
+                <a href="/journeys/buddhist-pilgrimage-paths">Buddhism</a>, Hinduism, and indigenous 
                 practices with equal scholarly rigor. Every article distinguishes documented 
                 history from tradition, names its sources, and lets readers form their own 
                 conclusions.
@@ -256,7 +248,7 @@ const homepageSchema = {
 
 <style>
 /* ═══════════════════════════════════════════════════════ */
-/* HERO — image-backed with dark overlay                  */
+/* HERO                                                    */
 /* ═══════════════════════════════════════════════════════ */
 .hero {
     position: relative;
@@ -269,32 +261,20 @@ const homepageSchema = {
 @media (min-width: 640px) { .hero { min-height: 520px; } }
 @media (min-width: 900px) { .hero { min-height: 560px; } }
 
-.hero-img-wrap {
-    position: absolute;
-    inset: 0;
-}
-
-.hero-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 40%;
-}
+.hero-img-wrap { position: absolute; inset: 0; }
+.hero-img { width: 100%; height: 100%; object-fit: cover; object-position: center 40%; }
 
 .hero-overlay {
     position: absolute;
     inset: 0;
-    background: linear-gradient(
-        to top,
+    background: linear-gradient(to top,
         rgba(15,12,10,0.92) 0%,
         rgba(15,12,10,0.70) 40%,
-        rgba(15,12,10,0.35) 100%
-    );
+        rgba(15,12,10,0.35) 100%);
 }
 
 .hero-content {
-    position: relative;
-    z-index: 2;
+    position: relative; z-index: 2;
     padding: 3rem 0 2.75rem;
     color: #fafaf9;
 }
@@ -303,10 +283,8 @@ const homepageSchema = {
 @media (min-width: 900px) { .hero-content { padding: 5rem 0 4rem; } }
 
 .hero-eyebrow {
-    font-size: 0.6875rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    font-size: 0.6875rem; font-weight: 600;
+    letter-spacing: 0.08em; text-transform: uppercase;
     color: rgba(139,92,246,0.9);
     margin-bottom: 1rem;
 }
@@ -316,8 +294,7 @@ const homepageSchema = {
 .hero-title {
     font-family: var(--font-serif);
     font-size: clamp(1.75rem, 5vw, 3.25rem);
-    font-weight: 800;
-    line-height: 1.15;
+    font-weight: 800; line-height: 1.15;
     letter-spacing: -0.025em;
     margin-bottom: 1.25rem;
 }
@@ -327,58 +304,35 @@ const homepageSchema = {
 
 .hero-subtitle {
     max-width: 36rem;
-    font-size: 0.9375rem;
-    line-height: 1.7;
+    font-size: 0.9375rem; line-height: 1.7;
     color: rgba(168,162,158,0.9);
     margin-bottom: 2rem;
 }
 
 @media (min-width: 640px) { .hero-subtitle { font-size: 1rem; margin-bottom: 2.5rem; } }
 
-.hero-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 
-.hero-btn-primary {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.6875rem 1.375rem;
-    background: var(--color-primary);
-    color: #faf5ff;
-    font-size: 0.8125rem;
-    font-weight: 600;
-    border-radius: 0.5rem;
-    text-decoration: none;
-    transition: background 0.2s, box-shadow 0.2s;
-    box-shadow: 0 1px 3px rgba(109,40,217,0.3);
-}
-
-.hero-btn-primary:hover {
-    background: #5B21B6;
-    box-shadow: 0 4px 12px rgba(109,40,217,0.35);
-}
-
-.hero-btn-ghost {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    padding: 0.6875rem 1.375rem;
-    border: 1px solid rgba(250,250,249,0.2);
-    color: #fafaf9;
-    font-size: 0.8125rem;
-    font-weight: 600;
-    border-radius: 0.5rem;
+.hero-hub-pill {
+    display: inline-flex; align-items: center;
+    padding: 0.5rem 1rem;
+    border: 1px solid rgba(139,92,246,0.4);
+    background: rgba(109,40,217,0.15);
+    color: #c4b5fd;
+    font-size: 0.8125rem; font-weight: 600;
+    border-radius: 2rem;
     text-decoration: none;
     transition: all 0.2s;
+    backdrop-filter: blur(4px);
 }
 
-.hero-btn-ghost:hover {
-    border-color: rgba(250,250,249,0.45);
-    background: rgba(250,250,249,0.06);
+.hero-hub-pill:hover {
+    background: rgba(109,40,217,0.35);
+    border-color: rgba(139,92,246,0.7);
+    color: #ede9fe;
 }
 
-@media (min-width: 640px) {
-    .hero-btn-primary,
-    .hero-btn-ghost { font-size: 0.875rem; padding: 0.75rem 1.5rem; }
-}
+@media (min-width: 640px) { .hero-hub-pill { padding: 0.5625rem 1.25rem; font-size: 0.875rem; } }
 
 
 /* ═══════════════════════════════════════════════════════ */
@@ -395,28 +349,21 @@ const homepageSchema = {
 .stats-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 0.75rem;
-    text-align: center;
+    gap: 0.75rem; text-align: center;
 }
 
 @media (min-width: 480px) { .stats-grid { grid-template-columns: repeat(4, 1fr); gap: 1rem; } }
 
 .stat-num {
-    display: block;
-    font-size: 1.375rem;
-    font-weight: 800;
-    color: #1c1917;
-    letter-spacing: -0.02em;
+    display: block; font-size: 1.375rem; font-weight: 800;
+    color: #1c1917; letter-spacing: -0.02em;
 }
 
 @media (min-width: 640px) { .stat-num { font-size: 1.75rem; } }
 
 .stat-label {
-    font-size: 0.6875rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: #a8a29e;
-    font-weight: 500;
+    font-size: 0.6875rem; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #a8a29e; font-weight: 500;
 }
 
 
@@ -427,45 +374,163 @@ const homepageSchema = {
 @media (min-width: 640px) { .section-header { margin-bottom: 2rem; } }
 
 .section-label {
-    display: inline-block;
-    font-size: 0.6875rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--color-primary);
-    margin-bottom: 0.375rem;
+    display: inline-block; font-size: 0.6875rem; font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--color-primary); margin-bottom: 0.375rem;
 }
 
 .section-title {
-    font-size: 1.375rem;
-    font-weight: 800;
-    letter-spacing: -0.02em;
-    color: var(--color-text-dark);
+    font-size: 1.375rem; font-weight: 800;
+    letter-spacing: -0.02em; color: var(--color-text-dark);
 }
 
 @media (min-width: 640px) { .section-title { font-size: 1.625rem; } }
 
 
 /* ═══════════════════════════════════════════════════════ */
-/* EXPLORE GRID — SVG icons instead of emoji               */
+/* HUB STACK — Tier-1 hub cards with spoke links           */
 /* ═══════════════════════════════════════════════════════ */
-.explore-grid {
-    display: grid;
-    gap: 0.625rem;
+.hub-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
 }
 
-@media (min-width: 640px) { .explore-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; } }
+@media (min-width: 640px) { .hub-stack { gap: 1.5rem; } }
 
-.explore-card {
+.hub-row {
     display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 1rem 1.125rem;
+    flex-direction: column;
     background: #ffffff;
     border: 1px solid var(--color-border);
     border-radius: 0.75rem;
+    overflow: hidden;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.hub-row:hover {
+    border-color: color-mix(in srgb, var(--color-primary) 40%, transparent);
+    box-shadow: 0 2px 16px rgba(0,0,0,0.04);
+}
+
+@media (min-width: 640px) {
+    .hub-row { flex-direction: row; }
+}
+
+.hub-row-img-link {
+    flex-shrink: 0;
+    display: block;
+    overflow: hidden;
+    height: 180px;
+}
+
+@media (min-width: 640px) {
+    .hub-row-img-link { width: 240px; height: auto; }
+}
+
+@media (min-width: 900px) {
+    .hub-row-img-link { width: 280px; }
+}
+
+.hub-row-photo {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.hub-row:hover .hub-row-photo { transform: scale(1.04); }
+
+.hub-row-body {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    min-width: 0;
+}
+
+@media (min-width: 640px) { .hub-row-body { padding: 1.5rem 1.75rem; } }
+
+.hub-row-title-link { text-decoration: none; }
+
+.hub-row-title {
+    font-size: 1.0625rem; font-weight: 800;
+    color: var(--color-text-dark);
+    margin-bottom: 0.375rem;
+    line-height: 1.3;
+    transition: color 0.15s;
+}
+
+.hub-row-title-link:hover .hub-row-title { color: var(--color-primary); }
+
+@media (min-width: 640px) { .hub-row-title { font-size: 1.125rem; } }
+
+.hub-row-desc {
+    font-size: 0.8125rem; color: var(--color-text-muted);
+    line-height: 1.65; margin-bottom: 0.875rem;
+}
+
+@media (min-width: 640px) { .hub-row-desc { font-size: 0.875rem; } }
+
+/* Spoke chips — inline links to spoke articles */
+.hub-row-spokes {
+    display: flex; flex-wrap: wrap; gap: 0.375rem;
+    margin-bottom: 1rem;
+}
+
+.hub-spoke-chip {
+    display: inline-flex; align-items: center; gap: 0.375rem;
+    padding: 0.3125rem 0.625rem;
+    background: var(--color-light);
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+    font-size: 0.75rem; font-weight: 500;
+    color: var(--color-text-muted);
     text-decoration: none;
-    transition: all 0.2s;
+    transition: all 0.15s;
+    white-space: nowrap;
+}
+
+.hub-spoke-chip:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    background: #f5f3ff;
+}
+
+.hub-spoke-type {
+    font-size: 0.625rem; font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-primary);
+    opacity: 0.7;
+}
+
+.hub-row-cta {
+    display: inline-flex; align-items: center; gap: 0.25rem;
+    font-size: 0.8125rem; font-weight: 600;
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: gap 0.2s;
+}
+
+.hub-row-cta:hover { gap: 0.5rem; }
+
+.hub-row-arrow { transition: transform 0.2s; }
+.hub-row-cta:hover .hub-row-arrow { transform: translateX(2px); }
+
+
+/* ═══════════════════════════════════════════════════════ */
+/* EXPLORE GRID                                            */
+/* ═══════════════════════════════════════════════════════ */
+.explore-grid { display: grid; gap: 0.625rem; }
+@media (min-width: 640px) { .explore-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; } }
+
+.explore-card {
+    display: flex; align-items: center; gap: 0.75rem;
+    padding: 1rem 1.125rem;
+    background: #ffffff; border: 1px solid var(--color-border);
+    border-radius: 0.75rem;
+    text-decoration: none; transition: all 0.2s;
     min-width: 0;
 }
 
@@ -477,255 +542,36 @@ const homepageSchema = {
 }
 
 .explore-icon-wrap {
-    flex-shrink: 0;
-    width: 2.5rem;
-    height: 2.5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #f5f3ff;
-    border-radius: 0.625rem;
+    flex-shrink: 0; width: 2.5rem; height: 2.5rem;
+    display: flex; align-items: center; justify-content: center;
+    background: #f5f3ff; border-radius: 0.625rem;
 }
 
 @media (min-width: 640px) { .explore-icon-wrap { width: 2.75rem; height: 2.75rem; } }
 
-.explore-svg {
-    width: 1.125rem;
-    height: 1.125rem;
-    color: var(--color-primary);
-}
-
+.explore-svg { width: 1.125rem; height: 1.125rem; color: var(--color-primary); }
 @media (min-width: 640px) { .explore-svg { width: 1.25rem; height: 1.25rem; } }
 
 .explore-text { min-width: 0; flex: 1; }
 
 .explore-name {
-    font-size: 0.875rem;
-    font-weight: 700;
-    color: var(--color-text-dark);
-    margin-bottom: 0.125rem;
+    font-size: 0.875rem; font-weight: 700;
+    color: var(--color-text-dark); margin-bottom: 0.125rem;
 }
 
 .explore-desc {
-    font-size: 0.75rem;
-    color: var(--color-text-muted);
+    font-size: 0.75rem; color: var(--color-text-muted);
     line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    display: -webkit-box; -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; overflow: hidden;
 }
 
 @media (min-width: 640px) { .explore-desc { font-size: 0.8125rem; } }
 
 .explore-count {
-    margin-left: auto;
-    flex-shrink: 0;
-    font-size: 1.125rem;
-    font-weight: 800;
+    margin-left: auto; flex-shrink: 0;
+    font-size: 1.125rem; font-weight: 800;
     color: var(--color-primary);
-}
-
-
-/* ═══════════════════════════════════════════════════════ */
-/* HUB CARDS — now with images                             */
-/* ═══════════════════════════════════════════════════════ */
-.hub-grid {
-    display: grid;
-    gap: 0.75rem;
-}
-
-@media (min-width: 640px) { .hub-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } }
-@media (min-width: 900px) { .hub-grid { grid-template-columns: repeat(3, 1fr); } }
-
-.hub-card {
-    display: flex;
-    flex-direction: column;
-    background: #ffffff;
-    border: 1px solid var(--color-border);
-    border-radius: 0.75rem;
-    overflow: hidden;
-    text-decoration: none;
-    transition: all 0.25s;
-}
-
-.hub-card:hover {
-    border-color: var(--color-primary);
-    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
-    transform: translateY(-2px);
-}
-
-.hub-card-img {
-    height: 140px;
-    overflow: hidden;
-}
-
-@media (min-width: 640px) { .hub-card-img { height: 160px; } }
-
-.hub-card-photo {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s;
-}
-
-.hub-card:hover .hub-card-photo { transform: scale(1.05); }
-
-.hub-card-body { padding: 1.25rem; }
-@media (min-width: 640px) { .hub-card-body { padding: 1.5rem; } }
-
-.hub-card-title {
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--color-text-dark);
-    margin-bottom: 0.375rem;
-    line-height: 1.3;
-}
-
-@media (min-width: 640px) { .hub-card-title { font-size: 1.0625rem; margin-bottom: 0.5rem; } }
-
-.hub-card-desc {
-    font-size: 0.8125rem;
-    color: var(--color-text-muted);
-    line-height: 1.6;
-    margin-bottom: 0.875rem;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
-.hub-card-link {
-    font-size: 0.8125rem;
-    font-weight: 600;
-    color: var(--color-primary);
-    transition: color 0.2s;
-}
-
-.hub-card:hover .hub-card-link { color: var(--color-accent); }
-
-
-/* ═══════════════════════════════════════════════════════ */
-/* FEATURED CONTENT — balanced picks from all collections  */
-/* ═══════════════════════════════════════════════════════ */
-.featured-section {
-    background: #ffffff;
-    padding: 2.5rem 0;
-    border-top: 1px solid var(--color-border);
-    border-bottom: 1px solid var(--color-border);
-}
-
-@media (min-width: 640px) { .featured-section { padding: 4rem 0; } }
-
-.featured-grid {
-    display: grid;
-    gap: 0.75rem;
-}
-
-@media (min-width: 480px) { .featured-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } }
-@media (min-width: 900px) { .featured-grid { grid-template-columns: repeat(4, 1fr); } }
-
-.featured-card {
-    display: flex;
-    flex-direction: column;
-    background: var(--color-surface);
-    border: 1px solid var(--color-border);
-    border-radius: 0.75rem;
-    text-decoration: none;
-    transition: all 0.2s;
-    overflow: hidden;
-}
-
-.featured-card:hover {
-    border-color: var(--color-primary);
-    background: #ffffff;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
-}
-
-.featured-card-img {
-    width: 100%;
-    height: 140px;
-    overflow: hidden;
-}
-
-@media (min-width: 640px) { .featured-card-img { height: 160px; } }
-
-.featured-card-photo {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s;
-}
-
-.featured-card:hover .featured-card-photo { transform: scale(1.05); }
-
-.featured-card-body { padding: 1rem; }
-@media (min-width: 640px) { .featured-card-body { padding: 1.25rem; } }
-
-.featured-badge {
-    display: inline-block;
-    font-size: 0.625rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    padding: 0.1875rem 0.4375rem;
-    border-radius: 0.375rem;
-    background: #f5f3ff;
-    color: #6D28D9;
-    margin-bottom: 0.5rem;
-}
-
-@media (min-width: 640px) { .featured-badge { font-size: 0.6875rem; padding: 0.25rem 0.5rem; margin-bottom: 0.75rem; } }
-
-.featured-card-title {
-    font-size: 0.875rem;
-    font-weight: 700;
-    color: var(--color-text-dark);
-    margin-bottom: 0.25rem;
-    line-height: 1.3;
-}
-
-@media (min-width: 640px) { .featured-card-title { font-size: 0.9375rem; margin-bottom: 0.375rem; } }
-
-.featured-card-desc {
-    font-size: 0.75rem;
-    color: var(--color-text-muted);
-    line-height: 1.5;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
-@media (min-width: 640px) { .featured-card-desc { font-size: 0.8125rem; } }
-
-.featured-cta-row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.5rem;
-    margin-top: 2rem;
-}
-
-@media (min-width: 640px) { .featured-cta-row { gap: 0.75rem; margin-top: 2.5rem; } }
-
-.featured-cta {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.5rem 1.25rem;
-    border: 1.5px solid var(--color-border);
-    border-radius: 2rem;
-    font-size: 0.8125rem;
-    font-weight: 600;
-    color: var(--color-text-muted);
-    text-decoration: none;
-    transition: all 0.2s;
-}
-
-.featured-cta:hover {
-    border-color: var(--color-primary);
-    color: var(--color-primary);
-    background: #f5f3ff;
 }
 
 
@@ -735,30 +581,21 @@ const homepageSchema = {
 .about-block { max-width: 48rem; }
 
 .about-heading {
-    font-size: 1.25rem;
-    font-weight: 800;
-    color: var(--color-text-dark);
-    letter-spacing: -0.02em;
-    margin-bottom: 1rem;
-    padding-bottom: 0.875rem;
+    font-size: 1.25rem; font-weight: 800;
+    color: var(--color-text-dark); letter-spacing: -0.02em;
+    margin-bottom: 1rem; padding-bottom: 0.875rem;
     border-bottom: 2px solid var(--color-primary);
     display: inline-block;
 }
 
 @media (min-width: 640px) { .about-heading { font-size: 1.375rem; margin-bottom: 1.25rem; padding-bottom: 1rem; } }
 
-.about-cols {
-    display: grid;
-    gap: 1rem;
-}
-
+.about-cols { display: grid; gap: 1rem; }
 @media (min-width: 640px) { .about-cols { grid-template-columns: 1fr 1fr; gap: 2rem; } }
 
 .about-cols p {
-    font-size: 0.875rem;
-    color: var(--color-text-muted);
-    line-height: 1.75;
-    margin: 0;
+    font-size: 0.875rem; color: var(--color-text-muted);
+    line-height: 1.75; margin: 0;
 }
 
 @media (min-width: 640px) { .about-cols p { font-size: 0.9375rem; } }
