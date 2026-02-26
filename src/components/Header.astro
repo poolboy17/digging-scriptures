@@ -5,32 +5,33 @@
  */
 
 const navItems = [
-    { linkText: 'Home', href: '/' },
     { linkText: 'Journeys', href: '/journeys' },
     { linkText: 'Places', href: '/places' },
     { linkText: 'Routes', href: '/routes' },
     { linkText: 'Stories', href: '/stories' },
+    { linkText: 'Context', href: '/context' },
 ];
 
 const currentPath = Astro.url.pathname;
 ---
 
-<nav class="flex flex-wrap items-center gap-4 pt-6 pb-12 sm:pt-10 sm:pb-16">
-    <a href="/" class="text-xl font-bold text-text-dark no-underline hover:opacity-90 transition-opacity">
+<header class="flex flex-wrap items-center gap-4 pt-5 pb-5 sm:pt-6 sm:pb-6">
+    <a href="/" class="flex items-center gap-2.5 text-lg font-bold text-text-dark no-underline hover:opacity-80 transition-opacity tracking-tight">
+        <span class="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-primary text-primary-content text-sm font-black">DS</span>
         Digging Scriptures
     </a>
     {
         !!navItems?.length && (
-            <ul class="flex flex-wrap gap-x-1 gap-y-1 ml-auto">
+            <ul class="flex flex-wrap gap-x-0.5 gap-y-1 ml-auto">
                 {navItems.map((item) => (
                     <li>
                         <a 
                             href={item.href} 
                             class:list={[
-                                "inline-block px-3 py-1.5 rounded-md text-sm font-medium transition-colors no-underline",
+                                "inline-block px-3 py-1.5 rounded-lg text-sm font-medium transition-colors no-underline",
                                 currentPath === item.href || currentPath.startsWith(item.href + '/')
                                     ? "bg-primary/10 text-primary font-semibold"
-                                    : "text-text-muted hover:text-primary hover:bg-primary/5"
+                                    : "text-text-muted hover:text-text-dark hover:bg-light"
                             ]}
                         >
                             {item.linkText}
@@ -40,4 +41,4 @@ const currentPath = Astro.url.pathname;
             </ul>
         )
     }
-</nav>
+</header>

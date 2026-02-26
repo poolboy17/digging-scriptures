@@ -88,8 +88,7 @@ const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {
         {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
         {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     </head>
-    <body class="antialiased text-text-dark bg-complementary">
-        <div class="border-t-4 border-primary"></div>
+    <body class="antialiased text-text-dark bg-surface">
         <div class="min-h-screen">
             <div class="container">
                 <Header />

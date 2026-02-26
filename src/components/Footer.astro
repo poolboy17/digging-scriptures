@@ -5,13 +5,18 @@
 const year = new Date().getFullYear();
 ---
 
-<footer class="pt-12 pb-8 sm:pt-16 sm:pb-12 border-t border-text-light/20 mt-12">
-    <div class="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-text-light">
-        <p>&copy; {year} Digging Scriptures. All rights reserved.</p>
-        <nav class="flex gap-4">
-            <a href="/context" class="hover:text-primary transition-colors no-underline">Context</a>
+<footer class="pt-12 pb-8 sm:pt-16 sm:pb-12 border-t border-border mt-16">
+    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6 text-sm text-text-light">
+        <div>
+            <p class="font-semibold text-text-dark mb-1">Digging Scriptures</p>
+            <p>&copy; {year}. Scholarly pilgrimage research.</p>
+        </div>
+        <nav class="flex flex-wrap gap-x-5 gap-y-2">
+            <a href="/journeys" class="hover:text-primary transition-colors no-underline">Journeys</a>
             <a href="/places" class="hover:text-primary transition-colors no-underline">Places</a>
             <a href="/routes" class="hover:text-primary transition-colors no-underline">Routes</a>
+            <a href="/stories" class="hover:text-primary transition-colors no-underline">Stories</a>
+            <a href="/context" class="hover:text-primary transition-colors no-underline">Context</a>
         </nav>
     </div>
 </footer>

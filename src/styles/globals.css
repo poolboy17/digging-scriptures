@@ -4,16 +4,18 @@
 @theme {
     --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     --font-serif: 'Source Serif 4 Variable', 'Georgia', 'Cambria', 'Times New Roman', serif;
-    --color-primary: #b87d6d;
-    --color-primary-content: #faf6f2;
-    --color-complementary: #faf6f2;
-    --color-surface: #e8d5c4;
-    --color-accent: #d4a5a5;
-    --color-text-dark: #5d2e46;
-    --color-text-muted: #7a5468;
-    --color-text-light: #9a7e8d;
-    --color-border: #d5c4b3;
-    --color-light: #f5ede4;
+
+    /* ── New palette: deep slate + warm amber ── */
+    --color-primary: #b45309;
+    --color-primary-content: #fffbf5;
+    --color-complementary: #ffffff;
+    --color-surface: #f8f6f3;
+    --color-accent: #d97706;
+    --color-text-dark: #1c1917;
+    --color-text-muted: #57534e;
+    --color-text-light: #a8a29e;
+    --color-border: #e7e5e4;
+    --color-light: #f5f5f4;
 }
 
 @layer base {
@@ -57,7 +59,7 @@
     }
 
     .container {
-        @apply max-w-[1000px] px-4 md:px-8 mx-auto;
+        @apply max-w-[1080px] px-5 md:px-8 mx-auto;
     }
 
     .page-heading {
@@ -70,11 +72,11 @@
 
     /* Card component for content listings */
     .card {
-        @apply block rounded-lg overflow-hidden no-underline transition-all duration-300;
+        @apply block rounded-xl overflow-hidden no-underline transition-all duration-300 bg-complementary border border-border;
     }
 
     .card:hover {
-        @apply shadow-lg;
+        @apply shadow-lg border-primary/30;
     }
 
     .card:hover img {
@@ -104,8 +106,8 @@
         @apply prose-h1:text-3xl prose-h2:text-2xl prose-h3:text-xl;
         @apply prose-p:text-text-muted prose-p:leading-relaxed;
         @apply prose-a:text-primary prose-a:no-underline hover:prose-a:text-text-dark;
-        @apply prose-blockquote:rounded-lg prose-blockquote:border-primary prose-blockquote:bg-light prose-blockquote:px-7 prose-blockquote:py-3;
-        @apply prose-img:rounded-lg;
+        @apply prose-blockquote:rounded-xl prose-blockquote:border-primary prose-blockquote:bg-light prose-blockquote:px-7 prose-blockquote:py-3;
+        @apply prose-img:rounded-xl;
         @apply prose-strong:text-text-dark;
         @apply prose-li:text-text-muted;
     }
@@ -120,16 +122,26 @@
     }
 
     .btn {
-        @apply inline-flex items-center justify-center gap-2 bg-primary text-primary-content cursor-pointer text-center font-semibold no-underline transition-colors rounded;
-        padding: 0.875rem 1.25rem;
+        @apply inline-flex items-center justify-center gap-2 bg-primary text-primary-content cursor-pointer text-center font-semibold no-underline transition-all rounded-lg shadow-sm;
+        padding: 0.75rem 1.5rem;
         font-size: 0.875rem;
     }
 
     .btn:hover {
-        @apply bg-primary/85;
+        @apply bg-accent shadow-md;
     }
 
     .btn:disabled {
-        @apply text-text-light bg-surface cursor-not-allowed;
+        @apply text-text-light bg-surface cursor-not-allowed shadow-none;
+    }
+
+    .btn-outline {
+        @apply inline-flex items-center justify-center gap-2 border-2 border-primary text-primary cursor-pointer text-center font-semibold no-underline transition-all rounded-lg bg-transparent;
+        padding: 0.75rem 1.5rem;
+        font-size: 0.875rem;
+    }
+
+    .btn-outline:hover {
+        @apply bg-primary text-primary-content;
     }
 }
