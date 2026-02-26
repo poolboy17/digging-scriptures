@@ -172,6 +172,7 @@ const stories = defineCollection({
         timePeriod: z.string().optional(),
         
         // Relationships
+        parentHub: z.string().optional(),
         relatedPlaces: z.array(z.string()).optional(),
         relatedRoutes: z.array(z.string()).optional(),
         
@@ -215,6 +216,9 @@ const context = defineCollection({
         // Taxonomy
         faithTraditions: z.array(z.string()).optional(),
         regions: z.array(z.string()).optional(),
+        
+        // Relationships
+        parentHub: z.string().optional(),
         
         // Image
         image: z.string().optional(),
