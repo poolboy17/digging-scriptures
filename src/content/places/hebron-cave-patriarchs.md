@@ -73,10 +73,9 @@ The Old City of Hebron, surrounding the Cave, contains a traditional market (sou
 </Fragment>
 
 <Fragment slot="related">
-
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — Hebron's place in Jewish sacred geography
 - [Western Wall](/places/western-wall) — The other primary destination of Jewish pilgrimage
 - [Jerusalem Old City](/places/jerusalem-old-city) — The multi-faith sacred city nearby
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The veneration of patriarchal remains across traditions
-
+- [Rachel's Tomb](/places/rachels-tomb)
 </Fragment>

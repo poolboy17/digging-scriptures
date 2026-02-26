@@ -63,10 +63,9 @@ The scholarly debate surrounding Helena's discoveries continues to evolve. Archa
 </Fragment>
 
 <Fragment slot="related">
-
 - [Jerusalem Old City](/places/jerusalem-old-city) — The primary destination of Helena's pilgrimage
 - [Rome and the Vatican](/places/rome-vatican) — Where Helena's sarcophagus now resides
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition Helena helped create
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The relic culture Helena's discovery inaugurated
-
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer)
 </Fragment>

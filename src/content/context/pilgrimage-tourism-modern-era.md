@@ -89,6 +89,7 @@ Erik Cohen's foundational work on pilgrim-tourist typologies appears in "Pilgrim
 </Fragment>
 
 <Fragment slot="related">
+- [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
 
 - [Kora Around Mount Kailash](/routes/kora-mount-kailash) — A pilgrimage where access management is a critical issue
 - [Lourdes](/places/lourdes) — A site where commercialization and devotion coexist in visible tension

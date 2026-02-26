@@ -96,10 +96,9 @@ The route's passage through four countries and multiple linguistic regions adds 
 </Fragment>
 
 <Fragment slot="related">
-
 - [Rome and the Vatican](/places/rome-vatican) — The Via Francigena's destination and spiritual goal
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The broader tradition of Christian sacred travel
 - [Camino de Santiago](/routes/camino-de-santiago) — Europe's other great medieval pilgrimage route
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — Early Christian pilgrimage that shaped the routes
-
+- [St. Olav's Way](/routes/st-olavs-way)
 </Fragment>

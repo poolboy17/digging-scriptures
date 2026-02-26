@@ -94,10 +94,9 @@ Many pilgrims combine the Hajj with a visit to Medina, approximately 450 kilomet
 </Fragment>
 
 <Fragment slot="related">
-
 - [Mecca](/places/mecca) — The holiest city in Islam and destination of the Hajj
 - [Medina](/places/medina) — The Prophet's city and companion destination
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The broader context of sacred travel in Islam
 - [Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Understanding the Hajj within Islamic theology
-
+- [How the Umrah Differs from the Hajj](/routes/umrah)
 </Fragment>

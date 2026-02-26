@@ -73,7 +73,10 @@ Victor Turner and Edith Turner, *Image and Pilgrimage in Christian Culture* (197
 </Fragment>
 
 <Fragment slot="related">
-
 <!-- LAYER 3: Hydration pending -->
-
+- [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage)
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage)
+- [The Camino de Santiago](/routes/camino-de-santiago)
+- [Pilgrimage Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era)
 </Fragment>

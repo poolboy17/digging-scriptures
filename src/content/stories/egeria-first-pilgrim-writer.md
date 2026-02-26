@@ -69,10 +69,9 @@ Egeria's text continues to generate scholarly discussion, with debates ongoing a
 </Fragment>
 
 <Fragment slot="related">
-
 - [Jerusalem Old City](/places/jerusalem-old-city) — The primary destination Egeria describes in detail
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition Egeria helped document
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The empress whose earlier journey created the sites Egeria visited
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture Egeria encountered
-
+- [Margery Kempe: Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim)
 </Fragment>

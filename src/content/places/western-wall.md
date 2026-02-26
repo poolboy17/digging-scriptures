@@ -82,10 +82,10 @@ The Western Wall is located within the Old City, accessible through the Jaffa Ga
 </Fragment>
 
 <Fragment slot="related">
-
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Jerusalem Old City](/places/jerusalem-old-city) — The walled city containing the Western Wall
 - [Dome of the Rock](/places/dome-of-the-rock) — The Islamic shrine on the platform above the Wall
 - [Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festivals that drove Temple-era pilgrimage
-
+- [Al-Aqsa Mosque](/places/al-aqsa-mosque)
+- [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
 </Fragment>

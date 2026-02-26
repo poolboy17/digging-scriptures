@@ -73,7 +73,10 @@ Friday prayers at Al-Aqsa draw the largest regular congregations, with tens of t
 </Fragment>
 
 <Fragment slot="related">
-
 <!-- LAYER 3: Hydration pending -->
-
+- [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
+- [Dome of the Rock](/places/dome-of-the-rock)
+- [Jerusalem Old City](/places/jerusalem-old-city)
+- [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
+- [Western Wall](/places/western-wall)
 </Fragment>

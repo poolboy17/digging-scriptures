@@ -82,10 +82,9 @@ Accommodation ranges from dharamsalas (pilgrim guesthouses) maintained by variou
 </Fragment>
 
 <Fragment slot="related">
-
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Lumbini](/places/lumbini) — The site of the Buddha's birth in Nepal
 - [Xuanzang, Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The Chinese monk who visited Bodh Gaya in the seventh century
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context on the places the Buddha designated for pilgrimage
-
+- [Sarnath](/places/sarnath)
 </Fragment>

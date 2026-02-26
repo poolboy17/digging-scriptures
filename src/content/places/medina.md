@@ -84,10 +84,11 @@ Visitors typically spend two to four days in Medina. Beyond the Prophet's Mosque
 </Fragment>
 
 <Fragment slot="related">
-
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Overview of pilgrimage in Islam
 - [Mecca](/places/mecca) — Islam's holiest city and destination of the Hajj
 - [Hajj Route](/routes/hajj-route) — The ritual circuit of the annual pilgrimage
 - [Ibn Battuta, Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — The medieval scholar who visited Medina multiple times
-
+- [Ziyarat: Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam)
+- [Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
+- [How the Umrah Differs from the Hajj](/routes/umrah)
 </Fragment>

@@ -100,8 +100,9 @@ Accommodations in Jerusalem range from historic hospices and guesthouses maintai
 </Fragment>
 
 <Fragment slot="related">
-
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage traditions
 - [Santiago de Compostela](/places/santiago-de-compostela) — Another major Christian pilgrimage destination
-
+- [Al-Aqsa Mosque](/places/al-aqsa-mosque)
+- [Dome of the Rock](/places/dome-of-the-rock)
+- [Jerusalem Old City](/places/jerusalem-old-city)
 </Fragment>

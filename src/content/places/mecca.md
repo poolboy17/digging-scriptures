@@ -80,10 +80,11 @@ Transportation within the holy sites has been improved by the Haramain High Spee
 </Fragment>
 
 <Fragment slot="related">
-
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The broader context of Islamic sacred travel
 - [Hajj Route](/routes/hajj-route) — The ritual circuit connecting Mecca's sacred sites
 - [Medina](/places/medina) — Islam's second holiest city, typically visited alongside Mecca
 - [Dome of the Rock](/places/dome-of-the-rock) — Jerusalem's iconic Islamic shrine
-
+- [Najaf and Karbala](/places/najaf-karbala)
+- [Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
+- [How the Umrah Differs from the Hajj](/routes/umrah)
 </Fragment>

@@ -70,10 +70,10 @@ The Quranic foundations of the Hajj appear primarily in Surah Al-Baqarah (2:196-
 </Fragment>
 
 <Fragment slot="related">
-
 - [The Hajj Route](/routes/hajj-route) — The physical journey of the Hajj pilgrimage
 - [Mecca](/places/mecca) — The holiest city in Islam and destination of the Hajj
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The broader context of sacred travel in Islam
 - [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — A medieval Hajj that became one of history's great journeys
-
+- [Medina](/places/medina)
+- [How the Umrah Differs from the Hajj](/routes/umrah)
 </Fragment>

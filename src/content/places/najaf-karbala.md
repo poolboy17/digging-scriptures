@@ -78,7 +78,10 @@ The climate is hot and arid, with summer temperatures regularly exceeding 45°C.
 </Fragment>
 
 <Fragment slot="related">
-
 <!-- LAYER 3: Hydration pending -->
-
+- [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
+- [Ziyarat and the Tradition of Visiting Shrines](/context/ziyarat-visiting-shrines-islam)
+- [Mecca](/places/mecca)
+- [Medina](/places/medina)
+- [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
 </Fragment>

@@ -88,11 +88,11 @@ The question of Jewish prayer on the Temple Mount itself remains one of the most
 </Fragment>
 
 <Fragment slot="related">
-
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Western Wall](/places/western-wall) — The surviving retaining wall that became Judaism's holiest prayer site
 - [Jerusalem Old City](/places/jerusalem-old-city) — The walled city that contained the Temple and its pilgrim routes
 - [Aliyah LeRegel: The Three Biblical Pilgrimage Festivals](/context/aliyah-leregel) — The theological framework behind the ascent
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The calendar and ritual cycle
-
+- [Al-Aqsa Mosque](/places/al-aqsa-mosque)
+- [Dome of the Rock](/places/dome-of-the-rock)
 </Fragment>

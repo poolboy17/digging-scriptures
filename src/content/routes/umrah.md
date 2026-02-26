@@ -87,7 +87,10 @@ Ramadan is the peak season for Umrah. The Prophet Muhammad stated that performin
 </Fragment>
 
 <Fragment slot="related">
-
 <!-- LAYER 3: Hydration pending -->
-
+- [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
+- [Mecca](/places/mecca)
+- [The Hajj Route](/routes/hajj-route)
+- [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
+- [Medina](/places/medina)
 </Fragment>

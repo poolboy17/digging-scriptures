@@ -83,6 +83,7 @@ Peter Brown's The Cult of the Saints (1981) remains the foundational scholarly t
 </Fragment>
 
 <Fragment slot="related">
+- [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
 
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The discovery that launched Christianity's relic tradition
 - [Lourdes](/places/lourdes) — A modern pilgrimage site centered on water rather than relics

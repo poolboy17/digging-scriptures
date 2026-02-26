@@ -82,10 +82,9 @@ The Lag BaOmer celebration at Mount Meron (a short drive from Safed) occurs in l
 </Fragment>
 
 <Fragment slot="related">
-
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The tradition of Jewish sacred travel
 - [Western Wall](/places/western-wall) — Judaism's holiest prayer site in Jerusalem
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Another major Jewish pilgrimage destination
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later mystical figure influenced by Safed's legacy
-
+- [Mount Meron](/places/mount-meron)
 </Fragment>

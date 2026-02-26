@@ -123,9 +123,8 @@ The diversity of contemporary pilgrims extends to their motivations and framewor
 </Fragment>
 
 <Fragment slot="related">
-
 - [Santiago de Compostela](/places/santiago-de-compostela) — The destination of the pilgrimage routes
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage traditions
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
-
+- [The Legend of Saint James](/stories/legend-of-saint-james)
 </Fragment>

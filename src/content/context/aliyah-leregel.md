@@ -72,11 +72,10 @@ The biblical foundations appear in Exodus 23:14-17, Exodus 34:22-24, and Deutero
 </Fragment>
 
 <Fragment slot="related">
-
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent) — The physical route of the ancient ascent
 - [Western Wall](/places/western-wall) — Where the pilgrimage impulse is preserved today
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festival calendar in detail
 - [Jerusalem Old City](/places/jerusalem-old-city) — The city that received the pilgrims
-
+- [How the Diaspora Kept Pilgrimage Alive](/context/diaspora-pilgrimage)
 </Fragment>

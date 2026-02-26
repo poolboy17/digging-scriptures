@@ -78,7 +78,10 @@ Egeria's travel account survives in a single manuscript (the Codex Aretinus) and
 </Fragment>
 
 <Fragment slot="related">
-
 <!-- LAYER 3: Hydration pending -->
-
+- [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer)
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim)
+- [Lourdes](/places/lourdes)
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
 </Fragment>

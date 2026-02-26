@@ -85,10 +85,10 @@ The Western Wall plaza, directly below the platform's western retaining wall, pr
 </Fragment>
 
 <Fragment slot="related">
-
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The Dome of the Rock in Islamic sacred geography
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The Temple Mount in Jewish tradition
 - [Jerusalem Old City](/places/jerusalem-old-city) — The walled city containing the Haram al-Sharif
 - [Western Wall](/places/western-wall) — The Jewish pilgrimage site at the base of the Temple Mount
-
+- [Al-Aqsa Mosque](/places/al-aqsa-mosque)
+- [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
 </Fragment>

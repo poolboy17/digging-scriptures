@@ -72,7 +72,10 @@ The hadith encouraging grave visitation appears in the collections of Muslim and
 </Fragment>
 
 <Fragment slot="related">
-
 <!-- LAYER 3: Hydration pending -->
-
+- [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
+- [Najaf and Karbala](/places/najaf-karbala)
+- [Medina](/places/medina)
+- [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
+- [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
 </Fragment>

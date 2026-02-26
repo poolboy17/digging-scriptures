@@ -72,7 +72,10 @@ Victor Turner's *Image and Pilgrimage in Christian Culture* (1978) remains found
 </Fragment>
 
 <Fragment slot="related">
-
 <!-- LAYER 3: Hydration pending -->
-
+- [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage)
+- [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects)
 </Fragment>

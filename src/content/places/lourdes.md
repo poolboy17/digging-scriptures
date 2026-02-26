@@ -90,10 +90,9 @@ Accommodation ranges from hotels along the commercial boulevards to religious gu
 </Fragment>
 
 <Fragment slot="related">
-
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — Overview of pilgrimage within the Christian tradition
 - [Rome and the Vatican](/places/rome-vatican) — The administrative and spiritual center of Catholic pilgrimage
 - [Santiago de Compostela](/places/santiago-de-compostela) — Another major European Christian pilgrimage destination
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture of pilgrimage devotion
-
+- [Women Who Shaped Pilgrimage](/context/women-and-pilgrimage)
 </Fragment>
