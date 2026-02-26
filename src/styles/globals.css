@@ -6,19 +6,19 @@
     --font-serif: 'Source Serif 4 Variable', 'Georgia', 'Cambria', 'Times New Roman', serif;
 
     /* ── Liturgical palette ──
-       White (purity), Red (blood/Spirit), Green (growth),
-       Violet (penance/royalty), Black (mourning)            */
-    --color-primary: #991B1B;          /* liturgical red — blood & Spirit */
-    --color-primary-content: #fef2f2;
+       Violet (royalty/penance) as dominant, Red as accent,
+       White (purity), Green (growth), Black (solemnity)     */
+    --color-primary: #6D28D9;          /* liturgical violet — royalty & penance */
+    --color-primary-content: #faf5ff;
     --color-complementary: #ffffff;    /* liturgical white — purity & joy */
-    --color-surface: #fefdfb;          /* warm ivory parchment */
-    --color-accent: #6D28D9;           /* liturgical violet — royalty & penance */
+    --color-surface: #fdfcfe;          /* cool ivory with violet undertone */
+    --color-accent: #991B1B;           /* liturgical red — blood & Spirit */
     --color-green: #166534;            /* liturgical green — growth & hope */
     --color-text-dark: #1c1917;        /* liturgical black — mourning & solemnity */
     --color-text-muted: #57534e;
     --color-text-light: #a8a29e;
-    --color-border: #e7e5e4;
-    --color-light: #f5f5f4;
+    --color-border: #e9e5f0;
+    --color-light: #f5f3f7;
 }
 
 @layer base {
