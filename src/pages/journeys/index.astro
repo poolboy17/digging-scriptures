@@ -7,31 +7,38 @@ const hubs = await getCollection('hubs', ({ data }) => !data.draft);
 ---
 
 <BaseLayout 
-    title="Journeys and Pilgrimages" 
-    description="Explore pilgrimage traditions, sacred journeys, and faith-based travel across world cultures."
+    title="Pilgrimage Traditions" 
+    description="Explore pilgrimage traditions across Christianity, Islam, Judaism, Buddhism, and more."
     breadcrumbs={[
         { name: 'Home', url: '/' },
-        { name: 'Journeys', url: '/journeys' }
+        { name: 'Pilgrimage Traditions', url: '/journeys' }
     ]}
 >
     <section class="section">
         <div class="container">
-            <h1 class="page-heading">Journeys</h1>
+            <h1 class="page-heading">Pilgrimage Traditions</h1>
 
             {hubs.length > 0 ? (
                 <div class="grid gap-8 sm:grid-cols-2">
-                    {hubs.map((hub) => (
+                    {hubs.map((hub, i) => (
                         <a href={`/journeys/${hub.slug}`} class="card block">
-                            <div class="overflow-hidden rounded-lg">
-                                <CdnImage 
-                                    src={hub.data.image || '/images/posts/pilgrimage-default.svg'} 
-                                    alt={hub.data.title}
-                                    width={445} height={230}
-                                    class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
-                                />
-                            </div>
-                            <div class="pt-4">
-                                <span class="badge mb-2">Journey</span>
+                            {hub.data.image && (
+                                <div class="overflow-hidden rounded-t-xl">
+                                    <CdnImage 
+                                        src={hub.data.image} 
+                                        alt={hub.data.imageAlt || `${hub.data.title} — pilgrimage tradition`}
+                                        width={445} height={250}
+                                        loading={i < 2 ? 'eager' : 'lazy'}
+                                        fetchpriority={i === 0 ? 'high' : undefined}
+                                        decoding={i < 2 ? 'sync' : 'async'}
+                                        class="w-full aspect-[445/250] object-cover"
+                                    />
+                                </div>
+                            )}
+                            <div class="p-4">
+                                <div class="card-meta">
+                                    <span class="badge">Tradition</span>
+                                </div>
                                 <h3 class="mb-2 text-text-dark">{hub.data.title}</h3>
                                 <p class="text-sm text-text-muted leading-relaxed line-clamp-2">{hub.data.description}</p>
                             </div>

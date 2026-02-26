@@ -9,7 +9,7 @@ regions:
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1762175048102-333cde165da6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxidWRkaGlzdCUyMHNhY3JlZCUyMHNpdGVzJTIwdGVtcGxlfGVufDF8MHx8fDE3NzIwODgwMDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "Woman behind prayer wheels in ornate wooden structure"
+imageAlt: "Woman turning prayer wheels at a Buddhist temple, one of many sacred sites in the tradition"
 imageCredit: "Photo by Sushanta Rokka on Unsplash"
 ---
 

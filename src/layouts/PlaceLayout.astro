@@ -15,6 +15,7 @@
  */
 
 import BaseLayout from './BaseLayout.astro';
+import CdnImage from '../components/CdnImage.astro';
 import PilgrimageSidebar from '../components/PilgrimageSidebar.astro';
 
 interface SidebarProduct {
@@ -90,7 +91,7 @@ const hasSidebar = sidebarProducts.length > 0;
             <!-- HERO IMAGE -->
             {image && (
                 <div class="hero-image mb-8 rounded-xl overflow-hidden">
-                    <img src={image} alt={imageAlt || title} loading="eager" width="1080" height="720" style="width:100%;height:auto;object-fit:cover;max-height:420px;" />
+                    <CdnImage src={image} alt={imageAlt || title} loading="eager" fetchpriority="high" width={1080} height={720} sizes="(max-width: 1080px) 100vw, 1080px" class="w-full object-cover rounded-xl" style="max-height:420px;" />
                     {imageCredit && <p class="text-xs text-text-light mt-2">{imageCredit}</p>}
                 </div>
             )}

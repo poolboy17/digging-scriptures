@@ -17,7 +17,7 @@ hasExperienceSection: true
 lastUpdated: 2026-01-25
 draft: false
 image: "https://images.unsplash.com/photo-1768306444285-5853122bd092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxqZXJ1c2FsZW0lMjBvbGQlMjBjaXR5JTIwZ29sZGVuJTIwZG9tZXxlbnwxfDB8fHwxNzcyMDg3OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "Golden dome of the rock in jerusalem cityscape"
+imageAlt: "Jerusalem skyline with the golden Dome of the Rock and the Old City walls"
 imageCredit: "Photo by George 🦅 on Unsplash"
 ---
 

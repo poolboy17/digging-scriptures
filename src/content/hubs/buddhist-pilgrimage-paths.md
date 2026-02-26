@@ -17,7 +17,7 @@ relatedRoutes:
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1759547020768-8cd850eaafa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxidWRkaGlzdCUyMHBpbGdyaW1hZ2UlMjBhc2lhJTIwdGVtcGxlfGVufDF8MHx8fDE3NzIwODc5MTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "Two monks walk in a courtyard with red lanterns."
+imageAlt: "Buddhist monks walking through a courtyard with red lanterns, a common pilgrimage scene"
 imageCredit: "Photo by 烧不酥在上海 老的 on Unsplash"
 ---
 

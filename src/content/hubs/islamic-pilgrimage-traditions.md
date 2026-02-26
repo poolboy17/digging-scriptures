@@ -15,7 +15,7 @@ relatedRoutes:
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1761475878218-47ec3a8b02e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxpc2xhbWljJTIwcGlsZ3JpbWFnZSUyMG1vc3F1ZXxlbnwxfDB8fHwxNzcyMDg3OTM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "People sit in front of a domed building at night."
+imageAlt: "Worshippers gathered at an illuminated mosque during evening prayers"
 imageCredit: "Photo by أخٌ‌في‌الله on Unsplash"
 ---
 

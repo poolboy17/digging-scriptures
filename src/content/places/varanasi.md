@@ -17,7 +17,7 @@ hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1701619879006-d8a0878b5b5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHx2YXJhbmFzaSUyMGdhbmdlcyUyMHJpdmVyJTIwZ2hhdHN8ZW58MXwwfHx8MTc3MjA4Nzk2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "a camel on a beach with people in the background"
+imageAlt: "Pilgrims and priests along the ghats of the Ganges River in Varanasi, India"
 imageCredit: "Photo by Hardik Mishra on Unsplash"
 ---
 

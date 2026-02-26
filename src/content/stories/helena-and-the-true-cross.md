@@ -12,7 +12,7 @@ relatedRoutes: []
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1661428393262-207b7625f4fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxjaHVyY2glMjBob2x5JTIwc2VwdWxjaHJlJTIwamVydXNhbGVtfGVufDF8MHx8fDE3NzIwODc5ODh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "a large clock on Church of the Holy Sepulchre"
+imageAlt: "The Church of the Holy Sepulchre in Jerusalem, built at the site where Helena found the True Cross"
 imageCredit: "Photo by Mario La Pergola on Unsplash"
 ---
 

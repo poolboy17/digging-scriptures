@@ -16,7 +16,7 @@ hasModernSection: true
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1702453757252-c257ada6cbfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxzaGlrb2t1JTIwcGlsZ3JpbWFnZSUyMGphcGFuJTIwdGVtcGxlfGVufDF8MHx8fDE3NzIwODc5ODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "a statue of animals in front of a building"
+imageAlt: "Pilgrim walking past a temple gate on the Shikoku 88 Temple trail in Japan"
 imageCredit: "Photo by Hendrik Morkel on Unsplash"
 ---
 

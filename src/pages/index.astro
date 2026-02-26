@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import CdnImage from '../components/CdnImage.astro';
 
 const hubs = await getCollection('hubs', ({ data }) => !data.draft);
 const places = await getCollection('places', ({ data }) => !data.draft);
@@ -136,11 +137,17 @@ const sections = [
             <h2 class="section-title">Recently published</h2>
         </div>
         <div class="articles-grid">
-            {allContent.slice(0, 8).map((item) => (
+            {allContent.slice(0, 8).map((item, i) => (
                 <a href={item.href} class="article-card">
                     {item.data.image && (
                         <div class="article-card-img">
-                            <img src={item.data.image} alt={item.data.imageAlt || item.data.title} loading="lazy" width="400" height="225" />
+                            <CdnImage 
+                                src={item.data.image} 
+                                alt={item.data.imageAlt || item.data.title}
+                                width={400} height={225}
+                                loading={i < 4 ? 'eager' : 'lazy'}
+                                decoding={i < 4 ? 'sync' : 'async'}
+                            />
                         </div>
                     )}
                     <div class="article-card-content">

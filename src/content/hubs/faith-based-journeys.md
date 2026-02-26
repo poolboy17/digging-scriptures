@@ -15,7 +15,7 @@ relatedRoutes:
 lastUpdated: 2026-01-25
 draft: false
 image: "https://images.unsplash.com/photo-1739531712481-c47d91ad81ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxwaWxncmltYWdlJTIwc2FjcmVkJTIwam91cm5leSUyMHBhdGh8ZW58MXwwfHx8MTc3MjA4NzkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "There is a path that goes to the top of a hill"
+imageAlt: "A pilgrim's path winding uphill through open countryside toward a distant summit"
 imageCredit: "Photo by Aditi Panatu on Unsplash"
 ---
 

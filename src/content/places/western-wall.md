@@ -15,7 +15,7 @@ hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1677750843826-f1716f43b61c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHx3ZXN0ZXJuJTIwd2FsbCUyMGplcnVzYWxlbSUyMHByYXllcnxlbnwxfDB8fHwxNzcyMDg3OTY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "a view of the dome of the rock in the old city"
+imageAlt: "The Western Wall and the Dome of the Rock in Jerusalem's Old City"
 imageCredit: "Photo by Viktor SOLOMONIK on Unsplash"
 ---
 

@@ -17,7 +17,7 @@ hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1640755668111-403596b0d609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwc3RvbmUlMjB0b21iJTIwaG9seSUyMGxhbmR8ZW58MHwwfHx8MTc3MjA4ODA5MXww&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "a stone structure with steps leading up to it"
+imageAlt: "The Cave of the Patriarchs in Hebron, sacred to Judaism, Christianity, and Islam"
 imageCredit: "Photo by Hannah Wernecke on Unsplash"
 ---
 

@@ -14,7 +14,7 @@ relatedRoutes:
 lastUpdated: 2026-01-25
 draft: false
 image: "https://images.unsplash.com/photo-1759712992363-e63f14b71b96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxjaHJpc3RpYW4lMjBwaWxncmltYWdlJTIwY2F0aGVkcmFsfGVufDF8MHx8fDE3NzIwODc5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "Interior of a church with altar and statues"
+imageAlt: "Interior of a historic Christian cathedral with altar and devotional statues"
 imageCredit: "Photo by Clessios Cordeiro on Unsplash"
 ---
 

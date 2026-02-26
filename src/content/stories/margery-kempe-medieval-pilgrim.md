@@ -14,7 +14,7 @@ relatedRoutes:
 lastUpdated: 2026-02-25
 draft: false
 image: "https://images.unsplash.com/photo-1769610280681-693413d3412d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxtZWRpZXZhbCUyMHBpbGdyaW1hZ2UlMjBldXJvcGUlMjBjYXRoZWRyYWx8ZW58MXwwfHx8MTc3MjA4Nzk5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
-imageAlt: "Old buildings and church on a street with mountains"
+imageAlt: "Medieval European town with a church, evoking the pilgrimages of Margery Kempe"
 imageCredit: "Photo by Daniel Mok on Unsplash"
 ---
 

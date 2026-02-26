@@ -7,32 +7,38 @@ const stories = await getCollection('stories', ({ data }) => !data.draft);
 ---
 
 <BaseLayout 
-    title="Stories and Traditions" 
-    description="Discover the people, traditions, and cultural narratives behind pilgrimage traditions."
+    title="Stories & Legends" 
+    description="People, traditions, and narratives behind pilgrimage sites and sacred journeys."
     breadcrumbs={[
         { name: 'Home', url: '/' },
-        { name: 'Stories', url: '/stories' }
+        { name: 'Stories & Legends', url: '/stories' }
     ]}
 >
     <section class="section">
         <div class="container">
-            <h1 class="page-heading">Stories & Traditions</h1>
+            <h1 class="page-heading">Stories & Legends</h1>
 
             {stories.length > 0 ? (
                 <div class="grid gap-8 sm:grid-cols-2">
-                    {stories.map((story) => (
+                    {stories.map((story, i) => (
                         <a href={`/stories/${story.slug}`} class="card block">
-                            <div class="overflow-hidden rounded-lg">
-                                <CdnImage 
-                                    src={story.data.image || '/images/posts/pilgrimage-default.svg'} 
-                                    alt={story.data.title}
-                                    width={445} height={230}
-                                    class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
-                                />
-                            </div>
-                            <div class="pt-4">
+                            {story.data.image && (
+                                <div class="overflow-hidden rounded-t-xl">
+                                    <CdnImage 
+                                        src={story.data.image} 
+                                        alt={story.data.imageAlt || `${story.data.title} — pilgrimage story`}
+                                        width={445} height={250}
+                                        loading={i < 2 ? 'eager' : 'lazy'}
+                                        fetchpriority={i === 0 ? 'high' : undefined}
+                                        decoding={i < 2 ? 'sync' : 'async'}
+                                        class="w-full aspect-[445/250] object-cover"
+                                    />
+                                </div>
+                            )}
+                            <div class="p-4">
                                 <div class="card-meta">
-                                    <span class="badge">{story.data.storyType.replace('-', ' ')}</span>
+                                    <span class="badge">Story</span>
+                                    {story.data.timePeriod && <span>{story.data.timePeriod}</span>}
                                 </div>
                                 <h3 class="mb-2 text-text-dark">{story.data.title}</h3>
                                 <p class="text-sm text-text-muted leading-relaxed line-clamp-2">{story.data.description}</p>

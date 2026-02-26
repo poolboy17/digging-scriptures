@@ -8,7 +8,7 @@ const routes = await getCollection('routes', ({ data }) => !data.draft);
 
 <BaseLayout 
     title="Pilgrimage Routes" 
-    description="Explore historic pilgrimage routes and paths traveled by pilgrims across centuries."
+    description="Explore ancient and modern pilgrimage routes walked across centuries and continents."
     breadcrumbs={[
         { name: 'Home', url: '/' },
         { name: 'Pilgrimage Routes', url: '/routes' }
@@ -20,21 +20,25 @@ const routes = await getCollection('routes', ({ data }) => !data.draft);
 
             {routes.length > 0 ? (
                 <div class="grid gap-8 sm:grid-cols-2">
-                    {routes.map((route) => (
+                    {routes.map((route, i) => (
                         <a href={`/routes/${route.slug}`} class="card block">
-                            <div class="overflow-hidden rounded-lg">
-                                <CdnImage 
-                                    src={route.data.image || '/images/posts/pilgrimage-default.svg'} 
-                                    alt={route.data.title}
-                                    width={445} height={230}
-                                    class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
-                                />
-                            </div>
-                            <div class="pt-4">
+                            {route.data.image && (
+                                <div class="overflow-hidden rounded-t-xl">
+                                    <CdnImage 
+                                        src={route.data.image} 
+                                        alt={route.data.imageAlt || `${route.data.title} pilgrimage route`}
+                                        width={445} height={250}
+                                        loading={i < 2 ? 'eager' : 'lazy'}
+                                        fetchpriority={i === 0 ? 'high' : undefined}
+                                        decoding={i < 2 ? 'sync' : 'async'}
+                                        class="w-full aspect-[445/250] object-cover"
+                                    />
+                                </div>
+                            )}
+                            <div class="p-4">
                                 <div class="card-meta">
                                     <span class="badge">Route</span>
-                                    <span>{route.data.region} · {route.data.countries.join(', ')}</span>
-                                    {route.data.distanceKm && <span>· {route.data.distanceKm} km</span>}
+                                    {route.data.distanceKm && <span>{route.data.distanceKm} km</span>}
                                 </div>
                                 <h3 class="mb-2 text-text-dark">{route.data.title}</h3>
                                 <p class="text-sm text-text-muted leading-relaxed line-clamp-2">{route.data.description}</p>

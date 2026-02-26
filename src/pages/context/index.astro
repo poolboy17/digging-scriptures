@@ -3,36 +3,41 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import CdnImage from '../../components/CdnImage.astro';
 
-const contextArticles = await getCollection('context', ({ data }) => !data.draft);
+const articles = await getCollection('context', ({ data }) => !data.draft);
 ---
 
 <BaseLayout 
-    title="Background and Context" 
-    description="Historical and cultural background for understanding pilgrimage traditions."
+    title="Historical Context" 
+    description="Background articles providing historical and cultural context for pilgrimage traditions."
     breadcrumbs={[
         { name: 'Home', url: '/' },
-        { name: 'Context', url: '/context' }
+        { name: 'Historical Context', url: '/context' }
     ]}
 >
     <section class="section">
         <div class="container">
-            <h1 class="page-heading">Background & Context</h1>
+            <h1 class="page-heading">Historical Context</h1>
 
-            {contextArticles.length > 0 ? (
+            {articles.length > 0 ? (
                 <div class="grid gap-8 sm:grid-cols-2">
-                    {contextArticles.map((article) => (
+                    {articles.map((article, i) => (
                         <a href={`/context/${article.slug}`} class="card block">
-                            <div class="overflow-hidden rounded-lg">
-                                <CdnImage 
-                                    src={article.data.image || '/images/posts/pilgrimage-default.svg'} 
-                                    alt={article.data.title}
-                                    width={445} height={230}
-                                    class="w-full aspect-[445/230] object-cover" loading="lazy" decoding="async"
-                                />
-                            </div>
-                            <div class="pt-4">
+                            {article.data.image && (
+                                <div class="overflow-hidden rounded-t-xl">
+                                    <CdnImage 
+                                        src={article.data.image} 
+                                        alt={article.data.imageAlt || `${article.data.title} — historical context`}
+                                        width={445} height={250}
+                                        loading={i < 2 ? 'eager' : 'lazy'}
+                                        fetchpriority={i === 0 ? 'high' : undefined}
+                                        decoding={i < 2 ? 'sync' : 'async'}
+                                        class="w-full aspect-[445/250] object-cover"
+                                    />
+                                </div>
+                            )}
+                            <div class="p-4">
                                 <div class="card-meta">
-                                    <span class="badge">{article.data.contextType.replace('-', ' ')}</span>
+                                    <span class="badge">Context</span>
                                 </div>
                                 <h3 class="mb-2 text-text-dark">{article.data.title}</h3>
                                 <p class="text-sm text-text-muted leading-relaxed line-clamp-2">{article.data.description}</p>
