@@ -4,7 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "18"
-  NPM_FLAGS = "--include=optional"
+  NPM_FLAGS = "--include=optional --include=dev"
 
 # Image optimization
 [images]
