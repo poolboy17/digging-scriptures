@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Affiliate Disclaimer — Digging Scriptures";
+const description = "How Digging Scriptures uses affiliate links and how they affect the content you read.";
+const breadcrumbs = [
+    { name: "Home", url: "/" },
+    { name: "Affiliate Disclaimer", url: "/affiliate-disclaimer" },
+];
+---
+
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
+    <div class="container section">
+        <article class="content" style="max-width: 65ch;">
+            <h1>Affiliate Disclaimer</h1>
+            <p class="text-text-light text-sm">Last updated: February 26, 2026</p>
+
+            <p>Digging Scriptures is an independently run educational website. To help support the research and maintenance of the site, some pages contain affiliate links to third-party services. This page explains how those links work and what they mean for you as a reader.</p>
+
+            <h2>How Affiliate Links Work</h2>
+
+            <p>When we link to tours, experiences, or services — primarily through <a href="https://www.viator.com" rel="noopener noreferrer" target="_blank">Viator.com</a> — those links may contain an affiliate tracking code. If you click one of these links and make a purchase, we may receive a small commission at no additional cost to you. The price you pay is the same whether you use our link or go to the provider directly.</p>
+
+            <h2>What This Means for Our Content</h2>
+
+            <p>Affiliate relationships do not influence what we write or how we write it. Our articles are researched and published based on their scholarly and educational value, not on the availability of affiliate partnerships. We do not accept payment from tour operators, religious organizations, or tourism boards in exchange for coverage, and no article on this site exists because an affiliate program made it profitable.</p>
+
+            <p>When we recommend or link to a tour or experience, it is because we believe it is relevant to the pilgrimage site or route being discussed — not because of the commission it generates. Many of our articles contain no affiliate links at all.</p>
+
+            <h2>Identifying Affiliate Links</h2>
+
+            <p>Affiliate links on this site typically appear in the practical or experience sections of our articles, where we discuss how to visit the sites we cover. They may be identified by a note such as "partner link" or by linking to Viator or similar booking platforms. If you are ever uncertain whether a link is an affiliate link, you can assume that any link to a booking or tour platform may be.</p>
+
+            <h2>Our Commitment</h2>
+
+            <p>We believe that transparent affiliate relationships and honest content are not in conflict. The revenue from affiliate links helps us continue publishing free, in-depth research about pilgrimage traditions across world religions. We are grateful to readers who choose to support the site by using these links, and we are equally grateful to readers who prefer not to — the content is the same either way.</p>
+
+            <h2>FTC Disclosure</h2>
+
+            <p>In accordance with the Federal Trade Commission's guidelines on endorsements and testimonials (16 CFR Part 255), we disclose that Digging Scriptures participates in affiliate programs and may receive compensation for purchases made through links on this site. This disclosure applies to all pages on the site that contain affiliate links.</p>
+
+            <h2>Contact</h2>
+
+            <p>If you have questions about our affiliate relationships, you can reach us through our GitHub repository at <a href="https://github.com/poolboy17/digging-scriptures" rel="noopener noreferrer" target="_blank">github.com/poolboy17/digging-scriptures</a>.</p>
+
+        </article>
+    </div>
+</BaseLayout>
