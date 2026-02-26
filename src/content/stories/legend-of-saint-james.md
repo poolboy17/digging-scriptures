@@ -12,7 +12,7 @@ relatedRoutes:
   - "camino-de-santiago"
 lastUpdated: 2026-02-24
 draft: false
-image: "https://images.unsplash.com/photo-1748370025103-60cb65665adc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxjb21wb3N0ZWxhJTIwY2F0aGVkcmFsJTIwc3BhaW4lMjBtZWRpZXZhbHxlbnwwfDB8fHwxNzcyMDg4MDYyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/stories-legend-of-saint-james.jpg"
 imageAlt: "The twin towers of Santiago de Compostela Cathedral, linked to the legend of Saint James"
 imageCredit: "Photo by David Magalhães on Unsplash"
 ---

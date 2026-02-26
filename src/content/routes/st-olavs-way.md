@@ -14,7 +14,7 @@ placesOnRoute: []
 hasModernSection: true
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1660587959651-ea8e29dbad22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxzdCUyMG9sYXZzJTIwd2F5JTIwbm9yd2F5JTIwcGlsZ3JpbWFnZXxlbnwxfDB8fHwxNzcyMDg3OTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/routes-st-olavs-way.jpg"
 imageAlt: "Hikers on St. Olav's Way pilgrimage route through the Norwegian countryside"
 imageCredit: "Photo by Stock Birken on Unsplash"
 ---

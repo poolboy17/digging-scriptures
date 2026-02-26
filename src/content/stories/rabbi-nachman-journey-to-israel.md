@@ -11,7 +11,7 @@ relatedPlaces:
 relatedRoutes: []
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1542317775-0f88b4cefd3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxqZXdpc2glMjBwcmF5ZXIlMjBqZXJ1c2FsZW18ZW58MXwwfHx8MTc3MjA4Nzk5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/stories-rabbi-nachman-journey-to-israel.jpg"
 imageAlt: "Pilgrims near the Temple Mount in Jerusalem, recalling Rabbi Nachman's journey to the Holy Land"
 imageCredit: "Photo by Cole Keister on Unsplash"
 ---

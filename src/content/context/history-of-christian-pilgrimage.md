@@ -12,7 +12,7 @@ regions:
   - Middle East
 lastUpdated: 2026-02-24
 draft: false
-image: "https://images.unsplash.com/photo-1724398931860-b13443c86997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxtZWRpZXZhbCUyMGNocmlzdGlhbiUyMHBpbGdyaW1hZ2V8ZW58MXwwfHx8MTc3MjA4ODAwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/context-history-of-christian-pilgrimage.jpg"
 imageAlt: "Aerial view of a European church and town along a historic Christian pilgrimage route"
 imageCredit: "Photo by Gary Walker-Jones on Unsplash"
 ---

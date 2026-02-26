@@ -16,7 +16,7 @@ placesOnRoute:
 hasModernSection: true
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1758985776354-4df674930917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxoYWpqJTIwcGlsZ3JpbWFnZSUyMG1lY2NhJTIwY3Jvd2R8ZW58MXwwfHx8MTc3MjA4Nzk3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/routes-hajj-route.jpg"
 imageAlt: "Pilgrims circling the Kaaba during the Hajj pilgrimage in Mecca"
 imageCredit: "Photo by Oktavia Ningrum on Unsplash"
 ---

@@ -8,7 +8,7 @@ regions:
   - Middle East
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1768306444285-5853122bd092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxqZXdpc2glMjBwaWxncmltYWdlJTIwamVydXNhbGVtJTIwdGVtcGxlfGVufDF8MHx8fDE3NzIwODgwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/context-three-pilgrim-festivals-judaism.jpg"
 imageAlt: "Jerusalem skyline with the golden Dome of the Rock, site of the three pilgrim festivals"
 imageCredit: "Photo by George 🦅 on Unsplash"
 ---

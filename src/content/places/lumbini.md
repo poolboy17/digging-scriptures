@@ -14,7 +14,7 @@ relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1631874345397-4daadb57e395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxsdW1iaW5pJTIwbmVwYWwlMjBidWRkaGElMjBiaXJ0aHBsYWNlfGVufDF8MHx8fDE3NzIwODc5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/places-lumbini.jpg"
 imageAlt: "The sacred gardens at Lumbini, Nepal, birthplace of Siddhartha Gautama"
 imageCredit: "Photo by ashok acharya on Unsplash"
 ---

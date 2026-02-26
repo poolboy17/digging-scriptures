@@ -12,7 +12,7 @@ relatedRoutes:
   - "kumano-kodo"
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1564500308172-98ba9c4c90dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxzaGluZ29uJTIwYnVkZGhpc3QlMjBtb25rJTIwamFwYW58ZW58MXwwfHx8MTc3MjA4Nzk5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/stories-kobo-daishi-shikoku.jpg"
 imageAlt: "Statue of Kobo Daishi (Kukai) at a temple surrounded by greenery in Japan"
 imageCredit: "Photo by Alejandro Barba on Unsplash"
 ---

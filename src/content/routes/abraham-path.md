@@ -22,7 +22,7 @@ placesOnRoute:
 hasModernSection: true
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1763535834153-22c340883793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxkZXNlcnQlMjB0cmFpbCUyMG1pZGRsZSUyMGVhc3QlMjBoaWtpbmd8ZW58MHwwfHx8MTc3MjA4ODA1OHww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/routes-abraham-path.jpg"
 imageAlt: "Desert landscape along the Abraham Path in the Middle East"
 imageCredit: "Photo by Nejc Soklič on Unsplash"
 ---

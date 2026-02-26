@@ -16,7 +16,7 @@ relatedRoutes:
 hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1610623757180-f5ec7090a07f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxtb3VudCUyMGtveWElMjBqYXBhbiUyMHRlbXBsZXxlbnwxfDB8fHwxNzcyMDg3OTU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/places-mount-koya.jpg"
 imageAlt: "Snow-covered temple among ancient cedars on Mount Koya, Japan"
 imageCredit: "Photo by Samuel Berner on Unsplash"
 ---

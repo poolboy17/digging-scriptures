@@ -15,7 +15,7 @@ regions:
   - East Asia
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1766920572464-f9276becc722?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBwaWxncmltYWdlJTIwdG91cmlzbXxlbnwxfDB8fHwxNzcyMDg4MDA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/context-pilgrimage-tourism-modern-era.jpg"
 imageAlt: "Modern architectural structure symbolizing the intersection of pilgrimage and contemporary tourism"
 imageCredit: "Photo by Bernard Hermant on Unsplash"
 ---

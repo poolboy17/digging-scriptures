@@ -15,7 +15,7 @@ relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1593019612760-871cec98ab60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxkb21lJTIwb2YlMjB0aGUlMjByb2NrJTIwamVydXNhbGVtfGVufDF8MHx8fDE3NzIwODc5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/places-dome-of-the-rock.jpg"
 imageAlt: "The golden Dome of the Rock on the Temple Mount in Jerusalem"
 imageCredit: "Photo by Benjamin R. on Unsplash"
 ---

@@ -10,7 +10,7 @@ relatedPlaces:
 relatedRoutes: []
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1670154791072-de3fdb38defc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxzaWxrJTIwcm9hZCUyMGJ1ZGRoaXN0JTIwdGVtcGxlfGVufDF8MHx8fDE3NzIwODgwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/stories-xuanzang-buddhist-pilgrim.jpg"
 imageAlt: "Buddhist pagoda temple evoking Xuanzang's pilgrimage journey from China to India"
 imageCredit: "Photo by tommao wang on Unsplash"
 ---

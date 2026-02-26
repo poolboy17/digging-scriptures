@@ -14,7 +14,7 @@ relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
 draft: false
-image: "https://images.unsplash.com/photo-1725951602381-3e759a5ce430?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxib2RoJTIwZ2F5YSUyMG1haGFib2RoaSUyMHRlbXBsZXxlbnwxfDB8fHwxNzcyMDg3OTQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/places-bodh-gaya.jpg"
 imageAlt: "The Mahabodhi Temple at Bodh Gaya, where the Buddha attained enlightenment"
 imageCredit: "Photo by Prashanth Karnam on Unsplash"
 ---

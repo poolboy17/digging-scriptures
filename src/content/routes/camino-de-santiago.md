@@ -18,7 +18,7 @@ placesOnRoute:
 hasModernSection: true
 lastUpdated: 2026-01-25
 draft: false
-image: "https://images.unsplash.com/photo-1603806490767-58e10adb983c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODcwMzV8MHwxfHNlYXJjaHwxfHxjYW1pbm8lMjBkZSUyMHNhbnRpYWdvJTIwcGlsZ3JpbXMlMjB3YWxraW5nfGVufDF8MHx8fDE3NzIwODc5NzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/content/routes-camino-de-santiago.jpg"
 imageAlt: "Waymark on the Camino de Santiago pilgrimage route in Spain"
 imageCredit: "Photo by Damien Dufour on Unsplash"
 ---
