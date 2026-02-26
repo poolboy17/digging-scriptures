@@ -1,5 +1,6 @@
 ---
 title: "Margery Kempe: The Medieval Pilgrim"
+parentHub: "christian-pilgrimage-traditions"
 description: "An English laywoman whose dramatic pilgrimages and mystical experiences produced the first autobiography in the English language."
 storyType: "historical-figure"
 faithTraditions:

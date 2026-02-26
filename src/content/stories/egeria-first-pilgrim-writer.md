@@ -1,5 +1,6 @@
 ---
 title: "Egeria: The First Pilgrim Writer"
+parentHub: "christian-pilgrimage-traditions"
 description: "A fourth-century woman whose detailed letters from the Holy Land provide the earliest surviving first-person account of Christian pilgrimage."
 storyType: "historical-figure"
 faithTraditions:

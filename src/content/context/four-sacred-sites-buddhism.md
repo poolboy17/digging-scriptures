@@ -1,5 +1,6 @@
 ---
 title: "The Four Sacred Sites of Buddhism"
+parentHub: "buddhist-pilgrimage-paths"
 description: "Understanding the four places associated with the Buddha's life that form the foundational geography of Buddhist pilgrimage."
 contextType: "religious-context"
 faithTraditions:

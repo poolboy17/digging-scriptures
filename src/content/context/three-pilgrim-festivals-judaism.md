@@ -1,5 +1,6 @@
 ---
 title: "The Three Pilgrim Festivals of Judaism"
+parentHub: "jewish-pilgrimage-heritage"
 description: "Understanding the Shalosh Regalim — Passover, Shavuot, and Sukkot — the three annual festivals when ancient Israelites were commanded to appear at the..."
 contextType: "religious-context"
 faithTraditions:

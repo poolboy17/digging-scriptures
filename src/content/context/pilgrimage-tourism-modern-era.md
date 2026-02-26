@@ -1,5 +1,6 @@
 ---
 title: "Pilgrimage and Tourism in the Modern Era"
+parentHub: "faith-based-journeys"
 description: "How the boundaries between sacred travel and secular tourism have blurred, and what this means for pilgrimage sites, local communities, and the pilgrims..."
 contextType: "cultural-overview"
 faithTraditions:

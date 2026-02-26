@@ -1,5 +1,6 @@
 ---
 title: "Kōbō Daishi and the Shikoku Circuit"
+parentHub: "buddhist-pilgrimage-paths"
 description: "The life and legacy of Kūkai, the monk who founded Shingon Buddhism in Japan and whose spirit is believed to accompany every pilgrim on the Shikoku 88..."
 storyType: "historical-figure"
 faithTraditions:

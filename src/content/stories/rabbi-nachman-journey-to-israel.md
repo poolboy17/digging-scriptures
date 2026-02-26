@@ -1,5 +1,6 @@
 ---
 title: "Rabbi Nachman's Journey to Israel"
+parentHub: "jewish-pilgrimage-heritage"
 description: "How the founder of Breslov Hasidism undertook a perilous pilgrimage to the Land of Israel in 1798 that shaped his teachings and his movement."
 storyType: "historical-figure"
 faithTraditions:

@@ -1,5 +1,6 @@
 ---
 title: "Xuanzang: The Buddhist Pilgrim"
+parentHub: "buddhist-pilgrimage-paths"
 description: "A seventh-century Chinese monk whose seventeen-year journey to India in search of Buddhist scriptures became one of history's great pilgrimage narratives."
 storyType: "historical-figure"
 faithTraditions:

@@ -1,5 +1,6 @@
 ---
 title: "The Legend of Saint James"
+parentHub: "christian-pilgrimage-traditions"
 description: "The traditional narrative surrounding the apostle James and the origins of the Santiago de Compostela pilgrimage."
 storyType: "legend"
 faithTraditions:
