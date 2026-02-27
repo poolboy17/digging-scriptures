@@ -1,21 +1,15 @@
 ---
 /**
  * ================================================================================
- * HUB PAGE TEMPLATE — Enhanced Editorial Layout v2
+ * HUB PAGE TEMPLATE — Interleaved Editorial Layout v3
  * ================================================================================
  * Purpose: Authority pages that define topics and link downward to spokes
- * Word count target: 2000-3000 words
  * 
- * ENHANCEMENTS v2:
- * - Playfair Display serif for headings (editorial gravitas)
- * - Decorative SVG topographic pattern in hero
- * - Reading progress bar
- * - Spoke preview cards surfaced early (after hero, before article)
- * - Pull-quote styling
- * - Mobile-friendly collapsible TOC
- * - Sibling hub navigation
- * - "Continue exploring" footer
- * - Entrance animations on spoke cards
+ * KEY CHANGE: Prose sections and spoke cards are INTERLEAVED, not separated.
+ * The layout splits markdown at H2 boundaries and inserts contextually-
+ * relevant spoke cards after specific sections based on a per-hub mapping.
+ *
+ * Scroll rhythm: prose (white) → spoke cards (gray) → prose → cards → ...
  *
  * MONETIZATION: NEVER
  * ================================================================================
@@ -39,7 +33,7 @@ interface Props {
 const { title, description, topics, relatedPlaces, relatedRoutes, image, imageAlt, imageCredit } = Astro.props;
 const hubSlug = Astro.url.pathname.replace('/journeys/', '').replace(/\/$/, '');
 
-// Auto-discover all spoke content linked to this hub
+// ── Collect all spoke content ──
 const allPlaces = await getCollection('places', ({ data }) => 
     data.parentHub === hubSlug && !data.draft
 );
@@ -49,7 +43,6 @@ const allRoutes = await getCollection('routes', ({ data }) =>
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
 const allContext = await getCollection('context', ({ data }) => !data.draft);
 
-// Filter stories/context that reference this hub's places or routes
 const hubPlaceSlugs = allPlaces.map(p => p.slug);
 const hubRouteSlugs = allRoutes.map(r => r.slug);
 
@@ -57,7 +50,6 @@ const relatedStories = allStories.filter(s =>
     s.data.relatedPlaces?.some((p: string) => hubPlaceSlugs.includes(p)) ||
     s.data.relatedRoutes?.some((r: string) => hubRouteSlugs.includes(r))
 );
-
 const relatedContext = allContext.filter(c => {
     const traditions = c.data.faithTraditions || [];
     const hubTopics = topics || [];
@@ -66,7 +58,182 @@ const relatedContext = allContext.filter(c => {
 
 const spokeCount = allPlaces.length + allRoutes.length + relatedStories.length + relatedContext.length;
 
-// Sibling hubs for cross-navigation
+// Build lookup maps by slug
+const placeMap = Object.fromEntries(allPlaces.map(p => [p.slug, p]));
+const routeMap = Object.fromEntries(allRoutes.map(r => [r.slug, r]));
+const storyMap = Object.fromEntries(allStories.map(s => [s.slug, s]));
+const contextMap = Object.fromEntries(allContext.map(c => [c.slug, c]));
+
+// ── Spoke-to-Section Mapping ──
+// After which H2 index (0-based) should which spokes appear?
+// "afterH2" means: render these cards after the Nth H2 section.
+// Slugs are resolved against placeMap/routeMap/storyMap/contextMap.
+type SpokeRef = { type: 'place'|'route'|'story'|'context'; slug: string };
+type SectionSpokes = { afterH2: number; items: SpokeRef[] };
+
+const hubSpokeMap: Record<string, SectionSpokes[]> = {
+    "buddhist-pilgrimage-paths": [
+        { afterH2: 1, items: [ // After "The Four Great Sites"
+            { type: 'place', slug: 'bodh-gaya' },
+            { type: 'place', slug: 'lumbini' },
+            { type: 'place', slug: 'sarnath' },
+            { type: 'context', slug: 'four-sacred-sites-buddhism' },
+        ]},
+        { afterH2: 2, items: [ // After "Pilgrimage Circuits in East Asia"
+            { type: 'place', slug: 'mount-koya' },
+            { type: 'route', slug: 'shikoku-88-temples' },
+            { type: 'route', slug: 'kumano-kodo' },
+        ]},
+        { afterH2: 3, items: [ // After "Circumambulation and Merit"
+            { type: 'route', slug: 'kora-mount-kailash' },
+        ]},
+        { afterH2: 4, items: [ // After "Relics and Their Veneration"
+            { type: 'story', slug: 'kobo-daishi-shikoku' },
+            { type: 'story', slug: 'xuanzang-buddhist-pilgrim' },
+            { type: 'context', slug: 'relics-and-sacred-objects' },
+        ]},
+        { afterH2: 5, items: [ // After "Modern Buddhist Pilgrimage"
+            { type: 'context', slug: 'pilgrimage-tourism-modern-era' },
+            { type: 'context', slug: 'psychology-of-pilgrimage' },
+            { type: 'context', slug: 'what-is-pilgrimage' },
+            { type: 'context', slug: 'women-and-pilgrimage' },
+        ]},
+    ],
+    "christian-pilgrimage-traditions": [
+        { afterH2: 1, items: [ // After "Origins in the Early Church"
+            { type: 'place', slug: 'jerusalem-old-city' },
+            { type: 'story', slug: 'helena-and-the-true-cross' },
+            { type: 'story', slug: 'egeria-first-pilgrim-writer' },
+            { type: 'context', slug: 'history-of-christian-pilgrimage' },
+        ]},
+        { afterH2: 2, items: [ // After "The Medieval Flowering"
+            { type: 'place', slug: 'rome-vatican' },
+            { type: 'route', slug: 'via-francigena' },
+            { type: 'story', slug: 'legend-of-saint-james' },
+            { type: 'story', slug: 'margery-kempe-medieval-pilgrim' },
+        ]},
+        { afterH2: 3, items: [ // After "Reformation & Responses"
+            { type: 'place', slug: 'lourdes' },
+            { type: 'route', slug: 'st-olavs-way' },
+        ]},
+        { afterH2: 4, items: [ // After "Modern Transformations"
+            { type: 'context', slug: 'pilgrimage-tourism-modern-era' },
+            { type: 'context', slug: 'psychology-of-pilgrimage' },
+            { type: 'context', slug: 'women-and-pilgrimage' },
+        ]},
+    ],
+    "faith-based-journeys": [
+        { afterH2: 1, items: [ // After "Why Humans Undertake Pilgrimages"
+            { type: 'context', slug: 'what-is-pilgrimage' },
+            { type: 'context', slug: 'psychology-of-pilgrimage' },
+        ]},
+        { afterH2: 2, items: [ // After "Sacred Places and the Meaning of Destination"
+            { type: 'place', slug: 'jerusalem' },
+            { type: 'place', slug: 'santiago-de-compostela' },
+            { type: 'place', slug: 'varanasi' },
+        ]},
+        { afterH2: 3, items: [ // After "Routes, Travel, and Movement"
+            { type: 'route', slug: 'camino-de-santiago' },
+            { type: 'route', slug: 'abraham-path' },
+        ]},
+        { afterH2: 4, items: [ // After "Community, Tradition, and Shared Memory"
+            { type: 'context', slug: 'women-and-pilgrimage' },
+            { type: 'context', slug: 'relics-and-sacred-objects' },
+        ]},
+        { afterH2: 5, items: [ // After "Pilgrimage in the Modern World"
+            { type: 'context', slug: 'pilgrimage-tourism-modern-era' },
+        ]},
+    ],
+    "islamic-pilgrimage-traditions": [
+        { afterH2: 0, items: [ // After "The Hajj: Pilgrimage as Pillar of Faith"
+            { type: 'place', slug: 'mecca' },
+            { type: 'context', slug: 'five-pillars-hajj-explained' },
+        ]},
+        { afterH2: 1, items: [ // After "The Rituals of Hajj"
+            { type: 'route', slug: 'hajj-route' },
+        ]},
+        { afterH2: 2, items: [ // After "Umrah: The Lesser Pilgrimage"
+            { type: 'route', slug: 'umrah' },
+        ]},
+        { afterH2: 3, items: [ // After "Ziyarat: Visiting Sacred Sites"
+            { type: 'place', slug: 'medina' },
+            { type: 'place', slug: 'najaf-karbala' },
+            { type: 'context', slug: 'ziyarat-visiting-shrines-islam' },
+        ]},
+        { afterH2: 4, items: [ // After "Jerusalem in Islamic Pilgrimage"
+            { type: 'place', slug: 'dome-of-the-rock' },
+            { type: 'place', slug: 'al-aqsa-mosque' },
+        ]},
+        { afterH2: 5, items: [ // After "Historical Development and Modern Practice"
+            { type: 'story', slug: 'ibn-battuta-pilgrim-traveler' },
+            { type: 'context', slug: 'pilgrimage-tourism-modern-era' },
+        ]},
+    ],
+    "jewish-pilgrimage-heritage": [
+        { afterH2: 0, items: [ // After "Pilgrimage and the Temple"
+            { type: 'place', slug: 'western-wall' },
+            { type: 'context', slug: 'three-pilgrim-festivals-judaism' },
+            { type: 'context', slug: 'aliyah-leregel' },
+        ]},
+        { afterH2: 2, items: [ // After "Sacred Sites Beyond Jerusalem"
+            { type: 'place', slug: 'hebron-cave-patriarchs' },
+            { type: 'place', slug: 'rachels-tomb' },
+            { type: 'place', slug: 'safed-kabbalah' },
+            { type: 'place', slug: 'mount-meron' },
+        ]},
+        { afterH2: 3, items: [ // After "The Concept of Aliyah and Return"
+            { type: 'route', slug: 'temple-mount-ascent' },
+            { type: 'story', slug: 'rabbi-nachman-journey-to-israel' },
+        ]},
+        { afterH2: 4, items: [ // After "Diaspora Pilgrimage Traditions"
+            { type: 'context', slug: 'diaspora-pilgrimage' },
+        ]},
+    ],
+};
+
+// Resolve the mapping for this hub
+const sectionSpokes = hubSpokeMap[hubSlug] || [];
+const spokesByH2: Record<number, SpokeRef[]> = {};
+for (const ss of sectionSpokes) {
+    spokesByH2[ss.afterH2] = ss.items;
+}
+
+// Helper to resolve a SpokeRef to actual data
+function resolveSpoke(ref: SpokeRef) {
+    if (ref.type === 'place') {
+        const p = placeMap[ref.slug];
+        if (!p) return null;
+        return { type: 'place', slug: ref.slug, title: p.data.title, desc: p.data.description, meta: `${p.data.region}, ${p.data.country}`, url: `/places/${ref.slug}` };
+    }
+    if (ref.type === 'route') {
+        const r = routeMap[ref.slug];
+        if (!r) return null;
+        const meta = [r.data.distanceKm ? `${r.data.distanceKm} km` : '', r.data.difficulty || ''].filter(Boolean).join(' · ');
+        return { type: 'route', slug: ref.slug, title: r.data.title, desc: r.data.description, meta, url: `/routes/${ref.slug}` };
+    }
+    if (ref.type === 'story') {
+        const s = storyMap[ref.slug];
+        if (!s) return null;
+        return { type: 'story', slug: ref.slug, title: s.data.title, desc: s.data.description, meta: 'Story', url: `/stories/${ref.slug}` };
+    }
+    if (ref.type === 'context') {
+        const c = contextMap[ref.slug];
+        if (!c) return null;
+        return { type: 'context', slug: ref.slug, title: c.data.title, desc: c.data.description, meta: 'Context', url: `/context/${ref.slug}` };
+    }
+    return null;
+}
+
+// H2 indices to SKIP from prose (self-referential filler sections)
+const skipH2: Record<string, number[]> = {
+    "buddhist-pilgrimage-paths": [6],   // "Exploring Buddhist Pilgrimage on This Site"
+    "faith-based-journeys": [6],         // "How This Site Approaches Faith-Based Journeys"
+    "islamic-pilgrimage-traditions": [6], // "Exploring Islamic Pilgrimage on This Site"
+    "jewish-pilgrimage-heritage": [7],   // "Exploring Jewish Pilgrimage on This Site"
+};
+const skipIndices = skipH2[hubSlug] || [];
+
+// Sibling hubs
 const allHubs = await getCollection('hubs', ({ data }) => !data.draft);
 const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
 ---
@@ -134,7 +301,6 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
             <span class="hub-hero-stat">{allRoutes.length} routes</span>
         </div>
     </div>
-    <!-- SVG topographic pattern overlay -->
     <svg class="hub-hero-pattern" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
         <g stroke="rgba(250,246,242,0.06)" stroke-width="1" fill="none">
             <path d="M0,200 Q100,120 200,180 T400,160 T600,200 T800,170" />
@@ -142,16 +308,14 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
             <path d="M0,280 Q120,220 220,260 T420,230 T620,270 T800,250" />
             <path d="M0,320 Q130,270 260,300 T460,270 T660,310 T800,290" />
             <path d="M0,160 Q180,100 280,140 T480,120 T680,160 T800,130" />
-            <path d="M0,120 Q140,70 240,100 T440,80 T640,120 T800,90" />
-            <circle cx="150" cy="180" r="35" />
-            <circle cx="420" cy="150" r="25" />
-            <circle cx="650" cy="210" r="40" />
-            <circle cx="300" cy="250" r="20" />
+            <circle cx="150" cy="180" r="35" /><circle cx="420" cy="150" r="25" />
+            <circle cx="650" cy="210" r="40" /><circle cx="300" cy="250" r="20" />
         </g>
     </svg>
     <div class="hub-hero-grain"></div>
     <div class="hub-hero-fade"></div>
 </header>
+
 <!-- ═══════════════════ MOBILE TOC ═══════════════════ -->
 <div class="mobile-toc-wrapper container" id="mobile-toc">
     <button class="mobile-toc-toggle" id="mobile-toc-toggle" aria-expanded="false">
@@ -165,6 +329,7 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
     </nav>
 </div>
 
+<!-- ═══════════════════ INTERLEAVED CONTENT ═══════════════════ -->
 <article class="hub-article">
     <div class="container">
         <div class="hub-layout">
@@ -177,81 +342,34 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
                 </nav>
             </aside>
 
-            <!-- ═══════════════ MAIN CONTENT ═══════════════ -->
-            <div class="hub-content">
+            <!-- ═══════════════ MAIN CONTENT (prose + inline spokes) ═══════════════ -->
+            <div class="hub-content" id="hub-content">
                 <section class="content" id="hub-prose">
                     <slot />
                 </section>
-                <!-- ═══════════════ SPOKE: Places ═══════════════ -->
-                {allPlaces.length > 0 && (
-                    <section class="hub-spokes-section">
-                        <h2 class="hub-spokes-heading">
-                            <span class="hub-spokes-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Sacred Places
-                        </h2>
-                        <div class="hub-spokes-grid">
-                            {allPlaces.map((place, i) => (
-                                <a href={`/places/${place.slug}`} class="hub-spoke-card" style={`animation-delay: ${i * 80}ms`}>
-                                    <span class="hub-spoke-type">{place.data.region}, {place.data.country}</span>
-                                    <h3 class="hub-spoke-title">{place.data.title}</h3>
-                                    <p class="hub-spoke-desc">{place.data.description}</p>
-                                    <span class="hub-spoke-arrow">&rarr;</span>
-                                </a>
-                            ))}
-                        </div>
-                    </section>
-                )}
-
-                <!-- ═══════════════ SPOKE: Routes ═══════════════ -->
-                {allRoutes.length > 0 && (
-                    <section class="hub-spokes-section">
-                        <h2 class="hub-spokes-heading">
-                            <span class="hub-spokes-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/></svg></span> Pilgrimage Routes
-                        </h2>
-                        <div class="hub-spokes-grid">
-                            {allRoutes.map((route, i) => (
-                                <a href={`/routes/${route.slug}`} class="hub-spoke-card" style={`animation-delay: ${i * 80}ms`}>
-                                    <span class="hub-spoke-type">
-                                        {route.data.distanceKm && `${route.data.distanceKm} km`}
-                                        {route.data.distanceKm && route.data.difficulty && ' · '}
-                                        {route.data.difficulty}
-                                    </span>
-                                    <h3 class="hub-spoke-title">{route.data.title}</h3>
-                                    <p class="hub-spoke-desc">{route.data.description}</p>
-                                    <span class="hub-spoke-arrow">&rarr;</span>
-                                </a>
-                            ))}
-                        </div>
-                    </section>
-                )}
-
-                <!-- ═══════════════ SPOKE: Stories + Context ═══════════════ -->
-                {(relatedStories.length > 0 || relatedContext.length > 0) && (
-                    <section class="hub-spokes-section">
-                        <h2 class="hub-spokes-heading">
-                            <span class="hub-spokes-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span> Further Reading
-                        </h2>
-                        <div class="hub-further-list">
-                            {relatedStories.map((story) => (
-                                <a href={`/stories/${story.slug}`} class="hub-further-link">
-                                    <span class="badge">Story</span>
-                                    <span class="hub-further-title">{story.data.title}</span>
-                                    <span class="hub-further-arrow">&rarr;</span>
-                                </a>
-                            ))}
-                            {relatedContext.map((ctx) => (
-                                <a href={`/context/${ctx.slug}`} class="hub-further-link">
-                                    <span class="badge">Context</span>
-                                    <span class="hub-further-title">{ctx.data.title}</span>
-                                    <span class="hub-further-arrow">&rarr;</span>
-                                </a>
-                            ))}
-                        </div>
-                    </section>
-                )}
             </div>
         </div>
     </div>
 </article>
+
+<!-- ═══════════════════ INLINE SPOKE CARD TEMPLATES (hidden, used by JS) ═══════════════════ -->
+<template id="spoke-break-template">
+    <div class="hub-spoke-break">
+        <div class="hub-spoke-break-inner"></div>
+    </div>
+</template>
+
+<!-- Spoke data for JS interleaving -->
+<script id="spoke-data" type="application/json" set:html={JSON.stringify({
+    spokesByH2,
+    skipIndices,
+    resolved: Object.fromEntries(
+        Object.entries(spokesByH2).map(([h2idx, refs]) => [
+            h2idx,
+            (refs as SpokeRef[]).map(resolveSpoke).filter(Boolean)
+        ])
+    )
+})} />
 
 <!-- ═══════════════════ SIBLING HUBS ═══════════════════ -->
 {siblingHubs.length > 0 && (
@@ -271,25 +389,8 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
 </section>
 )}
 
-<!-- ═══════════════════ CONTINUE EXPLORING ═══════════════════ -->
-<section class="continue-section">
-    <div class="container">
-        <div class="continue-inner">
-            <h2 class="continue-heading">Keep exploring</h2>
-            <p class="continue-text">
-                Browse sacred sites, pilgrimage routes, and the stories behind them.
-            </p>
-            <div class="continue-links">
-                <a href="/places" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg> Places</a>
-                <a href="/routes" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/></svg> Routes</a>
-                <a href="/stories" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg> Stories</a>
-                <a href="/context" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg> Context</a>
-            </div>
-        </div>
-    </div>
-</section>
-
 </BaseLayout>
+
 <!-- ═══════════════════ SCRIPTS ═══════════════════ -->
 <script>
 document.addEventListener('DOMContentLoaded', () => {
@@ -302,14 +403,83 @@ document.addEventListener('DOMContentLoaded', () => {
         }, { passive: true });
     }
 
-    // ── TOC generation (desktop + mobile) ──
+    // ── Parse spoke data ──
+    const dataEl = document.getElementById('spoke-data');
+    if (!dataEl) return;
+    const { resolved, skipIndices } = JSON.parse(dataEl.textContent || '{}');
+
+    // ── Interleave spoke cards into prose ──
     const prose = document.getElementById('hub-prose');
+    if (!prose) return;
+    
+    const headings = Array.from(prose.querySelectorAll('h2'));
+    
+    // Remove filler sections (work backwards to preserve indices)
+    const sortedSkips = [...(skipIndices || [])].sort((a, b) => b - a);
+    for (const idx of sortedSkips) {
+        const h2 = headings[idx];
+        if (!h2) continue;
+        // Remove everything from this H2 to the next H2 or end
+        let node = h2;
+        const toRemove = [node];
+        while (node.nextElementSibling && node.nextElementSibling.tagName !== 'H2') {
+            toRemove.push(node.nextElementSibling);
+            node = node.nextElementSibling;
+        }
+        toRemove.forEach(n => n.remove());
+        headings.splice(idx, 1);
+    }
+
+    // Insert spoke breaks after each mapped H2
+    for (const [h2IdxStr, spokes] of Object.entries(resolved)) {
+        const h2Idx = parseInt(h2IdxStr);
+        const h2 = headings[h2Idx];
+        if (!h2 || !spokes || spokes.length === 0) continue;
+
+        // Find the end of this section (next H2 or end of prose)
+        let insertAfter = h2;
+        let sibling = h2.nextElementSibling;
+        while (sibling && sibling.tagName !== 'H2') {
+            insertAfter = sibling;
+            sibling = sibling.nextElementSibling;
+        }
+
+        // Build the spoke break
+        const breakDiv = document.createElement('div');
+        breakDiv.className = 'hub-spoke-break';
+        
+        const grid = document.createElement('div');
+        grid.className = 'hub-spoke-break-grid';
+
+        for (const spoke of spokes) {
+            const card = document.createElement('a');
+            card.href = spoke.url;
+            card.className = 'hub-inline-card';
+
+            const typeLabel = spoke.type === 'place' ? 'Sacred Place' 
+                : spoke.type === 'route' ? 'Pilgrimage Route'
+                : spoke.type === 'story' ? 'Story' : 'Context';
+            
+            card.innerHTML = `
+                <span class="hub-inline-card-type">${typeLabel}</span>
+                <span class="hub-inline-card-title">${spoke.title}</span>
+                <span class="hub-inline-card-desc">${spoke.desc || ''}</span>
+                <span class="hub-inline-card-arrow">→</span>
+            `;
+            grid.appendChild(card);
+        }
+
+        breakDiv.appendChild(grid);
+        insertAfter.after(breakDiv);
+    }
+
+    // ── TOC generation (desktop + mobile) ──
+    // Re-query headings after removals
+    const finalHeadings = prose.querySelectorAll('h2');
     const tocDesktop = document.getElementById('toc-links');
     const tocMobile = document.getElementById('mobile-toc-links');
-    if (!prose) return;
 
-    const headings = prose.querySelectorAll('h2');
-    if (headings.length === 0) {
+    if (finalHeadings.length === 0) {
         const w = document.getElementById('hub-toc');
         const m = document.getElementById('mobile-toc');
         if (w) w.style.display = 'none';
@@ -317,7 +487,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
     }
 
-    headings.forEach((h, i) => {
+    finalHeadings.forEach((h, i) => {
         const id = h.id || `section-${i}`;
         h.id = id;
         [tocDesktop, tocMobile].forEach(container => {
@@ -342,7 +512,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
         }, { rootMargin: '-20% 0px -70% 0px' });
-        headings.forEach(h => obs.observe(h));
+        finalHeadings.forEach(h => obs.observe(h));
     }
 
     // Mobile TOC toggle
@@ -354,7 +524,6 @@ document.addEventListener('DOMContentLoaded', () => {
             toggleBtn.setAttribute('aria-expanded', String(!open));
             mobileNav.classList.toggle('open');
         });
-        // Close on link click
         mobileNav.querySelectorAll('a').forEach(a => {
             a.addEventListener('click', () => {
                 toggleBtn.setAttribute('aria-expanded', 'false');
