@@ -42,6 +42,11 @@ In the Islamic world, the Hajj has been obligatory for women who meet the condit
 
 Women's pilgrimage accounts reveal experiences that differ in texture from men's, even when the route is the same. Physical safety is a recurring concern — not abstract but practical. Margery Kempe's account includes episodes of threatened assault. Modern female pilgrims on the Camino de Santiago report navigating the tension between the route's culture of openness and the reality of walking alone as a woman. These experiences do not define women's pilgrimage, but they shape it in ways that are absent from most male accounts.
 
+<img src="/.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=800" alt="Kyoto" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Kyoto*
+
+
 Fertility, pregnancy, and childbirth connect women to certain pilgrimage sites with particular intensity. Rachel's Tomb near Bethlehem has drawn Jewish women praying for children for centuries. Lourdes became especially associated with healing after Bernadette Soubirous's visions, and women seeking cures for themselves or their children have constituted a large portion of its pilgrims. In Hindu tradition, pregnant women visit temples and tirthas seeking blessings for safe delivery. These connections between women's bodily experience and sacred geography create pilgrimage traditions that are specifically — though not exclusively — female.
 
 The emotional register of women's pilgrimage writing also tends to differ. Egeria's detailed observation, Margery Kempe's raw emotional disclosure, and the Tibetan yogini Machig Labdrön's integration of pilgrimage with inner contemplative practice all represent modes of spiritual expression that expand the range of what pilgrimage literature can convey. These are not lesser accounts by virtue of their difference from male models; they represent dimensions of the pilgrimage experience that the tradition's dominant narratives have tended to undercount.

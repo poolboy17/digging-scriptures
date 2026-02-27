@@ -58,6 +58,11 @@ After Tawaf, the pilgrim performs two cycles of prayer (raka'at) behind the Maqa
 
 Sa'i consists of walking seven times between the hills of Safa and Marwa, which are now enclosed within the Grand Mosque complex in a long, air-conditioned gallery. The walk commemorates Hagar's desperate search for water for her infant son in the desert, running between the two hillocks looking for help. The distance between Safa and Marwa is approximately 450 meters, so the seven traversals total roughly 3.15 kilometers.
 
+<img src="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800" alt="Makka" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Makka*
+
+
 The Umrah concludes with the halq or taqsir — shaving or trimming the hair — which marks the pilgrim's exit from the state of ihram. Men typically shave the head completely (halq) or trim it short (taqsir); women cut a small portion of their hair. With this act, the restrictions of ihram are lifted, and the Umrah is complete.
 
 </Fragment>

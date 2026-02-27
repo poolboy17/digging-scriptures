@@ -42,6 +42,11 @@ The question of who can undertake pilgrimage has also varied. The Hajj is obliga
 
 One of the most significant developments in modern pilgrimage is the participation of people who do not identify with any particular religious tradition. The Camino de Santiago now draws more walkers who describe their motivation as "spiritual but not religious" than those who describe it as purely Catholic. The Shikoku 88 Temple circuit in Japan attracts tourists, hikers, and seekers alongside devout Buddhists. The growth of "secular pilgrimage" to sites like Auschwitz, civil rights landmarks, or literary locations suggests that the human impulse toward meaningful travel persists even when its theological framework fades.
 
+<img src="/.netlify/images?url=/images/content/inline/what-is-pilgrimage-2-d1814c.jpg&w=800" alt="Children" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Children*
+
+
 This raises questions that scholars and practitioners continue to debate. Is a journey without religious content still a pilgrimage? Does the spiritual benefit depend on belief, or does the practice itself — the walking, the discomfort, the encounter with something beyond the everyday — produce its effects regardless of the pilgrim's theological commitments? These questions have no settled answers, but the persistence of pilgrimage in an increasingly secular world suggests that the practice addresses something fundamental in human experience.
 
 <Fragment slot="concepts">

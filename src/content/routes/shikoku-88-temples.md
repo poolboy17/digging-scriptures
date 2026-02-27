@@ -43,6 +43,11 @@ The pilgrimage's association with Kōbō Daishi extends beyond historical connec
 
 <Fragment slot="journey">
 
+<img src="/.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=800" alt="Landscape" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Landscape*
+
+
 The traditional starting point is Temple 1 (Ryōzen-ji) in Tokushima Prefecture, though pilgrims may begin at any temple and need not walk the circuit in numerical order. The full circuit of approximately 1,200 kilometers typically requires forty to sixty days on foot, passing through coastal lowlands, mountain forests, agricultural valleys, and urban areas. The terrain varies from flat coastal paths to strenuous mountain ascents, with several temples located at significant elevation.
 
 The Tokushima section (Temples 1–23) introduces the pilgrim to the practice through relatively accessible terrain along the eastern coast and inland valleys. The temples in this section tend to be closely spaced, allowing new walkers to adjust to the physical demands gradually. The alternates between farming communities, fishing villages, and forested hillsides that give early intimation of the mountain walking to come.
@@ -59,6 +64,11 @@ The Kōchi section (Temples 24–39), associated with ascetic training, presents
 The Ehime section (Temples 40–65), associated with enlightenment, moves through the island's western s. The terrain softens somewhat, and the spacing between temples becomes more manageable. This section includes several mountain temples requiring steep ascents, as well as the pilgrimage's passage through Matsuyama, Shikoku's largest city. The contrast between urban walking and mountain temple approaches highlights the pilgrimage's integration of the sacred and the everyday.
 
 The Kagawa section (Temples 66–88), associated with nirvana, brings the pilgrim back to the northeastern corner of Shikoku. The completion of the circuit at Temple 88 (Ōkubo-ji) marks the formal end of the pilgrimage, though tradition holds that the journey is truly complete only after the pilgrim visits Mount Kōya in Wakayama Prefecture on the main island of Honshū to pay respects at Kūkai's mausoleum in the Oku-no-in cemetery. This final visit closes the circle by connecting the pilgrimage's end to its spiritual source.
+
+<img src="/.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=800" alt="Backpack" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Backpack*
+
 
 The daily rhythm of the walking pilgrim follows a pattern: rise early, walk to the next temple, perform devotions (recitation of the Heart Sutra, offerings of incense and candles, collection of the temple's calligraphic stamp), then walk to the following temple or to accommodation. The repetition of this cycle — walking, arriving, praying, walking — creates a meditative structure that accumulates over weeks into a sustained practice of movement and attention.
 

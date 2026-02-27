@@ -36,6 +36,11 @@ Margery's first major pilgrimage, to Jerusalem in 1413–1414, involved an overl
 
 In Jerusalem, Margery's mystical experiences reached their peak intensity. At the Church of the Holy Sepulchre, standing at the site of the Crucifixion, she experienced what she described as a complete emotional and physical collapse, crying and screaming in response to a vivid interior vision of Christ's suffering. This episode marked the beginning of the "gift of tears" that would characterize the rest of her spiritual life — a form of mystical expression with precedents in figures like Mary Magdalene and contemporary continental mystics like Bridget of Sweden, but one that proved uniquely controversial in the English context.
 
+<img src="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=800" alt="Priest" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Priest*
+
+
 After Jerusalem, Margery traveled to Rome, where she spent several months living in poverty among the city's community of foreign pilgrims. She later undertook pilgrimages to Santiago de Compostela, to Wilsnack in Germany (site of a blood miracle), and to various English shrines. Each journey generated both spiritual experiences and social conflict, as Margery's unconventional behavior — wearing white clothing usually reserved for virgins, weeping loudly during sermons, claiming direct conversations with Christ — challenged social and ecclesiastical norms.
 
 </Fragment>
@@ -47,6 +52,11 @@ Margery Kempe's pilgrimages took place during one of medieval Christianity's mos
 The social dynamics of medieval pilgrimage emerge vividly from Margery's account. Pilgrims traveled in groups for safety, and these groups functioned as temporary communities with their own hierarchies, tensions, and negotiations. Margery's fellow travelers found her behavior alternately inspiring and intolerable, and the repeated conflicts she describes reveal the stresses of prolonged communal travel under difficult conditions. Her account demonstrates that medieval pilgrimage was not merely a spiritual exercise but a complex social experience in which questions of authority, gender, class, and personality played out daily.
 
 Margery's mystical experiences place her within a tradition of female visionary piety that flourished in the late medieval period. Figures like Julian of Norwich (whom Margery visited and consulted), Bridget of Sweden, Catherine of Siena, and Hildegard of Bingen had established precedents for women's claims to direct divine communication. Margery's contribution to this tradition is distinctive in its combination of mystical intensity with practical worldliness — she negotiated with bishops, managed financial affairs, arranged travel logistics, and navigated hostile social situations with a resourcefulness that complicates any image of the medieval mystic as a withdrawn contemplative.
+
+<img src="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=800" alt="York Minster" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*York Minster*
+
 
 The relationship between pilgrimage and gender in Margery's experience illuminates broader patterns. Female pilgrims faced challenges that male pilgrims did not: vulnerability to sexual assault, suspicion of sexual impropriety (a woman traveling without her husband invited gossip), and the physical demands of travel compounded by the limitations imposed by contemporary dress and social expectations. Margery negotiated these challenges with varying success, and her account provides one of the most detailed records of a medieval woman's experience of the pilgrimage road.
 

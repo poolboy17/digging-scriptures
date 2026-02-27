@@ -37,6 +37,11 @@ The practice of circumambulating Mount Kailash — known as kora in Tibetan, par
 
 Tibetan Buddhist tradition holds that a single kora erases the sins of one lifetime, while 108 circuits guarantee enlightenment. The most devoted practitioners perform the kora by full-body prostration — lying face down, marking the spot reached by the fingertips, standing, walking to that mark, and prostrating again — a method that extends the three-day walk to two or three weeks and demands extraordinary physical endurance and spiritual commitment.
 
+<img src="/.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=800" alt="Tibet" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Tibet*
+
+
 The political history of the region has alternately facilitated and restricted access to Mount Kailash. The incorporation of Tibet into the People's Republic of China in 1950 and the subsequent Cultural Revolution severely disrupted pilgrimage traditions. Since the 1980s, limited access has been restored, though the journey remains subject to permit requirements, seasonal restrictions, and periodic political closures that can cancel planned pilgrimages with little warning.
 
 </Fragment>
@@ -79,6 +84,11 @@ The experience of the kora is shaped fundamentally by altitude and remoteness. A
 <Fragment slot="modern">
 
 Access to Mount Kailash requires permits obtained through a licensed travel agency, as independent travel in the Tibet Autonomous Region is not permitted for foreign visitors. Groups must be accompanied by a government-appointed guide and driver, and permits can be revoked or denied without explanation, particularly during politically sensitive periods. This administrative framework makes the Kailash pilgrimage one of the more difficult sacred journeys to plan with certainty.
+
+<img src="/.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=800" alt="Tibet" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Tibet*
+
 
 The journey to Kailash from Lhasa takes approximately three to four days by road, crossing vast expanses of the Tibetan Plateau at altitudes consistently above 4,000 meters. An alternative route from Kathmandu, Nepal, via the Simikot or Hilsa border crossings, provides access from the south, though this route involves its own permit complexities and infrastructure challenges. The remoteness of the site is itself part of its sacred character — the effort required to reach Kailash functions as a preliminary purification.
 

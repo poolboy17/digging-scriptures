@@ -43,6 +43,11 @@ The pilgrimage democratized during the Muromachi (1336–1573) and Edo (1603–1
 
 <Fragment slot="journey">
 
+<img src="/.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=800" alt="Forest" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Forest*
+
+
 The Kumano Kodō comprises several distinct routes, of which the Nakahechi (Central Route) is the most walked and best maintained. Running approximately 38 kilometers from Takijiri-ōji to Kumano Hongū Taisha, the Nakahechi crosses a succession of mountain passes through forests of Japanese cypress, cedar, and broadleaf trees that create a canopy so dense it filters the light into a green twilight. The trail surface — often original stone paving worn smooth by centuries of foot traffic — provides physical evidence of the route's antiquity beneath the walker's feet.
 
 The ōji system structures the journey spiritually as well as geographically. Ōji are subsidiary shrines, originally numbering ninety-nine along the principal routes, that served as ritual stopping points where pilgrims performed devotions, purified themselves, and marked their progress toward the grand shrines. Many ōji survive, their small torii gates and stone markers creating punctuation points that divide the journey into spiritually meaningful segments. The practice of venerating at each ōji transforms the walk from mere transportation into sustained ritual engagement.
@@ -52,6 +57,11 @@ The Kohechi (Small Route) crosses directly through the mountainous interior of t
 The Ōhechi (Great Route) follows the Pacific coastline of the Kii Peninsula, offering a dramatically different of rocky headlands, fishing villages, and ocean vistas. Less walked than the Nakahechi, the Ōhechi preserves a quality of solitude and coastal wildness that many pilgrims find compelling. The route passes the shrine of Kumano Nachi Taisha and the Nachi waterfall — at 133 meters, Japan's tallest single-drop waterfall — a site whose overwhelming natural power has been an object of worship since prehistory.
 
 The Iseji route connects the Ise Grand Shrine (Shinto's most sacred site) with the Kumano shrines, traversing the eastern coast of the Kii Peninsula. This route links two of Japan's supreme pilgrimage destinations and was historically popular with pilgrims who combined visits to Ise and Kumano in a single journey. Sections of the Iseji preserve some of the finest original stone paving of any Kumano route, with steps and retaining walls that have survived centuries of monsoon rains and typhoons.
+
+<img src="/.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=800" alt="Japan" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Japan*
+
 
 The daily rhythm of Kumano walking involves early starts to maximize daylight, steady progress through forested terrain punctuated by ōji visits, and evenings in mountain villages or at trailside accommodation. The forest environment — humid, green, often shrouded in mist — creates a sensory experience fundamentally different from the open s of European pilgrimage routes. The pilgrim walks within the forest rather than across an open , enclosed by trees and the sounds of water, birdsong, and wind through the canopy.
 

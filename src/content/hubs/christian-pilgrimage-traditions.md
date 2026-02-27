@@ -42,6 +42,11 @@ Yet not all voices in the early church endorsed pilgrimage. Gregory of Nyssa, wr
 
 The medieval period witnessed an extraordinary expansion of Christian pilgrimage in both scope and intensity. Jerusalem remained the supreme goal, but the difficulties and dangers of the journey meant that most European Christians could never hope to reach it. Alternative destinations emerged, offering comparable spiritual benefits to those who could not travel so far.
 
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=800" alt="Prague" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Prague*
+
+
 [Rome](/places/rome-vatican) developed as the second great pilgrimage center, possessing the tombs of Peter and Paul along with countless martyrs from the early persecutions. The city's churches accumulated relics from across the Christian world, creating a concentration of sacred objects unmatched anywhere outside Jerusalem. Pilgrims to Rome could visit the seven principal basilicas, gaining indulgences that the medieval church taught would reduce the temporal punishment due for sins.
 
 [Santiago de Compostela](/places/santiago-de-compostela), in the northwestern corner of the Iberian Peninsula, rose to prominence from the ninth century following the reported discovery of the [remains of the apostle James](/stories/legend-of-saint-james). The [Camino de Santiago](/routes/camino-de-santiago) became Europe's most traveled pilgrimage route, with multiple paths converging from France, Portugal, and across Spain. The infrastructure that developed to serve pilgrims—hospices, hospitals, bridges, churches—transformed the and economy of the regions through which they passed.
@@ -58,6 +63,11 @@ Yet pilgrimage also offered pleasures and freedoms unavailable in ordinary life.
 
 The Protestant Reformation of the sixteenth century brought fundamental challenges to the theology and practice of pilgrimage. Martin Luther initially critiqued abuses in the pilgrimage system—the selling of indulgences, the multiplication of dubious relics, the commercial exploitation of popular devotion—before coming to reject the practice more thoroughly. If salvation came through faith alone, the physical journey to a shrine could add nothing to the believer's standing before God.
 
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=800" alt="Monk" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Monk*
+
+
 John Calvin went further, dismissing relics as fraudulent and pilgrimage as superstition. Reformed theology emphasized the sufficiency of scripture and the inward work of the Holy Spirit, leaving little room for sacred geography. The iconoclasm that swept through Reformed territories destroyed shrines and scattered relics that had drawn pilgrims for centuries. In England, the dissolution of the monasteries under Henry VIII eliminated the institutional infrastructure that had supported pilgrimage.
 
 The Catholic response, articulated at the Council of Trent and in subsequent developments, defended the veneration of saints and relics while acknowledging the need for reform. Abuses were to be corrected, false relics removed, and proper oversight established. Pilgrimage continued and even expanded in Catholic territories, with new destinations emerging to supplement the traditional ones. The apparitions at Guadalupe in Mexico, beginning in 1531, created a pilgrimage site that would eventually draw more visitors than any in Europe.
@@ -67,6 +77,11 @@ The Counter-Reformation also saw the development of new forms of sacred journey.
 ## Modern Transformations
 
 The eighteenth and nineteenth centuries brought new challenges to pilgrimage. Enlightenment rationalism questioned miraculous claims, while industrialization and urbanization disrupted traditional patterns of life. Revolutions and anticlerical movements suppressed pilgrimage in some regions, confiscating church properties and dispersing religious communities that had served pilgrims for centuries.
+
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=800" alt="Cloister" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Cloister*
+
 
 Yet pilgrimage proved remarkably resilient. The nineteenth century witnessed a revival of Catholic popular devotion, including renewed interest in pilgrimage. [Lourdes](/places/lourdes), following the reported apparitions to Bernadette Soubirous in 1858, rapidly developed into a major destination, drawing those seeking physical healing at its spring. The grotto that had been the site of the visions became the center of an elaborate complex of churches, hospitals, and facilities serving millions of pilgrims annually.
 
@@ -81,6 +96,16 @@ Orthodox Christianity maintains rich pilgrimage traditions, with Mount Athos, th
 ## The Meaning of the Journey
 
 Reflection on pilgrimage across Christian history reveals certain persistent themes alongside significant variations. The notion that physical movement through space can facilitate spiritual transformation appears in virtually every period and tradition, even if explained in different theological terms. The liminal quality of the pilgrim state, suspended between departure and arrival, creates conditions understood to be spiritually productive.
+
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=800" alt="Candles" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Candles*
+
+
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=800" alt="Church" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Church*
+
 
 Community forms a second persistent theme. Pilgrims rarely travel entirely alone, and the shared experience of the journey creates bonds that may outlast it. Medieval pilgrims joined companies for safety and companionship; modern pilgrims often speak of the community encountered on the road as among the most meaningful aspects of their experience. The pilgrimage community transcends ordinary social boundaries, bringing together people who might never otherwise meet.
 

@@ -69,6 +69,11 @@ The presence of Judaism and Islam adds dimensions that complicate and enrich the
 
 The Church of the Holy Sepulchre remains the preeminent Christian pilgrimage site in Jerusalem. The building encompasses both Golgotha, the traditional site of the crucifixion, and the tomb where Jesus was buried and from which he rose. The current structure presents a complex architectural palimpsest, incorporating elements from the twelfth-century Crusader church along with later additions and modifications.
 
+<img src="/.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=800" alt="Carousel" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Carousel*
+
+
 Upon entering, pilgrims encounter the Stone of Anointing, where tradition holds that Jesus's body was prepared for burial. This slab, dating from the nineteenth century, replaced earlier stones and is venerated by pilgrims who kneel to touch and kiss it. To the right, steep stairs ascend to Golgotha, where two chapels—one Greek Orthodox, one Roman Catholic—mark the site of the crucifixion. A glass panel reveals the rock of Calvary itself.
 
 The Rotunda dominates the western portion of the church, its dome rising above the Edicule, the small structure enclosing the tomb of Christ. The Edicule was most recently restored in 2016-2017 after centuries of decay and previous reconstructions. Within it, pilgrims enter a small antechamber before passing into the burial chamber itself, where they may briefly touch the stone slab marking where Christ's body lay.

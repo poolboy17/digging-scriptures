@@ -37,6 +37,11 @@ The tomb is sacred in Christianity and Islam as well. Christians identify Rachel
 
 Jewish women have maintained a particularly strong devotional attachment to Rachel's Tomb. Because Rachel died in childbirth, she is regarded as a special intercessor for fertility, safe pregnancy, and the health of children. Women who are struggling to conceive, who are pregnant, or who have sick children travel to the tomb to pray, weep, and recite psalms. This tradition is ancient — medieval travelers recorded the practice — and it continues today with an intensity that makes Rachel's Tomb one of the most emotionally charged pilgrimage sites in Israel.
 
+<img src="/.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=800" alt="Children" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Children*
+
+
 The custom of wrapping a red thread around the tomb seven times and then wearing it as a bracelet became widely popular in the late twentieth century, partly through the influence of Kabbalistic communities. The thread is understood to carry Rachel's protective blessing, particularly for expectant mothers. While some rabbinic authorities dismiss the practice as superstition, its popularity has only grown, and the red thread has become one of the most recognizable symbols of popular Jewish devotion.
 
 
@@ -57,6 +62,11 @@ Rachel's position in Jewish theology extends beyond her role as matriarch. In Ka
 The current compound is a heavily fortified structure surrounded by concrete walls and military watchtowers. The original Ottoman-era domed building remains at the center, its stone walls and simple dome now enclosed within layers of modern construction. Visitors enter through a secured checkpoint and proceed along a covered passage to the prayer hall, which is divided into men's and women's sections according to Orthodox practice.
 
 The cenotaph — the stone structure understood to mark Rachel's burial place — occupies the center of the prayer hall, draped in velvet coverings embroidered with biblical verses. Worshippers press against it, lay their hands on it, and recite psalms, Kabbalistic prayers, and personal supplications. The intensity of devotion at the cenotaph is palpable; the coverings are frequently wet with tears.
+
+<img src="/.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=800" alt="Prayer" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Prayer*
+
 
 Adjacent rooms house shelves of prayer books, psalters, and collections of personal petitions (kvitlach) left by pilgrims. A small study hall allows visitors to engage in Torah learning at the site, connecting the devotional practice of pilgrimage with the intellectual practice of study that Judaism regards as its own form of worship.
 

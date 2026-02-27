@@ -35,6 +35,11 @@ In 804, Kūkai received imperial permission to travel to Tang dynasty China as p
 
 Kūkai returned to Japan in 806 carrying texts, ritual implements, mandalas, and a comprehensive knowledge of esoteric Buddhist theory and practice that was without precedent in Japan. Over the following decades, he established Shingon ("True Word") Buddhism as a distinct school, founded the monastic complex on Mount Kōya that remains Shingon's headquarters today, served as abbot of the important Tō-ji temple in Kyoto, and produced a body of philosophical, poetic, and calligraphic work that earned him recognition as one of the supreme cultural figures of Japanese civilization.
 
+<img src="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=800" alt="Japanese Garden" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Japanese Garden*
+
+
 According to Shingon tradition, Kūkai did not die in the ordinary sense. In 835, at the age of sixty-one, he entered a state of eternal meditation (nyūjō) in a cave on Mount Kōya. His followers believe that he remains alive in this meditative state, awaiting the coming of the future Buddha Maitreya. This belief is not merely a historical curiosity — it is the living theological foundation of the Shikoku Pilgrimage. When pilgrims wear the white jacket inscribed dōgyō ninin ("two traveling together"), they express the conviction that Kūkai walks with them in the present tense, not as a memory but as a continuing spiritual companion.
 
 </Fragment>
@@ -46,6 +51,11 @@ Kūkai's significance extends far beyond the religious sphere. He is credited wi
 Esoteric Buddhism (mikkyō), the tradition Kūkai brought to Japan, differs significantly from the Zen and Pure Land forms more familiar in the West. It emphasizes ritual practice — the use of mantras (sacred syllables), mudras (hand gestures), and mandalas (symbolic diagrams) — as methods for directly experiencing the enlightened nature of reality. The body plays a central role: esoteric practice engages physical gesture, speech, and mental visualization simultaneously, creating a form of meditation that is active rather than passive. This emphasis on embodied practice connects naturally to pilgrimage, which similarly engages the body as an instrument of spiritual transformation.
 
 The relationship between Kūkai and Shikoku is both historical and mythological. Historical evidence confirms that he was born there, practiced asceticism at locations around the island, and maintained connections to Shikoku throughout his life. The mythological dimension, however, goes further: the Shikoku Pilgrimage tradition holds that Kūkai personally established or visited each of the eighty-eight temples, a claim that exceeds what historical documentation can support. The gap between historical Kūkai and legendary Kōbō Daishi is itself significant — it reveals the process by which a historical figure becomes a sacred presence, his biography expanding to fill the spiritual that his followers need him to inhabit.
+
+<img src="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=800" alt="Zen" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Zen*
+
 
 The title Kōbō Daishi ("Great Teacher who Spreads the Dharma") was conferred posthumously by the imperial court in 921, nearly a century after Kūkai's passing into eternal meditation. The posthumous title reflects the extraordinary esteem in which Kūkai was held, and its use in the pilgrimage context — pilgrims invoke Kōbō Daishi rather than Kūkai — emphasizes the continuing spiritual reality of the master rather than the historical circumstances of the man. The distinction between the living monk Kūkai and the eternal presence Kōbō Daishi is fundamental to understanding how the Shikoku Pilgrimage functions as a spiritual practice rather than merely a cultural heritage walk.
 

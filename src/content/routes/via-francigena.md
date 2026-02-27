@@ -57,6 +57,11 @@ The French section, comprising roughly a third of the total distance, passes thr
 </figure>
 
 
+<img src="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800" alt="Path" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Path*
+
+
 The crossing of the Alps via the Great St. Bernard Pass, at 2,469 meters, represents the route's physical and psychological climax. The pass is typically accessible from June through October, and medieval pilgrims who arrived outside this window faced the choice of waiting or attempting the crossing in potentially lethal conditions. The hospice at the summit, with its famous rescue dogs, became legendary for the assistance it provided to travelers in distress. The descent into the Aosta Valley brings the pilgrim into Italy, where the shifts to Mediterranean vegetation and the cultural atmosphere becomes recognizably Italian.
 
 The Italian section follows the ancient Via Cassia for much of its length, passing through Tuscany's hill towns — Lucca, San Gimignano, Siena — before descending into the rolling s of Lazio. This final stretch, rich in both natural beauty and historical association, builds anticipation for the approach to Rome. Medieval pilgrims would have caught their first glimpse of St. Peter's dome (or its predecessor) from the hills north of the city, a moment that marked the culmination of months of walking.

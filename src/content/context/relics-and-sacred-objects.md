@@ -37,6 +37,11 @@ The medieval relic trade generated both economic activity and theological contro
 
 The Buddhist relic tradition originates with the distribution of the Buddha's cremation remains among eight claimant groups, as described in the Mahaparinibbana Sutta. These relics were enshrined in stupas — dome-shaped monuments that became the architectural foundation of Buddhist sacred space. Emperor Ashoka is said to have redistributed the original relics across 84,000 stupas throughout his empire, democratizing access to the Buddha's physical remains and establishing a pattern of stupa veneration that spread with Buddhism across Asia.
 
+<img src="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=800" alt="Face" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Face*
+
+
 The most celebrated Buddhist relic is the tooth of the Buddha, enshrined in the Temple of the Sacred Tooth Relic in Kandy, Sri Lanka. The tooth has been a source of political legitimacy as well as religious devotion — possession of the relic was historically considered essential to the sovereignty of Sinhalese kings, and the annual Esala Perahera festival, featuring a procession of the relic through the streets of Kandy, remains one of the most spectacular religious events in South Asia.
 
 Buddhist relic veneration extends beyond the Buddha's remains to include relics of other enlightened beings and objects associated with the Buddha's life. Bodhi tree cuttings — descendants of the tree under which the Buddha attained enlightenment — have been transported across the Buddhist world, and temples housing such cuttings become pilgrimage destinations in their own right. The footprint of the Buddha, preserved at sites from Sri Lanka to Thailand to China, provides another category of relic that generates pilgrimage.
@@ -44,6 +49,11 @@ Buddhist relic veneration extends beyond the Buddha's remains to include relics 
 ## Islamic Sacred Objects
 
 Islam's relationship to sacred objects is more complex and contested than that of Christianity or Buddhism. The tradition's strong emphasis on tawhid (the oneness of God) and its prohibition of shirk (associating anything with God) creates a theological framework that is, in principle, hostile to the veneration of physical objects. Yet in practice, several objects and sites within Islam function in ways that parallel relic veneration in other traditions.
+
+<img src="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=800" alt="Museum" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Museum*
+
 
 The Black Stone (al-Hajar al-Aswad), set into the eastern corner of the Kaaba, is the most prominent sacred object in Islam. Tradition holds that the stone was given to Ibrahim by the angel Gabriel, and that it was originally white but has been blackened by absorbing the sins of those who touch it. Pilgrims performing Tawaf attempt to kiss or touch the Black Stone, following the example of the Prophet Muhammad, who reportedly said: "I know that you are a stone and can neither benefit nor harm. Had I not seen the Prophet kiss you, I would not kiss you."
 

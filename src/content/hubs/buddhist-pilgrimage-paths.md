@@ -42,6 +42,11 @@ Kushinagar, in eastern Uttar Pradesh, is the site of the Buddha's parinirvana—
 
 As Buddhism spread across Asia, new pilgrimage traditions developed that adapted the practice to local geographies and cultural contexts. These circuits often involve visiting multiple sites in sequence, creating journeys that combine physical challenge with spiritual discipline.
 
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=800" alt="Umbrella" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Umbrella*
+
+
 Japan developed several major pilgrimage circuits. The [Shikoku Henro](/routes/shikoku-88-temples), a circuit of eighty-eight temples associated with the monk [Kukai (Kobo Daishi)](/stories/kobo-daishi-shikoku) on the island of Shikoku, represents one of the world's great pilgrimage walks. Covering approximately 1,200 kilometers, the circuit typically requires thirty to sixty days on foot, though modern pilgrims also travel by bus or car. The pilgrim, known as a henro, wears white clothing symbolizing readiness for death and carries a walking staff understood as a representation of Kukai himself. The phrase "two pilgrims walking together" (dogyou ninin) expresses the belief that Kukai accompanies every pilgrim.
 
 The [Kumano Kodo](/routes/kumano-kodo), a network of pilgrimage routes on the Kii Peninsula, connects three grand shrines (Kumano Sanzan) that blend Shinto and Buddhist traditions. These routes, some dating to the tenth century, traverse mountainous terrain through ancient forests. The Kumano pilgrimage was undertaken by emperors and commoners alike, and medieval accounts describe streams of pilgrims so continuous they resembled "columns of ants." UNESCO recognized the Kumano Kodo as a World Heritage Site in 2004, alongside the Camino de Santiago—the only two pilgrimage routes to hold this designation.
@@ -50,6 +55,11 @@ In China, four sacred mountains—Wutai Shan, Putuo Shan, Emei Shan, and Jiuhua 
 ## Circumambulation and Merit
 
 Circumambulation—walking around a sacred object or site—constitutes one of the most characteristic Buddhist pilgrimage practices. The kora, as it is known in Tibetan, involves walking clockwise around a mountain, stupa, or temple while reciting mantras and prayers. The practice reflects the belief that physical movement around a sacred center generates merit and deepens spiritual understanding.
+
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=800" alt="Buddha" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Buddha*
+
 
 [Mount Kailash](/routes/kora-mount-kailash) in western Tibet represents the most revered circumambulation destination. Sacred to Buddhists, Hindus, Jains, and practitioners of the Bon religion, Kailash has never been climbed—an unspoken agreement among traditions that the mountain's sanctity precludes ascent. The fifty-two-kilometer circuit around its base, performed at altitudes exceeding 4,500 meters, takes most pilgrims two to three days. Some Tibetan Buddhists perform the kora by full-body prostrations, lying face-down on the ground with each step, a practice that extends the circuit to several weeks.
 
@@ -61,6 +71,11 @@ The practice of circumambulation connects Buddhist pilgrimage to broader pattern
 
 The veneration of relics occupies a central place in Buddhist pilgrimage. Following the Buddha's cremation, his remains were divided among eight claimants, and stupas were constructed to house them. This initial distribution of relics established a pattern that would multiply sacred sites across the Buddhist world as relics were further divided, transported, and enshrined.
 
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=800" alt="Prayer Flag" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Prayer Flag*
+
+
 The most famous relic is the Tooth Relic of the Buddha, housed in the Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) in Kandy, Sri Lanka. The annual Esala Perahera festival, one of Asia's most elaborate religious processions, celebrates the Tooth Relic with parades of elephants, dancers, and musicians over ten nights. The relic has historically served as a symbol of political legitimacy, with rulers seeking to possess or protect it as confirmation of their right to govern.
 
 In Thailand, Myanmar, and other Theravada countries, important relics housed in major stupas anchor pilgrimage networks. The Shwedagon Pagoda in Yangon, which tradition holds contains relics of all four Buddhas of the current age, is perhaps the most visually spectacular Buddhist pilgrimage site: a gilded stupa rising ninety-eight meters above its platform, surrounded by smaller shrines and visited by thousands daily.
@@ -68,6 +83,11 @@ In Thailand, Myanmar, and other Theravada countries, important relics housed in 
 ## Modern Buddhist Pilgrimage
 
 Contemporary Buddhist pilgrimage combines traditional devotion with modern tourism and cultural exchange. The Indian government and international Buddhist organizations have invested in developing the Four Great Sites as modern pilgrimage destinations, improving transportation, accommodation, and interpretation. The Buddhist Circuit, connecting Lumbini, Bodh Gaya, Sarnath, and Kushinagar, has been promoted as a travel route, though infrastructure gaps persist.
+
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=800" alt="Stupa" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Stupa*
+
 
 Japanese pilgrimage traditions have experienced revival alongside growing interest from international walkers. The Shikoku Henro, once primarily undertaken by Japanese Buddhists, now attracts pilgrims from around the world, drawn by the combination of spiritual practice and physical challenge. English-language guidebooks, waymarking improvements, and accommodations welcoming foreign visitors have facilitated this internationalization.
 

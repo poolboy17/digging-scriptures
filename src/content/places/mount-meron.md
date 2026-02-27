@@ -52,6 +52,11 @@ Beyond Lag BaOmer, Meron attracts visitors throughout the year. The tomb compoun
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Jerusalem*
+
+
 The tomb compound consists of a stone building over the graves attributed to Rabbi Shimon bar Yochai and his son Rabbi Elazar. The interior is divided into men's and women's prayer sections, with the cenotaphs accessible to worshippers through a partition. The walls are lined with bookshelves holding prayer books, Zohar volumes, and collections of psalms. Candles burn continuously, and the air carries the scent of wax and incense.
 
 The roof of the tomb building serves as the platform for the Lag BaOmer bonfires. Following the 2021 reforms, the surrounding infrastructure has been significantly upgraded, with widened pathways, improved crowd-flow systems, and new lighting and safety installations. The approaches to the tomb, once narrow hillside paths that funneled hundreds of thousands of people through tight spaces, have been engineered to prevent the density conditions that led to the tragedy.

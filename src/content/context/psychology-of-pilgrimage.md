@@ -39,11 +39,21 @@ Turner's related concept of communitas — the intense, spontaneous fellowship t
 
 Pilgrimage provides something that ordinary travel rarely offers: a narrative structure. The pilgrim is not merely a tourist visiting interesting places but a character in a story with a beginning (departure), a middle (the road), and an end (arrival at the sacred site). This narrative arc aligns with the structure that psychologists have identified as central to human meaning-making. Jerome Bruner argued that humans understand their experience primarily through narrative — we make sense of what happens to us by fitting it into stories. Pilgrimage provides a ready-made story that the pilgrim inhabits bodily.
 
+<img src="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=800" alt="Man" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Man*
+
+
 The narrative dimension explains why pilgrimage often produces retrospective transformation — meaning that becomes visible only after the journey is complete. While walking, many pilgrims report boredom, pain, doubt, and frustration. The experience is not reliably ecstatic. But in the retelling, the difficult days become part of a coherent story of challenge and growth. The blisters become evidence of commitment. The day of terrible rain becomes the day something broke open. The narrative reshapes the raw experience into something meaningful, and this reshaping is itself part of pilgrimage's psychological work.
 
 ## The Return
 
 The most neglected phase of pilgrimage is the return. Van Gennep's model of rites of passage — separation, liminality, reincorporation — gives equal weight to the final stage, but pilgrimage scholarship has tended to focus on the journey and the destination. Yet pilgrims consistently describe the return home as disorienting and difficult. The world they left has not changed, but they have, and the gap between their transformed interior and their unchanged exterior life can produce a sense of dislocation.
+
+<img src="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=800" alt="Mountains" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Mountains*
+
 
 This difficulty may itself be part of the process. The psychologist Robert Kegan's model of transformative learning suggests that genuine psychological development occurs not in moments of comfort but in moments of productive disequilibrium — when existing frameworks for understanding the world prove inadequate and must be reconstructed. The returned pilgrim, unable to slip seamlessly back into old patterns, is in precisely this condition. The integration of the pilgrimage experience into everyday life may take months or years, and for some people the process never fully completes — they set out again.
 

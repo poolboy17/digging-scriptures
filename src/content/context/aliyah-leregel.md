@@ -36,11 +36,21 @@ Sukkot was the longest and most elaborate of the three festivals, lasting seven 
 
 The three annual pilgrimages were the engine of Jerusalem's economy. The city produced little — it had no port, no major trade routes, and limited agricultural land. What it had was the Temple, and the Temple drew pilgrims who needed food, lodging, animals for sacrifice, currency exchange, and ritual objects. The commercial infrastructure that supported the pilgrimage was substantial: markets for sacrificial animals operated on the Mount of Olives and within the Temple precincts, money changers converted foreign currencies into the Tyrian shekels required for the Temple tax, and workshops produced the lamps, incense, and offerings that pilgrims purchased.
 
+<img src="/.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=800" alt="Aerial" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Aerial*
+
+
 The half-shekel Temple tax, collected annually from every adult Jewish male, provided the financial foundation for the Temple's operations, including the daily sacrifices, maintenance of the building, and support of the priestly and Levitical families. The tax was collected in the diaspora as well as in the land of Israel, and its remittance to Jerusalem created a financial network that connected Jewish communities across the Mediterranean and Near East.
 
 ## After the Destruction
 
 The destruction of the Second Temple by Rome in 70 CE ended the pilgrimage system. There was no longer a Temple to ascend to, no altar on which to offer sacrifice, no priesthood to receive the pilgrim's gifts. The loss was total and immediate, and its consequences shaped the development of Judaism for the next two millennia.
+
+<img src="/.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=800" alt="Field" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Field*
+
 
 Rabbinic Judaism, which emerged from the ruins, preserved the pilgrimage festivals in transformed form. The Passover Seder replaced the paschal sacrifice with a structured meal of symbols and narratives. The synagogue service incorporated the festival liturgy that had been performed in the Temple. And the language of pilgrimage — aliyah, ascent, appearing before God — was retained in prayer, encoding the memory of what had been and the hope for what might be restored.
 

@@ -52,6 +52,11 @@ The political context of modern Hebron—a Palestinian city of over 200,000 with
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/hebron-cave-patriarchs-2-f721e3.jpg&w=800" alt="Sultan Qaboos Grand Mosque" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Sultan Qaboos Grand Mosque*
+
+
 The Herodian enclosure measures approximately sixty by thirty-five meters, with walls constructed of dressed limestone blocks—some over seven meters long—fitted without mortar in the same technique used at the Temple Mount in Jerusalem. The quality of the stonework and the scale of the construction reflect Herod's characteristic ambition and suggest the importance he attached to the patriarchal site.
 
 The interior contains six cenotaphs arranged in pairs, traditionally identified with Abraham and Sarah (in the central hall), Isaac and Rebecca (in the southern chamber), and Jacob and Leah (in the northern chamber, visible through a narrow window). The actual cave system lies beneath the building and is not accessible to visitors. Limited archaeological investigations in 1967 and 1981 revealed a narrow passage leading to a chamber containing human remains, pottery, and artifacts dating to various periods, but comprehensive excavation has never been permitted due to the site's religious sensitivity.

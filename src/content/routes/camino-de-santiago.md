@@ -90,6 +90,11 @@ The daily rhythm of walking structures the Camino experience regardless of route
 
 The experience of walking the Camino has changed considerably across centuries while retaining recognizable continuities. Medieval pilgrims faced hardships largely unknown to contemporary walkers: roads that were often little more than muddy tracks; bandits who preyed on vulnerable travelers; diseases that could claim lives far from home; the simple uncertainty of whether one would return. The pilgrim leaving home had reason to settle affairs and say farewells that might prove final.
 
+<img src="/.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=800" alt="Backpack" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Backpack*
+
+
 Yet pilgrimage also offered experiences unavailable in ordinary life. The pilgrim encountered new s, languages, and customs. The social hierarchies of home loosened on the road, where nobles and peasants might share the same hospice. The playful and carnivalesque elements of pilgrimage, captured in works like Chaucer's Canterbury Tales, coexisted with its penitential dimensions. Medieval pilgrims were not uniformly pious; they were human beings responding to a complex mix of religious obligation, social expectation, adventure, and the simple desire to be somewhere other than home.
 
 Certain practices have marked the Camino across its history. The credential, the document carried by pilgrims and stamped at stages along the way, serves today the same authenticating function it served in medieval centuries, proving that the bearer has actually walked the route. The scallop shell, symbol of Saint James for reasons never conclusively explained, has marked pilgrims since the middle ages. Contemporary walkers attach shells to their packs just as their predecessors attached them to clothing and staffs.

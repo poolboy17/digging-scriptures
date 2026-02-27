@@ -42,6 +42,11 @@ The site's history is inseparable from political conflict. The Crusaders capture
 
 For Muslims, the Haram al-Sharif occupies a theological position second only to the two holy mosques of Mecca and Medina. The Prophet Muhammad initially directed his followers to pray facing Jerusalem (the first qibla) before the qibla was changed to Mecca. This historical primacy — Jerusalem as the original direction of prayer — reinforces the city's sanctity even though Mecca ultimately displaced it as the liturgical focal point.
 
+<img src="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=800" alt="Al-Aqsa Mosque" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Al-Aqsa Mosque*
+
+
 The concept of "the three mosques" (al-masajid al-thalatha) derives from a hadith in which the Prophet states that journeys should be undertaken only to three mosques: al-Masjid al-Haram in Mecca, al-Masjid an-Nabawi in Medina, and al-Masjid al-Aqsa in Jerusalem. This saying establishes the theological framework for Islamic pilgrimage beyond the Hajj: visiting these three sites constitutes the highest form of ziyarat (voluntary religious visit).
 
 Prayer at Al-Aqsa carries special weight. A hadith attributes to the Prophet the statement that prayer at Al-Aqsa Mosque is worth 250 times more than prayer at an ordinary mosque (some versions say 500 times). While not obligatory in the way the Hajj is, visiting Al-Aqsa is strongly encouraged, and Muslims who are able to do so consider it a significant spiritual achievement.
@@ -55,6 +60,11 @@ The political dimension of Al-Aqsa's sanctity is inescapable. The site sits at t
 <Fragment slot="features">
 
 Al-Aqsa Mosque, at the southern end of the Haram al-Sharif, is a congregational mosque capable of holding several thousand worshippers. Its silver-grey lead dome, wide nave, and seven-aisle interior reflect multiple periods of construction and reconstruction. The mihrab (prayer niche indicating the direction of Mecca) and the minbar (pulpit) are attributed to Saladin's restoration following the Crusader period. Below the main prayer hall, the Marwani Musalla (sometimes called Solomon's Stables) provides additional prayer space in a vaulted subterranean hall.
+
+<img src="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Jerusalem*
+
 
 The Dome of the Rock, built over the sacred rock from which Muhammad ascended, is an octagonal structure clad in tiles of predominantly blue and turquoise, crowned by a gold-plated dome. The interior mosaics, among the earliest surviving examples of Islamic decorative art, feature intricate vegetal scrollwork and inscriptions from the Quran. The rock itself — a large, uneven limestone outcropping — is visible within the building's interior, protected by a railing.
 

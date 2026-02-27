@@ -36,6 +36,11 @@ Shia ziyarat is structured and liturgical. Visitors recite specific prayers (ziy
 
 Across the Sunni world, the shrines of Sufi saints (awliya, "friends of God") have served for centuries as centers of devotion, healing, and community. The shrine of Moinuddin Chishti in Ajmer, India, draws millions of visitors from multiple faiths — Hindus and Sikhs as well as Muslims — who seek the saint's baraka. The shrine of Moulay Idriss in Morocco, the mausoleum of Rumi in Konya, Turkey, and the tomb of Data Ganj Bakhsh in Lahore, Pakistan, are similarly major pilgrimage destinations with their own annual festivals (urs, celebrating the saint's death anniversary as a spiritual "wedding" with God).
 
+<img src="/.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=800" alt="Stained Glass" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Stained Glass*
+
+
 The practices at these shrines vary widely. Visitors may tie threads or cloths to the shrine's grille, requesting the saint's intercession for specific needs. They may place rose petals on the grave, circumambulate the tomb, recite Quranic verses, or commission qawwali (devotional music) performances. In many South Asian shrines, the atmosphere mixes deep reverence with festivity — food distribution, music, and the gathering of community are understood not as distractions from devotion but as expressions of it.
 
 These practices have come under increasing pressure from reformist movements that regard shrine visitation as un-Islamic. In recent decades, Sufi shrines in Pakistan, Libya, Mali, and Somalia have been attacked or destroyed by groups aligned with Salafi or Wahhabi theology. The destruction represents not only physical loss but the erasure of living devotional traditions — oral histories, musical lineages, and community networks that were sustained through the shrine and that cannot be easily rebuilt once disrupted.

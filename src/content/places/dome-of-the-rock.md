@@ -53,6 +53,11 @@ The building's golden dome—originally lead-covered, gilded in 1994 with eighty
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Jerusalem*
+
+
 The Dome of the Rock's octagonal plan, approximately twenty meters per side, supports a dome approximately twenty meters in diameter rising to a height of thirty-five meters above the platform. The design reflects late antique architectural traditions, drawing on Byzantine centrally planned buildings while creating something distinctly new. The double-ambulatory plan—two concentric walkways around the central rock—guides visitors in circumambulation, a practice that parallels the tawaf around the Kaaba.
 
 The exterior is clad in ceramic tiles installed during Suleiman the Magnificent's renovation, replacing the original glass mosaic. The tiles, predominantly blue, green, and white with geometric and floral patterns, create a surface that shifts in appearance with changing light. The upper register bears Quranic inscriptions in gold on a blue ground, including passages from Surah Ya Sin and Surah al-Isra that reference the night journey and the unity of God.

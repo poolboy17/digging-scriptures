@@ -53,6 +53,11 @@ Contemporary pilgrims often describe motivations that do not fit neatly into tra
 
 Pilgrimage destinations acquire their sacred status through various means, and understanding these processes illuminates how certain locations come to draw travelers across distances and centuries.
 
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=800" alt="Woman" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Woman*
+
+
 Historical association marks many pilgrimage sites. [Jerusalem](/places/jerusalem), sacred to three faiths, exemplifies how layers of meaning accumulate at a single location over millennia. Places where significant events are understood to have occurred—where founders taught, where miracles happened, where martyrs died, where revelations were received—attract those who wish to stand where history unfolded. Jerusalem draws Christian pilgrims because the gospels locate the central events of their faith there. Bodh Gaya draws Buddhist pilgrims because tradition identifies it as the site of the Buddha's enlightenment. The power of historical association persists even when precise locations are uncertain or debated; the accumulated tradition of veneration creates sacred geography regardless of archaeological verification.
 
 [Relics and sacred objects](/context/relics-and-sacred-objects) anchor many pilgrimage sites. The physical remains of holy persons, objects they used or touched, as at [Santiago de Compostela](/places/santiago-de-compostela), or items associated with sacred events have historically attracted pilgrims who understand proximity to these objects as spiritually significant. The translation of relics—their movement from one location to another—has created new pilgrimage destinations throughout history. Santiago de Compostela became a major pilgrimage center following the reported discovery of the remains of Saint James; the presence of his relics transformed a remote corner of Iberia into one of medieval Christendom's most visited sites.
@@ -68,6 +73,11 @@ The relationship between pilgrims and places operates in both directions. Pilgri
 ## Pilgrimage as Journey: Routes, Travel, and Movement
 
 While destinations anchor pilgrimage, the journey itself has been understood across traditions as spiritually significant. The process of traveling—the physical movement through space over time—constitutes pilgrimage as much as arrival at the sacred site.
+
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=800" alt="Steps" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Steps*
+
 
 Routes develop as pilgrims find and follow paths to their destinations. Some routes follow ancient roads built for other purposes; the Roman road network, for instance, served medieval Christian pilgrims long after the empire that constructed it had fallen. Other routes emerge organically as pilgrims trace the most practical paths through s, their cumulative passage eventually creating recognized ways. Still others are prescribed by tradition, their specific courses carrying religious significance.
 
@@ -85,6 +95,11 @@ Community forms along pilgrimage routes. Strangers walking the same path, stayin
 
 Pilgrimage connects individuals to communities extending across space and time. The solitary pilgrim walks in the company of all who have made the same journey before, and the act of pilgrimage reinforces bonds with those who share the practice.
 
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=800" alt="Buddhist" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Buddhist*
+
+
 Transmission across generations ensures pilgrimage traditions persist. Parents teach children the significance of sacred sites; communities maintain the practices, stories, and songs associated with pilgrimage; religious authorities preserve and interpret the meanings of traditional journeys. This transmission is never merely repetition—each generation receives and adapts what it inherits—but it creates continuity that links contemporary pilgrims to distant predecessors.
 
 Collective memory lodges in pilgrimage traditions. The stories told about routes and destinations, the miracles reported, the famous pilgrims commemorated, and the historical events associated with sacred sites constitute a shared heritage that pilgrims access through participation. Walking where others have walked, performing rituals that others have performed, and venerating what others have venerated creates connection to this accumulated memory.
@@ -98,6 +113,11 @@ Conflict and contestation also mark pilgrimage traditions. Different communities
 ## Pilgrimage in the Modern World
 
 Modernity has transformed pilgrimage without eliminating it. The intersection of [pilgrimage and tourism](/context/pilgrimage-tourism-modern-era) raises questions about authenticity, commercialization, and meaning that every contemporary sacred journey must navigate. Technologies of transportation and communication, processes of secularization and religious revival, and changing patterns of leisure and tourism have all shaped contemporary pilgrimage practice.
+
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=800" alt="Mundan Ceremony" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Mundan Ceremony*
+
 
 Transportation technology collapsed the distances that historically structured pilgrimage. Journeys that once required months can now be accomplished in hours. This compression has democratized access to distant sites while altering the experience of reaching them. The question of whether flying to a destination constitutes authentic pilgrimage—whether the journey matters if physical hardship is eliminated—generates ongoing discussion among practitioners and scholars.
 
@@ -114,6 +134,11 @@ Environmental and ethical questions increasingly attend pilgrimage practice. The
 ## How This Site Approaches Faith-Based Journeys
 
 This site presents faith-based journeys as a subject of study and exploration, not as a practice to be promoted or discouraged. The goal is to describe pilgrimage as it has been and continues to be practiced, providing information useful to those seeking to understand these traditions or considering participating in them.
+
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=800" alt="Temple" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Temple*
+
 
 The approach is descriptive and historical. Content explains what pilgrims have done and why, drawing on historical sources, scholarly research, and contemporary accounts. The site does not advocate for any religious position or claim that pilgrimage delivers the benefits attributed to it by various traditions. Readers will find descriptions of what believers understand and practice, presented without editorial endorsement or criticism.
 

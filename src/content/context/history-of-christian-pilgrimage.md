@@ -37,6 +37,11 @@ Not all church fathers endorsed the practice. Gregory of Nyssa wrote skeptically
 
 The medieval period transformed pilgrimage from an elite devotional practice into a mass phenomenon touching every level of European society. Three destinations dominated: Jerusalem, Rome, and [Santiago de Compostela](/places/santiago-de-compostela). Each offered distinct spiritual rewards and presented different practical challenges, creating a hierarchy of pilgrimage that structured medieval devotional geography.
 
+<img src="/.netlify/images?url=/images/content/inline/history-of-christian-pilgrimage-2-27100e.jpg&w=800" alt="Abbey" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Abbey*
+
+
 Jerusalem remained the supreme goal, but the distances involved, the expense of travel, and the political instability of the region meant that most European Christians could never hope to reach it. The Crusades, launched in 1095 by Pope Urban II, represent the most dramatic intersection of pilgrimage and military enterprise in Christian history. The armed pilgrimage, as the Crusaders understood their expeditions, sought to secure Christian access to holy sites while promising spiritual benefits comparable to those of peaceful pilgrimage.
 
 Rome drew pilgrims to the tombs of Peter and Paul and to the accumulated relics of early Christian martyrs. The practice of visiting the city's seven principal basilicas—later formalized as the "Seven Churches" pilgrimage—created a structured devotional circuit. Jubilee Years, inaugurated by Pope Boniface VIII in 1300, drew extraordinary crowds with the promise of plenary indulgences, establishing a pattern of periodic mass pilgrimage that continues with modified theology today.
@@ -49,6 +54,11 @@ Local and regional pilgrimages supplemented these great destinations. Canterbury
 
 The Protestant reformers of the sixteenth century mounted the most sustained theological assault on pilgrimage since Gregory of Nyssa. Martin Luther initially attacked abuses—the commerce in indulgences, the proliferation of dubious relics, the exploitation of popular credulity—before rejecting the practice more fundamentally. If justification came through faith alone, no physical journey could contribute to salvation. John Calvin went further, dismissing relics as fraudulent and pilgrimage as superstitious attachment to material objects that distracted from true worship of God.
 
+<img src="/.netlify/images?url=/images/content/inline/history-of-christian-pilgrimage-3-df7fc0.jpg&w=800" alt="Ephesus" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Ephesus*
+
+
 The iconoclasm that accompanied the Reformation physically destroyed the shrines and relics that had drawn pilgrims for centuries. Thomas Cromwell's dissolution of English monasteries under Henry VIII eliminated Canterbury and Walsingham as pilgrimage destinations. Reformed territories across northern Europe saw similar destruction, severing pilgrim traditions that had persisted for generations.
 
 The Catholic response, shaped by the Council of Trent (1545-1563), defended the veneration of saints and relics while acknowledging the need for reform. False relics were to be identified and removed; proper episcopal oversight was to be established; the theology of pilgrimage was to be clarified. In practice, Catholic pilgrimage continued and adapted. New sites of Marian devotion—most notably Guadalupe in Mexico, following the reported apparitions of 1531—expanded the geography of pilgrimage beyond Europe entirely.
@@ -58,6 +68,11 @@ The Spiritual Exercises of Ignatius of Loyola offered an internalized form of pi
 ## Modern Revival and Contemporary Practice
 
 The nineteenth century brought renewed energy to Catholic pilgrimage. Lourdes, following the reported apparitions to Bernadette Soubirous in 1858, became the most visited pilgrimage site in Europe within decades. The emphasis on miraculous healing at Lourdes continued themes present in pilgrimage since antiquity while adapting them to an era of increasing scientific skepticism—the medical bureau established at Lourdes to investigate claimed cures represents a distinctive attempt to reconcile faith and empirical inquiry.
+
+<img src="/.netlify/images?url=/images/content/inline/history-of-christian-pilgrimage-4-2a3298.jpg&w=800" alt="Monk" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Monk*
+
 
 Fatima in Portugal (apparitions reported in 1917), Knock in Ireland (1879), and other Marian sites developed their own pilgrim populations. These modern shrines share certain characteristics: they typically originate in reported visions by individuals of modest social standing; they develop rapidly once ecclesiastical approval is granted; and they attract pilgrims seeking healing, consolation, and direct encounter with the sacred.
 

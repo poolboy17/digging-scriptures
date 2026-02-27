@@ -32,6 +32,11 @@ The Maya Devi Temple at the center of the modern Lumbini complex preserves the M
 
 Bodh Gaya, in the Indian state of Bihar, marks the site where Siddhartha Gautama attained enlightenment (bodhi) beneath a pipal tree, becoming the Buddha — the "Awakened One." The event, traditionally dated to the full moon of the month of Vesakha (April–May), represents the central moment in Buddhist history: the point at which a human being achieved complete understanding of the nature of suffering, its causes, and the path to its cessation. The Mahabodhi Temple, a UNESCO World Heritage Site, stands at the spot where this transformation occurred.
 
+<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=800" alt="Temple" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Temple*
+
+
 The Bodhi Tree at Bodh Gaya — a descendant of the original tree, which has been replanted multiple times following natural death and deliberate destruction — serves as the site's most potent symbol. Pilgrims sit beneath it in meditation, attempting to connect with the experience of the Buddha's awakening through proximity to its location. The Vajrasana (Diamond Throne), a stone platform beneath the tree said to mark the exact seat of the Buddha's meditation, is regarded as the most sacred spot in the Buddhist world.
 
 Bodh Gaya has become an international Buddhist center, with monasteries and temples built by Buddhist communities from Thailand, Myanmar, Sri Lanka, Japan, China, Tibet, Bhutan, and other countries. Each national temple reflects its own architectural and devotional traditions, creating a remarkable assemblage of Buddhist cultural diversity concentrated in a single small town. During Vesakha celebrations and during the winter months when Tibetan Buddhist communities gather for teachings, Bodh Gaya becomes a microcosm of the entire Buddhist world.
@@ -40,6 +45,11 @@ Bodh Gaya has become an international Buddhist center, with monasteries and temp
 
 Sarnath, located approximately ten kilometers northeast of Varanasi in northern India, marks the site where the Buddha delivered his first discourse after attaining enlightenment. This sermon, known as the Dhammacakkappavattana Sutta ("Setting in Motion the Wheel of the Dharma"), was addressed to five former ascetic companions and articulated the Four Noble Truths and the Eightfold Path — the foundational teachings of Buddhism. The event is described as "setting in motion the wheel of the Dharma" because it initiated the transmission of the Buddha's understanding to others, creating the possibility of a community of practitioners.
 
+<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=800" alt="Ancient" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Ancient*
+
+
 The Dhamek Stupa at Sarnath, a solid cylindrical structure approximately 43 meters high and dating in its present form to the fifth century CE, marks the traditional site of the First Sermon. Archaeological excavations have revealed that the stupa was built over earlier structures dating to the Mauryan period, indicating continuous veneration of the site from at least the third century BCE. The nearby Mulagandhakuti Vihara marks the site where the Buddha reportedly spent his first rainy season retreat.
 
 Emperor Ashoka's patronage left significant marks at Sarnath, including the Lion Capital — four lions seated back-to-back on an abacus decorated with a wheel (dharmachakra) — which has been adopted as the national emblem of modern India. The wheel from the capital appears on the Indian flag, creating a direct visual link between the Buddhist heritage of Sarnath and the identity of the contemporary Indian state.
@@ -47,6 +57,11 @@ Emperor Ashoka's patronage left significant marks at Sarnath, including the Lion
 ## Kushinagar: The Place of Final Passing
 
 Kushinagar, in the Gorakhpur district of Uttar Pradesh, is identified as the site of the Buddha's parinirvana — his death and entry into final nirvana at approximately eighty years of age. The event, traditionally dated to 483 BCE, occurred in a grove of sal trees where the Buddha, suffering from food poisoning, lay down between two trees and delivered his final instructions to his assembled followers. His last words, according to the Pali Canon, were: "All conditioned things are impermanent. Work out your salvation with diligence."
+
+<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=800" alt="Deer" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Deer*
+
 
 The Mahaparinirvana Temple at Kushinagar houses a reclining Buddha statue approximately six meters in length, depicting the Buddha in his final posture. The statue, dating to the fifth century CE, has been the object of continuous veneration for over fifteen hundred years. The Ramabhar Stupa, a short distance from the temple, marks the traditional site of the Buddha's cremation, and archaeological investigation has confirmed the presence of ancient structural remains beneath the current stupa.
 

@@ -36,17 +36,32 @@ Meshullam of Volterra, an Italian Jewish merchant, traveled to the Holy Land in 
 
 The sixteenth-century settlement of Kabbalists in Safed — Isaac Luria, Moses Cordovero, Joseph Caro, and their disciples — introduced a new dimension to Jewish pilgrimage in the Land of Israel. These mystics did not merely visit holy sites; they invested the landscape with Kabbalistic meaning, identifying tombs, springs, caves, and mountains as points of connection with the sefirot (divine attributes) and with the souls of the righteous who were buried there. Luria developed the practice of prostrating on the graves of sages and communing with their spirits, receiving mystical revelations through this contact.
 
+<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=800" alt="Church Window" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Church Window*
+
+
 The Safed Kabbalists also formalized the pilgrimage to Meron on Lag BaOmer and created liturgical practices — such as the midnight Tikkun Chatzot prayer, recited in mourning for the Temple and the Shekhinah in exile — that intensified the emotional texture of life in the Holy Land. Their influence spread throughout the diaspora through their writings, their students, and the prayer books they composed, which gradually became standard in Jewish communities worldwide. The Kabbalistic layer meant that when a Jew in Poland or Morocco prayed for the restoration of Jerusalem, the prayer carried not only the weight of biblical obligation but the accumulated mystical charge of centuries of longing.
 
 ## Aliyah as Pilgrimage
 
 The line between pilgrimage and immigration has always been blurred in Jewish tradition. The Hebrew word aliyah — ascent — describes both the biblical pilgrim's journey to the Temple and the modern immigrant's relocation to Israel. This linguistic continuity is not coincidental. Many of the early waves of Jewish immigration to Palestine, beginning in the 1880s, were motivated by religious impulses that drew directly on the pilgrimage tradition. The settlers of the First Aliyah (1882-1903), though often influenced by secular nationalism as well, used the language of return and redemption that had animated Jewish pilgrimage for centuries.
 
+<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=800" alt="Antique" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Antique*
+
+
 The ultra-Orthodox communities that established themselves in Jerusalem, Hebron, Safed, and Tiberias — the four "holy cities" of Jewish tradition — understood their presence explicitly as a fulfillment of the pilgrimage imperative. They lived in poverty, supported by charitable donations (halukka) from diaspora communities, and devoted themselves to prayer, study, and the maintenance of a Jewish presence at the holy sites. Their role was not to build a state but to hold the ground — to ensure that Jewish pilgrimage to Zion remained a living practice rather than a purely literary aspiration.
 
 ## The Seder Table and the Wall
 
 The most widespread expression of pilgrimage longing in diaspora Judaism requires no journey at all. At the conclusion of the Passover Seder, Jews in every corner of the world recite the phrase "L'shanah haba'ah b'Yerushalayim" — "Next year in Jerusalem." The declaration is simultaneously a prayer, a statement of faith, and an acknowledgment of incompleteness. It says: we are here, but we belong there. The pilgrimage is unfinished.
+
+<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=800" alt="Marseille" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Marseille*
+
 
 After the Six-Day War of 1967 and the capture of the Old City, Jewish access to the Western Wall was restored for the first time since 1948. The wall became the focus of a revived pilgrimage practice — not the Temple pilgrimage of antiquity, with its sacrifices and priestly liturgy, but a modern pilgrimage of prayer, memory, and national identity. The custom of placing written prayers in the wall's crevices, the mass gatherings on festivals, and the bar and bat mitzvah ceremonies conducted at the wall's plaza all represent contemporary expressions of the pilgrimage impulse that the destruction of the Temple interrupted but could not extinguish.
 

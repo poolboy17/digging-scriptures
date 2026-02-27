@@ -61,6 +61,11 @@ The city's scholarly tradition is equally ancient. Varanasi has functioned as a 
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800" alt="Ganges" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Ganges*
+
+
 Manikarnika Ghat, the primary cremation ghat, presents one of the most confronting sacred spectacles accessible to visitors anywhere in the world. The ghat rises steeply from the river, its steps blackened by centuries of fire. Funeral pyres burn at multiple points simultaneously, tended by male relatives of the deceased and by the Dom workers who manage the cremation process. The open display of death and its rituals embodies the Hindu philosophical teaching that death is not to be feared but understood as transformation—a visible theology enacted in public space.
 
 The Kashi Vishwanath Temple (Golden Temple), rebuilt in the eighteenth century and extensively renovated through the recent Kashi Vishwanath Corridor project (completed 2021), houses one of the twelve jyotirlingas—naturally occurring representations of Shiva considered the most sacred Shiva shrines in India. The temple's gold-plated spire, donated by the Sikh ruler Ranjit Singh in 1835, gives the temple its popular name. Access for non-Hindus has varied over time; the corridor project has reorganized the approach but maintained restrictions on inner sanctum access.

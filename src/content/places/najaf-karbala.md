@@ -57,6 +57,11 @@ Najaf is also the seat of the Hawza, the most important center of Shia religious
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=800" alt="Japanese Lantern" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Japanese Lantern*
+
+
 The Imam Ali Shrine in Najaf is one of the most architecturally distinguished buildings in the Islamic world. The current structure features a golden dome, twin gold-clad minarets, and an interior decorated with mirror work, tile mosaic, and inscriptions. The tomb itself is enclosed by a silver zarih (cage-like screen) that pilgrims touch, kiss, and press their foreheads against in devotion. The mosque complex surrounding the shrine includes prayer halls that accommodate thousands of worshippers simultaneously.
 
 The Imam Hussein Shrine in Karbala mirrors Najaf's architectural grandeur with its own golden dome and minarets. Adjacent to it is the Shrine of Abbas, Hussein's half-brother, who was killed attempting to bring water to the besieged camp. Abbas is revered as a symbol of loyalty and sacrifice, and his shrine draws nearly as many visitors as Hussein's. The two shrines are connected by a pedestrian street that forms the spiritual and commercial heart of Karbala.

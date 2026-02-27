@@ -37,17 +37,32 @@ These numbers are made possible by transportation technologies that the founders
 
 Pilgrimage has always had economic dimensions — medieval Christendom's network of hospices, relic displays, and souvenir shops demonstrates that the commercial infrastructure of sacred travel is not a modern invention. But the scale and sophistication of the contemporary pilgrimage economy represents something qualitatively different. Lourdes' commercial district generates tens of millions of euros annually from the sale of religious articles. The Hajj contributes significantly to Saudi Arabia's non-oil revenue. The Camino de Santiago has become a major economic driver for rural communities in northern Spain that would otherwise face severe depopulation.
 
+<img src="/.netlify/images?url=/images/content/inline/pilgrimage-tourism-modern-era-2-448548.jpg&w=800" alt="Temple" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Temple*
+
+
 The economic impact of pilgrimage on local communities is complex. Tourism revenues provide employment, sustain services, and incentivize the preservation of historical buildings and cultural traditions that might otherwise be lost. But the commercialization of sacred sites can also degrade the very qualities that make them attractive. The tension between preservation and development, between authenticity and accessibility, between serving pilgrims and serving tourists, plays out differently at each site but follows recognizable patterns worldwide.
 
 ## Heritage Management and UNESCO
 
 The inscription of pilgrimage routes and sacred sites as UNESCO World Heritage Sites has introduced a new institutional framework into the management of sacred spaces. The Camino de Santiago (inscribed 1993), the Kumano Kodō and Mount Kōya (2004), and numerous individual pilgrimage destinations carry the UNESCO designation, which brings international recognition, preservation obligations, and — inevitably — increased visitor numbers. The tension between heritage management and religious function creates governance challenges, as secular preservation bodies and religious authorities negotiate competing visions of what a site is for and how it should be maintained.
 
+<img src="/.netlify/images?url=/images/content/inline/pilgrimage-tourism-modern-era-3-db8e31.jpg&w=800" alt="Backpacker" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Backpacker*
+
+
 The concept of "outstanding universal value," which underpins UNESCO inscription, sits in an uneasy relationship with the particular religious claims that give pilgrimage sites their significance. A site that is inscribed for its architectural or historical value may be experienced by pilgrims primarily as a living place of worship. The priorities of heritage conservation — maintaining physical fabric, managing visitor flows, restricting commercial development — do not always align with the priorities of religious practice, which may value the ongoing use of buildings over their preservation in a particular historical state.
 
 ## Digital Pilgrimage and Virtual Access
 
 The COVID-19 pandemic accelerated a trend that had been developing for years: the use of digital technology to provide virtual access to pilgrimage sites. Live-streamed liturgies from the Vatican, virtual tours of the Hajj sites, and online circumambulations of Buddhist stupas offered substitute experiences for those unable to travel. The theological status of these virtual practices remains debated — can a digital experience fulfill a pilgrim's intentions? Does watching a live-stream of the Easter liturgy at the Holy Sepulchre provide any of the spiritual benefits attributed to physical presence?
+
+<img src="/.netlify/images?url=/images/content/inline/pilgrimage-tourism-modern-era-4-522790.jpg&w=800" alt="Airport" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Airport*
+
 
 Most religious authorities have been cautious in their response, allowing that virtual access provides some spiritual benefit while maintaining that physical presence retains a significance that digital mediation cannot replicate. This position reflects an understanding of pilgrimage that is deeply embodied — the theological significance of walking, touching, breathing the air of a sacred place depends on the pilgrim's physical presence in a way that information transmission cannot substitute. The distinction between information about a place and experience of a place proves robust even in an age of high-resolution video and virtual reality.
 

@@ -59,6 +59,11 @@ The Wall functions as both a national monument and a religious site, a dual iden
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=800" alt="Wailing Wall" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Wailing Wall*
+
+
 The visible portion of the Western Wall rises approximately nineteen meters above the prayer plaza, comprising twenty-eight courses of stone. Below the current ground level, an additional seventeen courses extend downward, the lowest dating to Herod's original construction. The Herodian stones are distinctive: massive, precisely cut limestone blocks with characteristic marginal drafting (raised flat borders around recessed centers), some weighing over five hundred metric tons. The largest single stone, visible in the Western Wall Tunnel, measures approximately thirteen meters in length and weighs an estimated 570 tons—one of the heaviest objects ever moved by human beings without modern machinery.
 
 The Western Wall Tunnel, excavated along the full 488-meter length of the western retaining wall, provides access to sections not visible from the prayer plaza. The tunnel reveals architectural features including a Hasmonean-era water channel, a massive arch (Warren's Gate) that once provided direct access to the Temple Mount, and the enormous foundation stones that demonstrate the engineering ambition of Herod's project. Guided tours through the tunnel have become one of Jerusalem's most popular pilgrim and tourist experiences.

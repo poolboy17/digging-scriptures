@@ -33,6 +33,11 @@ His arrival in India, the source land of Buddhism, initiated a period of intensi
 
 The intellectual center of Xuanzang's Indian sojourn was Nalanda, the great Buddhist university in Bihar, where he studied for five years under the master Shilabhadra. Nalanda, which housed several thousand monks and students, represented the summit of Buddhist intellectual achievement, and Xuanzang's detailed description of its curriculum, library, debate practices, and daily routines provides the most comprehensive account of the institution at its height. He mastered Sanskrit, studied the major schools of Buddhist philosophy, and engaged in formal debates that enhanced his reputation across the Indian Buddhist world.
 
+<img src="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=800" alt="Kashgar" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Kashgar*
+
+
 Xuanzang returned to China in 645 CE, carrying 657 Buddhist texts, 150 relics, and several Buddha images. The emperor, who had originally prohibited his departure, now welcomed him as a national hero. The imperial court provided resources for a massive translation project, and Xuanzang spent the remaining nineteen years of his life translating seventy-five texts into Chinese — translations that remain authoritative in East Asian Buddhism today. His philosophical work, particularly his translations and commentaries on Yogacara (Consciousness-Only) philosophy, established a school of Buddhist thought that profoundly influenced Chinese, Korean, and Japanese intellectual history.
 
 </Fragment>
@@ -44,6 +49,11 @@ Xuanzang's journey must be understood within the context of Buddhism's transmiss
 The political geography of Xuanzang's journey reveals the extent of Buddhism's reach across Asia in the seventh century. He found thriving Buddhist communities in Central Asian oasis kingdoms, in the courts of Turkish khans, and across the Indian subcontinent from Gandhara (modern Pakistan/Afghanistan) to Tamil Nadu. He also documented the religion's decline in regions where it had once flourished, noting abandoned monasteries and shrinking communities in areas where Hinduism was reasserting dominance. His account thus provides a snapshot of Buddhism at a pivotal moment — still vibrant across much of Asia but already showing signs of the retreat from India that would accelerate over the following centuries.
 
 The relationship between pilgrimage and scholarship in Xuanzang's journey challenges any simplistic distinction between devotional and intellectual motivations. His visits to the Four Sacred Sites of the Buddha's life were acts of profound veneration — he records weeping at Bodh Gaya and prostrating at Kushinagar — but they were simultaneously research expeditions, as he documented inscriptions, measured structures, and collected oral traditions with scholarly rigor. For Xuanzang, devotion and scholarship were not competing impulses but complementary aspects of a single engagement with the Buddhist tradition.
+
+<img src="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=800" alt="Fireworks" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Fireworks*
+
 
 The account Xuanzang composed upon his return, the Great Tang Records on the Western Regions (Da Tang Xiyu Ji), provides geographical, political, and cultural information about over 130 kingdoms and territories across Central and South Asia. This text served not only as a pilgrim narrative and geographical reference but as an intelligence report for the Tang court, which used its information to inform diplomatic and military strategy in Central Asia. The intersection of pilgrimage, scholarship, and statecraft in Xuanzang's career illustrates the multiple functions that long-distance sacred travel could serve in the medieval world.
 

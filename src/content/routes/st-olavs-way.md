@@ -42,6 +42,11 @@ The revival of St. Olav's Way began in the 1990s, inspired by the broader Europe
 
 <Fragment slot="journey">
 
+<img src="/.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=800" alt="Stave Church" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Stave Church*
+
+
 The main route (Gudbrandsdalsleden) runs approximately 643 kilometers from Oslo to Trondheim, following a corridor that largely parallels the historical path through the Gudbrandsdalen valley while diverging in places to incorporate scenic terrain and avoid modern highways. The journey typically requires thirty to thirty-five days on foot, though variations in pace, rest days, and weather can extend or compress this timeline considerably.
 
 The departure from Oslo begins at the medieval church ruins at Gamle Aker Kirke, the city's oldest surviving building, before heading north through the suburban and into the forests of Akershus county. The initial days of walking ease the pilgrim out of urban life and into the rhythms of long-distance travel, with the terrain rising gradually as the route approaches the lake district of Mjøsa.
@@ -58,6 +63,11 @@ The passage along Lake Mjøsa, Norway's largest lake, provides a section of rela
 The Gudbrandsdalen itself — a broad valley carved by glacial action and flanked by mountains rising to over 2,000 meters — constitutes the route's longest and most characteristic section. The valley's farming communities, with their preserved wooden farmsteads and small white churches, create a that has changed less than one might expect since the medieval period. The rhythm of walking through this valley — passing from farm to farm, village to village, church to church — gives the pilgrim a sustained immersion in Norway's rural heartland.
 
 The crossing of the Dovre mountains represents the route's physical climax. The terrain rises above the treeline into a stark alpine of rock, moss, and wind-scoured ridges. The historical significance of this crossing — Dovre served as the symbolic boundary between southern and northern Norway — adds a geographical and cultural milestone to the physical challenge. The descent from Dovre leads into the Trøndelag region, and the character of the shifts subtly: the light becomes more northern, the horizons broader, and the awareness of approaching Trondheim builds with each passing day.
+
+<img src="/.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=800" alt="Norway" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Norway*
+
 
 The arrival at Nidaros Cathedral, whose green copper spire becomes visible from the surrounding hills, constitutes the journey's emotional and spiritual culmination. The cathedral's west front, with its tiers of medieval sculpture, presents the pilgrim with one of northern Europe's finest examples of Gothic architecture. The experience of arriving on foot, after weeks of walking through the s that St. Olav himself traversed, creates a continuity of experience that connects the modern pilgrim to a thousand years of travelers who preceded them.
 

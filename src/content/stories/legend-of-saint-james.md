@@ -50,6 +50,11 @@ The dating of this discovery varies among sources but falls somewhere between 82
 
 The historical assessment of the Santiago tradition involves distinguishing several questions that are often conflated. Whether James preached in Spain, whether the remains discovered in the ninth century are genuinely his, and whether the pilgrimage tradition has value independently of these historical claims are separate matters requiring different kinds of evidence.
 
+<img src="/.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=800" alt="Cathedral" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Cathedral*
+
+
 The claim that James preached in Spain faces the challenge of chronology. Paul's Letter to the Romans, written around 57 CE, expresses his intention to visit Spain, suggesting that the western Mediterranean had not yet been reached by Christian missionaries. If Paul considered Spain unvisited territory more than a decade after James's martyrdom, the case for a Jacobean mission becomes difficult to sustain. The seventh-century Spanish theologian Isidore of Seville attributed Spain to James, but scholars like John Williams have argued this represents a later systematization rather than preserved historical memory.
 
 The identification of the ninth-century remains poses additional difficulties. No chain of custody connects the discovered tomb to first-century Jerusalem. Some scholars, including Claudio Sánchez-Albornoz, have proposed that the tomb may have belonged to Priscillian, a fourth-century heretic executed in 385 CE whose followers reportedly brought his body to Galicia for burial. Others suggest the remains could belong to an otherwise unknown figure. The Catholic Church has not insisted on the identification as a matter of doctrine, treating it as a venerable tradition rather than a defined truth.
@@ -65,6 +70,11 @@ The Liber Sancti Jacobi, compiled in the mid-twelfth century and sometimes attri
 ## Legacy and Living Tradition
 
 The legend of Saint James demonstrates how narratives, regardless of their historical foundations, can generate cultural realities of enormous significance. The pilgrimage to Santiago de Compostela, whatever the identity of the relics in its cathedral, has shaped European geography, architecture, art, and self-understanding for over a millennium. Towns exist because pilgrims needed shelter; bridges span rivers because pilgrims needed crossing; hospitals were founded because pilgrims fell ill. The cultural heritage of the [Camino de Santiago](/routes/camino-de-santiago) is real even where the legend that inspired it cannot be verified.
+
+<img src="/.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=800" alt="Shells" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Shells*
+
 
 The narrative has also evolved to reflect changing sensibilities. The martial Santiago Matamoros, once a figure of triumphalist pride, has become a source of discomfort for many contemporary Catholics and pilgrims. The Spanish bishops' conference has at various points addressed the figure, seeking to emphasize James the apostle and pilgrim over James the warrior. This renegotiation of a founding narrative illustrates how living traditions adapt to changing moral frameworks without abandoning their historical roots.
 

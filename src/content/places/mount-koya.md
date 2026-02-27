@@ -61,6 +61,11 @@ Mount Koya's designation as a UNESCO World Heritage Site in 2004 (as part of the
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=800" alt="Mount Fuji" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Mount Fuji*
+
+
 Okunoin, the vast memorial park and mausoleum area, extends approximately two kilometers from the Ichinohashi Bridge to Kobo Daishi's mausoleum. The approach path, flanked by towering cryptomeria cedars and hundreds of thousands of stone monuments, creates an atmosphere of extraordinary solemnity. Moss-covered stupas, some tilting with age, line both sides of the path. The monuments include those of historical figures—the warlords Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu all have memorials here—alongside anonymous graves and modern corporate monuments.
 
 The Torodo (Lantern Hall), immediately before Kobo Daishi's mausoleum, contains over ten thousand lanterns, two of which are said to have burned continuously since the eleventh century. The hall's dim interior, lit only by these lanterns, creates a liminal atmosphere between the world of the living and the space of Kobo Daishi's eternal meditation beyond. Pilgrims offer prayers here and light additional lanterns for deceased relatives.

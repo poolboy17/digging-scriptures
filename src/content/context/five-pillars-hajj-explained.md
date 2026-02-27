@@ -32,11 +32,21 @@ The concept of ihram — the state of ritual consecration that pilgrims enter be
 
 The standing at Arafat (wuquf) on the ninth of Dhul Hijjah is considered the essential rite of the Hajj — the Prophet Muhammad stated that "Hajj is Arafat," meaning that the entire pilgrimage depends on this single observance. The gathering on the Plain of Arafat, when over two million pilgrims stand in prayer and supplication from noon to sunset, is often described as a rehearsal for the Day of Judgment, when all of humanity will stand before God to account for their lives.
 
+<img src="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=800" alt="Architecture" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Architecture*
+
+
 The theological weight of Arafat derives partly from its association with several foundational narratives. Tradition holds that it was at Arafat that Adam and Eve were reunited after their expulsion from Paradise. It was at Arafat that Ibrahim demonstrated his willingness to sacrifice his son. And it was at Arafat that the Prophet Muhammad delivered his Farewell Sermon in 632 CE, articulating principles of human equality, justice, and mutual obligation that Muslims regard as the summation of his prophetic message.
 
 ## Conditions and Exemptions
 
 Islamic jurisprudence has developed detailed criteria for determining who is obligated to perform the Hajj. The requirement applies to every Muslim who is: adult (having reached puberty), sane, free (not enslaved), physically able to travel, and financially capable of covering the expenses of the journey while maintaining their dependents at home. This last condition — known as istita'a (capability) — means that Muslims who cannot afford the pilgrimage without impoverishing their families are not required to perform it. The Hajj is an obligation for those with means, not a burden imposed on the poor.
+
+<img src="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=800" alt="Ayat Al Kursi" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Ayat Al Kursi*
+
 
 Physical incapacity also exempts believers from the obligation. Those who are chronically ill, elderly and infirm, or otherwise unable to withstand the physical demands of the pilgrimage may designate a proxy (na'ib) to perform the Hajj on their behalf, provided the proxy has already fulfilled their own Hajj obligation. This provision reflects the Islamic principle that God does not burden a soul beyond its capacity, while ensuring that the spiritual benefits of the pilgrimage remain accessible even to those who cannot travel.
 

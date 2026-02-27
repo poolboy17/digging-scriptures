@@ -37,6 +37,11 @@ The [Western Wall](/places/western-wall)—a retaining wall of the Temple Mount 
 
 Jewish pilgrimage extends well beyond Jerusalem to sites scattered across Israel and the diaspora. The most significant of these are the tombs of biblical and rabbinic figures, which have attracted visitors seeking spiritual merit, healing, and connection to sacred history.
 
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=800" alt="Hanukkah" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Hanukkah*
+
+
 [Hebron's Cave of Machpelah](/places/hebron-cave-patriarchs) (the Cave of the Patriarchs) holds the traditional burial site of Abraham and Sarah, Isaac and Rebecca, Jacob and Leah. The site's significance predates the Temple itself—Genesis records Abraham's purchase of the cave as a family burial ground—and pilgrimage to Hebron has continued across millennia despite the complex political circumstances that have attended the site's shared Jewish and Muslim veneration.
 
 The [tomb of Rachel](/places/rachels-tomb) near Bethlehem, the tomb of Joseph near Nablus, and the tombs of numerous Talmudic sages scattered across the Galilee constitute a network of pilgrimage sites that has drawn Jewish visitors for centuries. In the Galilee, the city of Safed (Tzfat) became a major pilgrimage destination following the flowering of Kabbalistic mysticism there in the sixteenth century. The graves of Rabbi Isaac Luria, Rabbi Joseph Karo, and other luminaries of the Safed school attract visitors seeking connection to the mystical tradition.
@@ -47,6 +52,11 @@ The [tomb of Rachel](/places/rachels-tomb) near Bethlehem, the tomb of Joseph ne
 
 Jewish pilgrimage cannot be separated from the concept of [aliyah](/context/aliyah-leregel), literally "going up," which denotes both the ancient act of ascending to the Temple and the modern act of immigrating to Israel. The linguistic connection between pilgrimage and immigration reflects a theological understanding that the land of Israel itself holds sacred status, not only specific sites within it.
 
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=800" alt="Torah" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Torah*
+
+
 The Zionist movement of the late nineteenth and twentieth centuries drew explicitly on pilgrimage imagery, framing the return of Jews to their ancestral homeland in terms that echoed ancient pilgrimage practices. The establishment of the State of Israel in 1948 and the reunification of Jerusalem in 1967 transformed the conditions under which Jewish pilgrimage could occur, providing unrestricted access to the Western Wall and other holy sites for the first time in modern history.
 
 Contemporary birthright programs that bring young [diaspora](/context/diaspora-pilgrimage) Jews to Israel for their first visit operate within this pilgrimage framework, though their organizers may not describe them in those terms. The visit to Yad Vashem, the ascent to Masada, the approach to the Western Wall—these experiences are structured to produce the kind of identity-forming encounter that characterizes pilgrimage across traditions.
@@ -55,12 +65,22 @@ Contemporary birthright programs that bring young [diaspora](/context/diaspora-p
 
 In the centuries of dispersion, Jewish communities developed pilgrimage practices adapted to their circumstances. Unable to reach Jerusalem easily, diaspora Jews created local sacred geographies centered on the tombs of revered rabbis, the sites of famous academies, or synagogues associated with significant historical events.
 
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=800" alt="Western Wall" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Western Wall*
+
+
 In North Africa, the Ghriba synagogue on the Tunisian island of Djerba has attracted Jewish pilgrims for centuries, with an annual pilgrimage during Lag BaOmer drawing visitors from across the region. In Eastern Europe, the graves of Hasidic masters—particularly the tomb of Rabbi Nachman of Breslov in Uman, Ukraine—became major pilgrimage destinations. The annual Rosh Hashanah pilgrimage to Uman continues to draw tens of thousands of visitors, an extraordinary phenomenon given that the Jewish community of Uman was destroyed during the Holocaust.
 
 The pilgrimage to [Uman](/stories/rabbi-nachman-journey-to-israel) represents a distinctive pattern in Jewish sacred travel: the journey to a place of absence, where the community that once existed is gone but the spiritual presence of the master is understood to persist. Similar dynamics operate at Holocaust memorial sites, which function as pilgrimage destinations for contemporary Jews even though the term is rarely applied explicitly. The March of the Living, which brings participants from Auschwitz to Israel, combines Holocaust memory with the pilgrimage structure of moving from a place of destruction to a place of renewal.
 ## Liturgical Memory of Pilgrimage
 
 Even when physical pilgrimage was impossible, Jewish liturgy preserved its memory. The Passover Seder concludes with "Next year in Jerusalem," a declaration that transforms every celebration into an act of anticipatory pilgrimage. The three pilgrim festivals retain their Temple-era names and themes, and prayers for the restoration of Temple worship appear throughout the traditional liturgy.
+
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=800" alt="Boy" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Boy*
+
 
 The [Psalms of Ascent](/routes/temple-mount-ascent) (Psalms 120-134), traditionally sung by pilgrims ascending to Jerusalem, continue to be recited in Jewish worship. These poems capture the emotional arc of pilgrimage—longing, anticipation, arrival, gratitude—and their continued use keeps the pilgrimage experience alive in communal consciousness even for those who have never visited Jerusalem.
 

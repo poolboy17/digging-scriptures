@@ -35,6 +35,11 @@ The journey east revealed a world that was simultaneously vast and connected. Th
 
 His first Hajj, performed in 1326, was a transformative experience that deepened rather than satisfied his appetite for travel. Rather than returning directly to Morocco, he explored Iraq, Persia, and the East African coast before performing the Hajj a second time. He then traveled to Anatolia, crossed the Black Sea to the territories of the Golden Horde, journeyed to Constantinople as part of a diplomatic mission, traversed Central Asia to reach India, spent eight years in the service of the Sultan of Delhi, and eventually made his way to China — all while continuing to perform the Hajj whenever his travels brought him within range of Mecca.
 
+<img src="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=800" alt="Al-Aqsa" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Al-Aqsa*
+
+
 The narrative Ibn Battuta eventually dictated to the scholar Ibn Juzayy upon his return to Morocco in 1354 combines firsthand observation with borrowed material, personal adventure with ethnographic detail, and pious reflection with frank accounts of political violence, sexual intrigue, and cultural bewilderment. Scholars have debated which portions of the Rihla reflect genuine experience and which were embellished or fabricated, but the work's value as a panoramic portrait of the fourteenth-century Islamic world — from the mosques of Timbuktu to the spice markets of Calicut to the courts of Chinese emperors — remains uncontested.
 
 </Fragment>
@@ -46,6 +51,11 @@ Ibn Battuta's journeys illuminate the Hajj's function as more than a religious r
 The infrastructure that supported Ibn Battuta's travels — caravansaries, pilgrim hostels, Sufi lodges (zawiyas), and the private hospitality of scholars and officials — constituted a vast system of accommodation and assistance that made long-distance travel possible in an era before commercial tourism. The Islamic emphasis on hospitality to travelers, reinforced by Quranic injunctions and Prophetic example, created a social obligation that Ibn Battuta invoked repeatedly and that rarely failed him. His account documents this infrastructure in detail, providing one of our richest sources for understanding how medieval Islamic society organized and supported mobility.
 
 The legal dimension of Ibn Battuta's travels reflects the portability of Islamic jurisprudence. Trained in Maliki law, one of Sunni Islam's four major legal schools, Ibn Battuta found employment as a judge (qadi) in multiple jurisdictions — India, the Maldives, and eventually Morocco — because Islamic legal principles transcended political boundaries. This portability of professional qualification, grounded in shared religious education and legal methodology, had no parallel in the medieval Christian world, where legal systems were far more locally specific.
+
+<img src="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=800" alt="Compass" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Compass*
+
 
 Ibn Battuta's observations of regional variations in Islamic practice provide invaluable anthropological data. He noted with interest (and sometimes disapproval) the differences between North African, Middle Eastern, South Asian, and Southeast Asian expressions of Islam, documenting local customs, architectural styles, gender relations, and devotional practices with an ethnographic attention that makes the Rihla a primary source for historians of the medieval Islamic world. His comparative perspective — always measuring what he encountered against the norms of his Moroccan education — gives his account an analytical quality that distinguishes it from mere adventure narrative.
 

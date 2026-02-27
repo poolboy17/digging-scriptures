@@ -32,11 +32,21 @@ The Passover Seder, the ritual meal that replaced the sacrificial ritual after t
 
 Shavuot, observed seven weeks after Passover (hence its name), falls in the Hebrew month of Sivan (typically May or June). In its agricultural dimension, Shavuot marks the wheat harvest and the bringing of first fruits (bikkurim) to the Temple. The Mishnah's description of the first fruits procession provides one of the most vivid pictures of pilgrimage in ancient Jewish literature: delegations from across the country converging on Jerusalem, their wagons decorated with garlands, led by an ox with gilded horns, bringing baskets of fruit to the Temple accompanied by music and singing.
 
+<img src="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=800" alt="Christmas Tree" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Christmas Tree*
+
+
 The historical dimension of Shavuot commemorates the revelation at Sinai — the giving of the Torah to Moses and the Israelites. This association, which became dominant in rabbinic Judaism after the Temple's destruction, transformed Shavuot from an agricultural celebration into a festival of divine communication and covenantal renewal. The custom of studying Torah through the night on Shavuot (Tikkun Leil Shavuot) recreates the experience of vigil and anticipation that tradition associates with the Israelites' preparation to receive the Torah at Sinai.
 
 ## Festival of Booths (Sukkot)
 
 Sukkot, beginning on the fifteenth of the Hebrew month of Tishrei (typically September or October), is the most elaborate of the three pilgrim festivals in both its agricultural and liturgical dimensions. The festival commemorates the Israelites' forty years of wandering in the wilderness after the Exodus, during which they lived in temporary shelters (sukkot). The practice of dwelling in booths — temporary structures with roofs of natural materials through which the sky is visible — translates the historical narrative into embodied experience, as families eat and, in some traditions, sleep in these fragile structures for seven days.
+
+<img src="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=800" alt="Passover" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Passover*
+
 
 Sukkot during the Temple period featured distinctive rituals of extraordinary sensory richness. The water-drawing ceremony (Simchat Beit HaShoavah) involved a procession from the Pool of Siloam to the Temple, where water was poured on the altar alongside the regular wine libation. The Mishnah records that "whoever has not seen the joy of the water-drawing ceremony has never seen joy in his life" — a statement suggesting that the celebration achieved an intensity of communal festivity unmatched by any other occasion in the Jewish calendar.
 

@@ -57,6 +57,11 @@ The Zamzam well, located within the Masjid al-Haram compound, produces water tha
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=800" alt="Mosque" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Mosque*
+
+
 The Kaaba stands approximately thirteen meters high, with sides ranging from ten to twelve meters in length. Its walls are constructed of gray stone quarried from surrounding hills, though the structure has been rebuilt multiple times—most recently following a siege in 1979 and flood damage at various points in history. The kiswa, an embroidered black cloth covering the Kaaba, is replaced annually, with the old cloth cut into pieces and distributed as gifts. Gold-embroidered Quranic verses on the kiswa represent some of the finest textile artistry in the Islamic world.
 
 The Black Stone (al-Hajar al-Aswad), set into the Kaaba's eastern corner at a height of approximately 1.5 meters, is the object of particular veneration. Islamic tradition holds that Ibrahim placed the stone, which had been sent from paradise, in the corner of the Kaaba. The stone, now dark and fragmented (held together by a silver frame), is touched or kissed by pilgrims performing tawaf when crowds permit, though the Prophet Muhammad indicated that pointing toward it from a distance suffices.

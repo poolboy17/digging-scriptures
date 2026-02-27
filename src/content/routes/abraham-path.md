@@ -61,6 +61,11 @@ The Turkish section begins near Şanlıurfa (ancient Edessa), traditionally iden
 </figure>
 
 
+<img src="/.netlify/images?url=/images/content/inline/abraham-path-3-c5f721.jpg&w=800" alt="Wadi Rum" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Wadi Rum*
+
+
 The Jordanian section, the most developed portion of the trail, runs approximately 330 kilometers through some of the Middle East's most dramatic s. The route passes through the Dana Nature Reserve, the ancient Nabataean city of Petra (not directly associated with Abraham but an extraordinary site along the way), and the rolling hills of northern Jordan. Bedouin communities along the route offer traditional hospitality that echoes the emphasis on welcoming strangers found in all three Abrahamic traditions' accounts of the patriarch.
 
 The Palestinian and Israeli sections trace the narratives most directly associated with Abraham's story: the oak of Mamre near Hebron, where Abraham hosted three divine visitors; the Cave of Machpelah in Hebron, where Abraham, Sarah, Isaac, Rebecca, Jacob, and Leah are traditionally buried; and the around Beersheba, where Abraham dug wells and made treaties. These sections traverse some of the most politically sensitive territory on earth, and the Abraham Path's passage through them represents both a statement of hope and a practical challenge.

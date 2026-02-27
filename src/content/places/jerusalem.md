@@ -71,6 +71,11 @@ Jewish pilgrimage to Jerusalem predates and continues alongside Christian practi
 
 The Church of the Holy Sepulchre has functioned as the focal point of Christian pilgrimage to Jerusalem since its fourth-century construction. The building encompasses multiple sacred sites within a single complex structure, allowing pilgrims to venerate the locations of crucifixion and resurrection without leaving its walls. The current structure dates substantially from the Crusader period, incorporating elements rebuilt after the destruction ordered by the Fatimid caliph al-Hakim in 1009.
 
+<img src="/.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=800" alt="Sarajevo" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Sarajevo*
+
+
 Upon entering, pilgrims encounter the Stone of Anointing, where tradition holds that Jesus's body was prepared for burial. This slab, though replaced over the centuries, continues to draw those who kneel to touch and kiss it. Steep stairs to the right ascend to Golgotha, divided between Greek Orthodox and Roman Catholic chapels marking the site of the crucifixion. A glass panel beneath the altar reveals the rock itself, allowing pilgrims to reach down and touch the place where the cross is understood to have stood.
 
 The Rotunda dominates the western portion of the church, its dome rising above the Edicule, the small structure enclosing the tomb of Christ. The Edicule, most recently restored in 2016-2017, shelters a rock-cut chamber containing the burial slab. Pilgrims enter through a small antechamber before passing into the burial chamber itself, where they may briefly touch the stone marking where Christ's body lay. The intensity of this encounter varies with crowding; during peak periods, attendants limit time within the tomb to maintain flow.
@@ -86,6 +91,11 @@ The practice of walking the Via Dolorosa developed over centuries, with the curr
 ## Experiencing This Place Today
 
 Jerusalem's Old City is compact enough to explore on foot, though its hilly terrain and crowded streets require reasonable physical fitness. The area within the walls contains few accommodations; most visitors stay in hotels in West or East Jerusalem and enter through one of the several gates. The Jaffa Gate, Damascus Gate, and Lions' Gate provide the most common entry points for visitors to Christian sites.
+
+<img src="/.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Jerusalem*
+
 
 The Church of the Holy Sepulchre opens early morning and closes in the evening, with midday hours sometimes restricted. The atmosphere varies considerably depending on the time of day and year. Early morning, before organized groups arrive, often offers the most contemplative experience. Major Christian holidays, particularly Easter, bring intense crowds and extended liturgical celebrations that transform the normal rhythm of the building.
 

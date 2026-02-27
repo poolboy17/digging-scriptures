@@ -73,6 +73,11 @@ The feast of Saint James on July 25 brings special celebrations to the city. Whe
 
 The experience of arriving at Santiago de Compostela has changed considerably over the centuries while retaining certain constant elements. Medieval pilgrims approached after journeys of weeks or months, often having faced dangers from disease, weather, bandits, and simple exhaustion. The first sight of the cathedral's towers, visible from surrounding hills, marked the journey's approaching end; the entry into the city and the cathedral marked its completion.
 
+<img src="/.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=800" alt="Santiago" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Santiago*
+
+
 The Praza do Obradoiro, the great square before the cathedral's western facade, serves as the traditional gathering point for arriving pilgrims. The baroque frontispiece of the Obradoiro facade, completed in the 1750s, creates one of the most recognizable images in Spanish architecture, its soaring towers and elaborate sculptural program framing the entrance to the shrine. Pilgrims photograph their arrival, rest on the stone pavement, and process into the cathedral to venerate the apostle's shrine in patterns that have characterized this space for centuries.
 
 Behind the baroque facade, the Pórtico de la Gloria preserves the Romanesque sculptural program completed by Master Mateo in 1188. The figure of Saint James seated above the central column greets pilgrims entering through the western doors. The quality of the carving—the expressive faces of prophets and apostles, the detail of drapery and ornament—and the theological complexity of the program make this one of the supreme achievements of medieval European sculpture. Recent restoration has revealed the original polychrome painting that once covered these figures.
@@ -90,6 +95,11 @@ Some pilgrims extend their journey beyond Santiago to Finisterre, the cape on th
 ## Experiencing This Place Today
 
 Arrival in Santiago de Compostela traditionally follows from walking one of the Camino routes, and the experience of the city differs depending on whether one arrives on foot after days or weeks of walking or by other means. Those who have walked describe the approach—catching the first glimpse of the cathedral towers, entering through the old gates, crossing the Praza do Obradoiro—as among the most emotionally significant moments of their journey.
+
+<img src="/.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=800" alt="Incense Sticks" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Incense Sticks*
+
 
 The Cathedral opens daily, with access to different areas varying by time and season. The main nave is accessible for most of the day; the embrace of Saint James and the crypt visit require joining queues that move efficiently except during the busiest periods. Attending the Pilgrim's Mass requires arriving well before noon during peak season, when the cathedral fills to capacity.
 

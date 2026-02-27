@@ -59,6 +59,11 @@ The annual celebration of Lag BaOmer draws hundreds of thousands of visitors to 
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Jerusalem*
+
+
 The Ari Ashkenazi Synagogue, built in the sixteenth century and named for Isaac Luria, preserves the space where the Ari taught and prayed. The building's modest exterior belies an interior decorated with painted walls and an ornate ark housing Torah scrolls. Tradition holds that the Ari received mystical insights in this space, and visitors report a palpable atmosphere of concentrated spirituality. The adjacent Ari Sephardi Synagogue, also associated with Luria, preserves a cave where he is said to have studied with the prophet Elijah.
 
 The Joseph Karo Synagogue, located in the Old City, occupies the site where Karo is believed to have composed the Shulchan Aruch. The building, damaged in the 1837 earthquake and subsequently restored, features an underground chamber identified as Karo's study. The synagogue serves as an active place of worship while also functioning as a pilgrimage site for those seeking connection to the legal tradition that Karo epitomizes.

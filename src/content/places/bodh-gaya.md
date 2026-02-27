@@ -59,6 +59,11 @@ The site's management has been a source of ongoing tension. Buddhist organizatio
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800" alt="Temple" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Temple*
+
+
 The Mahabodhi Temple rises approximately fifty-five meters, its distinctive pyramidal shikhara (tower) tapering to a stupa-shaped finial. The temple's architectural style, which influenced Buddhist temple design across Southeast Asia—notably at Ananda Temple in Bagan and Wat Jet Yot in Chiang Mai—makes it one of the most architecturally consequential buildings in Buddhist history. The current structure reflects restorations conducted in the nineteenth century under British direction and in subsequent decades, but the core masonry dates to the Gupta period.
 
 The Bodhi Tree stands to the west of the temple, its branches extending over a stone platform where pilgrims meditate. The Vajrasana (Diamond Throne), a red sandstone slab placed beneath the tree, marks the precise spot where the Buddha is believed to have sat during his enlightenment. The platform is among the most venerated objects in Buddhism, and pilgrims prostrate before it, circumambulate it, and sit in meditation facing it throughout the day and night.

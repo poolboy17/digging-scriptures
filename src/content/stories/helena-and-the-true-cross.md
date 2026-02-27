@@ -34,6 +34,11 @@ Constantine's conversion to Christianity — or at least his decision to favor t
 
 The central narrative of Helena's journey involves the discovery of the True Cross — the wooden cross on which Jesus was crucified. According to traditions that crystallized in the late fourth century (the earliest accounts, by Eusebius, mention Helena's journey but not the cross discovery), Helena directed excavations near the site of the Crucifixion and discovered three crosses buried beneath a Roman temple. The true cross was identified through a miracle — in some versions, a sick woman was healed upon touching it; in others, a corpse was restored to life. The discovery, whether historical event or devotional legend, provided Christianity with its most significant relic and established the precedent of archaeological recovery as a mode of sacred encounter.
 
+<img src="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=800" alt="Architecture" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Architecture*
+
+
 Helena's journey produced tangible architectural results that survive, in modified form, to the present day. She is credited with commissioning or inspiring the construction of the Church of the Nativity in Bethlehem, over the traditional site of Jesus's birth, and the Church of the Eleona on the Mount of Olives, marking the site associated with Jesus's ascension. Constantine himself ordered the construction of the Church of the Holy Sepulchre in Jerusalem over the sites of the Crucifixion and the empty tomb — a project likely influenced by his mother's discoveries and advocacy.
 
 </Fragment>
@@ -45,6 +50,11 @@ Helena's pilgrimage must be understood within the revolutionary context of early
 The process of identifying sacred sites in fourth-century Palestine was neither simple nor uncontested. Three centuries separated Helena's visit from the events of the Gospels, and Jerusalem itself had been devastated and rebuilt as the Roman colony Aelia Capitolina following the Bar Kokhba revolt of 132-136 CE. The Roman reconstruction had deliberately obscured Jewish and Christian sacred sites, covering some with pagan temples. Helena's excavations thus involved removing layers of Roman construction to reach what local Christian tradition identified as the original sites — a process that combined archaeological investigation with theological conviction.
 
 The relic culture that Helena's discovery of the True Cross helped to inaugurate would profoundly shape medieval Christianity. Fragments of the cross were distributed across the Christian world, each fragment carrying the sacred potency of the whole. Relic veneration created a network of sacred sites extending far beyond Palestine, as churches competed to acquire and house relics that would draw pilgrims and the economic benefits they brought. The authentication and commerce of relics became significant ecclesiastical activities, and the desire to possess and venerate physical objects associated with sacred history became a driving force of medieval pilgrimage.
+
+<img src="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=800" alt="Italy" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Italy*
+
 
 Helena's role as a female figure of extraordinary agency within a patriarchal society has drawn scholarly attention. Her pilgrimage was not merely a private devotional act but a public exercise of imperial authority in service of religious goals. She traveled with a retinue, dispensed charity, freed prisoners, and made decisions about construction projects — all activities that demonstrated power while framing it within the acceptable categories of piety and maternal devotion. She died around 330 CE, and her remains were eventually placed in a porphyry sarcophagus now housed in the Vatican Museums.
 

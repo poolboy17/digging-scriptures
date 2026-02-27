@@ -64,6 +64,11 @@ The Papal Audience, held weekly in St. Peter's Square or the adjacent audience h
 
 <Fragment slot="features">
 
+<img src="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800" alt="Rome" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+
+*Rome*
+
+
 St. Peter's Square, designed by Bernini and completed in 1667, welcomes pilgrims with its elliptical colonnades — 284 columns and 88 pilasters arranged in four rows, topped by 140 statues of saints. The design was intended to represent the embrace of the Church, with the arms of the colonnade reaching out to enfold the arriving faithful. At the center stands an Egyptian obelisk, brought to Rome by Emperor Caligula and repositioned by Pope Sixtus V in 1586, flanked by two fountains whose sound fills the square.
 
 Inside St. Peter's Basilica, Bernini's baldachin — a bronze canopy rising twenty-nine meters over the high altar — marks the site directly above the traditional tomb of Peter. The baldachin, cast partly from bronze stripped from the Pantheon's portico, represents one of the most ambitious works of Baroque sculpture. Beneath it, the Confessio provides a view down to the level of the ancient necropolis where the apostle's remains are believed to rest.
