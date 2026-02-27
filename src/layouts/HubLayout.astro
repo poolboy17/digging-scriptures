@@ -160,25 +160,25 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
         <div class="spoke-preview-scroll">
             {allPlaces.map((place) => (
                 <a href={`/places/${place.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon">📍</span>
+                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
                     <span class="spoke-chip-text">{place.data.title}</span>
                 </a>
             ))}
             {allRoutes.map((route) => (
                 <a href={`/routes/${route.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon">🥾</span>
+                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/></svg></span>
                     <span class="spoke-chip-text">{route.data.title}</span>
                 </a>
             ))}
             {relatedStories.map((story) => (
                 <a href={`/stories/${story.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon">📖</span>
+                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
                     <span class="spoke-chip-text">{story.data.title}</span>
                 </a>
             ))}
             {relatedContext.map((ctx) => (
                 <a href={`/context/${ctx.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon">🔎</span>
+                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></span>
                     <span class="spoke-chip-text">{ctx.data.title}</span>
                 </a>
             ))}
@@ -221,7 +221,7 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
                 {allPlaces.length > 0 && (
                     <section class="hub-spokes-section">
                         <h2 class="hub-spokes-heading">
-                            <span class="hub-spokes-icon">📍</span> Sacred Places
+                            <span class="hub-spokes-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Sacred Places
                         </h2>
                         <div class="hub-spokes-grid">
                             {allPlaces.map((place, i) => (
@@ -240,7 +240,7 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
                 {allRoutes.length > 0 && (
                     <section class="hub-spokes-section">
                         <h2 class="hub-spokes-heading">
-                            <span class="hub-spokes-icon">🥾</span> Pilgrimage Routes
+                            <span class="hub-spokes-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/></svg></span> Pilgrimage Routes
                         </h2>
                         <div class="hub-spokes-grid">
                             {allRoutes.map((route, i) => (
@@ -263,7 +263,7 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
                 {(relatedStories.length > 0 || relatedContext.length > 0) && (
                     <section class="hub-spokes-section">
                         <h2 class="hub-spokes-heading">
-                            <span class="hub-spokes-icon">📖</span> Further Reading
+                            <span class="hub-spokes-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span> Further Reading
                         </h2>
                         <div class="hub-further-list">
                             {relatedStories.map((story) => (
@@ -315,10 +315,10 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
                 Browse sacred sites, pilgrimage routes, and the stories behind them.
             </p>
             <div class="continue-links">
-                <a href="/places" class="continue-link">📍 Places</a>
-                <a href="/routes" class="continue-link">🥾 Routes</a>
-                <a href="/stories" class="continue-link">📖 Stories</a>
-                <a href="/context" class="continue-link">🔎 Context</a>
+                <a href="/places" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg> Places</a>
+                <a href="/routes" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/></svg> Routes</a>
+                <a href="/stories" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg> Stories</a>
+                <a href="/context" class="continue-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg> Context</a>
             </div>
         </div>
     </div>
