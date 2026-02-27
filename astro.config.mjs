@@ -20,7 +20,31 @@ export default defineConfig({
     },
     
     // Integrations
-    integrations: [react(), sitemap()],
+    integrations: [
+        react(),
+        sitemap({
+            changefreq: 'weekly',
+            priority: 0.7,
+            lastmod: new Date(),
+            serialize(item) {
+                // Boost hub and homepage priority
+                if (item.url === 'https://diggingscriptures.com/') {
+                    item.priority = 1.0;
+                    item.changefreq = 'daily';
+                } else if (item.url.includes('/journeys/') && item.url !== 'https://diggingscriptures.com/journeys') {
+                    item.priority = 0.9;
+                    item.changefreq = 'weekly';
+                } else if (/\/(journeys|places|routes|stories|context)$/.test(item.url)) {
+                    item.priority = 0.8;
+                    item.changefreq = 'weekly';
+                } else if (/\/(privacy|terms|affiliate-disclaimer|contact)$/.test(item.url)) {
+                    item.priority = 0.3;
+                    item.changefreq = 'yearly';
+                }
+                return item;
+            }
+        }),
+    ],
     
     // Build configuration
     build: {
