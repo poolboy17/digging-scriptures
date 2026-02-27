@@ -14,6 +14,8 @@
 
 import BaseLayout from './BaseLayout.astro';
 import CdnImage from '../components/CdnImage.astro';
+import SpokeSidebar from '../components/SpokeSidebar.astro';
+import SpokeMobileToc from '../components/SpokeMobileToc.astro';
 
 interface Props {
     title: string;
@@ -39,7 +41,10 @@ const {
 ---
 
 <BaseLayout title={title} description={description}>
+    <SpokeMobileToc />
     <article class="story-page">
+    <div class="spoke-layout container">
+    <div class="spoke-main">
         
         <!-- HERO IMAGE -->
         {image && (
@@ -104,5 +109,8 @@ const {
             <slot name="related" />
         </section>
 
+    </div>
+    <SpokeSidebar />
+    </div>
     </article>
 </BaseLayout>

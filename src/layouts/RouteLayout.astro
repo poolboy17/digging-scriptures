@@ -16,6 +16,8 @@
 
 import BaseLayout from './BaseLayout.astro';
 import CdnImage from '../components/CdnImage.astro';
+import SpokeSidebar from '../components/SpokeSidebar.astro';
+import SpokeMobileToc from '../components/SpokeMobileToc.astro';
 import PilgrimageSidebar from '../components/PilgrimageSidebar.astro';
 
 interface SidebarProduct {
@@ -85,8 +87,9 @@ const hasSidebar = sidebarProducts.length > 0;
     <article class="section">
         <div class="container">
 
-        <div class:list={["flex gap-8", hasSidebar && "lg:flex-row flex-col"]}>
-        <div class:list={[hasSidebar ? "lg:w-2/3" : "w-full"]}>
+        <SpokeMobileToc />
+        <div class="spoke-layout">
+        <div class="spoke-main">
         
             <!-- HERO IMAGE -->
             {image && (
@@ -172,10 +175,7 @@ const hasSidebar = sidebarProducts.length > 0;
             </section>
 
         </div>
-
-        {hasSidebar && (
-            <PilgrimageSidebar products={sidebarProducts} heading="Plan Your Journey" />
-        )}
+        <SpokeSidebar products={sidebarProducts} productHeading="Plan Your Journey" />
         </div>
 
         </div>

@@ -1,0 +1,117 @@
+---
+/**
+ * SpokeSidebar — Desktop-only sticky right sidebar
+ * Contains: TOC (auto-generated) + optional product cards
+ * 
+ * MUST be placed inside the .spoke-layout flex container,
+ * after the .spoke-main div closes.
+ */
+
+interface SidebarProduct {
+    title: string;
+    url: string;
+    image?: string;
+    tier: 'hero' | 'value' | 'premium';
+    price?: string;
+    rating?: number;
+    reviews?: number;
+    label?: string;
+    duration?: string;
+}
+
+interface Props {
+    products?: SidebarProduct[];
+    productHeading?: string;
+}
+
+const { products = [], productHeading = 'Plan Your Visit' } = Astro.props;
+---
+
+<aside class="spoke-sidebar" id="spoke-sidebar">
+    <nav class="spoke-sidebar-toc" aria-label="Table of contents">
+        <p class="spoke-sidebar-label">In this article</p>
+        <div class="spoke-sidebar-toc-links" id="spoke-desktop-toc-links"></div>
+    </nav>
+
+    {products.length > 0 && (
+        <div class="spoke-sidebar-products">
+            <p class="spoke-sidebar-label">{productHeading}</p>
+            {products.map((product) => (
+                <a href={product.url} class="spoke-product-card" target="_blank" rel="noopener sponsored">
+                    {product.label && <span class="spoke-product-label">{product.label}</span>}
+                    <span class="spoke-product-title">{product.title}</span>
+                    {product.price && <span class="spoke-product-price">{product.price}</span>}
+                    {product.duration && <span class="spoke-product-meta">{product.duration}</span>}
+                    {product.rating && (
+                        <span class="spoke-product-meta">
+                            {'★'.repeat(Math.round(product.rating))} {product.rating}
+                            {product.reviews && ` (${product.reviews})`}
+                        </span>
+                    )}
+                </a>
+            ))}
+        </div>
+    )}
+</aside>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const article = document.querySelector('article');
+    if (!article) return;
+
+    const desktopLinks = document.getElementById('spoke-desktop-toc-links');
+    const mobileLinks = document.getElementById('spoke-mobile-toc-links');
+    const allH2s = article.querySelectorAll('h2');
+
+    if (allH2s.length === 0) {
+        const sidebar = document.getElementById('spoke-sidebar');
+        const mobileToc = document.getElementById('spoke-mobile-toc');
+        if (sidebar) sidebar.style.display = 'none';
+        if (mobileToc) mobileToc.style.display = 'none';
+        return;
+    }
+
+    allH2s.forEach((h, i) => {
+        const id = h.id || `s-${i}`;
+        h.id = id;
+        [desktopLinks, mobileLinks].forEach(container => {
+            if (!container) return;
+            const a = document.createElement('a');
+            a.href = `#${id}`;
+            a.textContent = h.textContent || '';
+            a.className = 'spoke-toc-link';
+            container.appendChild(a);
+        });
+    });
+
+    if (desktopLinks) {
+        const links = desktopLinks.querySelectorAll('.spoke-toc-link');
+        const obs = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    links.forEach(l => l.classList.remove('active'));
+                    const a = desktopLinks.querySelector(`a[href="#${entry.target.id}"]`);
+                    if (a) a.classList.add('active');
+                }
+            });
+        }, { rootMargin: '-20% 0px -70% 0px' });
+        allH2s.forEach(h => obs.observe(h));
+    }
+
+    const toggleBtn = document.getElementById('spoke-toc-toggle');
+    const mobileNav = document.getElementById('spoke-mobile-toc-nav');
+    if (toggleBtn && mobileNav) {
+        toggleBtn.addEventListener('click', () => {
+            const open = toggleBtn.getAttribute('aria-expanded') === 'true';
+            toggleBtn.setAttribute('aria-expanded', String(!open));
+            mobileNav.classList.toggle('open');
+        });
+        mobileNav.querySelectorAll('a').forEach(a => {
+            a.addEventListener('click', () => {
+                toggleBtn.setAttribute('aria-expanded', 'false');
+                mobileNav.classList.remove('open');
+            });
+        });
+    }
+});
+</script>

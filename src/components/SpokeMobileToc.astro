@@ -1,0 +1,21 @@
+---
+/**
+ * SpokeMobileToc — Collapsible TOC bar for mobile (hidden on desktop)
+ * Auto-generates from h2 headings via JS.
+ * Place ABOVE the article content in each spoke layout.
+ */
+---
+
+<div class="spoke-mobile-toc" id="spoke-mobile-toc">
+    <div class="container">
+        <button class="spoke-mobile-toc-btn" id="spoke-toc-toggle" aria-expanded="false">
+            <span>Table of contents</span>
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" class="spoke-toc-chevron">
+                <path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+        </button>
+        <nav class="spoke-mobile-toc-nav" id="spoke-mobile-toc-nav" aria-label="Table of contents">
+            <div id="spoke-mobile-toc-links"></div>
+        </nav>
+    </div>
+</div>

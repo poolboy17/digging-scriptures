@@ -507,3 +507,107 @@
     box-shadow: 0 2px 8px rgba(109,40,217,0.08);
 }
 .continue-link:hover svg { opacity: 1; }
+
+/* ═══════════════════════════════════════════════════════════
+   SPOKE SIDEBAR — TOC + future product cards
+   Desktop: sticky right column. Mobile: collapsible bar.
+   ═══════════════════════════════════════════════════════════ */
+
+/* ── Shared spoke page layout ── */
+.spoke-layout {
+    display: flex; flex-direction: column; gap: 2rem;
+}
+@media (min-width: 1024px) {
+    .spoke-layout { flex-direction: row; gap: 3rem; }
+}
+.spoke-main { flex: 1; min-width: 0; }
+
+/* ── Desktop sidebar ── */
+.spoke-sidebar {
+    display: none;
+}
+@media (min-width: 1024px) {
+    .spoke-sidebar {
+        display: flex; flex-direction: column; gap: 2rem;
+        width: 220px; flex-shrink: 0;
+        position: sticky; top: 5rem; align-self: flex-start;
+        max-height: calc(100vh - 6rem); overflow-y: auto;
+    }
+}
+
+.spoke-sidebar-label {
+    font-size: 0.6875rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--color-text-light);
+    margin-bottom: 0.75rem;
+}
+
+/* TOC links (desktop) */
+.spoke-sidebar-toc-links {
+    display: flex; flex-direction: column;
+}
+.spoke-toc-link {
+    display: block; padding: 0.3125rem 0; font-size: 0.8125rem;
+    color: var(--color-text-muted); text-decoration: none;
+    border-left: 2px solid transparent; padding-left: 0.75rem;
+    transition: all 0.15s; line-height: 1.4;
+}
+.spoke-toc-link:hover {
+    color: var(--color-primary); border-left-color: var(--color-primary);
+}
+.spoke-toc-link.active {
+    color: var(--color-primary); border-left-color: var(--color-primary); font-weight: 600;
+}
+
+/* Product cards (future) */
+.spoke-sidebar-products {
+    padding-top: 1.5rem; border-top: 1px solid var(--color-border);
+}
+.spoke-product-card {
+    display: flex; flex-direction: column; gap: 0.25rem;
+    padding: 0.875rem; margin-bottom: 0.5rem;
+    background: var(--color-light); border: 1px solid var(--color-border);
+    border-radius: 0.5rem; text-decoration: none;
+    transition: all 0.2s ease;
+}
+.spoke-product-card:hover {
+    border-color: color-mix(in srgb, var(--color-primary) 30%, var(--color-border));
+    box-shadow: 0 2px 8px rgba(109,40,217,0.06);
+}
+.spoke-product-label {
+    font-size: 0.625rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.04em; color: var(--color-primary);
+}
+.spoke-product-title {
+    font-size: 0.8125rem; font-weight: 600; color: var(--color-text-dark); line-height: 1.3;
+}
+.spoke-product-price {
+    font-size: 0.8125rem; font-weight: 700; color: var(--color-text-dark);
+}
+.spoke-product-meta {
+    font-size: 0.6875rem; color: var(--color-text-light);
+}
+
+/* ── Mobile TOC ── */
+.spoke-mobile-toc {
+    border-bottom: 1px solid var(--color-border);
+    background: var(--color-surface);
+}
+@media (min-width: 1024px) { .spoke-mobile-toc { display: none; } }
+
+.spoke-mobile-toc-btn {
+    display: flex; align-items: center; justify-content: space-between;
+    width: 100%; padding: 0.75rem 0; background: none; border: none;
+    font-size: 0.8125rem; font-weight: 600; color: var(--color-text-dark);
+    cursor: pointer;
+}
+.spoke-toc-chevron { transition: transform 0.2s; }
+.spoke-mobile-toc-btn[aria-expanded="true"] .spoke-toc-chevron {
+    transform: rotate(180deg);
+}
+.spoke-mobile-toc-nav {
+    display: none; padding-bottom: 0.75rem;
+}
+.spoke-mobile-toc-nav.open { display: block; }
+.spoke-mobile-toc-nav .spoke-toc-link {
+    padding: 0.375rem 0; border-left: none; padding-left: 0;
+}
