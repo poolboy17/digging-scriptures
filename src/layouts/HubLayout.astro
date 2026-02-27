@@ -152,41 +152,6 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
     <div class="hub-hero-grain"></div>
     <div class="hub-hero-fade"></div>
 </header>
-<!-- ═══════════════════ SPOKE PREVIEW (early discovery) ═══════════════════ -->
-{spokeCount > 0 && (
-<section class="spoke-preview">
-    <div class="container">
-        <p class="spoke-preview-label">In this tradition</p>
-        <div class="spoke-preview-scroll">
-            {allPlaces.map((place) => (
-                <a href={`/places/${place.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
-                    <span class="spoke-chip-text">{place.data.title}</span>
-                </a>
-            ))}
-            {allRoutes.map((route) => (
-                <a href={`/routes/${route.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/></svg></span>
-                    <span class="spoke-chip-text">{route.data.title}</span>
-                </a>
-            ))}
-            {relatedStories.map((story) => (
-                <a href={`/stories/${story.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
-                    <span class="spoke-chip-text">{story.data.title}</span>
-                </a>
-            ))}
-            {relatedContext.map((ctx) => (
-                <a href={`/context/${ctx.slug}`} class="spoke-chip">
-                    <span class="spoke-chip-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></span>
-                    <span class="spoke-chip-text">{ctx.data.title}</span>
-                </a>
-            ))}
-        </div>
-    </div>
-</section>
-)}
-
 <!-- ═══════════════════ MOBILE TOC ═══════════════════ -->
 <div class="mobile-toc-wrapper container" id="mobile-toc">
     <button class="mobile-toc-toggle" id="mobile-toc-toggle" aria-expanded="false">
