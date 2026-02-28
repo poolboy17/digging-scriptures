@@ -1,113 +1,98 @@
 ---
-title: "The Last 100km: A Week on the Camino Francés"
-description: "Day-by-day itinerary for walking the final 100km of the Camino de Santiago from Sarria — stages, albergues, terrain, and earning your Compostela."
+title: "The Last 100km: A Week on the Camino Francés from Sarria"
+description: "A 7-stage itinerary for the final 100 kilometers of the Camino Francés — from Sarria to Santiago, with daily distances and albergue stops."
 guideType: "itinerary"
 citySlug: "santiago-de-compostela"
 faithTraditions:
   - "Christianity"
 viatorDestId: 565
 image: "/images/content/places-santiago.jpg"
-imageAlt: "The grand façade of Santiago de Compostela Cathedral illuminated at dusk"
+imageAlt: "A stone waymarker on the Camino de Santiago with a scallop shell directing pilgrims toward Santiago"
 ---
 
-The last 100 kilometers of the Camino Francés — from Sarria to [Santiago de Compostela](/places/santiago-de-compostela) — is the most walked section of the most walked pilgrimage route in the world. It meets the minimum distance requirement for the Compostela certificate, fits into a week of vacation, and passes through the green hills and eucalyptus forests of Galicia that many returning pilgrims call their favorite landscape on the entire 800-kilometer route.
+The last 100 kilometers of the Camino Francés — from Sarria to Santiago de Compostela — is the most popular section of the entire Camino network. It meets the minimum distance requirement for the Compostela certificate, takes 5-7 days, and passes through the green rolling hills and eucalyptus forests of Galicia. For many pilgrims, this stretch serves as either an introduction to long-distance pilgrimage or the culmination of a longer journey.
 
-The trade-off is crowds. This section carries the highest pilgrim density of any Camino segment. In summer, albergues fill by early afternoon. The social atmosphere is intense — a compressed version of the community that builds more gradually on the full Francés. For first-time pilgrims testing whether long-distance walking pilgrimage suits them, and for experienced walkers with limited time, this week provides a genuine Camino experience.
-
-Read the [Camino planning guide](/cities/santiago-de-compostela/planning-your-camino-pilgrimage) for credencial details, packing advice, training recommendations, and budget information.
+Read our [Camino planning guide](/cities/santiago-de-compostela/planning-your-camino-pilgrimage) for credencial logistics, packing advice, and training recommendations before departure.
 
 ## Getting to Sarria
 
-Sarria is the standard starting point for the last 100 kilometers. From Santiago, take the RENFE train to Sarria (2.5-3 hours, approximately €15-20). From Madrid, trains run to Sarria via Monforte de Lemos (5-6 hours). From Lugo, buses run frequently (1 hour).
+Sarria is the starting point for most 100km pilgrims. The town is accessible by train from Madrid (5-6 hours via Ourense) or bus from Santiago (2.5 hours) or Lugo (45 minutes). Most pilgrims arrive the evening before they start walking, check into an albergue or hotel, and obtain their credencial stamp from the church or the Sarria pilgrim office.
 
-Arrive in Sarria the afternoon or evening before you plan to walk. Collect your credencial if you do not already have one — the pilgrim association office in Sarria and several albergues sell them for €2-3. Get your first stamp.
+**Important**: For the last 100km, the Pilgrim Office in Santiago requires **two stamps per day** on your credencial (not just one as on earlier sections). Stamp at your albergue each morning and at a church, bar, or municipal office along the route each afternoon.
 
-**Critical rule for the last 100km**: you need a minimum of two credencial stamps per day to qualify for the Compostela. Stamp at albergues, churches, bars, and municipal offices along the route. Do not forget — the Pilgrim Office in Santiago will check.
+## Stage 1: Sarria to Portomarín (22km)
 
-## Day 1: Sarria to Portomarín — 22.2km
+The first stage is the longest and tests whether your training was sufficient. Leave Sarria early — by 7:00am if possible — to spread the distance across the coolest hours. The trail descends to the Río Miño valley, passes through small villages with Romanesque churches, and crosses the modern bridge into Portomarín.
 
-**Terrain**: Gentle hills through farmland and eucalyptus forest. Rural Galicia at its most characteristic — stone walls, hórreos (granite grain stores on stilts), small villages with Romanesque churches. The path is well-marked with yellow arrows and stone waymarkers showing the remaining distance to Santiago.
+Portomarín was relocated in the 1960s when a reservoir flooded the original town. The twelfth-century Church of San Nicolás was moved stone by stone to its current hilltop location. The town has excellent albergues, restaurants, and the first real sense of Camino community as pilgrims converge at dinner.
 
-**Highlights**: The medieval bridge at Sarria, the Romanesque church at Barbadelo, and the long descent to the reservoir at Portomarín. The town itself was relocated stone by stone when the original site was flooded by a dam in the 1960s. The Romanesque Church of San Nicolás was dismantled and rebuilt on higher ground — each stone numbered for reassembly.
+**Terrain**: gentle hills, paved paths, and quiet country lanes. Some road walking.
 
-**Accommodation**: Portomarín has multiple albergues (municipal and private), hotels, and pensions. The municipal albergue on the main square is the largest. In summer, arrive by 2pm for a bed.
+## Stage 2: Portomarín to Palas de Rei (25km)
 
-**Difficulty**: Moderate. The distance is longer than subsequent days to build in margin for the total 100km requirement. If 22km feels ambitious for a first day, consider starting a day earlier from O Cebreiro (152km) and spreading the distance across more stages.
+The longest stage in this itinerary. The terrain is forested and undulating, with no significant climbs but persistent small hills that accumulate fatigue. Pass through the hamlet of Castromaior (small Romanesque church worth a stop) and the village of Airexe before reaching Palas de Rei.
 
-## Day 2: Portomarín to Palas de Rei — 24.8km
+If 25km feels excessive, split this stage by stopping at Gonzar or Ventas de Narón (approximately 12-13km from Portomarín). Both have albergues.
 
-**Terrain**: The longest day. Rolling hills through oak and eucalyptus forest, small hamlets, and open farmland. The path crosses several small ridges — none steep, but the cumulative elevation gain makes this the most physically demanding stage.
+**Terrain**: forest paths, eucalyptus groves, minor road crossings. Mud after rain.
 
-**Highlights**: The Romanesque church at Vilar de Donas, a 2-kilometer detour off the main route and well worth the extra distance. The church houses remarkably preserved fourteenth-century frescoes and the tombs of the Knights of the Order of Santiago, who protected pilgrims on this route for centuries.
+## Stage 3: Palas de Rei to Arzúa (29km or split)
 
-**Accommodation**: Palas de Rei is a small town with adequate services. Multiple albergues, several restaurants, a pharmacy, and a supermarket for restocking supplies.
+This is the stage most pilgrims split into two days. The full distance is demanding, and splitting at Melide (15km from Palas de Rei) creates two comfortable days. Melide is famous for its pulperías — octopus restaurants where Galician pulpo a feira (octopus with paprika and olive oil) is served on wooden plates. Eating octopus in Melide is a Camino rite of passage.
 
-**Difficulty**: Challenging due to distance. This is where blisters typically announce themselves. Address hot spots immediately — do not wait until they worsen. Compeed patches applied early prevent days of pain.
+If continuing to Arzúa (14km beyond Melide), the route follows pleasant forest and farmland. Arzúa is a small market town with good services and a sense of proximity to Santiago — two days remain.
 
-## Day 3: Palas de Rei to Arzúa — 28.5km
+**Terrain**: forest trails, farm tracks, some road walking. Generally gentle.
 
-**Terrain**: The longest stage, but the terrain is gentler than Day 2. The path descends gradually through wooded valleys and crosses several small rivers on medieval stone bridges. The landscape becomes progressively greener as you move west into Galicia's wetter climate.
+## Stage 4: Arzúa to O Pedrouzo (19km)
 
-If 28.5km is too much, split this into two days by stopping in Melide (14.7km from Palas de Rei). Melide is famous for pulpo a feira — Galician-style octopus served on wooden plates with olive oil, sea salt, and paprika. The Pulpería Ezequiel has been serving it to pilgrims since the 1960s.
+A relatively easy stage through eucalyptus forest and small villages. The trail is well-shaded and the terrain is mild. O Pedrouzo (also called Arca) is the traditional last overnight stop before Santiago. The atmosphere here is charged with anticipation — tomorrow you arrive.
 
-**Highlights**: The medieval bridge at Furelos, the town of Melide and its octopus tradition, and the crossing into the final 40 kilometers. The landscape shifts here — more dairy farms, more eucalyptus, the air damper and greener. You are entering the wet, lush world of Atlantic Galicia.
+Some pilgrims push past O Pedrouzo to shorten the final day, but the standard approach is to overnight here and walk the final 20km to Santiago in a single emotional morning.
 
-**Accommodation**: Arzúa has a good selection of albergues and hotels. The town is known for its cheese — Arzúa-Ulloa is a creamy, mild cow's milk cheese that appears on every Galician table.
+**Terrain**: flat to gently rolling forest paths.
 
-**Difficulty**: Hard due to distance. Your body has now adjusted to walking, but accumulated fatigue from three days makes the final 10 kilometers feel longer than they are. Rest at Melide if needed.
+## Stage 5: O Pedrouzo to Santiago de Compostela (20km)
 
-## Day 4: Arzúa to O Pedrouzo — 19.3km
+Rise early for the final walk. Most pilgrims leave before dawn to arrive at the [Cathedral of Santiago de Compostela](/places/santiago-de-compostela) by mid-morning. The route passes through Lavacolla (where medieval pilgrims bathed before entering the city), the Monte do Gozo viewpoint (where the cathedral spires first become visible — the Hill of Joy), and the expanding suburbs of Santiago before entering the old town through the Porta do Camiño.
 
-**Terrain**: A shorter, easier day that serves as recovery before the final approach to Santiago. The path winds through eucalyptus groves and small farming villages. The terrain is flat to gently rolling. This is the day your body thanks you for the reduced distance.
+The moment of arrival in the **Plaza del Obradoiro** — the grand square facing the cathedral's baroque western façade — is the emotional climax of the Camino. Pilgrims sit on the cobblestones, embrace fellow walkers, and simply absorb the fact that the journey is complete. Take as long as you need.
 
-**Highlights**: The villages along this stretch feel unchanged from the medieval pilgrimage era — stone houses, small churches, dogs that ignore pilgrims because they have seen too many to care. The quiet ordinariness of the landscape creates space for reflection. Many pilgrims report that this penultimate day brings unexpected emotion — the realization that the walk is nearly finished, that the rhythm you have built will soon end.
+Enter the cathedral. The interior includes the crypt containing the relics of Saint James, the Pórtico de la Gloria (the twelfth-century sculptural masterpiece at the entrance, recently restored), and the botafumeiro — an enormous incense burner that swings across the transept during special masses. Check the cathedral schedule for botafumeiro masses, which do not occur daily.
 
-**Accommodation**: O Pedrouzo (also called Arca) is the standard last stop before Santiago. Albergues and hotels fill quickly in season — arrive early. Rest well tonight. Tomorrow matters.
+### The Pilgrim Office
 
-**Difficulty**: Easy to moderate. The reduced distance is deliberate — you want fresh legs for the final approach.
+After the cathedral, walk to the **Pilgrim Office** (Oficina del Peregrino) on Rúa das Carretas. Present your credencial with its stamps. If walking for religious or spiritual reasons, you receive the Compostela. The office also issues a distance certificate upon request. Expect a 30-60 minute wait during peak season.
 
-## Day 5: O Pedrouzo to Santiago de Compostela — 19.4km
+---
 
-**Terrain**: The final day. The path passes through eucalyptus forest and suburban development before reaching the outskirts of Santiago. The last 5 kilometers cross the Santiago urban area, following Camino markers through neighborhoods and parks to the cathedral.
+## Daily Summary
 
-**The Approach to Santiago**: The moment you see the spires of the cathedral from Monte do Gozo (the Hill of Joy, 5km from the city center) is one of the great emotional peaks of any pilgrimage anywhere. Medieval pilgrims raced each other to this viewpoint — the first to see the cathedral was nicknamed "the king" of their group. The view today includes modern Santiago's sprawl, but the cathedral towers remain the focal point, just as they were for the [original pilgrims](/stories/legend-of-saint-james) a thousand years ago.
+| Stage | Route | Distance | Difficulty |
+|-------|-------|----------|------------|
+| 1 | Sarria → Portomarín | 22km | Moderate |
+| 2 | Portomarín → Palas de Rei | 25km | Moderate-Hard |
+| 3a | Palas de Rei → Melide | 15km | Easy-Moderate |
+| 3b | Melide → Arzúa | 14km | Easy-Moderate |
+| 4 | Arzúa → O Pedrouzo | 19km | Easy |
+| 5 | O Pedrouzo → Santiago | 20km | Easy-Moderate |
 
-Enter the old city through the Porta do Camiño. Follow the shells embedded in the pavement through narrow medieval streets. Pass through the tunnel under the Pazo de Raxoi and emerge into the Praza do Obradoiro. The cathedral's Baroque western façade fills your vision.
+Total: approximately 115km over 5-6 walking days.
 
-**At the Cathedral**: Enter through the Pórtico de la Gloria (Romanesque masterpiece, recently restored). Tradition dictates three acts: embrace the statue of Saint James behind the high altar, visit his crypt beneath the altar, and — if you have carried a stone from home — leave it at the Cruz de Ferro marker (you passed this if you walked from further back on the Francés). Attend the Pilgrims' Mass at noon, where the botafumeiro (giant incense burner) may be swung from the transept ceiling on special occasions.
+## Practical Notes
 
-**Pilgrim Office**: Visit the Oficina del Peregrino on Rúa Carretas to receive your Compostela. Present your credencial with stamps from each day (minimum two per day for the last 100km section). The office is open 8am-8pm in high season. Expect a wait of 30-90 minutes. The certificate, printed in Latin, certifies that you completed the pilgrimage for religious or spiritual reasons.
+The last 100km section is busier than the rest of the Camino. In summer, albergues fill by early afternoon. Starting each day by 7:00am secures both a bed and a more peaceful walking experience before the midday wave of pilgrims.
 
-## Day 6: Santiago de Compostela
+Galician weather is unpredictable — rain gear is essential even in summer. The eucalyptus forests can be muddy after rainfall. Temperatures are generally mild (15-25°C in spring and autumn) but can be hot in July-August.
 
-**Morning — Cathedral Museum and Rooftops**
-
-With the walking complete, explore what you were too emotional or exhausted to absorb yesterday. The Cathedral Museum houses the original stone choir by Master Mateo. The rooftop tour provides panoramic views of the city from the cathedral's towers — a perspective that connects the medieval street plan to the pilgrimage routes radiating outward in every direction.
-
-**Afternoon — Explore the Old Town**
-
-Santiago's granite old town is a UNESCO World Heritage Site. The narrow streets, arcaded plazas, and Romanesque churches reward aimless wandering. Visit the market (Mercado de Abastos) for Galician seafood — percebes (goose barnacles), pulpo, and empanada gallega.
-
-**Evening — Celebration Dinner**
-
-You earned it. Galician cuisine is among Spain's best — seafood from the Rías Baixas, Albariño wine, Padrón peppers, tarta de Santiago (almond cake dusted with powdered sugar in the shape of the Cross of Santiago). The restaurants on Rúa do Franco and Rúa da Raíña serve traditional cuisine in medieval stone dining rooms.
-
-## Day 7: Finisterre Extension (Optional)
-
-Many pilgrims continue 90 kilometers west to Finisterre — the "end of the earth" — where pre-Christian tradition held that the sun died each evening in the Atlantic. The walk takes three additional days, or buses make the trip in 2-3 hours. At the lighthouse on the cape, pilgrims traditionally burn an item of clothing or their walking shoes — a symbolic end to the journey. The sunset from Finisterre is the unofficial final act of the Camino.
-
-## Connecting to the Wider Pilgrimage
-
-The Camino connects to a network of European pilgrimage routes that links Santiago to [Rome](/cities/rome) (via the Via Francigena in reverse) and [Jerusalem](/cities/jerusalem) (the third of the great medieval pilgrimages). The [history of Christian pilgrimage](/context/history-of-christian-pilgrimage) traces how these three cities became the defining destinations of the medieval religious imagination.
-
-The Kumano Kodō in [Japan](/cities/kyoto) is the Camino's twin — the only other UNESCO-designated pilgrimage route. The [7-day Japan itinerary](/cities/kyoto/7-days-in-sacred-japan) follows a similar structure: city temples, mountain monasticism, forest trail walking. Completing both earns the Dual Pilgrim certificate, connecting two ancient walking traditions across hemispheres.
+For the broader story of why this route exists and what draws hundreds of thousands of people to walk it each year, explore the [Legend of Saint James](/stories/legend-of-saint-james), the [Camino de Santiago](/routes/camino-de-santiago) route page, and the [history of Christian pilgrimage](/context/history-of-christian-pilgrimage) that connects Santiago to [Rome](/cities/rome) and [Jerusalem](/cities/jerusalem) as the three great medieval pilgrimage destinations.
 
 ## Experiences and Tours
 
-**[Santiago de Compostela Walking Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-de-Compostela-Walking-Tour/d5765-5765P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $15 · ★ 4.9 · Day 6 exploration
+**[Santiago de Compostela Cathedral Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-de-Compostela-Walking-Tour/d5765-5765P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $15 · ★ 4.9 · History and architecture
 
-**[Cathedral Rooftop Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-Cathedral-Rooftops/d5765-5765ROOF?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $12 · ★ 4.8 · Panoramic views
+**[Cathedral Rooftop Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-Cathedral-Rooftops/d5765-5765ROOF?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $12 · ★ 4.8 · Panoramic city views
 
-**[Galician Food and Wine Tour](https://www.viator.com/tours/Santiago-de-Compostela/Food-Wine-Tour-Santiago/d5765-5765FOOD?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $65 · ★ 5.0 · Post-Camino celebration
+**[Galician Food and Wine Celebration](https://www.viator.com/tours/Santiago-de-Compostela/Food-Wine-Tour-Santiago/d5765-5765FOOD?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $65 · ★ 5.0 · Post-Camino feast
 
 [Browse all Santiago experiences →](https://www.viator.com/Santiago-de-Compostela/d5765-ttd?pid=P00166886&mcid=42383&medium=api)

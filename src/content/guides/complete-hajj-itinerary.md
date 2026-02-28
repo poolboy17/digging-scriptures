@@ -1,145 +1,143 @@
 ---
 title: "A Complete Hajj Itinerary: Day by Day"
-description: "Day-by-day Hajj itinerary covering the full ritual sequence — Mina, Arafat, Muzdalifah, stoning, Tawaf, and the optional Medina extension."
+description: "The full Hajj ritual sequence day by day — from ihram through Arafat, Muzdalifah, Mina, and the farewell tawaf, plus a Medina extension."
 guideType: "itinerary"
 citySlug: "mecca-and-medina"
 faithTraditions:
   - "Islam"
 viatorDestId: 50350
 image: "/images/content/places-mecca.jpg"
-imageAlt: "The Grand Mosque in Mecca with the Kaaba at its center during Hajj"
+imageAlt: "Pilgrims circling the Kaaba during Hajj at the Grand Mosque in Mecca"
 ---
 
-The Hajj compresses the most profound spiritual journey in Islam into five days of physical ritual. Over two million pilgrims move together through a prescribed sequence of sites — Mina, Arafat, Muzdalifah, and back — performing acts that reenact the trials of Ibrahim, Hajar, and Ismail. The logistics are managed by the Saudi government and your Hajj agency, but understanding the ritual sequence before you arrive transforms the experience from a bewildering crowd movement into a conscious spiritual journey.
+The Hajj unfolds across five ritual days in the month of Dhul Hijjah, following a sequence established by the Prophet Muhammad during his farewell pilgrimage in 632 CE. Every Muslim who performs Hajj follows the same steps, in the same places, in the same order — a unity of practice that makes the Hajj the largest synchronized act of worship on earth.
 
-This itinerary covers the full Hajj ritual with a Medina extension — the most common format. Read the [Hajj and Umrah planning guide](/cities/mecca-and-medina/planning-your-hajj-or-umrah) for visa details, ihram requirements, health preparation, and budget information.
+This itinerary walks through each day in sequence, explaining what happens, where, and what the pilgrim should expect physically and spiritually. Read our [Hajj planning guide](/cities/mecca-and-medina/planning-your-hajj-or-umrah) for visa logistics, ihram preparation, and health advice before departure.
 
-## Before the Hajj: Arrival in Mecca
+## Before the Hajj: Arriving in Mecca
 
-Most pilgrims arrive in Mecca 2-5 days before the Hajj begins. Use this time for Umrah — the lesser pilgrimage — and to acclimate to the heat, the crowds, and the emotional intensity of the Grand Mosque.
+Most pilgrims arrive 2-3 days before the Hajj begins to perform **Umrah** — the lesser pilgrimage that includes tawaf (seven circuits of the Kaaba) and sa'i (seven lengths between the hills of Safa and Marwa). Performing Umrah before Hajj is the practice known as Hajj al-Tamattu, the most common form.
 
-**Umrah Rituals**: Enter the state of ihram at your designated miqat (boundary point). Upon reaching the Grand Mosque, perform Tawaf — seven counterclockwise circuits of the Kaaba. The Kaaba is smaller than most pilgrims expect. Its black-draped simplicity, surrounded by a sea of white-clad worshippers circling in unison, is the single most powerful image in Islam. After Tawaf, perform Sa'i — walking seven times between the hills of Safa and Marwa inside the mosque complex, retracing Hajar's desperate search for water for her infant son Ismail. The distance is approximately 3.5 kilometers total.
+After Umrah, you exit ihram and wait in your hotel until the 8th of Dhul Hijjah, when Hajj begins. Use these days to rest, pray in the Grand Mosque, and prepare physically for the demands ahead.
 
-**Orientation**: Familiarize yourself with the Grand Mosque layout, the location of your hotel, the route to the bus staging area for Mina, and the facilities available in the mosque. Learn the locations of restrooms, water stations (Zamzam water fountains are throughout the mosque), and the medical aid stations. This orientation prevents disorientation during the intense days ahead.
+On the morning of the 8th, re-enter **ihram** at your hotel. Perform the ritual bath, put on your ihram garments, and declare your intention (niyyah) for Hajj. The state of ihram is now in effect until the 10th of Dhul Hijjah.
 
-**Rest and Prayer**: Spend time in prayer and reflection. The days before the Hajj are preparation — physical and spiritual. Sleep as much as you can. The ritual days ahead are physically demanding and sleep-deprived.
+---
 
-## Day 1: 8th Dhul Hijjah — Yawm al-Tarwiyah (Day of Quenching)
+## Day 1 (8th Dhul Hijjah): Mecca to Mina
 
-**Morning — Enter Ihram for Hajj**
+### Morning
 
-If you exited ihram after Umrah, re-enter it. Make the niyyah (intention) for Hajj. Begin reciting the Talbiyah: "Labbayk Allāhumma labbayk" — "Here I am, O God, here I am." This response to God's call, repeated continuously throughout the Hajj, is the pilgrim's declaration of presence and submission.
+After entering ihram, travel to **Mina** — a tent city in the valley east of Mecca, approximately 8 kilometers from the Grand Mosque. Your Hajj agency assigns your tent location. Transport is typically by bus, though the distance is walkable.
 
-**Transport to Mina**
+Mina's tent city is one of the world's most extraordinary temporary settlements: over 100,000 climate-controlled tents organized by country, agency, and group. The tents are basic but functional — sleeping mats, shared bathrooms, communal meal service.
 
-Travel to Mina — a tent city in a valley 8 kilometers east of the Grand Mosque. Your Hajj agency arranges transport and assigns your tent. The Mina encampment is organized by nationality and agency. Locate your tent, your group leader, and the nearest facilities.
+### Afternoon and Evening
 
-**Day and Night in Mina**
+This is a day of prayer and preparation. Perform the Dhuhr, Asr, Maghrib, and Isha prayers in Mina, each shortened as prescribed for travelers. The atmosphere is one of anticipation — two million people preparing for the spiritual climax of the Hajj at Arafat tomorrow.
 
-This is a day of preparation and prayer. Perform the five daily prayers. Rest. The tent city is climate-controlled (air conditioning was installed in recent decades) but crowded. The atmosphere is one of collective anticipation — millions of people gathered with a single purpose.
+Rest as much as possible. Tomorrow is the longest and most physically demanding day.
 
-Sleep in Mina. Tomorrow is the spiritual climax of the entire pilgrimage.
+---
 
-## Day 2: 9th Dhul Hijjah — Yawm al-Arafah (Day of Arafat)
+## Day 2 (9th Dhul Hijjah): The Day of Arafat
 
-**This is the most important day of the Hajj.** The Prophet Muhammad said: "Hajj is Arafat." Missing this day invalidates the entire pilgrimage.
+### Morning
 
-**Morning — Travel to Arafat**
+Depart Mina after the Fajr prayer for the **Plain of Arafat**, 14 kilometers to the east. Transport is by bus. The journey can take hours due to the volume of pilgrims moving simultaneously.
 
-After Fajr prayer, travel from Mina to the plain of Arafat (approximately 14 kilometers further east). The journey by bus takes longer than the distance suggests due to the movement of millions.
+### Noon to Sunset
 
-**Noon to Sunset — Standing at Arafat (Wuquf)**
+**The Standing at Arafat** (Wuquf) begins after noon and continues until sunset. This is the spiritual heart of the Hajj — scholars say that missing Arafat means missing the Hajj entirely, and that the Hajj is Arafat.
 
-The Wuquf — standing in prayer and supplication on the plain of Arafat — is the Hajj's spiritual core. From noon until sunset, pilgrims stand in prayer, supplication, and tears. This is the moment of raw encounter with God. Many Muslims consider it a rehearsal for the Day of Judgment, when all humanity will stand before God.
+The standing is not a physical standing but a state of devoted supplication. Pilgrims pray, recite the Quran, make personal dua (supplication), and seek forgiveness. Many weep. The emotional intensity is overwhelming. The sense of two million people simultaneously turning toward God in the same act of devotion creates an experience that pilgrims describe as the closest they have felt to the divine.
 
-There is no prescribed prayer or ritual for the hours at Arafat — it is pure supplication. Raise your hands. Ask for forgiveness. Pray for those you love. Weep. The emotional intensity of two million people simultaneously in this state of raw petition is unlike anything else in human experience.
+The **Mount of Mercy** (Jabal al-Rahmah) at the center of the plain is where the Prophet delivered his farewell sermon. Reaching it is not required and the crowds around the hill are extreme. Praying anywhere on the plain of Arafat fulfills the obligation.
 
-Jabal al-Rahmah (the Mount of Mercy) is the hill where the Prophet delivered his Farewell Sermon. Reaching it is optional and often impossible due to crowds. The standing is valid anywhere within the boundaries of Arafat.
+Combine Dhuhr and Asr prayers (shortened) at noon.
 
-**Sunset — Departure to Muzdalifah**
+### After Sunset: Muzdalifah
 
-After sunset, travel from Arafat to Muzdalifah (approximately 9 kilometers west, back toward Mina). The movement of millions creates extraordinary congestion. The journey may take hours. Be patient — this is the Hajj's greatest logistical bottleneck.
+Immediately after sunset, depart Arafat for **Muzdalifah** — an open plain between Arafat and Mina. The journey is 9 kilometers and can take 3-5 hours due to crowd movement. Many pilgrims walk part of the distance.
 
-**Night at Muzdalifah**
+At Muzdalifah, perform Maghrib and Isha prayers (combined and shortened). **Collect 49-70 small pebbles** (chickpea-sized) from the ground — these will be used for the stoning ritual over the next three days. Sleep in the open air under the sky. Blankets and sleeping mats are available from your agency. The experience of sleeping on the open ground with two million fellow pilgrims is one of the Hajj's most humbling moments.
 
-Sleep under the open sky on the plain of Muzdalifah. Pray Maghrib and Isha together (combined and shortened). Collect 49-70 small pebbles (chickpea-sized) for the stoning rituals over the coming days. The night in Muzdalifah is one of the Hajj's most memorable experiences — millions sleeping on the ground beneath the stars, the sound of Talbiyah echoing across the plain.
+---
 
-Vulnerable pilgrims (elderly, women with children, those with health conditions) may leave Muzdalifah after midnight for Mina. Others remain until after Fajr prayer.
+## Day 3 (10th Dhul Hijjah): Eid al-Adha
 
-## Day 3: 10th Dhul Hijjah — Yawm al-Nahr (Day of Sacrifice / Eid al-Adha)
+This is the busiest and most complex day of the Hajj, with four major rituals performed in sequence.
 
-The busiest and most complex day, with four rituals performed in sequence.
+### 1. Stoning of Jamarat al-Aqaba
 
-**Morning — Stoning of the Jamarat al-Aqaba**
+Depart Muzdalifah after Fajr prayer for **Mina**. At the **Jamarat Bridge** (a multi-level structure built to manage crowd flow), stone the largest pillar (Jamarat al-Aqaba) with **seven pebbles**, saying "Allahu Akbar" with each throw. The modern bridge design distributes pilgrims across multiple levels. Follow your group leader's guidance on timing and flow.
 
-Travel from Muzdalifah to Mina. At the Jamarat complex — a multi-level modern structure designed to handle millions — stone the largest pillar (Jamarat al-Aqaba) with seven pebbles. Each pebble is thrown individually while saying "Bismillah, Allahu Akbar" (In the name of God, God is greatest). This ritual reenacts Ibrahim's rejection of Satan's temptation to disobey God's command to sacrifice his son.
+### 2. Animal Sacrifice
 
-The Jamarat complex has five levels to distribute crowds. Follow your group leader's instructions on which level to use. The stoning can be performed from dawn until after midnight, and authorities encourage pilgrims to avoid the midday peak.
+After stoning, arrange the **qurbani** (animal sacrifice) commemorating Ibrahim's willingness to sacrifice his son. Most pilgrims pay their Hajj agency to handle this — you receive confirmation when it is complete. The meat is distributed to the poor. This sacrifice coincides with Eid al-Adha celebrations worldwide.
 
-**Animal Sacrifice (Qurbani)**
+### 3. Hair Cutting
 
-Arrange the sacrifice through your Hajj agency. You pay the cost (approximately $100-200) and they handle the logistics — the animal is sacrificed by authorized butchers, and the meat is distributed to the poor. You do not need to witness the sacrifice, though some pilgrims choose to.
+Men shave their heads or trim their hair. Women cut a fingertip length from their hair. This marks the **partial exit from ihram** — most ihram restrictions are now lifted except for marital relations.
 
-**Hair Cutting or Shaving**
+### 4. Tawaf al-Ifadah and Sa'i
 
-Men shave their heads or cut their hair short. Women cut a fingertip-length from the ends of their hair. Barbers set up throughout Mina during these days.
+Travel to the **Grand Mosque in Mecca** to perform the obligatory tawaf (seven circuits of the Kaaba) and sa'i (seven lengths between Safa and Marwa). This tawaf is the most important of the Hajj — it is not optional. The Grand Mosque is extremely crowded on this day; many pilgrims delay until the 11th or 12th. Upper levels and the roof are less congested than the ground floor around the Kaaba.
 
-**Partial Exit from Ihram**
+After completing tawaf and sa'i, ihram is fully exited.
 
-After the stoning and hair cutting, most ihram restrictions are lifted. You may change clothes, wear scent, and resume normal dress. The prohibition on marital relations remains until Tawaf al-Ifadah is completed.
+Return to **Mina** to sleep.
 
-**Tawaf al-Ifadah**
+---
 
-Travel to the Grand Mosque in Mecca and perform the obligatory Tawaf — seven circuits of the Kaaba — followed by Sa'i (seven walks between Safa and Marwa). This Tawaf is a pillar of Hajj and cannot be skipped. It may be performed anytime on this day or the following days, but earlier is better to avoid the cumulative crowd pressure.
+## Days 4-5 (11th-12th Dhul Hijjah): Days of Tashreeq
 
-After Tawaf al-Ifadah, all ihram restrictions are fully lifted.
+### Both Days
 
-**Return to Mina**
+Each day, stone **all three pillars** at the Jamarat in sequence — smallest (Jamarat al-Ula) first, then middle (Jamarat al-Wusta), then largest (Jamarat al-Aqaba). Seven pebbles at each pillar, 21 pebbles per day. Stone after the Dhuhr prayer (stoning before noon is not valid on these days).
 
-Return to your tent in Mina for the night.
+Between stonings, spend time in Mina in prayer, Quran recitation, and rest. The days of Tashreeq have a different character from the intense first three days — the major rituals are complete and the atmosphere becomes reflective.
 
-## Days 4-5: 11th-12th Dhul Hijjah — Ayyam al-Tashriq (Days of Drying Meat)
+**Departure option**: pilgrims may leave Mina after stoning on the 12th, provided they depart before sunset. If still in Mina at sunset on the 12th, they must stay and stone again on the 13th.
 
-**Each Day — Stoning of All Three Pillars**
-
-After the sun passes its zenith, stone all three pillars in sequence: the small (Jamarat al-Sughra), then the medium (Jamarat al-Wusta), then the large (Jamarat al-Aqaba). Seven pebbles at each pillar. After stoning the small and medium pillars, pause to make dua (supplication) facing Mecca.
-
-**12th Dhul Hijjah — Departure Decision**
-
-Pilgrims who wish to leave Mina on the 12th must complete their stoning and depart before sunset. Those who remain must stone again on the 13th. Most Hajj agencies depart on the 12th.
+---
 
 ## Farewell Tawaf
 
-Before leaving Mecca, perform the Tawaf al-Wida (Farewell Tawaf) — seven final circuits of the Kaaba. This should be the last act you perform in Mecca. Menstruating women are exempt from this Tawaf.
+Before leaving Mecca, every pilgrim must perform the **Tawaf al-Wada** (farewell circumambulation) — seven circuits of the Kaaba as the final act of the Hajj. This is performed in regular clothing (not ihram). The emotional weight of this final tawaf is profound — many pilgrims are unsure if they will ever return.
 
-The Farewell Tawaf is emotionally overwhelming. You are leaving the holiest place on earth, unsure if you will ever return. Many pilgrims weep openly. The tradition is to walk backward from the Kaaba, keeping it in view as long as possible.
+---
 
-## Medina Extension: 3-4 Days
+## Medina Extension (3-4 Days)
 
-Most pilgrims extend to [Medina](/places/medina), the Prophet's city. Travel is by bus (5-6 hours) or high-speed rail (2.5 hours via Haramain Railway).
+Most Hajj packages include time in [Medina](/places/medina), home of the Prophet's Mosque. The visit is typically scheduled before or after the Hajj rituals.
 
-**The Prophet's Mosque (Al-Masjid an-Nabawi)** is the spiritual heart of Medina. The mosque is open 24 hours and accommodates over one million worshippers. The architecture — white marble, soaring columns, retractable umbrellas that shade the courtyard — is both modern and majestic.
+### Day 1: The Prophet's Mosque
 
-**The Rawdah** — the area between the Prophet's tomb and his pulpit, described by the Prophet as a garden of paradise — is the most sought-after prayer space in Medina. Access is time-limited and managed by mosque authorities. The lines are long. The experience of praying in this space, aware of the Prophet's presence behind the green-draped enclosure, is among the most intimate spiritual moments available in Islam.
+The Prophet's Mosque is open 24 hours. Spend your first day in prayer and exploration. The mosque's vast expansion accommodates over one million worshippers, but its spiritual center remains the **Rawdah** — the area between the Prophet's tomb and his pulpit, described in hadith as one of the gardens of paradise. Access to the Rawdah is time-limited and gender-separated. Lines form constantly. Early morning (after Fajr) offers the shortest waits.
 
-**Ziyarat in Medina** covers the historical sites: the Quba Mosque (the first mosque in Islam, where praying equals the reward of Umrah), the Qiblatain Mosque (where the direction of prayer changed from Jerusalem to Mecca), the battlefields of Uhud and Badr, and Jannat al-Baqi cemetery where many of the Prophet's companions are buried. These can be covered in organized [ziyarat tours](/context/ziyarat-visiting-shrines-islam).
+### Day 2: Ziyarat (Historical Sites)
 
-**Al-Baqi Cemetery** adjacent to the Prophet's Mosque is one of the most sacred burial grounds in Islam. Many of the Prophet's family members and companions rest here. The site is open for limited visiting hours. Stand at the boundary and offer prayers for the deceased — the simplicity of the graves, in contrast to the magnificence of the mosque, is a powerful reminder of Islamic egalitarianism before death.
+A guided [ziyarat tour](/context/ziyarat-visiting-shrines-islam) visits the major historical sites: **Mount Uhud** (the battlefield where the second major battle of Islam was fought), the **Quba Mosque** (the first mosque in Islam — praying here carries special reward), the **Qiblatain Mosque** (where the direction of prayer was changed from Jerusalem to Mecca), and the **Seven Mosques** (commemorating the Battle of the Trench).
 
-## Connecting to the Wider Pilgrimage
+### Day 3: Reflection
 
-The Hajj sits at the center of [Islamic pilgrimage traditions](/journeys/islamic-pilgrimage-traditions). The rituals reenact events from the story of Ibrahim that are shared across the Abrahamic traditions — the same patriarch honored at the Cave of Machpelah in Hebron, near [Jerusalem](/cities/jerusalem). The [five pillars framework](/context/five-pillars-hajj-explained) places the Hajj as the culmination of Islamic practice, a once-in-a-lifetime obligation that marks the ultimate submission to God.
+A final day for prayer at the Prophet's Mosque, shopping in the market district surrounding the Haram, and reflection on the journey. Medina's atmosphere is gentler than Mecca's — the city is called the Radiant City (Al-Madinah Al-Munawwarah), and its calmer pace provides space to process the transformative intensity of the Hajj.
 
-[Ibn Battuta's](/stories/ibn-battuta-pilgrim-traveler) famous journey began as a Hajj from Morocco in 1325 and became one of history's greatest travel narratives — a reminder that the Hajj has always been both a spiritual terminus and a starting point for wider exploration of the Muslim world.
+---
 
-The physical intensity of the Hajj — the walking, the heat, the sleep deprivation, the emotional rawness — parallels the demanding aspects of every pilgrimage tradition. The [Camino](/cities/santiago-de-compostela) breaks you down with kilometers. [Varanasi](/cities/varanasi) confronts you with mortality. The Hajj does both simultaneously, compressing the transformative experience that other pilgrimages spread over weeks into five extraordinary days.
+## Practical Notes
+
+The physical demands of Hajj cannot be overstated. You will walk 10-20 kilometers per day for five consecutive days in extreme heat and dense crowds. Start a walking program eight weeks before departure. Carry water at all times. Use an umbrella for shade.
+
+The Hajj is intensely communal — you are never alone, which is both its power and its challenge. Patience, generosity, and tolerance are not just spiritual virtues during Hajj but practical survival skills. The crowds, the waiting, the heat, the fatigue — Islamic tradition teaches that bearing these difficulties with grace is itself an act of worship.
+
+For the theological context that transforms these physical rituals into spiritual practice, explore the [five pillars and the Hajj's place within Islam](/context/five-pillars-hajj-explained), the story of [Ibn Battuta](/stories/ibn-battuta-pilgrim-traveler) whose legendary journey began as a Hajj pilgrimage, and the broader [Islamic pilgrimage traditions](/journeys/islamic-pilgrimage-traditions) hub page.
 
 ## Experiences and Tours
 
-**[Private Guided Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 · Medina extension
+**[Private Guided Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 · Historical sites tour
 
-**[Half-Day Prophet Mohammed City Tour](https://www.viator.com/tours/Medina/Prophet-Mohammed-Mosque-Al-Masjid-an-Nabawi/d50350-5524632P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $149 · ★ 5.0 · Historical sites
-
-**[Madinah Ziyarats: Holy Places Visit](https://www.viator.com/tours/Medina/Medina-Ziyarah-A-Spiritual-Journey-in-the-City-of-the-Prophet/d50350-464257P71?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $220 · ★ 5.0 · Comprehensive sacred circuit
+**[Madinah Ziyarats: Holy Places Visit](https://www.viator.com/tours/Medina/Medina-Ziyarah-A-Spiritual-Journey-in-the-City-of-the-Prophet/d50350-464257P71?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $220 · ★ 5.0 · Comprehensive ziyarat
 
 [Browse all Medina experiences →](https://www.viator.com/Medina/d50350-ttd?pid=P00166886&mcid=42383&medium=api)
