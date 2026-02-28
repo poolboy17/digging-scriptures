@@ -19,7 +19,7 @@ imageAlt: "Medieval European town with a church, evoking the pilgrimages of Marg
 imageCredit: "Photo by Daniel Mok on Unsplash"
 ---
 
-<Fragment slot="narrative">
+
 
 Margery Kempe, born around 1373 in Bishop's Lynn (modern King's Lynn), Norfolk, was the daughter of a prosperous town official, the wife of a burgess, and the mother of fourteen children. She was also a mystic, a pilgrim, and the author of what is generally regarded as the first autobiography written in English. Her Book, dictated to scribes because she was illiterate, records a life of extraordinary spiritual intensity played out against the backdrop of late medieval English society — a life that took her on pilgrimages to Jerusalem, Rome, Santiago de Compostela, and numerous other sacred sites across Europe and the Holy Land.
 
@@ -43,9 +43,9 @@ In Jerusalem, Margery's mystical experiences reached their peak intensity. At th
 
 After Jerusalem, Margery traveled to Rome, where she spent several months living in poverty among the city's community of foreign pilgrims. She later undertook pilgrimages to Santiago de Compostela, to Wilsnack in Germany (site of a blood miracle), and to various English shrines. Each journey generated both spiritual experiences and social conflict, as Margery's unconventional behavior — wearing white clothing usually reserved for virgins, weeping loudly during sermons, claiming direct conversations with Christ — challenged social and ecclesiastical norms.
 
-</Fragment>
 
-<Fragment slot="context">
+
+
 
 Margery Kempe's pilgrimages took place during one of medieval Christianity's most turbulent periods. The Great Schism (1378–1417) had divided Western Christendom between rival popes in Rome and Avignon. The Lollard movement, inspired by John Wycliffe, challenged fundamental Catholic doctrines including transubstantiation, clerical celibacy, and pilgrimage itself. Margery was interrogated multiple times on suspicion of Lollardy — her lay preaching and unconventional piety made her a target — and her Book records several encounters with ecclesiastical authorities that she navigated with a combination of theological knowledge, social skill, and what she presented as divine guidance.
 
@@ -60,9 +60,9 @@ Margery's mystical experiences place her within a tradition of female visionary 
 
 The relationship between pilgrimage and gender in Margery's experience illuminates broader patterns. Female pilgrims faced challenges that male pilgrims did not: vulnerability to sexual assault, suspicion of sexual impropriety (a woman traveling without her husband invited gossip), and the physical demands of travel compounded by the limitations imposed by contemporary dress and social expectations. Margery negotiated these challenges with varying success, and her account provides one of the most detailed records of a medieval woman's experience of the pilgrimage road.
 
-</Fragment>
 
-<Fragment slot="legacy">
+
+
 
 The Book of Margery Kempe, lost for centuries, was rediscovered in 1934 in the library of a private family in Lancashire. Its identification as the first autobiography in English — predating by decades any comparable first-person narrative in the language — made it an immediate object of scholarly interest. The text has since become a canonical document in medieval studies, women's history, literary history, and the study of mysticism.
 
@@ -72,13 +72,13 @@ The scholarly response to Margery has evolved considerably since the Book's redi
 
 Margery Kempe remains a figure who resists comfortable categorization. She was a mystic who was also a pragmatic businesswoman. She was a devoted wife who negotiated a chastity agreement with her husband. She was illiterate yet produced one of the most significant texts in the English literary tradition. She was a pilgrim who found holiness not in withdrawal from the world but in sustained, often conflictual engagement with it. Her story suggests that pilgrimage, at its most intense, is not an escape from ordinary life but an amplification of it — a practice that magnifies both the sacred and the mundane dimensions of human experience.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Jerusalem Old City](/places/jerusalem-old-city) — The site of Margery's most intense mystical experiences
 - [Rome and the Vatican](/places/rome-vatican) — Where Margery lived among the foreign pilgrim community
 - [Camino de Santiago](/routes/camino-de-santiago) — One of Margery's pilgrimage routes
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition within which Margery traveled
 
-</Fragment>
+

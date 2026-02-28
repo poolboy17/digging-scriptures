@@ -20,7 +20,7 @@ imageAlt: "Traditional torii gates along the forested Kumano Kodo pilgrimage tra
 imageCredit: "Photo by Alexander Korte on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 The Kumano Kodō, a network of pilgrimage trails threading through the densely forested mountains of the Kii Peninsula in southern Japan, represents one of the world's most remarkable examples of as sacred text. The trails connect three grand shrines — Kumano Hongū Taisha, Kumano Nachi Taisha, and Kumano Hayatama Taisha — collectively known as the Kumano Sanzan, which have drawn pilgrims since at least the tenth century CE. In 2004, the routes were inscribed as a UNESCO World Heritage Site under the designation "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range," making them one of only two pilgrimage routes in the world to receive this recognition (the other being the Camino de Santiago).
 
@@ -39,9 +39,9 @@ Imperial pilgrimage to Kumano reached its peak during the Heian period (794–11
 
 The pilgrimage democratized during the Muromachi (1336–1573) and Edo (1603–1868) periods, as improved trail infrastructure, the establishment of pilgrim lodges, and the development of guidebooks made the journey accessible to commoners. A network of sendatsu (pilgrim guides) organized group pilgrimages and provided spiritual instruction along the route. The trails became a cross-section of Japanese society in motion, from aristocrats to farmers, monks to merchants, all sharing the same mountain paths and the same ritual encounters at the three grand shrines.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Forest" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -65,9 +65,9 @@ The Iseji route connects the Ise Grand Shrine (Shinto's most sacred site) with t
 
 The daily rhythm of Kumano walking involves early starts to maximize daylight, steady progress through forested terrain punctuated by ōji visits, and evenings in mountain villages or at trailside accommodation. The forest environment — humid, green, often shrouded in mist — creates a sensory experience fundamentally different from the open s of European pilgrimage routes. The pilgrim walks within the forest rather than across an open , enclosed by trees and the sounds of water, birdsong, and wind through the canopy.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 **Kumano Hongū Taisha**, the principal shrine of the Kumano Sanzan, sits amid ancient cryptomeria trees near the confluence of the Kumano and Otonashi rivers. The shrine's current location dates from 1889, when catastrophic flooding forced its relocation from the original site at Ōyunohara, a broad sandbar where the original torii gate — now the world's largest at over thirty meters tall — still stands as a dramatic memorial to the shrine's former position.
 
@@ -86,9 +86,9 @@ The daily rhythm of Kumano walking involves early starts to maximize daylight, s
 
 **Nachi waterfall** deserves mention independent of Nachi Taisha because its significance as an object of worship predates and transcends the shrine built beside it. The waterfall was venerated as a manifestation of divine power long before formal religious architecture appeared at the site. Yamabushi (mountain ascetics) have practiced meditation beneath its spray for centuries, and the practice continues today — a direct link to the nature worship that underlies all of Kumano's religious significance.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The Kumano Kodō's inscription as a UNESCO World Heritage Site in 2004 catalyzed both preservation efforts and international awareness. The designation, shared with Mount Kōya and the associated sacred sites, recognized the cultural as a whole — not merely individual buildings but the network of paths, shrines, forests, and settlements that collectively constitute one of the world's most significant sacred environments. The inscription has been accompanied by systematic trail maintenance, improved waymarking, and the development of multilingual information resources.
 
@@ -100,13 +100,13 @@ The pilgrimage is walkable year-round, though spring (March–May) and autumn (O
 
 The Kumano Kodō demonstrates a model of pilgrimage route management that balances preservation, accessibility, and economic benefit for local communities. The Tanabe City Kumano Tourism Bureau has developed reservation systems, walking maps, baggage transfer services, and guided tour options that make the routes accessible to a wide range of walkers while protecting the natural and cultural from the impacts of unmanaged tourism. This approach has been studied by pilgrimage route managers elsewhere as an example of sustainable sacred tourism.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Mount Kōya](/places/mount-koya) — The Buddhist mountain monastery connected to Kumano via the Kohechi route
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Japan's other great Buddhist pilgrimage circuit
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder of Shingon Buddhism and his pilgrimage legacy
 
-</Fragment>
+

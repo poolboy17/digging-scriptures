@@ -16,7 +16,7 @@ imageAlt: "Ancient manuscript page from an early pilgrimage journal, evoking Ege
 imageCredit: "Photo by Mourizal Zativa on Unsplash"
 ---
 
-<Fragment slot="narrative">
+
 
 Sometime around 381–384 CE, a woman known to us as Egeria — her name is uncertain and appears in various forms in the manuscript tradition — undertook a pilgrimage from the western reaches of the Roman Empire to the Holy Land. Her account of this journey, written as a series of letters to a community of women at home (probably a religious sisterhood in Galicia or southern France), survives in a single incomplete manuscript discovered in 1884 in the Italian city of Arezzo. This fragmentary text constitutes the earliest surviving first-person narrative of Christian pilgrimage, and its detail and vividness make it one of the most valuable documents in the history of early Christian worship.
 
@@ -35,9 +35,9 @@ The most valuable portion of Egeria's account describes the liturgical practices
 
 Egeria's writing style combines practical observation with devotional enthusiasm. She describes the physical challenges of climbing Mount Sinai — "these mountains are ascended with infinite toil, for you cannot go up gently by a spiral track, as we say snail-shell wise, but you climb straight up the whole way, as if up a wall" — alongside theological reflections on the significance of standing where Moses stood. Her letters convey a personality that is curious, energetic, intellectually engaged, and deeply pious, producing a portrait of a pilgrim that feels remarkably accessible across sixteen centuries.
 
-</Fragment>
 
-<Fragment slot="context">
+
+
 
 Egeria's pilgrimage took place during a formative period for Christian sacred geography. Helena's visit to Palestine approximately fifty years earlier had initiated the construction of major basilicas at the Crucifixion and Nativity sites, and the process of identifying and architecturally enshrining other biblical locations was still actively underway. Egeria arrived in a being transformed from Roman provincial territory into the Holy Land — a process she witnessed and documented from the perspective of a pilgrim for whom these identifications were both exciting discoveries and confirmations of scriptural truth.
 
@@ -54,9 +54,9 @@ Egeria's gender and the apparent audience of her letters — a community of wome
 
 The manuscript's discovery in 1884 by the Italian scholar Gian Francesco Gamurrini represented a major event in the study of early Christianity. Previously, our knowledge of fourth-century pilgrimage and Jerusalem liturgy had depended on fragments and indirect references. Egeria's account provided a continuous, detailed narrative that transformed scholarly understanding of how early Christians related to sacred space, organized worship, and experienced the of the Bible as a physical reality.
 
-</Fragment>
 
-<Fragment slot="legacy">
+
+
 
 Egeria's account established a literary genre — the pilgrim narrative — that would flourish throughout the medieval period and beyond. Her approach of documenting sacred sites, describing the journey's physical challenges, noting liturgical practices, and reflecting on the spiritual significance of geographical encounter created a template that subsequent pilgrim writers, from the anonymous Bordeaux Pilgrim to the Crusade chroniclers to modern travel memoirists, would follow and adapt.
 
@@ -66,12 +66,12 @@ The fact that the earliest surviving pilgrim narrative was written by a woman ad
 
 Egeria's text continues to generate scholarly discussion, with debates ongoing about her place of origin, her social status, the exact dates of her journey, and the community to which her letters were addressed. Each of these questions bears on larger historical issues — the social mobility of late Roman women, the nature of early monastic communities, the networks of travel and communication within the late empire. Her fragmentary text, modest in its original ambitions, has become a keystone document in multiple fields of historical inquiry.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Jerusalem Old City](/places/jerusalem-old-city) — The primary destination Egeria describes in detail
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition Egeria helped document
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The empress whose earlier journey created the sites Egeria visited
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture Egeria encountered
 - [Margery Kempe: Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim)
-</Fragment>
+

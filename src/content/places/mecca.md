@@ -20,7 +20,7 @@ imageAlt: "The Kaaba at the Grand Mosque in Mecca during pilgrimage season"
 imageCredit: "Photo by Afif Ramdhasuma on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Mecca's sacred status predates Islam by centuries. The city occupied a strategic position along Arabian trade routes connecting Yemen to the Levant, and the Kaaba—a cube-shaped structure at its center—served as a shrine housing idols venerated by various Arabian tribes. Islamic tradition traces the Kaaba's origins to Ibrahim (Abraham) and his son Ismail, who are understood to have built the original structure as a house of monotheistic worship.
 
@@ -34,9 +34,9 @@ The Prophet Muhammad was born in Mecca around 570 CE and received his first reve
 
 
 Under the early caliphates, Mecca's religious infrastructure expanded. The Umayyad and Abbasid dynasties enlarged the Masjid al-Haram (the Sacred Mosque) surrounding the Kaaba. The Ottoman Empire, which controlled Mecca from 1517 to 1916, undertook further renovations. The most dramatic transformations came under Saudi rule in the twentieth and twenty-first centuries, with massive expansion projects that increased the mosque's capacity from tens of thousands to over two million worshippers.
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 Mecca is unique among the world's sacred cities in one crucial respect: non-Muslims are prohibited from entering the city. This restriction, based on Quranic interpretation and enforced by Saudi law, means that Mecca exists as a space exclusively devoted to Muslim worship and pilgrimage. The boundary (haram) around the city is marked by checkpoints, and visitors must present documentation of their Muslim faith to proceed.
 
@@ -53,9 +53,9 @@ The ihram state, entered before reaching Mecca's boundary, equalizes all pilgrim
 
 The Zamzam well, located within the Masjid al-Haram compound, produces water that Muslims consider blessed. Tradition associates the spring with Hajar's search for water for her infant Ismail, when the angel Jibril caused water to emerge from the desert floor. The well has produced water continuously for over four thousand years according to tradition, and geological studies indicate it taps an aquifer that has sustained flow for at least as long as the historical record extends.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Mosque" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -70,9 +70,9 @@ The Maqam Ibrahim, a glass and metal enclosure near the Kaaba, contains a stone 
 
 The hills of Safa and Marwa, between which pilgrims walk seven times during the sa'i ritual, are now enclosed within the mosque complex in a long gallery equipped with separate lanes for walking and for those using wheelchairs. The original rocky outcrops are preserved at each end, visible behind glass, connecting the modern ritual space to the ancient topography.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Access to Mecca requires a Hajj or Umrah visa issued by the Saudi government. Hajj visas are allocated through a quota system that assigns a specific number of permits to each country based on Muslim population. The application process involves registration through authorized agencies, and demand significantly exceeds available places. Umrah visas are more readily available and can be obtained throughout the year, though the Saudi e-visa system has simplified the process in recent years.
 
@@ -82,9 +82,9 @@ Accommodation in Mecca ranges from luxury hotels in the towers surrounding the M
 
 Transportation within the holy sites has been improved by the Haramain High Speed Railway connecting Mecca, Medina, and Jeddah, and by the Makkah Metro (Mashair Railway) serving the ritual sites. Most pilgrims arrive via King Abdulaziz International Airport in Jeddah, which operates special Hajj terminals during peak season.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The broader context of Islamic sacred travel
 - [Hajj Route](/routes/hajj-route) — The ritual circuit connecting Mecca's sacred sites
 - [Medina](/places/medina) — Islam's second holiest city, typically visited alongside Mecca
@@ -92,4 +92,3 @@ Transportation within the holy sites has been improved by the Haramain High Spee
 - [Najaf and Karbala](/places/najaf-karbala)
 - [Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
-</Fragment>

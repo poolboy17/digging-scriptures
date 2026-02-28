@@ -21,7 +21,7 @@ imageAlt: "Jewish worshippers praying at the Western Wall in the Old City of Jer
 imageCredit: "Photo by Thomas Vogel on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 The Old City of Jerusalem occupies less than one square kilometer, yet within these ancient walls lies ground sacred to three major world religions. For Christians, Jerusalem holds the sites associated with the final days, death, and resurrection of Jesus Christ, making it the original and supreme pilgrimage destination of the faith.
 
@@ -40,9 +40,9 @@ Constantine ordered the construction of the Church of the Holy Sepulchre over th
 
 The city passed through many hands over subsequent centuries: Byzantine, Persian, Arab, Crusader, Mamluk, Ottoman, British, Jordanian, and Israeli. Each period left its mark on the urban fabric and the conditions under which pilgrims could visit. The Crusades themselves represented a fusion of pilgrimage and military expedition, with armed pilgrims seeking to secure Christian access to the holy places.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The Old City is divided into four quarters: Christian, Muslim, Jewish, and Armenian. This division, formalized during the Ottoman period, reflects the complex religious geography of the city, though the boundaries have shifted over time and the quarters were never entirely homogeneous.
 
@@ -63,9 +63,9 @@ Christian pilgrimage to Jerusalem involves encounter not only with ancient sites
 
 The presence of Judaism and Islam adds dimensions that complicate and enrich the experience of Christian pilgrimage. The Western Wall, the remnant of the Second Temple's retaining wall and the holiest site in Judaism, lies adjacent to the Christian and Muslim Quarters. The Temple Mount, known to Muslims as the Haram al-Sharif, contains the Dome of the Rock and Al-Aqsa Mosque, among the most significant sites in Islam. Pilgrims navigate this shared sacred geography, encountering other faiths not as abstractions but as living presences.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 The Church of the Holy Sepulchre remains the preeminent Christian pilgrimage site in Jerusalem. The building encompasses both Golgotha, the traditional site of the crucifixion, and the tomb where Jesus was buried and from which he rose. The current structure presents a complex architectural palimpsest, incorporating elements from the twelfth-century Crusader church along with later additions and modifications.
 
@@ -84,9 +84,9 @@ The Via Dolorosa's fourteen stations wind through the streets of the Old City, b
 
 The Garden of Gethsemane, at the foot of the Mount of Olives, preserves ancient olive trees—some possibly dating to the time of Christ—and the Church of All Nations, built in 1924 over Byzantine and Crusader predecessors. The rock where Jesus prayed on the night of his arrest lies before the altar. The garden provides a contemplative space removed from the intensity of the Holy Sepulchre.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Visiting Jerusalem requires navigating practical realities that have varied significantly across different periods. The city's political situation affects ease of access, visa requirements, and the experience of moving between areas. Travelers benefit from understanding the current arrangements before planning their visit.
 
@@ -102,11 +102,11 @@ The heat of summer can make extended walking uncomfortable, and the major Christ
 
 Accommodations in Jerusalem range widely, from modest pilgrim hospices maintained by religious communities to international hotels. Some visitors specifically seek the experience of staying in a hospice or guesthouse with a religious character, while others prefer more conventional tourist accommodations. Options within the Christian Quarter tend toward the simpler end of the spectrum.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — Overview of pilgrimage in Christian history
 - [Santiago de Compostela](/places/santiago-de-compostela) — Another major Christian pilgrimage destination
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [Dome of the Rock](/places/dome-of-the-rock)
-</Fragment>
+

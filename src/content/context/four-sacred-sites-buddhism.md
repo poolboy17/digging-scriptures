@@ -71,7 +71,7 @@ Kushinagar, the least developed of the four sacred sites, retains a quality of q
 
 The four sites, while individually significant, gain additional meaning when understood as a circuit that traces the arc of the Buddha's life from birth through awakening, teaching, and death. Walking this circuit — which covers several hundred kilometers across the Gangetic plain of northern India and the Terai of Nepal — replicates in physical movement the temporal progression of the Buddha's biography. The pilgrim who visits all four sites has, in a sense, accompanied the Buddha through the entirety of his earthly life, a form of devotional companionship that echoes the relationship between the Buddha and his original disciples.
 
-<Fragment slot="concepts">
+
 
 **Parinirvana** — The Buddha's final passing and complete release from the cycle of rebirth. Distinguished from ordinary death by the understanding that the Buddha, having attained complete enlightenment, would not be reborn in any form.
 
@@ -90,19 +90,19 @@ The four sites, while individually significant, gain additional meaning when und
 
 **Caitya** — A sacred spot or object of veneration, particularly a site associated with the Buddha's life. The four sacred sites are the preeminent caityas of the Buddhist tradition.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 The Mahaparinibbana Sutta (Digha Nikaya 16) provides the canonical foundation for the four-site pilgrimage. Ashoka's pillar inscriptions at Lumbini and other sites provide archaeological corroboration. The Chinese pilgrims Faxian (fifth century) and Xuanzang (seventh century) documented the sites extensively, and their accounts remain primary sources for understanding the sites' historical condition. Modern archaeological work, particularly by Alexander Cunningham in the nineteenth century and subsequent Indian and international teams, has confirmed and elaborated the textual evidence.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Bodh Gaya](/places/bodh-gaya) — The site of the Buddha's enlightenment
 - [Lumbini](/places/lumbini) — The Buddha's birthplace in modern Nepal
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The monk who documented these sites in the seventh century
 
-</Fragment>
+

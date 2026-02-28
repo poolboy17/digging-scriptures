@@ -23,7 +23,7 @@ imageAlt: "Rolling Tuscan hills along the historic Via Francigena pilgrimage rou
 imageCredit: "Photo by Max Böhme on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 The Via Francigena — literally "the road that comes from France" — emerged as a major European pilgrimage route during the early medieval period, connecting Canterbury in southeastern England with Rome through a corridor of ecclesiastical hospitality, trade, and diplomacy. The route's documentation owes much to Sigeric the Serious, Archbishop of Canterbury, who in 990 CE recorded the seventy-nine stages of his return journey from Rome after receiving his pallium from Pope John XV. Sigeric's itinerary, preserved in a manuscript at the British Library, provides the earliest detailed description of the route and remains the basis for the modern waymarked path.
 
@@ -42,9 +42,9 @@ The hospice tradition along the Via Francigena represents one of medieval Europe
 
 The route's decline began in the sixteenth century as the Reformation reduced pilgrimage from Protestant regions, and as political conflicts along the route made travel increasingly dangerous. By the nineteenth century, the Via Francigena had largely faded from popular consciousness, surviving only in fragments of local memory and in the physical traces of its medieval infrastructure — churches, bridges, and hospice buildings that continued to serve their communities long after their pilgrim-related functions had ceased.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 The journey begins at Canterbury Cathedral, where the murder of Archbishop Thomas Becket in 1170 created a pilgrimage destination that drew visitors from across Europe. Pilgrims traditionally departed from the cathedral's western portal, walking southeast through Kent to the English Channel. The crossing to Calais marks the first of the route's major transitions, as the pilgrim leaves the island of England for the continental road system that would carry them to Rome.
 
@@ -68,9 +68,9 @@ The Italian section follows the ancient Via Cassia for much of its length, passi
 
 The entry into Rome traditionally occurred through the Porta del Popolo, from which pilgrims could proceed directly to St. Peter's Basilica. The emotional impact of arrival, after weeks or months of walking, remains a central element of the Via Francigena experience. Modern pilgrims frequently describe the final approach as a period of heightened awareness, when the accumulated physical and psychological effects of sustained walking culminate in an arrival that carries weight proportional to the effort invested.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 **Canterbury Cathedral** serves as the route's starting point and spiritual departure. The cathedral, a UNESCO World Heritage Site, preserves the site of Becket's martyrdom and houses the shrine that made Canterbury one of medieval Europe's foremost pilgrimage destinations. The connection between Canterbury and Rome through the Via Francigena links two of Christianity's most historically significant sites.
 
@@ -84,9 +84,9 @@ The entry into Rome traditionally occurred through the Porta del Popolo, from wh
 
 **Rome and the Vatican** represent the journey's destination and reward. The tradition of visiting the seven pilgrim churches of Rome gave arriving Via Francigena pilgrims a structured program for their time in the city, extending the experience of pilgrimage beyond the moment of arrival at St. Peter's.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The revival of the Via Francigena as a walking route began in the late twentieth century, inspired partly by the success of the Camino de Santiago's modern renaissance. In 1994, the Council of Europe designated the Via Francigena as a Cultural Route, providing institutional support for its development. The European Association of the Via Francigena (AEVF), based in Fidenza, Italy, coordinates waymarking, accommodation standards, and promotional activities across the four countries through which the route passes.
 
@@ -98,12 +98,12 @@ Annual pilgrim numbers on the Via Francigena remain considerably smaller than th
 
 The route's passage through four countries and multiple linguistic regions adds a dimension of cultural immersion absent from single-country pilgrimage routes. The Via Francigena pilgrim experiences not only changes in but shifts in language, cuisine, architecture, and social custom, making the journey a sustained encounter with European diversity.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Rome and the Vatican](/places/rome-vatican) — The Via Francigena's destination and spiritual goal
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The broader tradition of Christian sacred travel
 - [Camino de Santiago](/routes/camino-de-santiago) — Europe's other great medieval pilgrimage route
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — Early Christian pilgrimage that shaped the routes
 - [St. Olav's Way](/routes/st-olavs-way)
-</Fragment>
+

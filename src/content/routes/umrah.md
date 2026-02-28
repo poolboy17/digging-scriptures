@@ -20,7 +20,7 @@ imageAlt: "Pilgrims in white ihram garments walking toward the Grand Mosque in M
 imageCredit: ""
 ---
 
-<Fragment slot="history">
+
 
 The Umrah is the lesser pilgrimage to Mecca, distinguished from the Hajj by its scope, timing, and obligation. While the Hajj is one of Islam's five pillars — required once in a lifetime of every Muslim with the means and health to perform it — the Umrah is a voluntary act of devotion that can be performed at any time of year. The Prophet Muhammad performed Umrah multiple times, and the hadith literature records his encouragement of the practice: "Umrah to Umrah is an expiation for the sins committed between them."
 
@@ -37,9 +37,9 @@ The historical development of the Umrah as a distinct practice reflects the evol
 
 The Saudi government has progressively expanded Umrah access. The introduction of dedicated Umrah visas, the expansion of the Grand Mosque (Masjid al-Haram) to accommodate over two million worshippers, and the development of transportation and hospitality infrastructure in Mecca have transformed the Umrah from an occasional devotional act into a year-round pilgrimage industry. During Ramadan, when the spiritual rewards of Umrah are understood to be multiplied, the Grand Mosque reaches its maximum capacity.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 The Umrah begins before the pilgrim reaches Mecca. Travelers enter the state of ihram at designated boundary points called miqat — stations on the major routes approaching the city. Each miqat corresponds to a historical direction of approach: Dhul Hulayfah for pilgrims from Medina, al-Juhfah for those from the direction of Syria and Egypt, Qarn al-Manazil for those from the Najd, Yalamlam for those from Yemen, and Dhat Irq for those from Iraq. Pilgrims arriving by air typically enter ihram before or during the flight, as the airplane crosses the miqat boundary.
 
@@ -65,9 +65,9 @@ Sa'i consists of walking seven times between the hills of Safa and Marwa, which 
 
 The Umrah concludes with the halq or taqsir — shaving or trimming the hair — which marks the pilgrim's exit from the state of ihram. Men typically shave the head completely (halq) or trim it short (taqsir); women cut a small portion of their hair. With this act, the restrictions of ihram are lifted, and the Umrah is complete.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 The Grand Mosque (Masjid al-Haram) is the physical setting for the entire Umrah. It is the largest mosque in the world, with a current capacity exceeding two million worshippers after recent expansions. The Kaaba stands at its center in a large open courtyard (the Mataf), surrounded by the multi-story prayer halls and galleries that have expanded outward in concentric rings over the past century.
 
@@ -77,9 +77,9 @@ The Zamzam well, located within the Grand Mosque complex, provides water that pi
 
 The Safa-Marwa gallery, where Sa'i is performed, has been fully enclosed and air-conditioned since the 1950s. The two-level corridor includes a central lane reserved for pilgrims in wheelchairs or with mobility limitations. Green fluorescent markers along the route indicate the section where men are encouraged to walk briskly, recalling Hagar's urgency.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The modern Umrah experience has been shaped by Saudi Arabia's massive investment in infrastructure and by the digital systems that now manage pilgrim flow. Visa applications are processed electronically through the Nusuk platform, and pilgrims can book Umrah permits, accommodation, and transportation through a single digital interface. Within the Grand Mosque, crowd management systems use real-time monitoring to direct pilgrims to less congested areas.
 
@@ -89,13 +89,13 @@ Accommodation in Mecca ranges from luxury hotels with direct views of the Kaaba 
 
 Ramadan is the peak season for Umrah. The Prophet Muhammad stated that performing Umrah during Ramadan is equivalent in reward to performing the Hajj, and millions of Muslims time their visit accordingly. The last ten nights of Ramadan, when the Night of Power (Laylat al-Qadr) is believed to fall, see the Grand Mosque at maximum capacity, with continuous worship through the night.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 <!-- LAYER 3: Hydration pending -->
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
 - [Mecca](/places/mecca)
 - [The Hajj Route](/routes/hajj-route)
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Medina](/places/medina)
-</Fragment>
+

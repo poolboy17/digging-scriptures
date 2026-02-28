@@ -49,7 +49,7 @@ These practices have come under increasing pressure from reformist movements tha
 
 Despite theological opposition, ziyarat remains one of the most widely practiced forms of Islamic devotion. Its persistence reflects something that formal theology sometimes struggles to accommodate: the human need for embodied encounter with the sacred, for places where prayer feels more immediate and where the distance between the living and the holy dead seems to thin. The intellectual arguments for and against shrine visitation are sophisticated and deeply held on both sides, but the pilgrim standing at a saint's tomb, whispering a prayer, is engaged in a practice whose roots are older than the debate itself.
 
-<Fragment slot="concepts">
+
 
 **Baraka** — A concept of divine blessing or grace that Muslims believe can be transmitted through persons, objects, and places. Saints are understood to possess baraka in their lifetimes, and their tombs are believed to retain it after death, making the shrine a site where devotees can access spiritual benefit.
 
@@ -68,19 +68,19 @@ Despite theological opposition, ziyarat remains one of the most widely practiced
 
 **Awliya** — Literally "friends" or "allies" of God, the term used in Sufi tradition for saints whose closeness to God grants them spiritual authority and the capacity to transmit baraka. The concept appears in the Quran (10:62): "Indeed, the awliya of God — no fear will there be concerning them, nor will they grieve."
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 The hadith encouraging grave visitation appears in the collections of Muslim and Tirmidhi. Ibn Taymiyyah's critique of shrine visitation is developed in his *Iqtida al-Sirat al-Mustaqim* and various fatwas. For Sufi perspectives, see Carl Ernst's *The Shambhala Guide to Sufism* (1997) and Annemarie Schimmel's *Mystical Dimensions of Islam* (1975). For Shia ziyarat practices, see Yitzhak Nakash's *The Shiʿis of Iraq* (2003) and Edith Szanto's work on pilgrimage to Sayyida Zaynab in Damascus.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 <!-- LAYER 3: Hydration pending -->
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
 - [Najaf and Karbala](/places/najaf-karbala)
 - [Medina](/places/medina)
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
-</Fragment>
+

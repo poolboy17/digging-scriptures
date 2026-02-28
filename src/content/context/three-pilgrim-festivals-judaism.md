@@ -60,7 +60,7 @@ The rabbinic solution was twofold: liturgical preservation and eschatological ho
 
 The Western Wall in Jerusalem became the closest accessible point to the Temple's former site, and visits to the Wall, particularly during the pilgrim festivals, represented a partial fulfillment of the pilgrimage impulse. The practice of ascending to Jerusalem (aliyah la-regel, literally "going up by foot") during the festivals continues among observant Jews today, though in the absence of the Temple the visit takes the form of prayer at the Western Wall and celebration in the city's synagogues rather than sacrificial worship.
 
-<Fragment slot="concepts">
+
 
 **Aliyah la-Regel** — Literally "ascending by foot," the technical term for pilgrimage to Jerusalem during the three festivals. The term "ascending" reflects Jerusalem's elevated position in both geography and theology — one always "goes up" to Jerusalem in Hebrew, regardless of one's starting elevation.
 
@@ -79,19 +79,19 @@ The Western Wall in Jerusalem became the closest accessible point to the Temple'
 
 **Simchat Torah** — Celebrated at the conclusion of the Sukkot festival period, this day marks the annual completion and recommencement of the Torah reading cycle. The joyous celebration, involving dancing with Torah scrolls, transforms the intellectual act of study into a physical expression of devotion.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 The pilgrimage commandment appears in three Torah passages: Exodus 23:14-17, Exodus 34:22-24, and Deuteronomy 16:1-17. The Mishnah tractate Hagigah elaborates the legal requirements of festival pilgrimage, while tractate Bikkurim describes the first fruits ceremony in detail. Josephus provides external historical documentation in both The Jewish War and Jewish Antiquities. Modern scholarship, particularly the work of S. Safrai and others, has reconstructed the social and economic dimensions of Second Temple pilgrimage using archaeological, literary, and comparative evidence.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Western Wall](/places/western-wall) — The surviving remnant of the Temple complex and focus of modern Jewish pilgrimage
 - [Jerusalem Old City](/places/jerusalem-old-city) — The destination of the pilgrim festivals
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later expression of Jewish pilgrimage longing
 
-</Fragment>
+

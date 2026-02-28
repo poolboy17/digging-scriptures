@@ -67,7 +67,7 @@ After the Six-Day War of 1967 and the capture of the Old City, Jewish access to 
 
 The relationship between ancient pilgrimage and modern practice remains a subject of theological reflection. For religious Zionists, the establishment of the State of Israel and the return to Jerusalem represent a stage in the process of redemption, with the full restoration of the Temple pilgrimage still anticipated. For ultra-Orthodox communities, the redemption is not yet at hand, and the current state of affairs — prayer at the wall rather than sacrifice at the altar — represents continuation of exile rather than its resolution. For secular Israelis, the pilgrimage heritage is a cultural inheritance stripped of its theological framework, visible in the national celebration of the biblical festivals and the integration of ancient pilgrimage routes into the national hiking trail system. Each position draws on the same tradition and arrives at a different understanding of what the pilgrimage to Zion means now.
 
-<Fragment slot="concepts">
+
 
 **Yishuv** — The Jewish community in the Land of Israel prior to the establishment of the state. The "Old Yishuv," concentrated in the four holy cities of Jerusalem, Hebron, Safed, and Tiberias, understood its presence as a form of permanent pilgrimage — maintaining Jewish worship at the sacred sites on behalf of the entire diaspora.
 
@@ -84,15 +84,15 @@ The relationship between ancient pilgrimage and modern practice remains a subjec
 
 **Kivrei Tzaddikim** — The tombs of the righteous, which became the primary destinations of Jewish pilgrimage in the Land of Israel after the Temple's destruction. The practice of visiting these graves — praying, lighting candles, leaving written petitions — transferred some of the devotional energy of Temple pilgrimage to sites scattered across the Galilee, Judea, and beyond.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 Benjamin of Tudela's Sefer ha-Massa'ot (c. 1173) is the foundational medieval Jewish travel text. Nachmanides' letter to his son from Jerusalem (1267) provides a firsthand account of Jewish life in Crusader-era Palestine. The pilgrimage accounts of Meshullam of Volterra (1481) and Obadiah of Bertinoro (1488) document late medieval practice. For the Kabbalistic dimension, Lawrence Fine's Physician of the Soul, Healer of the Cosmos: Isaac Luria and His Kabbalistic Fellowship examines how the Safed mystics transformed the sacred geography of the Galilee. Elchanan Reiner's Pilgrims and Pilgrimage in the Holy Land provides the most comprehensive scholarly treatment of Jewish pilgrimage practices from the medieval period through early modernity.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Western Wall](/places/western-wall) — Where the diaspora longing finds its contemporary expression
@@ -100,4 +100,4 @@ Benjamin of Tudela's Sefer ha-Massa'ot (c. 1173) is the foundational medieval Je
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A Hasidic master's pilgrimage from the diaspora
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festival cycle that sustained pilgrimage memory
 
-</Fragment>
+

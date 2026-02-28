@@ -21,7 +21,7 @@ imageAlt: "Pilgrims circling the Kaaba during the Hajj pilgrimage in Mecca"
 imageCredit: "Photo by Oktavia Ningrum on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 The Hajj represents one of the Five Pillars of Islam — the fundamental obligations that define Muslim practice — and its origins, according to Islamic tradition, reach back far beyond the Prophet Muhammad to the patriarch Ibrahim (Abraham) and his son Ismail. The Quran describes Ibrahim's construction of the Kaaba in Mecca as a house of worship and his proclamation of the pilgrimage to all humanity. This connection to Ibrahim places the Hajj within a narrative of monotheistic continuity that links Islam to the Abrahamic tradition shared with Judaism and Christianity.
 
@@ -40,9 +40,9 @@ The historical logistics of the Hajj shaped the political geography of the Islam
 
 The advent of steamship travel in the nineteenth century and air travel in the twentieth revolutionized Hajj logistics, making the pilgrimage accessible to Muslims from Southeast Asia, sub-Saharan Africa, and other regions previously separated from Mecca by months of overland travel. Modern Hajj numbers have grown from the tens of thousands in earlier centuries to over two million annually, creating infrastructure and crowd management challenges without historical precedent.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 The Hajj unfolds over five to six days during the eighth through thirteenth of Dhul Hijjah, the twelfth month of the Islamic lunar calendar. The rituals follow a precise sequence that moves pilgrims through several sites in and around Mecca, each movement carrying specific theological significance rooted in Quranic narrative and Prophetic practice.
 
@@ -63,9 +63,9 @@ The Hajj unfolds over five to six days during the eighth through thirteenth of D
 
 **The Tawaf** — seven counterclockwise circuits of the Kaaba — places the pilgrim in orbital motion around the structure that Muslims regard as the first house built for the worship of God. The movement is both individual and collective, each pilgrim tracing their own path while participating in a continuous stream of humanity circling the black-draped cube. The experience of joining this flow, surrounded by pilgrims from every nation and speaking every language, is frequently described as the most profound moment of the Hajj.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 **The Kaaba**, located at the center of the Masjid al-Haram (Grand Mosque) in Mecca, is the qibla — the direction toward which all Muslims pray five times daily. The cube-shaped structure, approximately thirteen meters tall and draped in black silk embroidered with Quranic verses in gold thread, predates Islam according to Islamic tradition, having been built by Ibrahim and Ismail. The Black Stone (al-Hajar al-Aswad), set into the Kaaba's eastern corner, serves as the starting and ending point for each circumambulation.
 
@@ -77,9 +77,9 @@ The Hajj unfolds over five to six days during the eighth through thirteenth of D
 
 **Masjid al-Haram** (the Grand Mosque), surrounding the Kaaba, has been expanded repeatedly to accommodate growing Hajj numbers. The current structure covers 356,800 square meters and can accommodate over two million worshippers during peak periods. Its minarets, marble floors, and air-conditioned galleries represent the modern architectural response to the challenge of facilitating mass worship in a desert climate.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The Saudi Arabian government has invested hundreds of billions of dollars in Hajj infrastructure over recent decades, transforming the physical environment of the pilgrimage while working to preserve its spiritual character. The expansion of the Grand Mosque, the construction of the Jamarat Bridge, the development of the Mina tent city, and the creation of transit systems linking the Hajj sites represent engineering and logistics challenges unlike any other recurring event in the world.
 
@@ -91,12 +91,12 @@ Digital technology has begun to influence the Hajj experience. GPS-enabled apps 
 
 Many pilgrims combine the Hajj with a visit to Medina, approximately 450 kilometers north of Mecca, to pray at the Prophet's Mosque (Masjid al-Nabawi) and visit the Prophet's tomb. While not part of the Hajj rituals, the visit to Medina is considered a deeply meritorious act and completes what many Muslims regard as the full pilgrimage experience.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Mecca](/places/mecca) — The holiest city in Islam and destination of the Hajj
 - [Medina](/places/medina) — The Prophet's city and companion destination
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The broader context of sacred travel in Islam
 - [Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Understanding the Hajj within Islamic theology
 - [How the Umrah Differs from the Hajj](/routes/umrah)
-</Fragment>
+

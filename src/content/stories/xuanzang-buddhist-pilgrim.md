@@ -16,7 +16,7 @@ imageAlt: "Buddhist pagoda temple evoking Xuanzang's pilgrimage journey from Chi
 imageCredit: "Photo by tommao wang on Unsplash"
 ---
 
-<Fragment slot="narrative">
+
 
 In 629 CE, a Buddhist monk named Xuanzang slipped out of the Tang dynasty capital of Chang'an (modern Xi'an) and headed west, defying an imperial edict that prohibited travel beyond China's borders. He was twenty-six years old, deeply learned in Buddhist philosophy, and profoundly dissatisfied with the state of Buddhist scholarship in China. Conflicting translations of Indian sutras had produced doctrinal confusion that Chinese commentators could not resolve, and Xuanzang believed that only direct access to the original Sanskrit texts — and to the Indian scholars who could explain them — could clarify the teachings that had become garbled in transmission across languages and centuries.
 
@@ -40,9 +40,9 @@ The intellectual center of Xuanzang's Indian sojourn was Nalanda, the great Budd
 
 Xuanzang returned to China in 645 CE, carrying 657 Buddhist texts, 150 relics, and several Buddha images. The emperor, who had originally prohibited his departure, now welcomed him as a national hero. The imperial court provided resources for a massive translation project, and Xuanzang spent the remaining nineteen years of his life translating seventy-five texts into Chinese — translations that remain authoritative in East Asian Buddhism today. His philosophical work, particularly his translations and commentaries on Yogacara (Consciousness-Only) philosophy, established a school of Buddhist thought that profoundly influenced Chinese, Korean, and Japanese intellectual history.
 
-</Fragment>
 
-<Fragment slot="context">
+
+
 
 Xuanzang's journey must be understood within the context of Buddhism's transmission along the Silk Road. By the seventh century, Buddhism had been present in China for over five hundred years, but the process of translating Indian texts into Chinese had produced significant distortions and ambiguities. Sanskrit and Chinese operate on fundamentally different linguistic principles, and the philosophical vocabulary of Buddhism — developed in India over a millennium — had no ready equivalents in Chinese. Early translators had adopted Daoist terminology to render Buddhist concepts, creating hybrid formulations that sometimes obscured more than they clarified.
 
@@ -57,9 +57,9 @@ The relationship between pilgrimage and scholarship in Xuanzang's journey challe
 
 The account Xuanzang composed upon his return, the Great Tang Records on the Western Regions (Da Tang Xiyu Ji), provides geographical, political, and cultural information about over 130 kingdoms and territories across Central and South Asia. This text served not only as a pilgrim narrative and geographical reference but as an intelligence report for the Tang court, which used its information to inform diplomatic and military strategy in Central Asia. The intersection of pilgrimage, scholarship, and statecraft in Xuanzang's career illustrates the multiple functions that long-distance sacred travel could serve in the medieval world.
 
-</Fragment>
 
-<Fragment slot="legacy">
+
+
 
 Xuanzang's translations shaped the philosophical development of East Asian Buddhism for the next fourteen centuries. His rendering of key Yogacara texts established Consciousness-Only philosophy as a major school in China (Faxiang), which subsequently influenced Korean and Japanese Buddhism. His translation of the Heart Sutra — arguably the most widely recited text in Mahayana Buddhism — remains the standard version chanted daily in temples across East Asia. The precision and consistency of his translations set standards for Buddhist textual scholarship that subsequent translators acknowledged and emulated.
 
@@ -69,13 +69,13 @@ For the archaeology and history of South Asian Buddhism, Xuanzang's records are 
 
 Xuanzang's journey also demonstrates the transformative potential of pilgrimage at its most ambitious. He departed China as a frustrated scholar seeking textual clarification; he returned as one of the most accomplished intellectuals in the Buddhist world, carrying a library that would reshape Chinese philosophical culture. His seventeen-year absence produced not merely personal transformation but civilizational impact — a reminder that pilgrimage, understood expansively, can be an engine of cultural transmission and intellectual exchange on the largest possible scale.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Bodh Gaya](/places/bodh-gaya) — The site of the Buddha's enlightenment, described in detail by Xuanzang
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The tradition of Buddhist sacred travel
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The geography Xuanzang's journey illuminated
 - [Lumbini](/places/lumbini) — The Buddha's birthplace, another site Xuanzang visited and documented
 
-</Fragment>
+

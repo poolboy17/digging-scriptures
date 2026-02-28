@@ -20,7 +20,7 @@ imageAlt: "Mount Kailash in Tibet, sacred peak for the Kora pilgrimage circuit"
 imageCredit: "Photo by Nandini Khandelwal on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Mount Kailash, rising 6,638 meters above the Tibetan Plateau in the remote Ngari Prefecture of western Tibet, occupies a position unique in world religion: it is considered sacred by four distinct faith traditions simultaneously. Hindus regard it as the abode of Shiva, where the god sits in eternal meditation with his consort Parvati. Buddhists associate it with the Buddha Demchok (Chakrasamvara), a tantric deity representing supreme bliss. Jains venerate it as Ashtapada, the site where their first tirthankara, Rishabhadeva, attained spiritual liberation. Followers of Bön, Tibet's pre-Buddhist shamanic tradition, consider it the seat of all spiritual power and the place where their founder Tonpa Shenrab descended from heaven.
 
@@ -44,9 +44,9 @@ Tibetan Buddhist tradition holds that a single kora erases the sins of one lifet
 
 The political history of the region has alternately facilitated and restricted access to Mount Kailash. The incorporation of Tibet into the People's Republic of China in 1950 and the subsequent Cultural Revolution severely disrupted pilgrimage traditions. Since the 1980s, limited access has been restored, though the journey remains subject to permit requirements, seasonal restrictions, and periodic political closures that can cancel planned pilgrimages with little warning.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 The kora circuit of approximately 52 kilometers typically requires three days for walkers, though exceptionally fit pilgrims may complete it in a single long day and prostrating pilgrims may take two to three weeks. The route reaches its highest point at the Drolma La pass (5,636 meters), one of the highest points regularly crossed by pilgrims anywhere in the world. The altitude alone makes this among the most physically demanding pilgrimage routes in existence, and adequate acclimatization is essential.
 
@@ -65,9 +65,9 @@ The kora circuit of approximately 52 kilometers typically requires three days fo
 
 The experience of the kora is shaped fundamentally by altitude and remoteness. At over 4,500 meters, every step requires more effort than at sea level, and the thin atmosphere produces shortness of breath, headaches, and fatigue even in fit walkers. This physical difficulty is understood within the pilgrim framework not as an obstacle but as a component of the practice — the body's struggle mirrors and facilitates the spiritual work of purification that the kora represents.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 **Mount Kailash** itself, while never climbed (the Chinese government has maintained a ban on mountaineering attempts, and religious authorities from all four traditions oppose climbing), is the constant visual reference point of the kora. Its distinctive peak — resembling a jewel sitting on a lotus pedestal in Buddhist iconography, or the lingam of Shiva in Hindu interpretation — is visible from multiple points along the circuit and serves as the visual and spiritual anchor around which the pilgrim's journey revolves.
 
@@ -79,9 +79,9 @@ The experience of the kora is shaped fundamentally by altitude and remoteness. A
 
 **Darchen**, the base town for the kora, has developed from a small settlement into a modest service center for pilgrims and tourists. Its facilities remain basic — guesthouses, small restaurants, supply shops — reflecting both the region's remoteness and the Chinese authorities' cautious approach to tourism development in politically sensitive Tibet.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 Access to Mount Kailash requires permits obtained through a licensed travel agency, as independent travel in the Tibet Autonomous Region is not permitted for foreign visitors. Groups must be accompanied by a government-appointed guide and driver, and permits can be revoked or denied without explanation, particularly during politically sensitive periods. This administrative framework makes the Kailash pilgrimage one of the more difficult sacred journeys to plan with certainty.
 
@@ -98,13 +98,13 @@ Climate conditions restrict the kora season to approximately May through October
 
 The environmental and cultural impact of increasing visitor numbers has raised concerns among both preservation advocates and religious authorities. The fragile high-altitude ecosystem recovers slowly from disturbance, and waste management at this altitude and remoteness presents significant challenges. Balancing access for pilgrims — for whom the kora holds profound spiritual significance — with protection of the that makes the experience meaningful represents an ongoing tension without easy resolution.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The tradition of sacred circuits in Buddhism
 - [Varanasi](/places/varanasi) — Hinduism's holiest city, connected to Kailash through Shiva devotion
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The geography of Buddhist pilgrimage
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Managing sacred sites in the contemporary world
 
-</Fragment>
+

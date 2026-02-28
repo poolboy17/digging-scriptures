@@ -20,7 +20,7 @@ imageAlt: "The green dome of the Prophet's Mosque (Al-Masjid an-Nabawi) in Medin
 imageCredit: "Photo by Sam Riz on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Medina—originally known as Yathrib—entered Islamic history in 622 CE when the Prophet Muhammad and his followers emigrated there from Mecca, an event known as the Hijra that marks the beginning of the Islamic calendar. The city's Arab and Jewish tribes had invited Muhammad to serve as an arbiter of disputes, and his arrival transformed Yathrib from a fractious oasis settlement into the political and spiritual capital of the nascent Muslim community. The city's name changed to Madinat an-Nabi, "City of the Prophet," shortened to al-Madina, "the City."
 
@@ -35,8 +35,8 @@ Muhammad's first act upon arrival was to establish a mosque, initially a simple 
 
 The first four caliphs—Abu Bakr, Umar, Uthman, and Ali—governed the expanding Islamic empire from Medina, though Ali later moved the capital to Kufa. Abu Bakr and Umar were buried alongside Muhammad in Aisha's chamber, creating a site of triple veneration. The Umayyad dynasty's transfer of the capital to Damascus in 661 CE diminished Medina's political importance but did nothing to reduce its spiritual significance. The city remained a center of Islamic scholarship, with the great legal traditions of Imam Malik ibn Anas developing there in the eighth century.
 
-</Fragment>
-<Fragment slot="culture">
+
+
 
 Visiting Medina, while not a formal requirement of the Hajj, is strongly encouraged in Islamic tradition and nearly universally undertaken by pilgrims traveling to Mecca. The Prophet Muhammad himself said, "Whoever visits my grave, my intercession becomes guaranteed for him," though the authenticity of this hadith is debated among scholars. The practice of visiting the Prophet's Mosque and offering salutations at his tomb constitutes one of the most emotionally significant acts of Muslim devotion.
 
@@ -53,9 +53,9 @@ The Rawdah—a section of the mosque between the Prophet's tomb and his pulpit (
 
 Jannatul Baqi, the ancient cemetery adjacent to the mosque, contains the graves of many of the Prophet's companions, family members, and early Islamic scholars. The site was substantially altered in 1925 when the Saudi authorities demolished the structures and domes that had marked the tombs, an action consistent with Wahhabi theology opposing the veneration of tombs but deeply controversial among other Muslim communities, particularly Shia Muslims who regard the buried figures as central to their tradition.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 The Prophet's Mosque has undergone continuous expansion from its original humble dimensions to its current capacity of over one million worshippers. The most distinctive architectural feature is the Green Dome, rising above the chamber containing the tombs of Muhammad, Abu Bakr, and Umar. The dome, originally constructed in wood in 1279 CE and later rebuilt in stone, was painted green in 1837 during Ottoman renovations. It has become the most recognizable symbol of Medina.
 
@@ -67,9 +67,9 @@ The Qiblatain Mosque marks the location where, according to tradition, Muhammad 
 
 Mount Uhud, north of the city, is the site of the Battle of Uhud (625 CE), where the Muslim community suffered a painful defeat and the Prophet himself was wounded. The graves of the martyrs of Uhud, including Muhammad's uncle Hamza, remain a site of visitation. The mountain itself holds a place of affection in Islamic tradition; Muhammad described Uhud as "a mountain that loves us and that we love."
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Unlike Mecca, Medina does not restrict entry to Muslims, though the Prophet's Mosque and its immediate surroundings are Muslim-only spaces. The city has developed extensive infrastructure for the millions of visitors who pass through annually, particularly during the Hajj season when most pilgrims visit Medina either before or after completing the pilgrimage rites in Mecca.
 
@@ -81,9 +81,9 @@ The climate is hot and arid, with summer temperatures regularly exceeding forty 
 
 Visitors typically spend two to four days in Medina. Beyond the Prophet's Mosque, Quba Mosque, and Qiblatain Mosque, sites of interest include the Seven Mosques complex commemorating the Battle of the Trench (627 CE) and the date palm farms that have characterized the Medina oasis for millennia.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Overview of pilgrimage in Islam
 - [Mecca](/places/mecca) — Islam's holiest city and destination of the Hajj
 - [Hajj Route](/routes/hajj-route) — The ritual circuit of the annual pilgrimage
@@ -91,4 +91,3 @@ Visitors typically spend two to four days in Medina. Beyond the Prophet's Mosque
 - [Ziyarat: Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam)
 - [Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
-</Fragment>

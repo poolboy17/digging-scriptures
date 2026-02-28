@@ -21,7 +21,7 @@ imageAlt: "Pilgrims and priests along the ghats of the Ganges River in Varanasi,
 imageCredit: "Photo by Hardik Mishra on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Varanasi (also known as Banaras or Kashi, "the Luminous One") claims to be one of the oldest continuously inhabited cities in the world, with settlement evidence stretching back to at least the eleventh century BCE. The city's location on the western bank of the Ganges, where the river makes a broad northward curve, gives it a cosmological significance in Hindu geography: pilgrimage sites along the Ganges are understood as tirthas—fords or crossing places between the mundane and sacred domains—and Varanasi is the supreme tirtha, the place where the boundary between worlds is thinnest.
 
@@ -38,9 +38,9 @@ For Buddhism, Varanasi holds significance through its proximity to Sarnath, appr
 
 Mark Twain, visiting in 1897, wrote that Varanasi was "older than history, older than tradition, older even than legend, and looks twice as old as all of them put together." While the observation was literary rather than archaeological, it captures something real about the city's accumulated weight of continuous sacred use—a layering of devotion, destruction, and reconstruction that extends beyond documented history.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The ghats—broad stone stairways descending to the Ganges along approximately seven kilometers of riverfront—define Varanasi's sacred geography. Eighty-four ghats serve different functions: bathing, cremation, worship, meditation, and commerce. Each morning at dawn, thousands of worshippers descend the ghats to immerse themselves in the Ganges, performing ablutions understood as purifying both body and soul. The river itself is personified as the goddess Ganga, and contact with her waters is believed to wash away sins accumulated over multiple lifetimes.
 
@@ -57,9 +57,9 @@ The evening Ganga Aarti ceremony at Dashashwamedh Ghat constitutes one of Hindui
 
 The city's scholarly tradition is equally ancient. Varanasi has functioned as a center of Hindu learning for millennia, with traditions of Sanskrit grammar, philosophy, music, and textile arts concentrated there. Banaras Hindu University, founded in 1916, continues this tradition. The city's silk weaving industry, famous for Banarasi saris, represents an artistic tradition intertwined with sacred patronage extending back centuries.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ganges" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -74,9 +74,9 @@ Sarnath, while technically a separate archaeological site, functions as part of 
 
 The Ganges itself, while not a "feature" in the architectural sense, is the essential element of Varanasi's sacred character. The river's width (approximately 250-400 meters at Varanasi, depending on season), its current, and the quality of light reflecting from its surface create the visual backdrop for all activity on the ghats. Boat trips on the river at dawn, when the ghats come alive with worship, provide the most comprehensive visual experience of the city's sacred waterfront.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Varanasi is connected by air (Lal Bahadur Shastri Airport, with direct flights from Delhi, Mumbai, and other Indian cities), rail (Varanasi Junction and Varanasi City stations, well-connected to the national network), and road. The city's internal transportation is chaotic by Western standards—the Old City's narrow lanes are navigable only on foot or by cycle rickshaw, and the broader streets carry intense traffic.
 
@@ -86,13 +86,12 @@ Visitors should approach the cremation ghats with respect and sensitivity. Photo
 
 The best visiting season is October through March, when temperatures are moderate (though December and January mornings can be cold and foggy). Summer temperatures exceed forty degrees Celsius, and the monsoon season (July-September) brings heavy rain that can flood lower ghats. The Hindu festivals of Dev Diwali (the gods' Diwali, usually in November) and Maha Shivaratri (February-March) bring spectacular illuminations and crowds to the ghats.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Multi-tradition overview of sacred travel
 - [Bodh Gaya](/places/bodh-gaya) — The Buddhist sacred site in the same region of India
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Comparative pilgrimage traditions
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The intersection of sacred travel and tourism
 
-</Fragment>

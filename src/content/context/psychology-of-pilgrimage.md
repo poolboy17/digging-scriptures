@@ -57,7 +57,7 @@ The most neglected phase of pilgrimage is the return. Van Gennep's model of rite
 
 This difficulty may itself be part of the process. The psychologist Robert Kegan's model of transformative learning suggests that genuine psychological development occurs not in moments of comfort but in moments of productive disequilibrium — when existing frameworks for understanding the world prove inadequate and must be reconstructed. The returned pilgrim, unable to slip seamlessly back into old patterns, is in precisely this condition. The integration of the pilgrimage experience into everyday life may take months or years, and for some people the process never fully completes — they set out again.
 
-<Fragment slot="concepts">
+
 
 **Liminality** — From the Latin *limen* (threshold), a term describing the in-between state experienced during rites of passage. In pilgrimage, liminality refers to the pilgrim's experience of being neither in their ordinary life nor at their destination — a condition of openness and vulnerability that can facilitate transformation.
 
@@ -74,19 +74,19 @@ This difficulty may itself be part of the process. The psychologist Robert Kegan
 
 **Bilateral Stimulation** — The neurological effect of sustained rhythmic movement that engages both sides of the body. Walking activates alternating brain hemispheres and has been associated with improved emotional processing — a mechanism also used therapeutically in EMDR (Eye Movement Desensitization and Reprocessing).
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 Victor Turner and Edith Turner, *Image and Pilgrimage in Christian Culture* (1978), introduced liminality and communitas to pilgrimage studies. Arnold van Gennep's *The Rites of Passage* (1909) provides the foundational model of separation, liminality, and reincorporation. Jerome Bruner's *Acts of Meaning* (1990) develops the argument for narrative as the primary mode of human sense-making. Robert Kegan's *In Over Our Heads* (1994) describes the role of productive disequilibrium in adult development. Recent empirical research on the psychological effects of pilgrimage includes studies published in the *Journal of Religion and Health* and the *International Journal of Religious Tourism and Pilgrimage*.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 <!-- LAYER 3: Hydration pending -->
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
 - [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage)
 - [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage)
 - [The Camino de Santiago](/routes/camino-de-santiago)
 - [Pilgrimage Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era)
-</Fragment>
+

@@ -21,7 +21,7 @@ imageAlt: "The ancient southern steps leading up to the Temple Mount in Jerusale
 imageCredit: ""
 ---
 
-<Fragment slot="history">
+
 
 Three times each year — at Pesach (Passover), Shavuot (Weeks), and Sukkot (Tabernacles) — the Jewish population of ancient Israel was commanded to appear before God at the Temple in Jerusalem. The Torah's instruction in Deuteronomy 16:16 is direct: "Three times a year all your males shall appear before the Lord your God at the place that he will choose." This commandment, known as aliyah leregel (ascending on foot), generated one of the ancient world's great pilgrimage systems, bringing hundreds of thousands of people into Jerusalem for festivals that combined sacrifice, celebration, and national solidarity.
 
@@ -40,9 +40,9 @@ The ascent to the Temple Mount followed a defined sequence. Pilgrims first immer
 
 The Southern Steps — a broad, monumental staircase leading up to the Hulda Gates in the southern wall of the Temple Mount — formed the primary entrance for pilgrims. The steps were deliberately built with alternating narrow and wide treads, a design that forced pilgrims to slow their pace and ascend with deliberation rather than rushing. Through the Hulda Gates, pilgrims passed through underground tunnels that emerged onto the Temple Mount platform itself, stepping from darkness into the vast open court with the Temple rising before them.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The Temple pilgrimage was not merely a religious obligation but a defining expression of Jewish collective identity. The Mishnah's tractate Hagigah and the historical accounts of Josephus describe Jerusalem during the festivals as a city transformed. The population, normally around 60,000 during the late Second Temple period, swelled to several hundred thousand. Pilgrims camped in the surrounding hills, filled the city's guest rooms, and overflowed into nearby towns. The economic impact was enormous — the pilgrimage trade sustained Jerusalem's economy — but the social impact was greater. Jews from across the Mediterranean world, speaking different languages and following different local customs, gathered in a single place, reinforcing the sense of a people united by covenant and practice.
 
@@ -59,9 +59,9 @@ The destruction of the Temple in 70 CE by Roman forces ended the pilgrimage syst
 
 The archaeological recovery of the pilgrim route has added a material dimension to what was previously known only from texts. Walking the Southern Steps today, visitors tread the same stones that pilgrims walked two thousand years ago — one of the rare instances in Jerusalem where physical continuity with the ancient past is demonstrable rather than traditional.
 
-</Fragment>
 
-<Fragment slot="stages">
+
+
 
 **Stage 1 — Ritual Immersion.** Pilgrims began by immersing in one of the mikvaot clustered south and southwest of the Temple Mount. Over fifty ritual baths have been excavated in this area, ranging from simple stepped pools to large installations capable of serving hundreds of people. The immersion was required for anyone entering the Temple precincts and marked the transition from ordinary space to sacred territory.
 
@@ -73,9 +73,9 @@ The archaeological recovery of the pilgrim route has added a material dimension 
 
 **Stage 5 — The Temple Courts.** Emerging onto the Temple Mount, pilgrims entered the Court of the Gentiles, the vast outer plaza that surrounded the inner sanctum. Successive courts — the Court of Women, the Court of Israel, the Court of the Priests — restricted access by gender and priestly status. The altar, where sacrifices were performed, stood in the Court of the Priests, visible to the assembled worshippers but accessible only to the priestly families.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The physical remains of the pilgrim route are among the most significant archaeological sites in Jerusalem. The Southern Steps, partially restored, are accessible to visitors at the Jerusalem Archaeological Park (Davidson Center) adjacent to the southern wall of the Temple Mount. The original Herodian pavement is visible, and visitors can sit on the same stones where first-century pilgrims rested.
 
@@ -85,9 +85,9 @@ The Western Wall plaza serves today as the closest approximation to the Temple p
 
 The question of Jewish prayer on the Temple Mount itself remains one of the most sensitive issues in Israeli-Palestinian relations. The Israeli government maintains a policy prohibiting non-Muslim prayer on the platform, which is administered as a Muslim holy site by the Jordanian-appointed Waqf. Some Jewish groups advocate for the right to pray on the Mount, while others — including most Orthodox rabbinic authorities — prohibit Jewish entry to the platform entirely, arguing that in the absence of the Temple's purification rituals, no one can be certain of avoiding the most sacred areas where only the High Priest was permitted to tread.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Western Wall](/places/western-wall) — The surviving retaining wall that became Judaism's holiest prayer site
 - [Jerusalem Old City](/places/jerusalem-old-city) — The walled city that contained the Temple and its pilgrim routes
@@ -95,4 +95,4 @@ The question of Jewish prayer on the Temple Mount itself remains one of the most
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The calendar and ritual cycle
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [Dome of the Rock](/places/dome-of-the-rock)
-</Fragment>
+

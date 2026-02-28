@@ -21,7 +21,7 @@ imageAlt: "The Cave of the Patriarchs in Hebron, sacred to Judaism, Christianity
 imageCredit: "Photo by Hannah Wernecke on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 The Cave of Machpelah in Hebron holds claims to being one of the oldest continuously venerated sacred sites in the world. The Book of Genesis (chapter 23) records Abraham's purchase of the cave and surrounding field from Ephron the Hittite as a burial place for his wife Sarah—a real estate transaction that represents the first land acquisition in the biblical narrative and establishes Hebron's foundational significance in Jewish sacred geography. According to tradition, Abraham and Sarah, Isaac and Rebecca, and Jacob and Leah are all buried within the cave, making it the tomb of the patriarchs and matriarchs of the Israelite people.
 
@@ -36,9 +36,9 @@ The massive stone enclosure visible today—walls rising twelve meters high, bui
 
 The Crusaders converted the structure into a church in the twelfth century, and Saladin transformed it into a mosque after recapturing Hebron in 1188. The Mamluks prohibited non-Muslim access in 1267, a ban that persisted under Ottoman and Jordanian rule for seven centuries—Jews were permitted to approach no higher than the seventh step of the eastern staircase. Israel's capture of the West Bank in 1967 restored Jewish access to the interior for the first time since 1267.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The site's dual sacred identity creates one of the most tense shared religious spaces in the world. Following the 1994 massacre in which an Israeli settler killed twenty-nine Muslim worshippers, the building was physically divided: approximately two-thirds allocated for Muslim worship (the Ibrahim Mosque) and one-third for Jewish worship (the Synagogue of Machpelah). Israeli military checkpoints control access, and the atmosphere of security measures pervades the pilgrim experience.
 
@@ -48,9 +48,9 @@ For Muslims, the site is the Ibrahimi Mosque, honoring Ibrahim (Abraham) as a pr
 
 The political context of modern Hebron—a Palestinian city of over 200,000 with a small but heavily protected Israeli settler community in the Old City—makes pilgrimage to the Cave of the Patriarchs inseparable from the broader Israeli-Palestinian conflict. Visitors from both communities describe their experience in terms that combine spiritual devotion with political assertion, and the site functions simultaneously as a place of worship and a symbol of competing claims to the land.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/hebron-cave-patriarchs-2-f721e3.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/hebron-cave-patriarchs-2-f721e3.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/hebron-cave-patriarchs-2-f721e3.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/hebron-cave-patriarchs-2-f721e3.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/hebron-cave-patriarchs-2-f721e3.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/hebron-cave-patriarchs-2-f721e3.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Sultan Qaboos Grand Mosque" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -63,9 +63,9 @@ The interior contains six cenotaphs arranged in pairs, traditionally identified 
 
 The architectural layers visible within the building trace the site's religious history. Herodian walls form the outer shell. Crusader-era columns and capitals survive in the interior. Islamic additions include the minbar (pulpit) donated by Saladin, one of the finest examples of Ayyubid woodwork extant—carved cedarwood assembled without nails or glue. The mihrab (prayer niche) orients Muslim worshippers toward Mecca. Jewish additions since 1967 include Torah arks and menorot in the sections allocated for Jewish worship.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Visiting the Cave of the Patriarchs requires navigating Israeli military checkpoints, and access protocols differ for Jewish and Muslim visitors. The site is located in the H2 zone of Hebron, under Israeli security control. Visitors should be prepared for security screening and should carry identification. The political sensitivity of the location means that conditions can change rapidly, and checking current access arrangements before visiting is advisable.
 
@@ -75,12 +75,11 @@ The site is accessible from Jerusalem (approximately forty-five minutes by car) 
 
 The Old City of Hebron, surrounding the Cave, contains a traditional market (souk) and historic architecture that testifies to the city's long commercial importance. However, much of the Old City center has been affected by the security arrangements related to the nearby Israeli settlement of Beit Hadassah, and the atmosphere differs markedly from typical Middle Eastern market towns.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — Hebron's place in Jewish sacred geography
 - [Western Wall](/places/western-wall) — The other primary destination of Jewish pilgrimage
 - [Jerusalem Old City](/places/jerusalem-old-city) — The multi-faith sacred city nearby
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The veneration of patriarchal remains across traditions
 - [Rachel's Tomb](/places/rachels-tomb)
-</Fragment>

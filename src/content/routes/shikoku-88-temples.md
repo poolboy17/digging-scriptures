@@ -20,7 +20,7 @@ imageAlt: "Pilgrim walking past a temple gate on the Shikoku 88 Temple trail in 
 imageCredit: "Photo by Hendrik Morkel on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 The Shikoku Pilgrimage, known in Japanese as the Shikoku Henro, traces a circuit of eighty-eight temples around the coastline and through the mountain interior of Shikoku, the smallest of Japan's four main islands. The pilgrimage is associated with Kūkai (774–835 CE), the founder of Shingon Buddhism in Japan, who was born on Shikoku and is believed to have practiced ascetic disciplines at many of the sites that became pilgrimage temples. Kūkai, known posthumously as Kōbō Daishi, remains the pilgrimage's spiritual patron, and pilgrims traditionally walk in his spiritual company — a concept expressed in the phrase dōgyō ninin, "two traveling together."
 
@@ -39,9 +39,9 @@ The Edo period (1603–1868) saw the Shikoku Pilgrimage develop into a popular d
 
 The pilgrimage's association with Kōbō Daishi extends beyond historical connection to a living spiritual reality for many participants. The traditional white jacket (hakui) worn by pilgrims bears the characters dōgyō ninin, and the walking staff (kongō-zue) is treated as a representation of Kōbō Daishi himself — it is ritually washed at the end of each day, stood upright rather than laid on the ground, and never used to point or gesture. These practices express the belief that the pilgrimage is not merely a commemoration of Kōbō Daishi's ancient journeys but a present-tense accompaniment by his enduring spiritual presence.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Landscape" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -72,9 +72,9 @@ The Kagawa section (Temples 66–88), associated with nirvana, brings the pilgri
 
 The daily rhythm of the walking pilgrim follows a pattern: rise early, walk to the next temple, perform devotions (recitation of the Heart Sutra, offerings of incense and candles, collection of the temple's calligraphic stamp), then walk to the following temple or to accommodation. The repetition of this cycle — walking, arriving, praying, walking — creates a meditative structure that accumulates over weeks into a sustained practice of movement and attention.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 **Temple 1 — Ryōzen-ji** (Tokushima) serves as the traditional starting point. Pilgrims purchase their equipment here — white jacket, conical straw hat, walking staff, stamp book — and receive instruction on the rituals performed at each temple. The temple's precincts include a shop providing everything needed for the journey, making it a site of practical as well as spiritual preparation.
 
@@ -86,9 +86,9 @@ The daily rhythm of the walking pilgrim follows a pattern: rise early, walk to t
 
 **Mount Kōya** (Wakayama Prefecture, Honshū), while not among the eighty-eight temples, serves as the pilgrimage's spiritual conclusion. The Oku-no-in cemetery, containing over 200,000 memorial markers shaded by ancient cedar trees, leads to Kūkai's mausoleum, where tradition holds that the master rests in eternal meditation. The journey to Mount Kōya after completing the circuit closes the narrative loop, returning the pilgrim to the spiritual presence that accompanied them throughout.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The Shikoku Pilgrimage has experienced a significant revival since the late twentieth century, driven partly by a broader Japanese cultural interest in spiritual tourism and partly by international attention following publications and documentaries about the route. Annual pilgrim numbers are estimated between 100,000 and 200,000, though only a fraction complete the full circuit on foot. Many Japanese pilgrims travel by car or tour bus, visiting the temples without the walking component, a practice that the pilgrim community views with varying degrees of acceptance.
 
@@ -100,13 +100,13 @@ The stamp book (nōkyō-chō), in which each temple's calligrapher inscribes the
 
 Unlike the Camino de Santiago, the Shikoku Pilgrimage has no central administrative body coordinating its development. The temples operate independently, local governments promote their sections with varying degrees of enthusiasm, and the pilgrim community self-organizes through informal networks and online forums. This decentralized character gives the Shikoku Henro a quality of organic authenticity that many pilgrims find appealing, even as it means that infrastructure quality and waymarking consistency vary along the route.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Mount Kōya](/places/mount-koya) — Kūkai's mountain monastery and the pilgrimage's spiritual conclusion
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Kumano Kodō](/routes/kumano-kodo) — Another Japanese pilgrimage route with ancient origins
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder's story and the pilgrimage he inspired
 
-</Fragment>
+

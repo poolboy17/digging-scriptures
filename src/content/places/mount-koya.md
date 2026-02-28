@@ -21,7 +21,7 @@ imageAlt: "Snow-covered temple among ancient cedars on Mount Koya, Japan"
 imageCredit: "Photo by Samuel Berner on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Mount Koya (Koyasan) was established in 816 CE when the monk Kukai (774-835), posthumously known as Kobo Daishi, received imperial permission to found a monastic retreat on a remote plateau in the Kii Mountains of present-day Wakayama Prefecture. According to tradition, Kukai discovered the site guided by a hunter deity and his two dogs—a story that connects the mountain's Buddhist establishment to older indigenous sacred geography. The plateau, approximately eight hundred meters above sea level and surrounded by eight peaks, was understood by Kukai as a natural mandala: the itself embodying the sacred geometry of esoteric Buddhism.
 
@@ -38,9 +38,9 @@ Kukai died on Mount Koya in 835 CE—or, in Shingon belief, entered eternal medi
 
 At its peak in the medieval period, Mount Koya housed over a thousand sub-temples and a monastic population of several thousand. The mountain suffered devastation from fires (particularly in 1521 and 1888) and from the anti-Buddhist policies of the early Meiji government (1868-1872), which briefly threatened the destruction of Japan's Buddhist institutions. Recovery followed, and today approximately 117 temples operate on the mountain, with about fifty offering overnight accommodation to visitors.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 Mount Koya functions simultaneously as a monastic center, a pilgrimage destination, and a vast memorial park. The mountain's dual character—living religious community and repository of the dead—creates an atmosphere unlike any other Buddhist site. The ancient cedar forests lining the approach to Okunoin contain over 200,000 memorial stones, stupas, and monuments spanning a thousand years. Feudal lords, samurai, corporate executives, and ordinary families all have memorials here, drawn by the desire to rest near Kobo Daishi until Maitreya's coming.
 
@@ -57,9 +57,9 @@ Shingon ritual practice is richly aesthetic. The goma ceremony involves the cons
 
 Mount Koya's designation as a UNESCO World Heritage Site in 2004 (as part of the "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range," shared with the Kumano shrines and pilgrimage routes) recognized its broader significance within Japanese spiritual geography. The Kii Peninsula's concentration of sacred sites—Shingon Buddhist, Shugendo ascetic, and Shinto—reflects centuries of interaction between religious traditions that elsewhere might remain separate.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Mount Fuji" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -74,9 +74,9 @@ Kongobuji, the head temple of Shingon Buddhism, houses Japan's largest rock gard
 
 The Danjo Garan, the central temple complex established by Kukai, contains the Konpon Daito (Great Fundamental Pagoda)—a massive vermillion pagoda that Kukai conceived as the center of a mandala encompassing all of Japan. The pagoda's interior houses five Buddha images arranged in the mandala pattern, with paintings on the pillars and walls creating a three-dimensional representation of the esoteric Buddhist cosmos.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Mount Koya is accessible from Osaka by train (approximately ninety minutes to Gokurakubashi station) followed by a cable car ascending the mountain. The final approach by cable car, rising steeply through dense forest, provides a dramatic transition from the urban lowlands to the mountain's forested plateau. A bus system connects the major sites on the mountain, though walking between them is feasible and rewarding.
 
@@ -86,13 +86,12 @@ Okunoin is most atmospheric in early morning or at dusk, when fewer visitors are
 
 The climate is notably cooler and wetter than the lowlands—temperatures average five to ten degrees Celsius lower than Osaka, and mountain fog is common. Snow falls in winter, when the cemetery's monuments take on a particularly striking appearance. The autumn months (October-November) offer comfortable temperatures and spectacular foliage. Summer can be humid but is cooler than coastal cities.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Shikoku 88 Temples](/routes/shikoku-88-temples) — The pilgrimage circuit associated with Kobo Daishi
 - [Kumano Kodo](/routes/kumano-kodo) — The neighboring pilgrimage route network in the Kii Mountains
 - [Kobo Daishi and the Shikoku Pilgrimage](/stories/kobo-daishi-shikoku) — The founder of Mount Koya
 
-</Fragment>

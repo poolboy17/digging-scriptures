@@ -19,7 +19,7 @@ imageAlt: "The Dhamek Stupa at Sarnath, where the Buddha gave his first sermon"
 imageCredit: ""
 ---
 
-<Fragment slot="history">
+
 
 Sarnath is where Buddhism became a teaching rather than a private realization. After attaining enlightenment at Bodh Gaya, the Buddha walked approximately 250 kilometers northwest to a deer park on the outskirts of Varanasi, where he found five ascetics who had previously been his companions. These five men had abandoned him when he gave up extreme austerity, judging that he had lost his resolve. The Buddha's decision to seek them out — and to teach rather than remain in silent contemplation — is understood within Buddhist tradition as a moment of compassion that shaped the trajectory of human religious history.
 
@@ -36,9 +36,9 @@ The Emperor Ashoka visited Sarnath in the third century BCE and erected a polish
 
 Sarnath declined with the broader retreat of Buddhism from the Indian subcontinent. The monasteries were damaged during Turkic invasions in the twelfth century, and the site gradually fell into ruin. Systematic archaeological excavation began under Alexander Cunningham in the 1830s and continued through the nineteenth and twentieth centuries, uncovering the foundations of monasteries, temples, and stupas that now constitute the archaeological park. Anagarika Dharmapala, the Sri Lankan Buddhist reformer who also campaigned for the restoration of Bodh Gaya, established the Maha Bodhi Society at Sarnath in 1931, beginning the process of returning the site to active Buddhist use.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 Among the four great sites of the Buddha's life — Lumbini (birth), Bodh Gaya (enlightenment), Sarnath (first teaching), and Kushinagar (death) — Sarnath holds a particular resonance for those who understand Buddhism primarily as a teaching tradition rather than a devotional religion. If Bodh Gaya represents the Buddha's personal transformation, Sarnath represents his decision to share that transformation with others. The theological significance is considerable: in Buddhist thought, a Buddha who does not teach is a pratyekabuddha, a solitary realizer whose enlightenment benefits no one else. The Sarnath sermon made Siddhartha Gautama a sammasambuddha, a fully awakened teacher whose insight could be transmitted.
 
@@ -48,9 +48,9 @@ The annual festival of Guru Purnima, observed in July, draws large gatherings to
 
 The relationship between Sarnath and neighboring Varanasi creates an unusual juxtaposition. Varanasi is among the holiest cities in Hinduism, a center of devotion, ritual, and cremation along the Ganges. Sarnath, just ten kilometers away, represents a tradition that arose partly in response to the Brahmanical religion that Varanasi embodies. Many pilgrims visit both, experiencing in a single day two of South Asia's deepest religious currents.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Sunset" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -72,9 +72,9 @@ The Mulagandhakuti Vihara, built by the Maha Bodhi Society in 1931, is the prima
 
 The Archaeological Museum at Sarnath, operated by the Archaeological Survey of India, houses one of the finest collections of Buddhist sculpture in existence. Beyond the lion capital, its holdings include the celebrated fifth-century Buddha in the teaching posture (dharmachakra mudra) — the gesture of setting the wheel of dharma in motion — which is widely considered the masterpiece of Gupta-period sculpture and one of the most serene representations of the Buddha ever carved.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Sarnath lies approximately ten kilometers northeast of Varanasi in the state of Uttar Pradesh. The nearest major transport hub is Varanasi, served by Lal Bahadur Shastri International Airport and Varanasi Junction railway station, both well connected to Delhi, Kolkata, and other major Indian cities. Auto-rickshaws and taxis cover the Varanasi-to-Sarnath journey in roughly thirty minutes, depending on traffic.
 
@@ -84,9 +84,9 @@ The best months to visit are October through March, when temperatures in the Gan
 
 Most visitors base themselves in Varanasi, where accommodation ranges from budget guesthouses near the ghats to comfortable hotels in the cantonment area. Sarnath itself has limited accommodation, primarily pilgrim guesthouses maintained by various Buddhist national communities — the Thai temple and Burmese monastery both accept guests. The site is compact and walkable, requiring two to three hours for a thorough visit including the museum, or an entire day if combined with meditation at the Mulagandhakuti Vihara and visits to the surrounding international monasteries.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Bodh Gaya](/places/bodh-gaya) — Where the Buddha attained enlightenment before walking to Sarnath
@@ -94,4 +94,4 @@ Most visitors base themselves in Varanasi, where accommodation ranges from budge
 - [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Why the Buddha designated these four places for pilgrimage
 - [Varanasi](/places/varanasi) — The neighboring Hindu holy city on the Ganges
 
-</Fragment>
+

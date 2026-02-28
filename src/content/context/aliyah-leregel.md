@@ -56,7 +56,7 @@ Rabbinic Judaism, which emerged from the ruins, preserved the pilgrimage festiva
 
 The phrase "Next year in Jerusalem," recited at the conclusion of the Passover Seder, is the most familiar expression of this preserved longing. It is not merely a wish but a theological statement: the pilgrimage is incomplete, the Temple is absent, and the proper mode of Jewish worship remains interrupted. Every Seder, every festival prayer that mentions the Temple, every time a Jew turns toward Jerusalem in prayer, the pilgrimage system reasserts itself as memory, aspiration, and unfinished business.
 
-<Fragment slot="concepts">
+
 
 **Aliyah leregel** — Literally "ascending on foot," the term for the biblical obligation to appear at the Temple during the three pilgrimage festivals. The word aliyah (ascent) reflects both Jerusalem's physical elevation and the spiritual dimension of approaching the divine presence. The same root gives modern Hebrew the word for immigration to Israel (making aliyah), connecting contemporary return with ancient pilgrimage.
 
@@ -73,19 +73,19 @@ The phrase "Next year in Jerusalem," recited at the conclusion of the Passover S
 
 **Ma'amad** — The system by which ordinary Israelites participated in the daily Temple service even when not physically present in Jerusalem. The country was divided into twenty-four districts, each assigned a week during which its representatives stood in the Temple during the sacrifices while their communities at home fasted and prayed simultaneously. This system extended the pilgrimage principle beyond the three festivals into ordinary time.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 The biblical foundations appear in Exodus 23:14-17, Exodus 34:22-24, and Deuteronomy 16:1-17. The Mishnah's tractates Hagigah (festival offering), Bikkurim (first fruits), and Sukkah (booths) provide the most detailed descriptions of pilgrimage practice during the Second Temple period. Josephus, in both Jewish War and Jewish Antiquities, offers firsthand descriptions of festival crowds and Temple logistics. Modern archaeological work at the City of David and the Temple Mount periphery, particularly the excavation of the Pilgrims' Road and the Southern Steps, has provided material evidence that supplements and sometimes corrects the literary sources.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent) — The physical route of the ancient ascent
 - [Western Wall](/places/western-wall) — Where the pilgrimage impulse is preserved today
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festival calendar in detail
 - [Jerusalem Old City](/places/jerusalem-old-city) — The city that received the pilgrims
 - [How the Diaspora Kept Pilgrimage Alive](/context/diaspora-pilgrimage)
-</Fragment>
+

@@ -19,7 +19,7 @@ imageAlt: "The golden dome and minarets of the Imam Hussein Shrine in Karbala"
 imageCredit: ""
 ---
 
-<Fragment slot="history">
+
 
 Najaf and Karbala are the two most sacred cities in Shia Islam, and their significance arises from events in the seventh century CE that defined the Sunni-Shia divide. Najaf is the burial place of Imam Ali ibn Abi Talib, the Prophet Muhammad's cousin and son-in-law, whom Shia Muslims regard as the first rightful successor (imam) to the Prophet. Ali was assassinated in 661 CE while praying at the mosque in Kufa, and tradition holds that he was buried at what is now Najaf. The Imam Ali Shrine, with its golden dome and twin minarets, has grown around the burial site over fourteen centuries of continuous veneration.
 
@@ -34,9 +34,9 @@ Karbala, eighty kilometers to the north, is where Imam Hussein — Ali's son and
 
 The shrines at both cities have been destroyed, rebuilt, expanded, and adorned repeatedly over the centuries. The Abbasid caliphs, Buyid rulers, Safavid shahs, and Ottoman sultans all left their marks on the architecture. The most devastating attack came in 1802, when Wahhabi forces from the Arabian Peninsula sacked Karbala, damaging the shrine of Hussein and killing thousands. The shrine was rebuilt with Persian patronage, and the golden dome that now defines its silhouette dates from the Qajar period. Under Saddam Hussein's Ba'athist regime (1979–2003), the shrines were restricted, and the Shia population of southern Iraq faced severe repression. The fall of the regime in 2003 opened the cities to mass pilgrimage on a scale not seen for decades.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The relationship between Shia devotion and the events at Karbala is not merely historical — it is liturgical, emotional, and present-tense. The annual commemoration of Ashura, observed on the tenth of Muharram, reenacts the suffering and martyrdom of Hussein through processions, passion plays (ta'ziyeh), chest-beating (latmiyya), and public mourning. The rituals are intense and communal, involving millions of participants in Iraq, Iran, Lebanon, Pakistan, India, and Shia communities worldwide. The grief expressed during Ashura is not performative nostalgia; practitioners understand themselves as mourning an ongoing injustice — the defeat of righteousness by tyranny — that transcends its historical moment.
 
@@ -53,9 +53,9 @@ The Arba'een walk is notable for its radical hospitality. Iraqi Sunnis, Christia
 
 Najaf is also the seat of the Hawza, the most important center of Shia religious scholarship. Grand Ayatollahs based in Najaf exercise considerable spiritual and, at times, political authority across the global Shia community. The city's identity as a center of learning and jurisprudence complements its identity as a place of mourning and devotion, making it both an intellectual and an emotional capital for Shia Islam.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Japanese Lantern" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -68,9 +68,9 @@ The Imam Hussein Shrine in Karbala mirrors Najaf's architectural grandeur with i
 
 Wadi al-Salam (Valley of Peace), the cemetery adjacent to the Imam Ali Shrine in Najaf, is one of the largest cemeteries in the world, covering more than six square kilometers with an estimated five to six million burials. Shia Muslims from across the world seek burial near Imam Ali, and the cemetery has been in continuous use for over fourteen centuries. Its vast expanse of tombs, mausoleums, and catacomb-like underground chambers is a landscape of collective memory that embodies the Shia relationship with death, mourning, and hope for intercession.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Najaf and Karbala are located in southern Iraq, connected by a highway that takes approximately ninety minutes by car. Najaf has an international airport with direct flights from Iran, Bahrain, and other regional hubs, as well as charter flights from Pakistan and India during pilgrimage seasons. Baghdad International Airport, roughly 160 kilometers to the north, serves as the primary gateway for international visitors.
 
@@ -80,13 +80,13 @@ The shrines are open to visitors of all faiths, though the primary audience is S
 
 The climate is hot and arid, with summer temperatures regularly exceeding 45°C. The most comfortable visiting months are November through March. During the Arba'een walk, pilgrims endure whatever conditions prevail, and the mawakib along the route provide shelter from sun and cold alike.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 <!-- LAYER 3: Hydration pending -->
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
 - [Ziyarat and the Tradition of Visiting Shrines](/context/ziyarat-visiting-shrines-islam)
 - [Mecca](/places/mecca)
 - [Medina](/places/medina)
 - [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
-</Fragment>
+

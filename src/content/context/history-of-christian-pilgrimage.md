@@ -82,7 +82,7 @@ Contemporary pilgrimage exists in a pluralized . Traditional Catholic pilgrimage
 
 The study of pilgrimage has itself become a significant academic field. Scholars including Victor Turner, whose concept of "communitas" described the egalitarian bonds formed among pilgrims, and more recently Simon Coleman and John Eade, have analyzed pilgrimage as a social, spatial, and embodied practice rather than simply a religious one. This scholarly attention reflects the recognition that pilgrimage illuminates fundamental questions about how humans relate to places, to communities, and to the meaning they seek through movement.
 
-<Fragment slot="concepts">
+
 
 ## Key Concepts
 
@@ -98,9 +98,9 @@ The study of pilgrimage has itself become a significant academic field. Scholars
 </figure>
 
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 ## Further Reading
 
@@ -110,13 +110,12 @@ The study of pilgrimage has itself become a significant academic field. Scholars
 - Simon Coleman and John Elsner, *Pilgrimage: Past and Present in the World Religions* (1995) — comparative approach across traditions
 - Nancy Louise Frey, *Pilgrim Stories: On and Off the Road to Santiago* (1998) — ethnographic study of contemporary Camino pilgrims
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — Hub article on Christian pilgrimage
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage across traditions
 - [Jerusalem Old City](/places/jerusalem-old-city) — The original Christian pilgrimage destination
 - [Camino de Santiago](/routes/camino-de-santiago) — The most traveled medieval pilgrimage route
 
-</Fragment>

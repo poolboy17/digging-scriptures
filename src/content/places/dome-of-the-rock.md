@@ -20,7 +20,7 @@ imageAlt: "The golden Dome of the Rock on the Temple Mount in Jerusalem"
 imageCredit: "Photo by Benjamin R. on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 The Dome of the Rock was completed in 691-692 CE under the Umayyad caliph Abd al-Malik ibn Marwan, making it one of the oldest surviving works of Islamic architecture. The building stands on the Haram al-Sharif (Noble Sanctuary), known to Jews as the Temple Mount—the elevated platform in Jerusalem's Old City where the Jewish First and Second Temples once stood. The choice of location was deliberate: Abd al-Malik constructed his shrine over the Foundation Stone (as-Sakhra), a rock outcrop of profound significance to multiple traditions.
 
@@ -37,9 +37,9 @@ Abd al-Malik's motivations have been debated by historians. Some scholars, follo
 
 The Crusaders captured Jerusalem in 1099 and converted the Dome of the Rock into a church, the Templum Domini, adding an altar and a cross atop the dome. Saladin's reconquest in 1187 restored the building to Islamic use, and he commissioned extensive renovations including the removal of Christian additions and the restoration of Islamic inscriptions. The Mamluks and Ottomans maintained the structure, with Sultan Suleiman the Magnificent undertaking a major renovation in the sixteenth century that included the ceramic tile exterior that largely survives today.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The Haram al-Sharif/Temple Mount represents one of the most contested sacred spaces on earth. For Muslims, it is the third holiest site in Islam after Mecca and Medina. For Jews, it is the holiest place in the world—the site of the divine presence (Shekhinah) and the location toward which all prayers are directed. This dual claim, anchored in genuinely held religious convictions on both sides, makes the platform's governance an issue of extraordinary sensitivity.
 
@@ -49,9 +49,9 @@ The Dome of the Rock is not a mosque but a shrine (mashhad) built to commemorate
 
 The building's golden dome—originally lead-covered, gilded in 1994 with eighty kilograms of gold donated by King Hussein of Jordan—has become the most recognizable feature of Jerusalem's skyline. Its visibility from across the city and the surrounding hills gives it a symbolic prominence that transcends its specific religious associations, functioning as a visual metonym for Jerusalem itself and, by extension, for the Israeli-Palestinian conflict.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -75,9 +75,9 @@ The Foundation Stone itself rises approximately 1.5 meters above the floor, an i
 
 Al-Aqsa Mosque, at the platform's southern end, provides the congregational worship space. The current structure dates substantially from the eleventh century, following earthquake damage, though it incorporates elements from earlier periods. The mosque can accommodate approximately five thousand worshippers and serves as the venue for Friday prayers attended by tens of thousands who fill the surrounding platform.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Non-Muslim visitors may access the Haram al-Sharif/Temple Mount through the Mughrabi Gate, located near the Western Wall plaza. Access is restricted to specific hours (typically Sunday through Thursday mornings), and these hours are subject to change based on security conditions and religious holidays. The site closes to non-Muslim visitors during Muslim prayer times and during periods of tension.
 
@@ -87,13 +87,12 @@ Security screening at the Mughrabi Gate can involve significant queues, particul
 
 The Western Wall plaza, directly below the platform's western retaining wall, provides the nearest accessible point for Jewish worship. The juxtaposition of the two sites—Jewish prayers at the wall below, Islamic worship on the platform above—visually encapsulates the overlapping sacred geographies that define Jerusalem. Many visitors to the Dome of the Rock combine the visit with the Western Wall and the Church of the Holy Sepulchre, all within walking distance in the Old City.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The Dome of the Rock in Islamic sacred geography
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The Temple Mount in Jewish tradition
 - [Jerusalem Old City](/places/jerusalem-old-city) — The walled city containing the Haram al-Sharif
 - [Western Wall](/places/western-wall) — The Jewish pilgrimage site at the base of the Temple Mount
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
-</Fragment>

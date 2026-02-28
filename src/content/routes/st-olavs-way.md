@@ -19,7 +19,7 @@ imageAlt: "Hikers on St. Olav's Way pilgrimage route through the Norwegian count
 imageCredit: "Photo by Stock Birken on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 St. Olav's Way — known in Norwegian as Pilegrimsleden — traces its origins to the death and subsequent canonization of Olav Haraldsson, King of Norway, who fell at the Battle of Stiklestad in 1030 CE. Olav had worked to Christianize Norway, often through forceful means, and his death in battle against a coalition of chieftains opposed to both his political authority and his religious reforms was followed by reports of miracles at his burial site. Within a year of his death, Olav was proclaimed a saint, and his remains were translated to what would become Nidaros Cathedral in Trondheim — the northernmost medieval cathedral in Christendom.
 
@@ -38,9 +38,9 @@ The Reformation arrived in Norway in 1537, when Christian III of Denmark imposed
 
 The revival of St. Olav's Way began in the 1990s, inspired by the broader European phenomenon of pilgrimage route restoration and the specific success of the Camino de Santiago's modern renaissance. In 1997, the route was officially marked and inaugurated, and Nidaros Cathedral began issuing the Olavsbrevet — a certificate analogous to the Camino's Compostela — to pilgrims who had walked at least the final 100 kilometers. The revival positioned Norway within the growing European network of pilgrimage routes and provided a cultural narrative that connected contemporary Norwegians to their medieval heritage.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Stave Church" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -71,9 +71,9 @@ The crossing of the Dovre mountains represents the route's physical climax. The 
 
 The arrival at Nidaros Cathedral, whose green copper spire becomes visible from the surrounding hills, constitutes the journey's emotional and spiritual culmination. The cathedral's west front, with its tiers of medieval sculpture, presents the pilgrim with one of northern Europe's finest examples of Gothic architecture. The experience of arriving on foot, after weeks of walking through the s that St. Olav himself traversed, creates a continuity of experience that connects the modern pilgrim to a thousand years of travelers who preceded them.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 **Nidaros Cathedral** in Trondheim, the journey's destination, ranks among the most important medieval buildings in Scandinavia. Built over the burial site of St. Olav, the cathedral combines Romanesque and Gothic elements in a structure that evolved over several centuries. The west front's sculptural program, though heavily restored, preserves one of the most ambitious schemes of architectural sculpture in northern Europe. The cathedral serves as the traditional site for the consecration of Norwegian monarchs.
 
@@ -85,9 +85,9 @@ The arrival at Nidaros Cathedral, whose green copper spire becomes visible from 
 
 **Stiklestad**, near Trondheim, is the battlefield where King Olav fell in 1030. The site preserves a medieval church built over the rock where Olav reportedly died, and an annual outdoor pageant reenacts the battle. For pilgrims approaching Trondheim, Stiklestad provides a final narrative waypoint that connects the walking journey to the historical event that created the pilgrimage tradition.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The modern St. Olav's Way is administered by the Pilegrimssenter (Pilgrim Center) network, with regional centers in Oslo, Hamar, and Trondheim providing information, credential stamping, and logistical support. The Trondheim Pilgrim Center, located near the cathedral, issues the Olavsbrevet to pilgrims who have walked at least the final 100 kilometers with a spiritual, cultural, or reflective motivation — a requirement that mirrors the Camino's credential system while adding an explicit motivational criterion.
 
@@ -99,13 +99,13 @@ Annual pilgrim numbers have grown steadily but remain modest compared to the Cam
 
 The St. Olav's Way's integration into the Council of Europe's network of Cultural Routes, alongside the Via Francigena and other historic pilgrimage paths, positions it within a broader European project of cultural rediscovery through walking. The route demonstrates that pilgrimage traditions, even those disrupted by the Reformation five centuries ago, can be meaningfully restored when they connect contemporary seekers to s, narratives, and architectural heritage that retain their capacity to inspire.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The broader context of Christian sacred travel
 - [Via Francigena](/routes/via-francigena) — Another revived medieval European pilgrimage route
 - [Camino de Santiago](/routes/camino-de-santiago) — The route that inspired modern pilgrimage revivals across Europe
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Contemporary pilgrimage route development
 
-</Fragment>
+

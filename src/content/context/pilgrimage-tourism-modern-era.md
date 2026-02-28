@@ -78,7 +78,7 @@ The persistence and growth of pilgrimage in an increasingly secular world sugges
 
 The challenge for the coming decades will be to manage this impulse in ways that preserve the qualities that make pilgrimage meaningful while adapting to the realities of mass participation, environmental constraint, and cultural change. The pilgrimage sites that succeed will be those that find ways to honor their sacred heritage while serving contemporary seekers — maintaining the depth that makes the journey worthwhile while managing the breadth that modern accessibility makes possible.
 
-<Fragment slot="concepts">
+
 
 **Carrying Capacity** — The maximum number of visitors a site can accommodate without unacceptable degradation of either the physical environment or the visitor experience. Determining carrying capacity for pilgrimage sites is complicated by the religious dimension — restricting access to a sacred site raises different ethical questions than restricting access to a national park.
 
@@ -95,15 +95,15 @@ The challenge for the coming decades will be to manage this impulse in ways that
 
 **Dark Tourism** — The practice of visiting sites associated with death, suffering, or tragedy. Some pilgrimage destinations, particularly those associated with martyrdom or historical violence, overlap with dark tourism, raising questions about the relationship between devotion and spectacle.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 Erik Cohen's foundational work on pilgrim-tourist typologies appears in "Pilgrimage and Tourism: Convergence and Divergence" (1992). Victor and Edith Turner's Image and Pilgrimage in Christian Culture (1978) established the anthropological study of pilgrimage as a modern academic field. Simon Coleman and John Eade's edited volume Reframing Pilgrimage (2004) provides critical perspectives on contemporary pilgrimage practice. For economic dimensions, Noga Collins-Kreiner's research on pilgrimage tourism management offers data-driven analysis of the commercial pilgrimage sector.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
 
 - [Kora Around Mount Kailash](/routes/kora-mount-kailash) — A pilgrimage where access management is a critical issue
@@ -111,4 +111,4 @@ Erik Cohen's foundational work on pilgrim-tourist typologies appears in "Pilgrim
 - [Camino de Santiago](/routes/camino-de-santiago) — The pilgrimage route most associated with modern revival
 - [Abraham Path](/routes/abraham-path) — A contemporary route designed for interfaith cultural exchange
 
-</Fragment>
+

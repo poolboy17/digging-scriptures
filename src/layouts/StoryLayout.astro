@@ -70,44 +70,15 @@ const {
         <!-- Monetization: FORBIDDEN -->
         <!-- Content: Descriptive, respectful, culturally sensitive -->
         <!-- ================================================================== -->
-        <section class="story-narrative">
+        <!-- ARTICLE CONTENT -->
+        <div class="content">
             {faithTraditions && faithTraditions.length > 0 && (
                 <p class="faith-traditions">
                     Associated traditions: {faithTraditions.join(', ')}
                 </p>
             )}
-            <slot name="narrative" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 3: HISTORICAL CONTEXT -->
-        <!-- Purpose: Background and historical setting -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="story-context">
-            <h2>Historical Context</h2>
-            <slot name="context" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 4: LEGACY AND SIGNIFICANCE -->
-        <!-- Purpose: Impact and continuing relevance -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="story-legacy">
-            <h2>Legacy and Significance</h2>
-            <slot name="legacy" />
-        </section>
-
-        <!-- ================================================================== -->
-        <!-- SECTION 5: RELATED CONTENT -->
-        <!-- Purpose: Internal linking to related pages -->
-        <!-- Monetization: FORBIDDEN -->
-        <!-- ================================================================== -->
-        <section class="story-related">
-            <h2>Related Content</h2>
-            <slot name="related" />
-        </section>
+            <slot />
+        </div>
 
     </div>
     <SpokeSidebar />

@@ -107,44 +107,17 @@ const hasSidebar = sidebarProducts.length > 0;
                 </div>
                 <h1 class="mb-4">{title}</h1>
                 <p class="text-lg text-text-muted leading-relaxed">{description}</p>
-            </header>
-
-            <!-- SECTION 2: HISTORICAL SIGNIFICANCE -->
-            <section class="content mb-10">
-                <h2>Historical Significance</h2>
-                <slot name="history" />
-            </section>
-
-            <!-- SECTION 3: CULTURAL CONTEXT -->
-            <section class="content mb-10 pt-8 border-t border-border">
-                <h2>Cultural and Spiritual Context</h2>
                 {faithTraditions && faithTraditions.length > 0 && (
-                    <p class="text-sm text-text-muted italic mb-4">
+                    <p class="text-sm text-text-muted italic mt-3">
                         Associated traditions: {faithTraditions.join(', ')}
                     </p>
                 )}
-                <slot name="culture" />
-            </section>
+            </header>
 
-            <!-- SECTION 4: NOTABLE FEATURES -->
-            <section class="content mb-10 pt-8 border-t border-border">
-                <h2>Notable Features</h2>
-                <slot name="features" />
-            </section>
-
-            <!-- SECTION 5: EXPERIENCING THIS PLACE TODAY (MONETIZATION ALLOWED) -->
-            {hasExperienceSection && (
-                <section class="content mb-10 pt-8 border-t border-border">
-                    <h2>Experiencing This Place Today</h2>
-                    <slot name="experience" />
-                </section>
-            )}
-
-            <!-- SECTION 6: RELATED CONTENT -->
-            <section class="mt-12 pt-8 border-t border-border">
-                <h2 class="mb-4">Related Content</h2>
-                <slot name="related" />
-            </section>
+            <!-- ARTICLE CONTENT -->
+            <div class="content">
+                <slot />
+            </div>
 
         </div>
         <SpokeSidebar products={sidebarProducts} productHeading="Plan Your Visit" />

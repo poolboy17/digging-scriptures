@@ -21,7 +21,7 @@ imageAlt: "The Cathedral of Santiago de Compostela, final destination of the Cam
 imageCredit: "Photo by Linda Cunningham on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 ## Why This Place Matters in Pilgrimage History
 
@@ -42,9 +42,9 @@ By the twelfth century, Santiago de Compostela ranked alongside Jerusalem and Ro
 
 The Reformation reduced pilgrimage throughout northern Europe, though Santiago, in Catholic Spain, was less directly affected. Wars, plagues, and changing religious sensibilities diminished pilgrim numbers from their medieval peak. By the nineteenth century, the Camino had faded considerably from its former prominence, maintained primarily by Spanish and Portuguese pilgrims traveling shorter distances.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 ## Religious and Cultural Traditions
 
@@ -65,9 +65,9 @@ The cockleshell serves as the universal symbol of the Santiago pilgrimage. Pilgr
 
 The feast of Saint James on July 25 brings special celebrations to the city. When July 25 falls on a Sunday, the year is designated a Holy Year, during which pilgrims who fulfill certain conditions may receive particular spiritual benefits according to Catholic teaching. The Puerta Santa, the Holy Door on the cathedral's eastern end, opens only during these years, remaining sealed between Holy Years and ritually opened at the beginning of each one.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 ## Pilgrimage Practices and Experiences Over Time
 
@@ -88,9 +88,9 @@ The Pilgrim's Mass, celebrated at noon daily in the cathedral, draws many who ha
 
 Some pilgrims extend their journey beyond Santiago to Finisterre, the cape on the Atlantic coast representing the westernmost point of mainland Spain. This additional journey of approximately ninety kilometers carries no official religious status but has become a popular continuation. The experience of reaching the ocean, the symbolic "end of the world" known to medieval Europeans, provides a different kind of culmination than the ecclesiastical endpoint at the cathedral.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 ## Experiencing This Place Today
 
@@ -111,12 +111,12 @@ The cuisine of Galicia provides a distinctive dimension of the Santiago experien
 
 Some travelers engage organized pilgrimage programs that combine walking portions of the Camino with time in Santiago. These programs often include educational components addressing the history and spirituality of the pilgrimage, led by experienced guides or chaplains. Such structured experiences appeal to those seeking interpretation and community alongside the physical journey.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Camino de Santiago](/routes/camino-de-santiago) — The pilgrimage routes leading to this destination
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage traditions
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
 
-</Fragment>
+

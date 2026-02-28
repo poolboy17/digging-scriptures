@@ -19,7 +19,7 @@ imageAlt: "Pilgrims gathered at the Grotto of Massabielle in Lourdes, France"
 imageCredit: "Photo by Nick Castelli on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 In 1858, a fourteen-year-old girl named Bernadette Soubirous reported eighteen visions of a figure she described as "a small young lady" in a grotto at Massabielle, along the banks of the Gave de Pau river in the Pyrenean town of Lourdes. The figure, eventually identified by the Church as the Virgin Mary, reportedly instructed Bernadette to dig in the ground of the grotto, producing a spring. The apparition declared, in the local Gascon dialect, "I am the Immaculate Conception" — a dogma proclaimed by Pope Pius IX just four years earlier in 1854, a theological detail that the uneducated Bernadette was unlikely to have known independently.
 
@@ -38,9 +38,9 @@ The Medical Bureau of Lourdes, established in 1883, provides a unique institutio
 
 Bernadette Soubirous herself left Lourdes in 1866, entering the Sisters of Charity of Nevers, where she lived until her death in 1879 at age thirty-five. She suffered from chronic illness throughout her religious life and reportedly showed little interest in the institutional development of the pilgrimage site that her visions had created. Her canonization in 1933 was based on her personal holiness rather than on the apparitions or healings, a distinction the Church has carefully maintained.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 Lourdes receives approximately six million visitors annually, making it, after Paris, the second most visited destination in France by some measures. The pilgrim population includes a significant proportion of sick and disabled individuals who come seeking healing — physical, emotional, or spiritual. The organized assistance provided to these pilgrims by volunteer helpers known as brancardiers and handmaids constitutes one of the most distinctive features of the Lourdes experience, creating a community where service to the vulnerable takes visible precedence.
 
@@ -59,9 +59,9 @@ The torchlight Marian procession, held each evening during the pilgrimage season
 
 The relationship between the sanctuary and the town of Lourdes itself presents an instructive tension. The commercial district surrounding the pilgrimage domain is lined with shops selling religious articles — statues, rosaries, bottles for spring water, and souvenirs of varying taste. This commercial dimension, which developed almost immediately after the apparitions, has been a source of both economic sustenance for the local population and periodic discomfort for pilgrims seeking an entirely sacred atmosphere.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 The Grotto of Massabielle, where Bernadette reported her visions, remains the spiritual center of the sanctuary. The shallow cave, approximately three and a half meters high, contains a statue of the Virgin Mary placed in the niche where Bernadette described seeing the apparition. The spring emerges at the back of the grotto, its water channeled to taps where pilgrims fill bottles and to the baths where immersions take place. The rock face of the grotto, worn smooth by the touch of millions of hands over more than a century and a half, bears physical evidence of the scale and persistence of devotion at this site.
 
@@ -73,9 +73,9 @@ The Cachot, the former prison cell where the Soubirous family lived in extreme p
 
 The underground Basilica of St. Pius X deserves particular note for its scale and architectural ambition. Shaped like an inverted ship's hull and sunk entirely below ground level, the structure spans 201 meters in length and can hold congregations larger than most outdoor venues. Its construction for the 1958 centenary demonstrated the institutional commitment to accommodating pilgrimage at an industrial scale while preserving the natural above.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 The Sanctuary of Our Lady of Lourdes operates as a managed pilgrimage domain with free admission to all areas. The grotto is accessible at all hours, and many pilgrims visit in the early morning or late evening for quieter encounters with the site. The baths operate on a first-come basis during published hours, with separate facilities for men and women. Wait times vary but can extend to several hours during peak periods — many pilgrims treat the wait itself as part of the devotional practice.
 
@@ -87,12 +87,12 @@ The pilgrimage season runs from Easter through October, with July and August see
 
 Accommodation ranges from hotels along the commercial boulevards to religious guesthouses operated by various orders and organizations that cater specifically to pilgrim groups. The Accueil Notre-Dame and similar facilities provide specialized accommodation for sick pilgrims and their accompaniers, with medical support available. Visitors should expect that the town's commercial district, with its dense concentration of shops selling religious articles, presents a commercial dimension that sits in sometimes uneasy proximity to the sanctuary's spiritual atmosphere.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — Overview of pilgrimage within the Christian tradition
 - [Rome and the Vatican](/places/rome-vatican) — The administrative and spiritual center of Catholic pilgrimage
 - [Santiago de Compostela](/places/santiago-de-compostela) — Another major European Christian pilgrimage destination
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture of pilgrimage devotion
 - [Women Who Shaped Pilgrimage](/context/women-and-pilgrimage)
-</Fragment>
+

@@ -21,7 +21,7 @@ imageAlt: "Jerusalem skyline with the golden Dome of the Rock and the Old City w
 imageCredit: "Photo by George 🦅 on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 ## Why This Place Matters in Pilgrimage History
 
@@ -40,9 +40,9 @@ The construction of the Church of the Holy Sepulchre, ordered by Constantine ove
 
 Subsequent centuries added churches, monasteries, and hospices throughout the city, creating an infrastructure to receive pilgrims from across the Christian world. The city has changed hands repeatedly—passing from Byzantine to Persian to Arab to Crusader to Mamluk to Ottoman to British to Jordanian to Israeli control—yet pilgrimage has continued through these transitions. Each period has left its mark on the sacred , and pilgrims today encounter a city layered with the traces of this complex history.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 ## Religious and Cultural Traditions
 
@@ -63,9 +63,9 @@ The Mount of Olives, rising east of the Old City across the Kidron Valley, conta
 
 Jewish pilgrimage to Jerusalem predates and continues alongside Christian practice. The Western Wall, the remnant of the Second Temple's retaining wall, serves as the holiest site accessible to Jewish worshippers, drawing visitors who understand themselves as continuing traditions interrupted by the Temple's destruction in 70 CE. Muslim pilgrimage focuses on the Haram al-Sharif, the Noble Sanctuary, containing the Dome of the Rock and Al-Aqsa Mosque. Pilgrims to Christian sites necessarily encounter this shared sacred geography, experiencing Jerusalem's multilayered religious significance in ways that complicate any single narrative.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 ## Pilgrimage Practices and Experiences Over Time
 
@@ -84,9 +84,9 @@ The rituals performed at these sites have evolved over centuries while maintaini
 
 The practice of walking the Via Dolorosa developed over centuries, with the current fourteen stations standardized in the eighteenth century. Friday processions, led by the Franciscan Custody of the Holy Land, maintain a tradition of public witness along the route. Individual pilgrims and groups walk the stations throughout the week, often carrying crosses and pausing for prayer at each location. The experience of walking where Jesus walked, even along a route whose historical accuracy cannot be verified, has drawn pilgrims for generations.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 ## Experiencing This Place Today
 
@@ -107,12 +107,12 @@ Some visitors find that local guides enhance their understanding of the sites' h
 
 Accommodations in Jerusalem range from historic hospices and guesthouses maintained by religious communities to international hotels. Some pilgrims specifically seek lodging with a religious character, while others prefer conventional tourist accommodations. Options within the Christian Quarter tend toward the simpler end of the spectrum, reflecting the traditional hospitality offered to pilgrims rather than the amenities expected by tourists.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage traditions
 - [Santiago de Compostela](/places/santiago-de-compostela) — Another major Christian pilgrimage destination
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [Dome of the Rock](/places/dome-of-the-rock)
 - [Jerusalem Old City](/places/jerusalem-old-city)
-</Fragment>
+

@@ -67,7 +67,7 @@ Within Islam, the Wahhabi movement that emerged in eighteenth-century Arabia con
 
 The scholarly study of relics, pioneered by historians like Peter Brown and Patrick Geary, has moved beyond the question of authenticity (which occupied earlier generations of both defenders and critics) to examine the social, economic, and psychological functions that relics serve. Relics create focal points for community identity, generate economic activity through pilgrimage, provide tangible evidence of the sacred that makes abstract theology accessible, and offer individuals a sense of personal connection to the figures and events of sacred history.
 
-<Fragment slot="concepts">
+
 
 **Translation** — The formal transfer of a relic from one location to another, often accompanied by elaborate ceremony. In medieval Christianity, the translation of relics was a major event that could transform a church's status and generate new pilgrimage flows.
 
@@ -84,15 +84,15 @@ The scholarly study of relics, pioneered by historians like Peter Brown and Patr
 
 **Incorruptibility** — The preservation of a saint's body from decay, regarded in Catholic tradition as evidence of sanctity. Incorrupt bodies — or bodies that have resisted normal decomposition — are displayed in churches across Europe, their preserved state serving as a visible argument for the reality of holiness.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 Peter Brown's The Cult of the Saints (1981) remains the foundational scholarly treatment of Christian relic veneration. Patrick Geary's Furta Sacra (1978) examines the practice of relic theft. John S. Strong's Relics of the Buddha (2004) provides the most comprehensive treatment of Buddhist relic traditions. For Islamic sacred objects, Josef Meri's The Cult of Saints among Muslims and Jews in Medieval Syria (2002) examines the shared and contested practices of relic veneration in the Middle East.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
 
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The discovery that launched Christianity's relic tradition
@@ -100,4 +100,4 @@ Peter Brown's The Cult of the Saints (1981) remains the foundational scholarly t
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition most shaped by relic veneration
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Sites connected to the original distribution of the Buddha's relics
 
-</Fragment>
+

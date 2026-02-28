@@ -18,7 +18,7 @@ imageAlt: "The twin towers of Santiago de Compostela Cathedral, linked to the le
 imageCredit: "Photo by David Magalhães on Unsplash"
 ---
 
-<Fragment slot="narrative">
+
 
 ## The Apostle in Scripture and Tradition
 
@@ -42,9 +42,9 @@ The foundational narrative of the Santiago pilgrimage centers on a reported disc
 
 The dating of this discovery varies among sources but falls somewhere between 820 and 830 CE. The political context proves significant for understanding how the narrative developed. The Christian kingdoms of northern Iberia were small, fragile, and engaged in intermittent conflict with the Muslim polities controlling most of the peninsula. The discovery of an apostolic relic provided the Asturian monarchy under Alfonso II with a powerful source of legitimacy and divine patronage. Alfonso traveled to the site, ordered the construction of a church over the tomb, and established an episcopal see at what became known as Santiago de Compostela—a name traditionally derived from campus stellae, "field of the star," though this etymology is disputed.
 
-</Fragment>
 
-<Fragment slot="context">
+
+
 
 ## Historical Layers and Scholarly Debate
 
@@ -63,9 +63,9 @@ What historical evidence does support is the rapid development of the cult from 
 
 The Liber Sancti Jacobi, compiled in the mid-twelfth century and sometimes attributed to Pope Calixtus II (though this attribution is almost certainly false), provided the fullest medieval elaboration of the Santiago narrative. This collection includes miracle stories, liturgical texts, and the practical pilgrimage guide that reveals how thoroughly the tradition had developed by this period. The historian Alain Demurger has described this text as "propaganda of genius," recognizing both its literary quality and its promotional function.
 
-</Fragment>
 
-<Fragment slot="legacy">
+
+
 
 ## Legacy and Living Tradition
 
@@ -82,13 +82,12 @@ Contemporary pilgrims walking to [Santiago de Compostela](/places/santiago-de-co
 
 The story of Saint James thus serves as a case study in how sacred narratives function. The legend provided a framework for understanding a specific place as holy, motivating centuries of human effort directed toward that place. Whether the bones beneath the cathedral altar belong to a Galilean fisherman executed in Jerusalem two thousand years ago may be less important than the fact that the belief they do has drawn millions of people into a practice of sustained, purposeful, transformative movement across s they would otherwise never have traversed. The legend created the pilgrimage; the pilgrimage, in turn, created a tradition that has outlived the certainty of its origins.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Santiago de Compostela](/places/santiago-de-compostela) — The shrine associated with this tradition
 - [Camino de Santiago](/routes/camino-de-santiago) — The pilgrimage routes leading to the shrine
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The broader context of Christian pilgrimage
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage across traditions
 
-</Fragment>

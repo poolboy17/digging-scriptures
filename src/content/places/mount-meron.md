@@ -19,7 +19,7 @@ imageAlt: "The hilltop shrine of Rabbi Shimon bar Yochai on Mount Meron in the U
 imageCredit: ""
 ---
 
-<Fragment slot="history">
+
 
 Mount Meron, the highest peak in Israel proper at 1,208 meters, has been a place of pilgrimage since at least the medieval period, centered on the tomb attributed to Rabbi Shimon bar Yochai, the second-century Talmudic sage whom tradition credits as the author of the Zohar, the central text of Jewish mysticism. Bar Yochai is said to have spent thirteen years hiding from Roman persecution in a cave on the mountain with his son Elazar, sustained by a miraculous carob tree and spring. During this period of concealment, according to Kabbalistic tradition, he received the mystical revelations that would be recorded in the Zohar.
 
@@ -29,9 +29,9 @@ The tradition of the Lag BaOmer pilgrimage to Meron appears to have crystallized
 
 The pilgrimage grew steadily through the Ottoman period and expanded dramatically after the establishment of the State of Israel, which improved road access to the remote Galilee site. By the early twenty-first century, the annual gathering had grown to approximately half a million participants, making it the largest annual religious gathering in Israel. The 2021 stampede, which killed forty-five people in a crush at one of the narrow exits from the tomb compound, led to significant infrastructure changes and crowd-management reforms that have reshaped the logistics of the pilgrimage.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The Lag BaOmer pilgrimage to Meron is unlike any other event in Jewish life. It combines elements of Hasidic fervor, Kabbalistic ritual, communal celebration, and sheer physical endurance into an experience that participants describe in terms closer to ecstasy than to conventional worship. The central ritual is the hadlaka — the lighting of a massive bonfire on the roof of the tomb compound, traditionally ignited by a designated rabbi from one of the Hasidic dynasties. The flames, visible across the Galilee, are understood as a reenactment of the fire that accompanied bar Yochai's death and a means of connecting with the mystical light he revealed.
 
@@ -48,9 +48,9 @@ Music and dance are central to the experience. Hasidic groups set up stages and 
 
 Beyond Lag BaOmer, Meron attracts visitors throughout the year. The tomb compound is open daily, and Jews of all backgrounds — Ashkenazi and Sephardi, Hasidic and non-Hasidic, religious and nominally secular — come to pray at bar Yochai's grave. The site functions as a place of personal petition: visitors recite psalms, light candles, and leave written requests at the tomb, asking for healing, fertility, livelihood, and spiritual guidance. The Kabbalistic association of bar Yochai with the revelation of hidden wisdom gives prayers at his tomb a particular intensity — the sense that one is approaching a figure who penetrated the deepest layers of reality.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -72,9 +72,9 @@ The broader Mount Meron area is a nature reserve of significant ecological value
 
 Adjacent to the tomb compound, the ruins of an ancient synagogue have been partially excavated, dating to the late Roman or Byzantine period. The carved stone lintel, decorated with a wreath and eagles, suggests a community of some sophistication, and the synagogue's proximity to the tomb may indicate that the site was already a place of religious significance in antiquity, even before the specific identification with bar Yochai became established.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Mount Meron is located in the Upper Galilee, approximately thirty kilometers northwest of the Sea of Galilee. The nearest city is Safed (Tzfat), about ten kilometers to the east, which serves as the most convenient base for visitors. The site is accessible by car via Route 89, with parking available at the base of the mountain.
 
@@ -84,13 +84,13 @@ The Lag BaOmer pilgrimage, typically falling in May, requires advance planning. 
 
 Safed itself warrants a visit. The hilltop city, with its blue-painted artists' quarter, ancient synagogues, and associations with the Kabbalistic masters of the sixteenth century, provides essential context for understanding why Meron became a pilgrimage destination. The Ari Synagogue, the Caro Synagogue, and the old cemetery where Isaac Luria and Joseph Caro are buried are all accessible on foot within the old city.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Safed and the Kabbalistic Tradition](/places/safed-kabbalah) — The mystical city at the base of Mount Meron
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A Hasidic master's transformative pilgrimage
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The biblical pilgrimage cycle
 
-</Fragment>
+

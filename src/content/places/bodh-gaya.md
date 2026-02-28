@@ -19,7 +19,7 @@ imageAlt: "The Mahabodhi Temple at Bodh Gaya, where the Buddha attained enlighte
 imageCredit: "Photo by Prashanth Karnam on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Bodh Gaya marks the location where Siddhartha Gautama, after years of ascetic practice and meditation, attained enlightenment (bodhi) beneath a pipal tree, becoming the Buddha—the Awakened One. Buddhist tradition places this event around the fifth century BCE, though precise dating remains debated among scholars. The site's significance is absolute within Buddhism: it is the place where the central event of the tradition occurred, the moment that made the Buddha's subsequent teaching possible.
 
@@ -36,9 +36,9 @@ The Mahabodhi Temple, the pyramidal structure that dominates the site today, dat
 
 UNESCO designated the Mahabodhi Temple Complex a World Heritage Site in 2002, recognizing it as "one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment."
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 Bodh Gaya is unique among Buddhist pilgrimage sites in attracting devotees from every Buddhist tradition. Theravada Buddhists from Sri Lanka, Myanmar, and Thailand; Mahayana Buddhists from China, Korea, and Vietnam; Vajrayana Buddhists from Tibet, Bhutan, and Mongolia—all regard Bodh Gaya as the supreme sacred site. This ecumenical significance is reflected in the monasteries and temples built by Buddhist communities from across Asia surrounding the Mahabodhi Temple, creating an international Buddhist precinct unlike any other.
 
@@ -55,9 +55,9 @@ Meditation practice is central to the Bodh Gaya pilgrim experience. Many visitor
 
 The site's management has been a source of ongoing tension. Buddhist organizations have long sought full management control, arguing that Buddhism's holiest site should not require Hindu participation in its governance. The Indian government has maintained the mixed-management structure, reflecting both political considerations and the broader Indian understanding of the Buddha as a figure within the Hindu civilizational framework. This dispute, while primarily administrative, touches on fundamental questions about the relationship between Buddhism and Hinduism in the land of the Buddha's birth.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Temple" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -72,9 +72,9 @@ The Animeshlocha Stupa, northeast of the temple, marks the spot where the Buddha
 
 The Archaeological Museum adjacent to the temple complex houses sculptures, inscriptions, and architectural fragments recovered from the site and surrounding area. Collections span from the Mauryan period through the medieval era and include some of the finest examples of Buddhist sculpture from the Indian subcontinent, documenting the evolution of Buddha imagery across a millennium.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Bodh Gaya is located in the state of Bihar in eastern India, approximately fifteen kilometers from the city of Gaya. The nearest airport is Gaya Airport, which receives direct flights from several Asian Buddhist capitals during the pilgrimage season (October through March). Overland travel from Varanasi (approximately 250 kilometers) or Patna (approximately 110 kilometers) is also common.
 
@@ -84,12 +84,11 @@ The pilgrimage season peaks from October through February, when the weather is r
 
 Accommodation ranges from dharamsalas (pilgrim guesthouses) maintained by various national Buddhist communities to commercial hotels of varying standards. Many monasteries accept guests for meditation retreats, sometimes at nominal cost. The town is compact and walkable, with the international monasteries—Tibetan, Thai, Japanese, Bhutanese, and others—constituting attractions in themselves, each built in the architectural style of its home country.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Lumbini](/places/lumbini) — The site of the Buddha's birth in Nepal
 - [Xuanzang, Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The Chinese monk who visited Bodh Gaya in the seventh century
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context on the places the Buddha designated for pilgrimage
 - [Sarnath](/places/sarnath)
-</Fragment>

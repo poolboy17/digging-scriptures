@@ -21,7 +21,7 @@ imageAlt: "The fortified compound surrounding Rachel's Tomb near Bethlehem"
 imageCredit: ""
 ---
 
-<Fragment slot="history">
+
 
 Rachel, the wife of the patriarch Jacob and the mother of Joseph and Benjamin, occupies a singular emotional position within Jewish tradition. She died in childbirth on the road between Bethel and Bethlehem, and according to the Book of Genesis (35:19-20), Jacob "set up a pillar on her grave; it is the pillar of Rachel's grave to this day." This biblical note — marking the location as already known and visited by the time the text was composed — makes Rachel's Tomb one of the oldest continuously identified pilgrimage sites in the Jewish tradition.
 
@@ -31,9 +31,9 @@ The structure that marks the site today bears little resemblance to the simple p
 
 The tomb is sacred in Christianity and Islam as well. Christians identify Rachel as an ancestor of Christ through the Matthean genealogy. Muslims recognize her as the wife of the prophet Ya'qub (Jacob) and traditionally called the site Bilal ibn Rabah mosque, associating it with a companion of the Prophet Muhammad. The competing claims have made the tomb a flashpoint in the broader conflict over sacred sites in the region.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 Jewish women have maintained a particularly strong devotional attachment to Rachel's Tomb. Because Rachel died in childbirth, she is regarded as a special intercessor for fertility, safe pregnancy, and the health of children. Women who are struggling to conceive, who are pregnant, or who have sick children travel to the tomb to pray, weep, and recite psalms. This tradition is ancient — medieval travelers recorded the practice — and it continues today with an intensity that makes Rachel's Tomb one of the most emotionally charged pilgrimage sites in Israel.
 
@@ -55,9 +55,9 @@ The eleventh of the Hebrew month of Cheshvan, traditionally identified as the an
 
 Rachel's position in Jewish theology extends beyond her role as matriarch. In Kabbalistic thought, she is identified with the Shekhinah, the feminine aspect of the divine presence that accompanies Israel in exile. Praying at her tomb is thus understood not merely as visiting an ancestral grave but as communing with an aspect of the divine that shares in human suffering and advocates for mercy. This theological layer gives Rachel's Tomb a depth of meaning that elevates it beyond historical commemoration into active spiritual encounter.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 The current compound is a heavily fortified structure surrounded by concrete walls and military watchtowers. The original Ottoman-era domed building remains at the center, its stone walls and simple dome now enclosed within layers of modern construction. Visitors enter through a secured checkpoint and proceed along a covered passage to the prayer hall, which is divided into men's and women's sections according to Orthodox practice.
 
@@ -72,9 +72,9 @@ Adjacent rooms house shelves of prayer books, psalters, and collections of perso
 
 The surrounding area, once an open landscape between Jerusalem and Bethlehem, is now dominated by the Israeli separation barrier and military infrastructure. The transformation of the site from an accessible roadside shrine to a fortified compound reflects the broader political realities of the region and has become a subject of debate among Israelis, Palestinians, and the international community.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Rachel's Tomb is located on Route 60 at the northern entrance to Bethlehem, approximately ten kilometers south of Jerusalem's Old City. Israeli citizens and tourists access the site via a dedicated road that passes through a checkpoint in the separation barrier. The compound is managed by the Israeli Ministry of Religious Services.
 
@@ -84,13 +84,13 @@ Modest dress is required — women should cover their shoulders and knees, and m
 
 Transportation from Jerusalem is available by bus (lines serving the Gush Etzion corridor stop nearby) or by taxi. There is no accommodation at the site; visitors typically base themselves in Jerusalem. The visit itself takes thirty minutes to an hour, though some pilgrims, particularly on the eleventh of Cheshvan, remain for extended periods of prayer.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Where Rachel's husband Jacob and other patriarchs are buried
 - [Western Wall](/places/western-wall) — Judaism's holiest prayer site in Jerusalem
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A pilgrimage story driven by longing for the Holy Land
 
-</Fragment>
+

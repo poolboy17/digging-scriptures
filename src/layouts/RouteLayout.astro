@@ -137,42 +137,10 @@ const hasSidebar = sidebarProducts.length > 0;
                 </div>
             </header>
 
-            <!-- SECTION 2: HISTORICAL ORIGINS -->
-            <section class="content mb-10">
-                <h2>Historical Origins</h2>
-                <slot name="history" />
-            </section>
-
-            <!-- SECTION 3: THE JOURNEY -->
-            <section class="content mb-10 pt-8 border-t border-border">
-                <h2>The Journey</h2>
-                {faithTraditions && faithTraditions.length > 0 && (
-                    <p class="text-sm text-text-muted italic mb-4">
-                        Associated traditions: {faithTraditions.join(', ')}
-                    </p>
-                )}
-                <slot name="journey" />
-            </section>
-
-            <!-- SECTION 4: SIGNIFICANT PLACES -->
-            <section class="content mb-10 pt-8 border-t border-border">
-                <h2>Significant Places Along the Way</h2>
-                <slot name="places" />
-            </section>
-
-            <!-- SECTION 5: MODERN EXPERIENCES (MONETIZATION ALLOWED) -->
-            {hasModernSection && (
-                <section class="content mb-10 pt-8 border-t border-border">
-                    <h2>Modern Pilgrimage Experiences</h2>
-                    <slot name="modern" />
-                </section>
-            )}
-
-            <!-- SECTION 6: RELATED CONTENT -->
-            <section class="mt-12 pt-8 border-t border-border">
-                <h2 class="mb-4">Related Content</h2>
-                <slot name="related" />
-            </section>
+            <!-- ARTICLE CONTENT -->
+            <div class="content">
+                <slot />
+            </div>
 
         </div>
         <SpokeSidebar products={sidebarProducts} productHeading="Plan Your Journey" />

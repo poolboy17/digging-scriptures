@@ -17,7 +17,7 @@ imageAlt: "The Church of the Holy Sepulchre in Jerusalem, built at the site wher
 imageCredit: "Photo by Mario La Pergola on Unsplash"
 ---
 
-<Fragment slot="narrative">
+
 
 In 326 or 327 CE, Helena Augusta — mother of the Roman Emperor Constantine, approximately eighty years old, and one of the most powerful women in the world — undertook a journey to the eastern provinces of the Roman Empire that would reshape the sacred geography of Christianity. Her pilgrimage to Palestine, motivated by devotion and enabled by imperial resources, produced a physical infrastructure of churches and shrines that transformed the s of the Gospels from narrative settings into visitable destinations.
 
@@ -41,9 +41,9 @@ The central narrative of Helena's journey involves the discovery of the True Cro
 
 Helena's journey produced tangible architectural results that survive, in modified form, to the present day. She is credited with commissioning or inspiring the construction of the Church of the Nativity in Bethlehem, over the traditional site of Jesus's birth, and the Church of the Eleona on the Mount of Olives, marking the site associated with Jesus's ascension. Constantine himself ordered the construction of the Church of the Holy Sepulchre in Jerusalem over the sites of the Crucifixion and the empty tomb — a project likely influenced by his mother's discoveries and advocacy.
 
-</Fragment>
 
-<Fragment slot="context">
+
+
 
 Helena's pilgrimage must be understood within the revolutionary context of early fourth-century Christianity. Before Constantine's legalization and patronage of the faith, Christian worship had been conducted in private houses, catacombs, and modest meeting halls. The idea that specific geographical locations in Palestine held sacred significance because of events in Jesus's life was not new — Origen and other early church fathers had discussed the holy places — but Helena's journey, backed by imperial authority and treasury, transformed theoretical veneration into physical infrastructure.
 
@@ -58,9 +58,9 @@ The relic culture that Helena's discovery of the True Cross helped to inaugurate
 
 Helena's role as a female figure of extraordinary agency within a patriarchal society has drawn scholarly attention. Her pilgrimage was not merely a private devotional act but a public exercise of imperial authority in service of religious goals. She traveled with a retinue, dispensed charity, freed prisoners, and made decisions about construction projects — all activities that demonstrated power while framing it within the acceptable categories of piety and maternal devotion. She died around 330 CE, and her remains were eventually placed in a porphyry sarcophagus now housed in the Vatican Museums.
 
-</Fragment>
 
-<Fragment slot="legacy">
+
+
 
 Helena's journey established the template for Christian pilgrimage to the Holy Land that persists, in its essential outlines, to the present day. The sites she identified and the churches built at her instigation — the Holy Sepulchre, the Nativity, the Mount of Olives — remain the primary destinations of Christian pilgrimage to Jerusalem and Bethlehem. Every pilgrim who visits these sites walks in Helena's footsteps, whether or not they are aware of her role in creating the sacred geography they navigate.
 
@@ -70,12 +70,12 @@ Helena was venerated as a saint in both Eastern and Western Christianity. The Ea
 
 The scholarly debate surrounding Helena's discoveries continues to evolve. Archaeological investigations at the Church of the Holy Sepulchre have confirmed the presence of a first-century Jewish tomb beneath the structure, lending plausibility to the site's identification as Jesus's burial place regardless of whether the specific cross discovery narrative is historical. Helena's legacy thus rests not on the resolution of particular historical questions but on the broader transformation she effected: the conversion of narrative into geography, of scripture into architecture, and of faith into a practice that engages the body in movement through sacred space.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Jerusalem Old City](/places/jerusalem-old-city) — The primary destination of Helena's pilgrimage
 - [Rome and the Vatican](/places/rome-vatican) — Where Helena's sarcophagus now resides
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition Helena helped create
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The relic culture Helena's discovery inaugurated
 - [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer)
-</Fragment>
+

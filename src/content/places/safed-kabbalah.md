@@ -19,7 +19,7 @@ imageAlt: "A blue doorway in the mystical city of Safed (Tzfat), center of Kabba
 imageCredit: "Photo by Levi Meir Clancy on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Safed (Tzfat) sits at approximately 900 meters elevation in the Upper Galilee, making it the highest city in Israel. While the site has ancient origins—it may be the Sepph mentioned by Josephus as fortified during the Jewish revolt against Rome—Safed's significance for Jewish pilgrimage derives primarily from a remarkable period in the sixteenth century when the city became the world center of Kabbalistic mysticism.
 
@@ -36,9 +36,9 @@ Rabbi Isaac Luria (1534-1572), known as the Ari (the Lion), arrived in Safed in 
 
 Rabbi Joseph Karo (1488-1575), author of the Shulchan Aruch—the most authoritative code of Jewish law—lived and worked in Safed during the same period. The coincidence of the era's greatest legal mind and its greatest mystical teacher in the same small city created an intellectual environment of extraordinary intensity. Karo himself practiced mystical meditation alongside his legal scholarship, exemplifying the integration of rationalist and mystical approaches that characterized Safed's golden age.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The Kabbalistic tradition that flowered in Safed understood the city and its surroundings as a charged with spiritual significance. The Ari and his circle developed practices tied to specific locations: meditation at the tombs of ancient sages, ritual immersion in natural springs, and Friday afternoon processions into the fields to welcome the Sabbath—a practice that generated the hymn Lecha Dodi, now sung in synagogues worldwide every Friday evening.
 
@@ -55,9 +55,9 @@ Safed's artistic quarter, established in the 1950s and 1960s in the former Arab 
 
 The annual celebration of Lag BaOmer draws hundreds of thousands of visitors to the nearby tomb of Rabbi Shimon bar Yochai on Mount Meron. This gathering—one of the largest annual events in Israel—features bonfires, music, and the ritual first haircutting (upsherin) of three-year-old boys. The festive character of the celebration contrasts with the more contemplative atmosphere of individual visits to Safed's synagogues and tombs.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -72,9 +72,9 @@ The ancient cemetery of Safed, descending the hillside below the Old City toward
 
 The Ari's Mikveh, a natural spring-fed ritual bath below the cemetery, preserves the site where Luria practiced ritual immersion as part of his spiritual discipline. The water is cold year-round, and immersion is considered an act of spiritual purification. Male visitors (the mikveh follows Orthodox gender separation) who immerse in these waters understand themselves as participating in a practice continuous with the Ari's own spiritual preparation.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Safed is accessible by car or bus from major Israeli cities—approximately three hours from Tel Aviv, ninety minutes from Haifa. The Old City, where the historic synagogues and artists' quarter are located, is built on steep terrain with narrow stone streets that require walking. The elevation provides relief from summer heat compared to lower-lying Israeli cities but makes winters notably cold, with occasional snow.
 
@@ -84,12 +84,11 @@ Shabbat in Safed offers a distinctive experience. The city's large religious pop
 
 The Lag BaOmer celebration at Mount Meron (a short drive from Safed) occurs in late April or May, depending on the Hebrew calendar. Visitors should expect extreme crowds, road closures, and limited accommodation. The event continues through the night, with bonfires visible across the hillside. Outside the Lag BaOmer period, Mount Meron is accessible for quieter visits to the tomb of Rabbi Shimon bar Yochai.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The tradition of Jewish sacred travel
 - [Western Wall](/places/western-wall) — Judaism's holiest prayer site in Jerusalem
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Another major Jewish pilgrimage destination
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later mystical figure influenced by Safed's legacy
 - [Mount Meron](/places/mount-meron)
-</Fragment>

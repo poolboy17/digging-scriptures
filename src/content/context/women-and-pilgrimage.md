@@ -59,7 +59,7 @@ This shift reflects broader social changes — increased female mobility, financ
 
 Contemporary women pilgrims frequently describe the journey as a space of autonomy and self-determination. Walking alone or in self-chosen company, making decisions about pace and rest, navigating physical challenges on their own terms — these experiences can carry particular significance for women whose daily lives involve constant negotiation of others' needs and expectations. The pilgrimage path, for all its physical difficulty, offers a form of freedom.
 
-<Fragment slot="concepts">
+
 
 **Mahram** — In Islamic jurisprudence, a male relative within prohibited degrees of marriage (father, brother, son, husband, uncle, nephew) who traditionally accompanies a woman on travel, including the Hajj. The requirement has been progressively relaxed in recent decades, with Saudi authorities now permitting women over forty-five to travel in organized groups.
 
@@ -74,19 +74,19 @@ Contemporary women pilgrims frequently describe the journey as a space of autono
 
 **Tirtha-yatra** — The Hindu practice of pilgrimage to sacred crossing places (tirthas), described in the Mahabharata and other texts as spiritually meritorious for all persons regardless of gender or caste. Women's participation in tirtha-yatra has been documented from the earliest historical periods.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 Egeria's travel account survives in a single manuscript (the Codex Aretinus) and is available in numerous modern translations. Margery Kempe's *Book* was rediscovered in 1934 and is the earliest known autobiography in English. Diana Webb's *Pilgrims and Pilgrimage in the Medieval West* (2001) provides context for women's medieval pilgrimage. For Islamic perspectives, see Amira El-Azhary Sonbol's *Women, the Family, and Divorce Laws in Islamic History* (1996) and recent reports on Saudi Hajj policy reforms. The anthropological literature on women and pilgrimage includes Jill Dubisch and Michael Winkelman's *Pilgrimage and Healing* (2005).
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 <!-- LAYER 3: Hydration pending -->
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
 - [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer)
 - [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim)
 - [Lourdes](/places/lourdes)
 - [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
-</Fragment>
+

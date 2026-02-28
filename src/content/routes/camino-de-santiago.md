@@ -23,7 +23,7 @@ imageAlt: "Waymark on the Camino de Santiago pilgrimage route in Spain"
 imageCredit: "Photo by Damien Dufour on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 ## Pilgrimage as Journey, Not Just Destination
 
@@ -57,9 +57,9 @@ Political and religious changes diminished the pilgrimage over subsequent centur
 
 The modern revival of the Camino began in the mid-twentieth century. A parish priest named Elías Valiña Sampedro devoted decades to researching the historical routes and marking them for contemporary walkers, painting the yellow arrows that now guide pilgrims across northern Spain. Official recognition followed: the Council of Europe designated the Camino as the first European Cultural Route in 1987; UNESCO inscribed it as a World Heritage Site in 1993. Pilgrim numbers grew from a few hundred annually in the 1970s to hundreds of thousands by the 2020s.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 ## Geography, Stages, and Movement Along the Path
 
@@ -82,9 +82,9 @@ Alternative routes offer different experiences of and culture. The Camino Portug
 
 The daily rhythm of walking structures the Camino experience regardless of route. Most pilgrims rise early to begin before the heat of the day, cover distances of twenty to thirty kilometers, and arrive at their stopping point by early afternoon. This pattern, dictated by physical capacity and the availability of accommodation, creates a shared temporal framework that connects contemporary walkers to pilgrims across centuries.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 ## Pilgrim Experiences and Traditions Over Time
 
@@ -105,9 +105,9 @@ Community forms along the route despite the individual nature of each pilgrim's 
 
 The motivations bringing people to the Camino have always varied. Medieval pilgrims walked to fulfill vows, to perform penance, to seek healing, or to gain spiritual merit. Contemporary pilgrims walk for these reasons and others: to mark life transitions, to seek clarity, to challenge themselves physically, to escape routine, or simply to experience something outside ordinary life. The Camino accommodates this diversity of intention, offering each walker the journey they bring to it.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 ## Modern Pilgrimage Experiences
 
@@ -125,11 +125,11 @@ Cycling the Camino offers an alternative for those who prefer or require a diffe
 
 The diversity of contemporary pilgrims extends to their motivations and frameworks of understanding. Traditional Catholic pilgrimage remains significant, with many seeking the spiritual benefits their faith attributes to the journey. Others walk for personal reasons unconnected to formal religion—processing grief, marking transitions, seeking challenge or meaning. The Camino accommodates this diversity as it has accommodated diverse pilgrims for over a thousand years, offering each walker the journey they are prepared to receive.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [Santiago de Compostela](/places/santiago-de-compostela) — The destination of the pilgrimage routes
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage traditions
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
 - [The Legend of Saint James](/stories/legend-of-saint-james)
-</Fragment>
+

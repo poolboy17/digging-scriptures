@@ -19,7 +19,7 @@ imageAlt: "The silver-domed Al-Aqsa Mosque on the Haram al-Sharif in Jerusalem"
 imageCredit: ""
 ---
 
-<Fragment slot="history">
+
 
 Jerusalem's holiness in Islam rests primarily on a single event: the Isra and Mi'raj, the Prophet Muhammad's miraculous night journey and ascension. According to Islamic tradition, the angel Jibril (Gabriel) brought Muhammad from the Sacred Mosque (al-Masjid al-Haram) in Mecca to the "Farthest Mosque" (al-Masjid al-Aqsa) in Jerusalem, from where he ascended through the seven heavens, encountered previous prophets, and received divine instructions including the obligation of daily prayer. The Quranic reference is brief — a single verse in Surah al-Isra (17:1) — but the hadith literature elaborates the narrative extensively, and its theological consequences were profound: Jerusalem became Islam's third holiest city, and the site from which Muhammad ascended became one of the most sacred locations in the Islamic world.
 
@@ -36,9 +36,9 @@ The Dome of the Rock, the gold-domed octagonal structure at the platform's cente
 
 The site's history is inseparable from political conflict. The Crusaders captured Jerusalem in 1099, converted Al-Aqsa into a palace and the Dome of the Rock into a church, and used the platform as the headquarters of the Knights Templar. Saladin recaptured Jerusalem in 1187 and restored the Islamic character of the site. Ottoman, British Mandate, Jordanian, and Israeli control have followed, each period bringing new tensions over access, governance, and sovereignty.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 For Muslims, the Haram al-Sharif occupies a theological position second only to the two holy mosques of Mecca and Medina. The Prophet Muhammad initially directed his followers to pray facing Jerusalem (the first qibla) before the qibla was changed to Mecca. This historical primacy — Jerusalem as the original direction of prayer — reinforces the city's sanctity even though Mecca ultimately displaced it as the liturgical focal point.
 
@@ -55,9 +55,9 @@ The Haram al-Sharif is also deeply embedded in Islamic eschatology. Various hadi
 
 The political dimension of Al-Aqsa's sanctity is inescapable. The site sits at the center of the Israeli-Palestinian conflict, and access is governed by arrangements that satisfy neither side. Muslim worshippers enter through designated gates; non-Muslim visitors are permitted at restricted times; and the question of sovereignty remains among the most sensitive issues in international politics. For many Muslims worldwide, Al-Aqsa is not merely a historical monument but a living symbol of Palestinian identity and Muslim rights in Jerusalem.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 Al-Aqsa Mosque, at the southern end of the Haram al-Sharif, is a congregational mosque capable of holding several thousand worshippers. Its silver-grey lead dome, wide nave, and seven-aisle interior reflect multiple periods of construction and reconstruction. The mihrab (prayer niche indicating the direction of Mecca) and the minbar (pulpit) are attributed to Saladin's restoration following the Crusader period. Below the main prayer hall, the Marwani Musalla (sometimes called Solomon's Stables) provides additional prayer space in a vaulted subterranean hall.
 
@@ -70,9 +70,9 @@ The Dome of the Rock, built over the sacred rock from which Muhammad ascended, i
 
 The Haram al-Sharif platform covers approximately 144,000 square meters (roughly 35 acres), making it one of the largest religious precincts in the world. In addition to Al-Aqsa and the Dome of the Rock, the platform contains the Dome of the Chain (Qubbat al-Silsila), several smaller domes and fountains used for ritual ablution, and expansive open-air prayer areas shaded by ancient trees. The platform's retaining walls, parts of which date to the Herodian period (first century BCE), include the Western Wall, Judaism's holiest prayer site, on the western face.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Access to the Haram al-Sharif is managed under arrangements that reflect the site's contested status. Muslim worshippers enter through multiple gates on the northern and western sides of the Old City. Non-Muslim visitors are generally admitted through the Mughrabi Gate (near the Western Wall) during limited hours — typically mornings on Sunday through Thursday — and are not permitted to enter the mosques themselves. These arrangements are subject to change during periods of political tension, religious holidays, and Ramadan. Visitors should check current conditions before planning a visit.
 
@@ -80,13 +80,13 @@ The site sits within Jerusalem's Old City, which is accessible from Ben Gurion A
 
 Friday prayers at Al-Aqsa draw the largest regular congregations, with tens of thousands of worshippers filling the mosque and the surrounding platform. During Ramadan, attendance surges further, and the final Friday of Ramadan (known as Jumuʿat al-Wida) is one of the most heavily attended prayer services in the Islamic world. The atmosphere during these gatherings — the call to prayer echoing across the platform, the densely packed rows of worshippers, the golden dome catching the Jerusalem light — constitutes one of the most powerful experiences available to a Muslim pilgrim.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 <!-- LAYER 3: Hydration pending -->
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — Parent hub for this article
 - [Dome of the Rock](/places/dome-of-the-rock)
 - [Jerusalem Old City](/places/jerusalem-old-city)
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
 - [Western Wall](/places/western-wall)
-</Fragment>
+

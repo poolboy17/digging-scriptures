@@ -52,7 +52,7 @@ Physical incapacity also exempts believers from the obligation. Those who are ch
 
 Women's participation in the Hajj has been the subject of evolving jurisprudential discussion. Classical scholars generally required that women be accompanied by a mahram — a male relative within prohibited degrees of marriage — though the specific requirements vary among the four Sunni legal schools. In recent decades, Saudi regulations have been modified to allow women over forty-five to perform the Hajj without a mahram if traveling in an organized group, reflecting broader social changes while maintaining a framework of concern for women's safety during the demanding pilgrimage journey.
 
-<Fragment slot="concepts">
+
 
 **Tawaf** — The counterclockwise circumambulation of the Kaaba, performed seven times. Tawaf is required at multiple points during the Hajj and also during the Umrah (lesser pilgrimage). The circular motion symbolizes the unity of believers in the worship of one God and mirrors, in Islamic cosmology, the movement of celestial bodies around a divine center.
 
@@ -71,19 +71,19 @@ Women's participation in the Hajj has been the subject of evolving jurisprudenti
 
 **Umrah** — The lesser pilgrimage, which can be performed at any time of year and involves Tawaf and Sa'i but not the Arafat standing or the Mina rituals. Many Muslims combine Umrah with the Hajj or perform Umrah as an independent devotional act when the full Hajj is not yet feasible.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 The Quranic foundations of the Hajj appear primarily in Surah Al-Baqarah (2:196-203) and Surah Al-Hajj (22:26-37), which describe the rituals, their Abrahamic origins, and their spiritual significance. The hadith literature, particularly the collections of Bukhari and Muslim, preserves detailed accounts of the Prophet Muhammad's Farewell Pilgrimage, which serves as the normative model for Hajj practice. The jurisprudential tradition (fiqh) has elaborated these foundational sources into the comprehensive regulatory framework that governs modern Hajj practice.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 - [The Hajj Route](/routes/hajj-route) — The physical journey of the Hajj pilgrimage
 - [Mecca](/places/mecca) — The holiest city in Islam and destination of the Hajj
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The broader context of sacred travel in Islam
 - [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — A medieval Hajj that became one of history's great journeys
 - [Medina](/places/medina)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
-</Fragment>
+

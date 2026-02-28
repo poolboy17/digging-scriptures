@@ -49,7 +49,7 @@ One of the most significant developments in modern pilgrimage is the participati
 
 This raises questions that scholars and practitioners continue to debate. Is a journey without religious content still a pilgrimage? Does the spiritual benefit depend on belief, or does the practice itself — the walking, the discomfort, the encounter with something beyond the everyday — produce its effects regardless of the pilgrim's theological commitments? These questions have no settled answers, but the persistence of pilgrimage in an increasingly secular world suggests that the practice addresses something fundamental in human experience.
 
-<Fragment slot="concepts">
+
 
 **Tirtha** — In Hindu tradition, a tirtha is a "crossing place" or "ford" — a location where the boundary between the human world and the divine becomes permeable. The term applies both to sacred rivers and to pilgrimage destinations more broadly, reflecting the understanding that certain places facilitate spiritual passage.
 
@@ -68,19 +68,19 @@ This raises questions that scholars and practitioners continue to debate. Is a j
 
 **Kora** — The Tibetan Buddhist practice of circumambulation — walking clockwise around a sacred site, mountain, or object. Kora can be performed around a single stupa in minutes or around Mount Kailash over several days, and is understood as a moving meditation that accumulates merit.
 
-</Fragment>
 
-<Fragment slot="sources">
+
+
 
 Victor Turner's *Image and Pilgrimage in Christian Culture* (1978) remains foundational for the anthropological study of pilgrimage, introducing the concepts of liminality and communitas to the field. Simon Coleman and John Eade's *Reframing Pilgrimage* (2004) offers critical reassessments of Turner's framework. For Islamic pilgrimage, the relevant Quranic passages are Surah Al-Baqarah (2:196-203) and Surah Al-Hajj (22:26-37). The Buddha's advice to visit the four sacred sites appears in the Mahaparinibbana Sutta (Digha Nikaya 16). The Jewish pilgrimage commandment is found in Deuteronomy 16:16 and Exodus 23:17.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 <!-- LAYER 3: Hydration pending -->
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Parent hub for this article
 - [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage)
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects)
-</Fragment>
+

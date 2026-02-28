@@ -19,7 +19,7 @@ imageAlt: "The sacred gardens at Lumbini, Nepal, birthplace of Siddhartha Gautam
 imageCredit: "Photo by ashok acharya on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Lumbini preserves the site where, according to Buddhist tradition, Queen Maya Devi gave birth to Siddhartha Gautama while traveling to her parents' home. The event is described in Pali and Sanskrit sources: Maya Devi paused in a garden at Lumbini, grasped the branch of a sal tree, and gave birth standing. The infant is said to have taken seven steps immediately, each step producing a lotus flower, and declared "I am the chief of the world."
 
@@ -36,9 +36,9 @@ Archaeological excavations have revealed layers of habitation predating Ashoka's
 
 The site declined following the collapse of Buddhist patronage in India. The Chinese pilgrim Xuanzang, visiting in the seventh century, found the monasteries deserted and the Ashoka pillar struck by lightning. Lumbini remained largely forgotten until its rediscovery in the late nineteenth century. Systematic development began in the 1970s under a UNESCO-backed master plan.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 Lumbini occupies a distinctive position in Buddhist sacred geography as the only one of the four great sites located outside India (in Nepal). This geographical fact carries political significance: Nepal claims the Buddha as a Nepali figure, while Indian discourse often subsumes him within the broader Indian civilizational narrative. The tension surfaces periodically in diplomatic contexts and affects the framing of Lumbini's development and promotion.
 
@@ -55,9 +55,9 @@ The Monastic Zone creates a remarkable cross-cultural . Monasteries built by com
 
 The Eternal Peace Flame, lit in 1986 and intended to burn continuously, symbolizes Lumbini's aspiration to serve as a center for world peace—an aspiration connected to the Buddha's teachings on non-violence and compassion. The flame burns near the Sacred Garden, connecting the historical nativity site to contemporary hopes for the tradition's continued relevance.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 The Maya Devi Temple, a simple white structure built over the archaeological excavations, protects the Marker Stone—a sandstone slab identified as marking the precise birthplace. The stone was discovered during excavations in 1996, beneath layers of previous temple floors dating back to the third century BCE. Inside the temple, visitors can view the exposed archaeological layers through walkways and glass panels, observing brick structures from the Mauryan, Kushan, and Gupta periods stacked above the earliest timber shrine.
 
@@ -67,9 +67,9 @@ The Sacred Pond (Puskarni), located south of the Maya Devi Temple, is traditiona
 
 The Lumbini Museum, established in 2008, houses artifacts recovered from excavations at the site and surrounding area, including coins, pottery, sculptures, and inscriptions spanning from the Mauryan period to the medieval era. The collection, while modest compared to major national museums, provides essential context for understanding the site's development over two millennia.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Lumbini is located in the Terai lowlands of southern Nepal, approximately 290 kilometers southwest of Kathmandu. The nearest airport is Gautam Buddha International Airport in Bhairahawa (Siddharthanagar), approximately twenty-two kilometers away, which handles domestic flights and limited international service. Overland travel from Kathmandu takes eight to ten hours by road; the journey from the Indian border at Sunauli-Belahiya takes approximately one hour.
 
@@ -79,13 +79,12 @@ The best visiting season is October through March, when temperatures are moderat
 
 Accommodation options include guest houses in Lumbini village, lodgings offered by some of the international monasteries, and hotels in nearby Bhairahawa. The infrastructure, while improving, remains basic compared to major tourist destinations. Many visitors combine Lumbini with other sites on the Buddhist Circuit in India—Bodh Gaya, Sarnath, and Kushinagar—though crossing the Nepal-India border adds logistical complexity.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The tradition of Buddhist sacred travel
 - [Bodh Gaya](/places/bodh-gaya) — The site of the Buddha's enlightenment
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The places designated by the Buddha for pilgrimage
 - [Xuanzang, Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The Chinese monk who recorded his visit to Lumbini
 
-</Fragment>

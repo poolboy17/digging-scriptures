@@ -27,7 +27,7 @@ imageAlt: "Desert landscape along the Abraham Path in the Middle East"
 imageCredit: "Photo by Nejc Soklič on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Abraham — known as Ibrahim in Arabic and Avraham in Hebrew — occupies a position unique in the history of religion: he is claimed as a founding patriarch by Judaism, Christianity, and Islam simultaneously. The biblical and Quranic narratives describe a journey from Ur in Mesopotamia (modern southern Iraq) through Harran (modern southeastern Turkey), into Canaan (modern Israel and Palestine), and temporarily into Egypt, a trajectory that traces an arc across the Fertile Crescent and into the s where three world religions would eventually take root.
 
@@ -46,9 +46,9 @@ In Christian theology, Abraham is understood as the father of faith whose trust 
 
 In Islamic tradition, Ibrahim holds the title Khalil Allah — Friend of God — and is regarded as a prophet and the builder, with his son Ismail, of the Kaaba in Mecca. The Hajj pilgrimage incorporates multiple commemorations of Ibrahim's story, including the sacrifice narrative and Hagar's search for water. Ibrahim's significance in Islam extends beyond narrative to liturgy: Muslims invoke blessings upon Ibrahim in every prayer.
 
-</Fragment>
 
-<Fragment slot="journey">
+
+
 
 The modern Abraham Path, conceived in 2007 by Harvard University's Global Negotiation Project, translates the ancient narrative into a contemporary walking route. The path was designed not primarily as a religious pilgrimage but as a cultural initiative — a way of using the shared figure of Abraham to foster understanding among communities divided by political, ethnic, and religious conflict. The route passes through villages and towns where local hosts provide accommodation and cultural exchange, making the journey as much about human encounter as physical movement.
 
@@ -72,9 +72,9 @@ The Palestinian and Israeli sections trace the narratives most directly associat
 
 The journey's power lies partly in its traversal of borders and boundaries that ordinarily separate communities. Walking across the s where Abraham's story is set — and where his descendants, biological and spiritual, continue to live in often contentious proximity — transforms an ancient narrative from sacred text into lived geography. The physical experience of crossing terrain, sharing meals with local hosts, and sleeping in communities that claim Abraham as their own creates understanding that no amount of reading can replicate.
 
-</Fragment>
 
-<Fragment slot="places">
+
+
 
 **Şanlıurfa (Urfa)**, in southeastern Turkey, is traditionally identified in Islamic tradition as Abraham's birthplace. The Balıklıgöl (Pool of Sacred Fish) marks the site where, according to local tradition, Nimrod cast Abraham into a fire that God transformed into water. The city's bazaar, one of the oldest continuously operating markets in the Middle East, preserves a commercial culture that connects the modern city to its ancient role as a crossroads of trade and pilgrimage.
 
@@ -86,9 +86,9 @@ The journey's power lies partly in its traversal of borders and boundaries that 
 
 **Beersheba**, in the northern Negev, marks the southern extent of Abraham's territory in the biblical narrative. The city's name, meaning "well of the oath" or "well of seven," references Abraham's treaty with Abimelech. The archaeological site of Tel Be'er Sheva, a UNESCO World Heritage Site, preserves remains of an Israelite city from the Iron Age that give physical context to the later chapters of the patriarchal narrative.
 
-</Fragment>
 
-<Fragment slot="modern">
+
+
 
 The Abraham Path Initiative, headquartered in Cambridge, Massachusetts, coordinates the development and promotion of the route across multiple countries and political jurisdictions. The organization works with local communities to develop hosting capacity, train guides, and create economic opportunities linked to sustainable tourism. This community-based model distinguishes the Abraham Path from more infrastructure-heavy pilgrimage routes like the Camino de Santiago.
 
@@ -100,13 +100,13 @@ For practical purposes, most walkers tackle sections of the Abraham Path rather 
 
 The Abraham Path demonstrates that pilgrimage routes need not be ancient to be meaningful. By linking s to a narrative shared across civilizations, and by grounding abstract theological concepts in the physical realities of walking, eating, and sleeping among communities that carry the Abrahamic heritage in their daily lives, the path creates a form of understanding that is both ancient in its inspiration and urgently contemporary in its purpose.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Abraham's burial site, sacred to three faiths
 - [Dome of the Rock](/places/dome-of-the-rock) — The site linked to Abraham's sacrifice in Islamic tradition
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Multi-faith pilgrimage traditions worldwide
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The evolving intersection of sacred and secular travel
 
-</Fragment>
+

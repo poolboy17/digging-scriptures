@@ -18,7 +18,7 @@ imageAlt: "Arabic calligraphy manuscript recalling the travel writings of Ibn Ba
 imageCredit: "Photo by The Cleveland Museum of Art on Unsplash"
 ---
 
-<Fragment slot="narrative">
+
 
 In June 1325, a twenty-one-year-old legal scholar named Abu Abdullah Muhammad Ibn Battuta departed his hometown of Tangier, Morocco, on a journey to perform the Hajj pilgrimage to Mecca. He would not return home for twenty-four years. In the intervening decades, he traveled approximately 120,000 kilometers — a distance that exceeded, by a considerable margin, the travels of his more famous near-contemporary Marco Polo — visiting nearly every Muslim-majority land in the known world and several non-Muslim territories besides. His account of these journeys, known as the Rihla ("The Journey"), stands as one of the most remarkable travel narratives ever composed.
 
@@ -42,9 +42,9 @@ His first Hajj, performed in 1326, was a transformative experience that deepened
 
 The narrative Ibn Battuta eventually dictated to the scholar Ibn Juzayy upon his return to Morocco in 1354 combines firsthand observation with borrowed material, personal adventure with ethnographic detail, and pious reflection with frank accounts of political violence, sexual intrigue, and cultural bewilderment. Scholars have debated which portions of the Rihla reflect genuine experience and which were embellished or fabricated, but the work's value as a panoramic portrait of the fourteenth-century Islamic world — from the mosques of Timbuktu to the spice markets of Calicut to the courts of Chinese emperors — remains uncontested.
 
-</Fragment>
 
-<Fragment slot="context">
+
+
 
 Ibn Battuta's journeys illuminate the Hajj's function as more than a religious ritual. The annual convergence of Muslims from across the known world at Mecca created a temporary cosmopolitan center where scholars exchanged knowledge, merchants negotiated deals, and political intelligence flowed between distant regions. The Hajj served as the Islamic world's great networking event, and Ibn Battuta's career demonstrates how effectively a skilled individual could leverage the connections formed during pilgrimage into opportunities that extended far beyond the ritual itself.
 
@@ -59,9 +59,9 @@ The legal dimension of Ibn Battuta's travels reflects the portability of Islamic
 
 Ibn Battuta's observations of regional variations in Islamic practice provide invaluable anthropological data. He noted with interest (and sometimes disapproval) the differences between North African, Middle Eastern, South Asian, and Southeast Asian expressions of Islam, documenting local customs, architectural styles, gender relations, and devotional practices with an ethnographic attention that makes the Rihla a primary source for historians of the medieval Islamic world. His comparative perspective — always measuring what he encountered against the norms of his Moroccan education — gives his account an analytical quality that distinguishes it from mere adventure narrative.
 
-</Fragment>
 
-<Fragment slot="legacy">
+
+
 
 The Rihla remained relatively obscure outside the Arabic-speaking world until European scholars began translating and studying it in the nineteenth century. The French translation by C. Defrémery and B.R. Sanguinetti (1853-1858) and subsequent English translations brought Ibn Battuta's journeys to international attention, and he is now recognized as one of history's greatest travelers alongside Marco Polo, Zheng He, and Alexander von Humboldt.
 
@@ -71,13 +71,13 @@ The Rihla also documents the diversity within Islamic unity that characterized t
 
 Modern scholarship continues to mine the Rihla for insights into fourteenth-century history, geography, and anthropology. The account provides information about regions and periods for which few other sources survive, making it an indispensable resource for historians of medieval Africa, Central Asia, South Asia, and Southeast Asia. Ibn Battuta's name has been given to a crater on the moon, a shopping mall in Dubai, and numerous streets and institutions across the Muslim world — testimonies to his enduring status as a symbol of Islamic civilization's scope and sophistication.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Mecca](/places/mecca) — The destination of Ibn Battuta's first and most transformative journey
 - [The Hajj Route](/routes/hajj-route) — The pilgrimage that launched Ibn Battuta's travels
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The tradition within which Ibn Battuta traveled
 - [Medina](/places/medina) — The Prophet's city, visited by Ibn Battuta multiple times
 
-</Fragment>
+

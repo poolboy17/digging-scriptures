@@ -20,7 +20,7 @@ imageAlt: "The Sistine Chapel interior at Vatican City, Rome"
 imageCredit: "Photo by Johnathan Kaufman on Unsplash"
 ---
 
-<Fragment slot="history">
+
 
 Rome's status as a Christian pilgrimage destination rests on two foundational claims: that the apostles Peter and Paul were martyred there, and that Peter's tomb lies beneath the high altar of St. Peter's Basilica. Archaeological excavations conducted beneath the basilica in the 1940s and 1950s revealed a necropolis and a site venerated since at least the second century CE, though the identification of specific remains as Peter's continues to generate scholarly debate.
 
@@ -39,9 +39,9 @@ Medieval pilgrimage to Rome peaked during Jubilee Years, first declared by Pope 
 
 The Counter-Reformation of the sixteenth and seventeenth centuries produced a renewed emphasis on Rome as a pilgrimage destination. The construction of new churches, the restoration of ancient basilicas, and the development of processional routes created the monumental cityscape that pilgrims encounter today. The completion of St. Peter's Basilica in its current form, the laying out of broad avenues connecting the major churches, and the installation of obelisks as visual waymarkers all served to reinforce Rome's identity as the supreme destination of Catholic sacred travel.
 
-</Fragment>
 
-<Fragment slot="culture">
+
+
 
 The Vatican, an independent city-state of forty-four hectares, serves as the administrative and spiritual center of the Roman Catholic Church and its approximately 1.3 billion members. The Pope's role as Bishop of Rome links the institution to the apostolic succession traced from Peter, making the Vatican not merely an administrative headquarters but a site of living sacred authority that pilgrims come to witness firsthand.
 
@@ -60,9 +60,9 @@ Beyond the Vatican, Rome contains over nine hundred churches, many of which pres
 
 The Papal Audience, held weekly in St. Peter's Square or the adjacent audience hall, provides an opportunity for pilgrims to see and receive a blessing from the Pope. For many Catholic pilgrims, this encounter with the living successor of Peter constitutes the emotional and spiritual climax of their Roman visit, transforming abstract theological claims about apostolic succession into a tangible personal experience.
 
-</Fragment>
 
-<Fragment slot="features">
+
+
 
 <img src="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Rome" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
@@ -79,9 +79,9 @@ The Vatican Museums, encompassing over seventy thousand works displayed across s
 
 The catacombs of San Callisto and San Sebastiano, along the ancient Via Appia outside the city walls, preserve early Christian burial practices and some of the oldest surviving Christian art. Wall paintings depicting biblical scenes, the chi-rho monogram, and the fish symbol provide visual evidence of the developing iconography of the early Church. The narrow passages and stacked burial niches convey the physical reality of early Christian community life in ways that grander monuments cannot replicate.
 
-</Fragment>
 
-<Fragment slot="experience">
+
+
 
 Rome's pilgrimage infrastructure benefits from centuries of development and refinement. The traditional Seven Pilgrim Churches of Rome — St. Peter's, St. Paul Outside the Walls, St. John Lateran, Santa Maria Maggiore, San Lorenzo fuori le Mura, Santa Croce in Gerusalemme, and San Sebastiano — define a circuit that pilgrims have walked since at least the sixteenth century. The complete circuit covers approximately twenty kilometers and can be accomplished in a long day, though many visitors spread it across several days to allow time at each basilica.
 
@@ -93,13 +93,13 @@ Rome's climate favors pilgrimage visits in spring (April–May) and autumn (Sept
 
 Accommodation options range from religious guesthouses and convents that welcome pilgrims to the full spectrum of commercial hotels. Several religious houses in the Borgo district near the Vatican offer lodging specifically designed for pilgrims, often at modest prices and with a communal atmosphere that facilitates shared spiritual experience. The area around Termini station provides more conventional tourist accommodations with good transit connections to the major basilicas.
 
-</Fragment>
 
-<Fragment slot="related">
+
+
 
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The broader context of Christian sacred travel
 - [Via Francigena](/routes/via-francigena) — The historic pilgrimage route from Canterbury to Rome
 - [Jerusalem Old City](/places/jerusalem-old-city) — Christianity's other supreme pilgrimage destination
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The empress whose journey shaped Christian pilgrimage geography
 
-</Fragment>
+
