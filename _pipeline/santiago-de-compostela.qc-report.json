@@ -1,92 +1,104 @@
 {
   "slug": "santiago-de-compostela",
-  "passes": 19,
-  "fails": 13,
-  "total_words": 883,
+  "passes": 33,
+  "fails": 1,
+  "total_words": 1817,
   "results": [
     {
       "category": "CONTENT",
       "name": "Total words \u2265 2000",
       "passed": false,
-      "detail": "883 words"
+      "detail": "1817 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Intro' \u2264 500w",
       "passed": true,
-      "detail": "142 words"
+      "detail": "193 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Legend of Saint James' \u2265 200w",
-      "passed": false,
-      "detail": "144 words"
+      "passed": true,
+      "detail": "224 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Legend of Saint James' \u2264 500w",
       "passed": true,
-      "detail": "144 words"
+      "detail": "224 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Camino Routes' \u2265 200w",
-      "passed": false,
-      "detail": "155 words"
+      "passed": true,
+      "detail": "287 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Camino Routes' \u2264 500w",
       "passed": true,
-      "detail": "155 words"
+      "detail": "287 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Medieval Pilgrims on the Camin' \u2265 200w",
-      "passed": false,
-      "detail": "121 words"
+      "passed": true,
+      "detail": "269 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Medieval Pilgrims on the Camin' \u2264 500w",
       "passed": true,
-      "detail": "121 words"
+      "detail": "269 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Modern Camino Revival' \u2265 200w",
-      "passed": false,
-      "detail": "148 words"
+      "passed": true,
+      "detail": "279 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Modern Camino Revival' \u2264 500w",
       "passed": true,
-      "detail": "148 words"
+      "detail": "279 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Arriving in Santiago' \u2265 200w",
-      "passed": false,
-      "detail": "153 words"
+      "passed": true,
+      "detail": "281 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Arriving in Santiago' \u2264 500w",
       "passed": true,
-      "detail": "153 words"
+      "detail": "281 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2265 200w",
+      "passed": true,
+      "detail": "261 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2264 500w",
+      "passed": true,
+      "detail": "261 words"
     },
     {
       "category": "CONTENT",
       "name": "Readability (Flesch 40-65)",
-      "passed": false,
-      "detail": "Flesch score: 30.9"
+      "passed": true,
+      "detail": "Flesch score: 41.6"
     },
     {
       "category": "CONTENT",
       "name": "No sentences > 45 words",
-      "passed": false,
-      "detail": "1 long sentences"
+      "passed": true,
+      "detail": "0 long sentences"
     },
     {
       "category": "CONTENT",
@@ -109,26 +121,26 @@
     {
       "category": "LINKS",
       "name": "Links to tradition hub (cross-silo)",
-      "passed": false,
-      "detail": "0 hub links"
+      "passed": true,
+      "detail": "1 hub links"
     },
     {
       "category": "LINKS",
       "name": "Links to \u2265 2 sibling cities",
-      "passed": false,
-      "detail": "0 sibling links"
+      "passed": true,
+      "detail": "3 sibling links"
     },
     {
       "category": "SEO",
       "name": "Title \u2264 80 chars",
       "passed": true,
-      "detail": "37 chars"
+      "detail": "41 chars"
     },
     {
       "category": "SEO",
       "name": "Description \u2264 160 chars",
       "passed": true,
-      "detail": "146 chars"
+      "detail": "132 chars"
     },
     {
       "category": "SEO",
@@ -146,30 +158,30 @@
       "category": "SEO",
       "name": "Keyword density < 3%",
       "passed": true,
-      "detail": "1.9%"
+      "detail": "2.0%"
     },
     {
       "category": "VIATOR",
       "name": "Experiences section present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "category": "VIATOR",
       "name": "\u2265 3 affiliate product links",
-      "passed": false,
-      "detail": "0 Viator links"
+      "passed": true,
+      "detail": "5 Viator links"
     },
     {
       "category": "VIATOR",
       "name": "Tracking PIDs present",
       "passed": true,
-      "detail": "0/0 have PID"
+      "detail": "5/5 have PID"
     },
     {
       "category": "VIATOR",
       "name": "Browse-all link present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
@@ -194,7 +206,7 @@
       "category": "STRUCTURE",
       "name": "\u2265 5 H2 sections",
       "passed": true,
-      "detail": "5 sections"
+      "detail": "6 sections"
     }
   ]
 }

@@ -1,104 +1,116 @@
 {
   "slug": "varanasi",
-  "passes": 23,
-  "fails": 11,
-  "total_words": 1081,
+  "passes": 36,
+  "fails": 0,
+  "total_words": 1999,
   "results": [
     {
       "category": "CONTENT",
       "name": "Total words \u2265 2000",
-      "passed": false,
-      "detail": "1081 words"
+      "passed": true,
+      "detail": "1999 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Intro' \u2264 500w",
       "passed": true,
-      "detail": "125 words"
+      "detail": "218 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Varanasi: The City That Never ' \u2265 200w",
       "passed": true,
-      "detail": "215 words"
+      "detail": "291 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Varanasi: The City That Never ' \u2264 500w",
       "passed": true,
-      "detail": "215 words"
+      "detail": "291 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Bodh Gaya: Where the Buddha Aw' \u2265 200w",
       "passed": true,
-      "detail": "220 words"
+      "detail": "283 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Bodh Gaya: Where the Buddha Aw' \u2264 500w",
       "passed": true,
-      "detail": "220 words"
+      "detail": "283 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Sarnath: The First Teaching' \u2265 200w",
-      "passed": false,
-      "detail": "124 words"
+      "passed": true,
+      "detail": "246 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Sarnath: The First Teaching' \u2264 500w",
       "passed": true,
-      "detail": "124 words"
+      "detail": "246 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Lumbini: The Buddha's Birthpla' \u2265 200w",
-      "passed": false,
-      "detail": "108 words"
+      "passed": true,
+      "detail": "216 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Lumbini: The Buddha's Birthpla' \u2264 500w",
       "passed": true,
-      "detail": "108 words"
+      "detail": "216 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Mount Kailash: The Sacred Moun' \u2265 200w",
-      "passed": false,
-      "detail": "131 words"
+      "passed": true,
+      "detail": "203 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Mount Kailash: The Sacred Moun' \u2264 500w",
       "passed": true,
-      "detail": "131 words"
+      "detail": "203 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Experiencing India's Sacred Ge' \u2265 200w",
-      "passed": false,
-      "detail": "128 words"
+      "passed": true,
+      "detail": "275 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Experiencing India's Sacred Ge' \u2264 500w",
       "passed": true,
-      "detail": "128 words"
+      "detail": "275 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2265 200w",
+      "passed": true,
+      "detail": "234 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2264 500w",
+      "passed": true,
+      "detail": "234 words"
     },
     {
       "category": "CONTENT",
       "name": "Readability (Flesch 40-65)",
       "passed": true,
-      "detail": "Flesch score: 38.7"
+      "detail": "Flesch score: 46.2"
     },
     {
       "category": "CONTENT",
       "name": "No sentences > 45 words",
-      "passed": false,
-      "detail": "1 long sentences"
+      "passed": true,
+      "detail": "0 long sentences"
     },
     {
       "category": "CONTENT",
@@ -121,14 +133,14 @@
     {
       "category": "LINKS",
       "name": "Links to tradition hub (cross-silo)",
-      "passed": false,
-      "detail": "0 hub links"
+      "passed": true,
+      "detail": "1 hub links"
     },
     {
       "category": "LINKS",
       "name": "Links to \u2265 2 sibling cities",
-      "passed": false,
-      "detail": "0 sibling links"
+      "passed": true,
+      "detail": "4 sibling links"
     },
     {
       "category": "SEO",
@@ -158,30 +170,30 @@
       "category": "SEO",
       "name": "Keyword density < 3%",
       "passed": true,
-      "detail": "0.8%"
+      "detail": "1.5%"
     },
     {
       "category": "VIATOR",
       "name": "Experiences section present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "category": "VIATOR",
       "name": "\u2265 3 affiliate product links",
-      "passed": false,
-      "detail": "0 Viator links"
+      "passed": true,
+      "detail": "5 Viator links"
     },
     {
       "category": "VIATOR",
       "name": "Tracking PIDs present",
       "passed": true,
-      "detail": "0/0 have PID"
+      "detail": "5/5 have PID"
     },
     {
       "category": "VIATOR",
       "name": "Browse-all link present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
@@ -206,7 +218,7 @@
       "category": "STRUCTURE",
       "name": "\u2265 5 H2 sections",
       "passed": true,
-      "detail": "6 sections"
+      "detail": "7 sections"
     }
   ]
 }

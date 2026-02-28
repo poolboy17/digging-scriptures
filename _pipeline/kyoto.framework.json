@@ -5,13 +5,17 @@
   "sections": [
     {
       "heading": "Intro",
-      "current_words": 127,
+      "current_words": 217,
       "target_words": 250,
-      "internal_links": []
+      "internal_links": [
+        "/journeys/faith-based-journeys",
+        "/journeys/christian-pilgrimage-traditions",
+        "/journeys/islamic-pilgrimage-traditions"
+      ]
     },
     {
       "heading": "Mount K\u014dya: The Mountain Monastery",
-      "current_words": 159,
+      "current_words": 242,
       "target_words": 250,
       "internal_links": [
         "/places/mount-koya",
@@ -20,40 +24,51 @@
     },
     {
       "heading": "The Kumano Kod\u014d: Where Gods Walk in the Forest",
-      "current_words": 183,
-      "target_words": 250,
+      "current_words": 271,
+      "target_words": 271,
       "internal_links": [
-        "/routes/kumano-kodo"
+        "/routes/kumano-kodo",
+        "/cities/jerusalem",
+        "/cities/rome"
       ]
     },
     {
       "heading": "The Shikoku 88 Temples: Walking with K\u014db\u014d Daishi",
-      "current_words": 172,
-      "target_words": 250,
+      "current_words": 270,
+      "target_words": 270,
       "internal_links": [
-        "/routes/shikoku-88-temples"
+        "/routes/shikoku-88-temples",
+        "/cities/santiago-de-compostela"
       ]
     },
     {
       "heading": "The Psychology of Japanese Pilgrimage",
-      "current_words": 123,
-      "target_words": 250,
+      "current_words": 256,
+      "target_words": 256,
       "internal_links": [
-        "/context/psychology-of-pilgrimage"
+        "/context/psychology-of-pilgrimage",
+        "/journeys/buddhist-pilgrimage-paths"
       ]
     },
     {
       "heading": "The Wider Buddhist Pilgrimage World",
-      "current_words": 103,
+      "current_words": 249,
       "target_words": 250,
       "internal_links": [
         "/context/four-sacred-sites-buddhism",
+        "/cities/varanasi",
         "/stories/xuanzang-buddhist-pilgrim"
       ]
     },
     {
       "heading": "Experiencing Sacred Japan Today",
-      "current_words": 94,
+      "current_words": 233,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "Experiences and Tours",
+      "current_words": 224,
       "target_words": 250,
       "internal_links": []
     }
