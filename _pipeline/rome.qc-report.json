@@ -1,104 +1,116 @@
 {
   "slug": "rome",
-  "passes": 19,
-  "fails": 15,
-  "total_words": 1024,
+  "passes": 36,
+  "fails": 0,
+  "total_words": 2000,
   "results": [
     {
       "category": "CONTENT",
       "name": "Total words \u2265 2000",
-      "passed": false,
-      "detail": "1024 words"
+      "passed": true,
+      "detail": "2000 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Intro' \u2264 500w",
       "passed": true,
-      "detail": "133 words"
+      "detail": "231 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The City of Peter and Paul' \u2265 200w",
-      "passed": false,
-      "detail": "177 words"
+      "passed": true,
+      "detail": "245 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The City of Peter and Paul' \u2264 500w",
       "passed": true,
-      "detail": "177 words"
+      "detail": "245 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Via Francigena: Europe's R' \u2265 200w",
-      "passed": false,
-      "detail": "129 words"
+      "passed": true,
+      "detail": "258 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Via Francigena: Europe's R' \u2264 500w",
       "passed": true,
-      "detail": "129 words"
+      "detail": "258 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Relics and the Economy of Devo' \u2265 200w",
-      "passed": false,
-      "detail": "155 words"
+      "passed": true,
+      "detail": "267 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Relics and the Economy of Devo' \u2264 500w",
       "passed": true,
-      "detail": "155 words"
+      "detail": "267 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Medieval Pilgrims in Rome' \u2265 200w",
-      "passed": false,
-      "detail": "179 words"
+      "passed": true,
+      "detail": "285 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Medieval Pilgrims in Rome' \u2264 500w",
       "passed": true,
-      "detail": "179 words"
+      "detail": "285 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Vatican Today' \u2265 200w",
-      "passed": false,
-      "detail": "108 words"
+      "passed": true,
+      "detail": "235 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Vatican Today' \u2264 500w",
       "passed": true,
-      "detail": "108 words"
+      "detail": "235 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Beyond Rome: Lourdes and the E' \u2265 200w",
-      "passed": false,
-      "detail": "110 words"
+      "passed": true,
+      "detail": "228 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Beyond Rome: Lourdes and the E' \u2264 500w",
       "passed": true,
-      "detail": "110 words"
+      "detail": "228 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2265 200w",
+      "passed": true,
+      "detail": "215 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2264 500w",
+      "passed": true,
+      "detail": "215 words"
     },
     {
       "category": "CONTENT",
       "name": "Readability (Flesch 40-65)",
-      "passed": false,
-      "detail": "Flesch score: 31.5"
+      "passed": true,
+      "detail": "Flesch score: 40.3"
     },
     {
       "category": "CONTENT",
       "name": "No sentences > 45 words",
-      "passed": false,
-      "detail": "1 long sentences"
+      "passed": true,
+      "detail": "0 long sentences"
     },
     {
       "category": "CONTENT",
@@ -109,8 +121,8 @@
     {
       "category": "LINKS",
       "name": "All spokes linked in prose",
-      "passed": false,
-      "detail": "1 unlinked: places/rome-vatican"
+      "passed": true,
+      "detail": "all linked"
     },
     {
       "category": "LINKS",
@@ -121,14 +133,14 @@
     {
       "category": "LINKS",
       "name": "Links to tradition hub (cross-silo)",
-      "passed": false,
-      "detail": "0 hub links"
+      "passed": true,
+      "detail": "2 hub links"
     },
     {
       "category": "LINKS",
       "name": "Links to \u2265 2 sibling cities",
-      "passed": false,
-      "detail": "0 sibling links"
+      "passed": true,
+      "detail": "4 sibling links"
     },
     {
       "category": "SEO",
@@ -158,30 +170,30 @@
       "category": "SEO",
       "name": "Keyword density < 3%",
       "passed": true,
-      "detail": "2.7%"
+      "detail": "1.0%"
     },
     {
       "category": "VIATOR",
       "name": "Experiences section present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "category": "VIATOR",
       "name": "\u2265 3 affiliate product links",
-      "passed": false,
-      "detail": "0 Viator links"
+      "passed": true,
+      "detail": "5 Viator links"
     },
     {
       "category": "VIATOR",
       "name": "Tracking PIDs present",
       "passed": true,
-      "detail": "0/0 have PID"
+      "detail": "5/5 have PID"
     },
     {
       "category": "VIATOR",
       "name": "Browse-all link present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
@@ -206,7 +218,7 @@
       "category": "STRUCTURE",
       "name": "\u2265 5 H2 sections",
       "passed": true,
-      "detail": "6 sections"
+      "detail": "7 sections"
     }
   ]
 }

@@ -1,0 +1,92 @@
+{
+  "slug": "rome",
+  "title": "Rome and the Vatican: The Eternal Pilgrimage City",
+  "target_words": 2000,
+  "sections": [
+    {
+      "heading": "Intro",
+      "current_words": 231,
+      "target_words": 250,
+      "internal_links": [
+        "/journeys/christian-pilgrimage-traditions",
+        "/cities/jerusalem",
+        "/places/rome-vatican"
+      ]
+    },
+    {
+      "heading": "The City of Peter and Paul",
+      "current_words": 245,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "The Via Francigena: Europe's Road to Rome",
+      "current_words": 258,
+      "target_words": 258,
+      "internal_links": [
+        "/routes/via-francigena",
+        "/routes/st-olavs-way"
+      ]
+    },
+    {
+      "heading": "Relics and the Economy of Devotion",
+      "current_words": 267,
+      "target_words": 267,
+      "internal_links": [
+        "/context/relics-and-sacred-objects",
+        "/context/history-of-christian-pilgrimage"
+      ]
+    },
+    {
+      "heading": "Medieval Pilgrims in Rome",
+      "current_words": 285,
+      "target_words": 285,
+      "internal_links": [
+        "/stories/margery-kempe-medieval-pilgrim",
+        "/cities/santiago-de-compostela",
+        "/stories/helena-and-the-true-cross"
+      ]
+    },
+    {
+      "heading": "The Vatican Today",
+      "current_words": 235,
+      "target_words": 250,
+      "internal_links": [
+        "/places/rome-vatican",
+        "/journeys/faith-based-journeys"
+      ]
+    },
+    {
+      "heading": "Beyond Rome: Lourdes and the European Network",
+      "current_words": 228,
+      "target_words": 250,
+      "internal_links": [
+        "/places/lourdes",
+        "/cities/jerusalem",
+        "/cities/varanasi"
+      ]
+    },
+    {
+      "heading": "Experiences and Tours",
+      "current_words": 215,
+      "target_words": 250,
+      "internal_links": []
+    }
+  ],
+  "spoke_inventory": [
+    "places/rome-vatican",
+    "places/lourdes",
+    "routes/via-francigena",
+    "routes/st-olavs-way",
+    "stories/helena-and-the-true-cross",
+    "stories/margery-kempe-medieval-pilgrim",
+    "context/history-of-christian-pilgrimage",
+    "context/relics-and-sacred-objects"
+  ],
+  "viator_dest_id": 511,
+  "spoke_coverage": {
+    "total": 8,
+    "linked": 8,
+    "unlinked": []
+  }
+}
