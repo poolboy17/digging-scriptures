@@ -7,6 +7,7 @@
  * Parallel to the tradition-based HubLayout but organized by location
  * 
  * Uses shared components: HubHero, SpokeCard, SiblingNav
+ * 
  * MONETIZATION: YES — Viator affiliate products in "Experiences" section
  * ================================================================================
  */
@@ -17,6 +18,7 @@ import SpokeCard from '../components/SpokeCard.astro';
 import SiblingNav from '../components/SiblingNav.astro';
 import SpokeSidebar from '../components/SpokeSidebar.astro';
 import SpokeMobileToc from '../components/SpokeMobileToc.astro';
+import '@fontsource-variable/playfair-display/wght.css';
 import { getCollection } from 'astro:content';
 
 interface Props {
@@ -36,7 +38,7 @@ const { title, description, tagline, region, country, faithTraditions, spokes, i
 
 const citySlug = Astro.url.pathname.replace('/cities/', '').replace(/\/$/, '');
 
-// Resolve spoke references to actual article data
+// ── Resolve spoke references ──
 const allPlaces = await getCollection('places', ({ data }) => !data.draft);
 const allRoutes = await getCollection('routes', ({ data }) => !data.draft);
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
@@ -66,21 +68,21 @@ const routeSpokes = resolvedSpokes.filter(s => s.type === 'routes');
 const storySpokes = resolvedSpokes.filter(s => s.type === 'stories');
 const contextSpokes = resolvedSpokes.filter(s => s.type === 'context');
 
-// Sibling cities
+// ── Sibling cities ──
 const allCities = await getCollection('cities', ({ data }) => !data.draft);
 const siblingCities = allCities
     .filter(c => c.slug !== citySlug)
     .map(c => ({ slug: c.slug, title: c.data.title, description: c.data.description }));
 
-// Stats for hero
+// ── Stats ──
 const heroStats = [
-    { label: `${resolvedSpokes.length} related articles` },
+    { label: `${resolvedSpokes.length} articles` },
     { label: `${placeSpokes.length} places` },
     { label: `${routeSpokes.length} routes` },
-    ...(faithTraditions && faithTraditions.length > 0 
-        ? [{ label: faithTraditions.slice(0, 3).join(', ') }] 
-        : []),
 ];
+if (faithTraditions && faithTraditions.length > 0) {
+    heroStats.push({ label: faithTraditions.slice(0, 3).join(', ') });
+}
 ---
 
 <BaseLayout 
@@ -93,6 +95,7 @@ const heroStats = [
     ]}
 >
 
+<!-- HERO (shared component) -->
 <HubHero
     image={image}
     imageAlt={imageAlt}
@@ -103,16 +106,20 @@ const heroStats = [
     stats={heroStats}
 />
 
+<!-- MOBILE TOC -->
 <SpokeMobileToc />
 
+<!-- MAIN CONTENT -->
 <article class="city-page">
     <div class="spoke-layout container">
         <div class="spoke-main">
 
+            <!-- EDITORIAL PROSE -->
             <section class="city-content">
                 <slot />
             </section>
 
+            <!-- SPOKE CARDS BY TYPE (shared SpokeCard component) -->
             {placeSpokes.length > 0 && (
                 <section class="city-spokes-section">
                     <h2 class="city-spokes-heading">Sacred Places</h2>
@@ -166,6 +173,7 @@ const heroStats = [
     </div>
 </article>
 
+<!-- SIBLING CITIES (shared component) -->
 <SiblingNav
     label="Explore other sacred cities"
     basePath="/cities"
