@@ -6,12 +6,15 @@
  * Purpose: Geographic hub pages for the city silo
  * Parallel to the tradition-based HubLayout but organized by location
  * 
+ * Uses shared components: HubHero, SpokeCard, SiblingNav
  * MONETIZATION: YES — Viator affiliate products in "Experiences" section
  * ================================================================================
  */
 
 import BaseLayout from './BaseLayout.astro';
-import CdnImage from '../components/CdnImage.astro';
+import HubHero from '../components/HubHero.astro';
+import SpokeCard from '../components/SpokeCard.astro';
+import SiblingNav from '../components/SiblingNav.astro';
 import SpokeSidebar from '../components/SpokeSidebar.astro';
 import SpokeMobileToc from '../components/SpokeMobileToc.astro';
 import { getCollection } from 'astro:content';
@@ -55,7 +58,6 @@ const resolvedSpokes = spokeRefs.map(ref => {
         title: entry.data.title,
         description: entry.data.description,
         url: `/${ref}`,
-        image: entry.data.image,
     };
 }).filter(Boolean);
 
@@ -66,7 +68,19 @@ const contextSpokes = resolvedSpokes.filter(s => s.type === 'context');
 
 // Sibling cities
 const allCities = await getCollection('cities', ({ data }) => !data.draft);
-const siblingCities = allCities.filter(c => c.slug !== citySlug);
+const siblingCities = allCities
+    .filter(c => c.slug !== citySlug)
+    .map(c => ({ slug: c.slug, title: c.data.title, description: c.data.description }));
+
+// Stats for hero
+const heroStats = [
+    { label: `${resolvedSpokes.length} related articles` },
+    { label: `${placeSpokes.length} places` },
+    { label: `${routeSpokes.length} routes` },
+    ...(faithTraditions && faithTraditions.length > 0 
+        ? [{ label: faithTraditions.slice(0, 3).join(', ') }] 
+        : []),
+];
 ---
 
 <BaseLayout 
@@ -79,67 +93,37 @@ const siblingCities = allCities.filter(c => c.slug !== citySlug);
     ]}
 >
 
-<!-- HERO -->
-<header class="city-hero">
-    {image && (
-        <div class="city-hero-img-wrap">
-            <img
-                src={`/.netlify/images?url=${encodeURIComponent(image)}&w=1080`}
-                srcset={[320,480,640,800,1080].map(w => `/.netlify/images?url=${encodeURIComponent(image)}&w=${w} ${w}w`).join(', ')}
-                sizes="100vw"
-                alt={imageAlt || title}
-                width="1200" height="500"
-                loading="eager" decoding="async" fetchpriority="high"
-                class="city-hero-img"
-            />
-        </div>
-        <div class="city-hero-overlay"></div>
-    )}
-    <div class="city-hero-inner container">
-        <span class="city-hero-badge">{country || region || 'Sacred City'}</span>
-        <h1 class="city-hero-title">{title}</h1>
-        {tagline && <p class="city-hero-tagline">{tagline}</p>}
-        <div class="city-hero-stats">
-            <span>{resolvedSpokes.length} related articles</span>
-            <span class="city-sep">·</span>
-            <span>{placeSpokes.length} places</span>
-            <span class="city-sep">·</span>
-            <span>{routeSpokes.length} routes</span>
-            {faithTraditions && faithTraditions.length > 0 && (
-                <>
-                    <span class="city-sep">·</span>
-                    <span>{faithTraditions.slice(0, 3).join(', ')}</span>
-                </>
-            )}
-        </div>
-    </div>
-</header>
+<HubHero
+    image={image}
+    imageAlt={imageAlt}
+    badge={country || region || 'Sacred City'}
+    title={title}
+    tagline={tagline}
+    description={description}
+    stats={heroStats}
+/>
 
-<!-- MOBILE TOC -->
 <SpokeMobileToc />
 
-<!-- MAIN CONTENT -->
 <article class="city-page">
     <div class="spoke-layout container">
         <div class="spoke-main">
 
-            <!-- EDITORIAL PROSE -->
             <section class="city-content">
                 <slot />
             </section>
 
-            <!-- SPOKE CARDS BY TYPE -->
             {placeSpokes.length > 0 && (
                 <section class="city-spokes-section">
                     <h2 class="city-spokes-heading">Sacred Places</h2>
                     <div class="city-spokes-grid">
                         {placeSpokes.map(spoke => (
-                            <a href={spoke.url} class="city-spoke-card">
-                                <span class="city-spoke-type">Place</span>
-                                <span class="city-spoke-title">{spoke.title}</span>
-                                <span class="city-spoke-desc">{spoke.description}</span>
-                                <span class="city-spoke-arrow">→</span>
-                            </a>
+                            <SpokeCard
+                                href={spoke.url}
+                                type={spoke.type}
+                                title={spoke.title}
+                                description={spoke.description}
+                            />
                         ))}
                     </div>
                 </section>
@@ -150,12 +134,12 @@ const siblingCities = allCities.filter(c => c.slug !== citySlug);
                     <h2 class="city-spokes-heading">Pilgrimage Routes</h2>
                     <div class="city-spokes-grid">
                         {routeSpokes.map(spoke => (
-                            <a href={spoke.url} class="city-spoke-card">
-                                <span class="city-spoke-type">Route</span>
-                                <span class="city-spoke-title">{spoke.title}</span>
-                                <span class="city-spoke-desc">{spoke.description}</span>
-                                <span class="city-spoke-arrow">→</span>
-                            </a>
+                            <SpokeCard
+                                href={spoke.url}
+                                type={spoke.type}
+                                title={spoke.title}
+                                description={spoke.description}
+                            />
                         ))}
                     </div>
                 </section>
@@ -166,12 +150,12 @@ const siblingCities = allCities.filter(c => c.slug !== citySlug);
                     <h2 class="city-spokes-heading">Stories &amp; Context</h2>
                     <div class="city-spokes-grid">
                         {[...storySpokes, ...contextSpokes].map(spoke => (
-                            <a href={spoke.url} class="city-spoke-card">
-                                <span class="city-spoke-type">{spoke.type === 'stories' ? 'Story' : 'Context'}</span>
-                                <span class="city-spoke-title">{spoke.title}</span>
-                                <span class="city-spoke-desc">{spoke.description}</span>
-                                <span class="city-spoke-arrow">→</span>
-                            </a>
+                            <SpokeCard
+                                href={spoke.url}
+                                type={spoke.type}
+                                title={spoke.title}
+                                description={spoke.description}
+                            />
                         ))}
                     </div>
                 </section>
@@ -182,47 +166,28 @@ const siblingCities = allCities.filter(c => c.slug !== citySlug);
     </div>
 </article>
 
-<!-- SIBLING CITIES -->
-{siblingCities.length > 0 && (
-<section class="sibling-section">
-    <div class="container">
-        <p class="sibling-label">Explore other sacred cities</p>
-        <div class="sibling-grid">
-            {siblingCities.map(city => (
-                <a href={`/cities/${city.slug}`} class="sibling-card">
-                    <h3 class="sibling-title">{city.data.title}</h3>
-                    <p class="sibling-desc">{city.data.description}</p>
-                    <span class="sibling-arrow">&rarr;</span>
-                </a>
-            ))}
-        </div>
-    </div>
-</section>
-)}
+<SiblingNav
+    label="Explore other sacred cities"
+    basePath="/cities"
+    items={siblingCities}
+/>
 
 </BaseLayout>
 
 <style>
-    /* City Hero */
-    .city-hero { position: relative; min-height: 340px; display: flex; align-items: flex-end; overflow: hidden; }
-    .city-hero-img-wrap { position: absolute; inset: 0; }
-    .city-hero-img { width: 100%; height: 100%; object-fit: cover; }
-    .city-hero-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(15,10,30,0.85) 0%, rgba(15,10,30,0.3) 60%, transparent 100%); }
-    .city-hero-inner { position: relative; z-index: 2; padding: 2.5rem 1rem; max-width: 900px; }
-    .city-hero-badge { display: inline-block; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #c4b5fd; background: rgba(109,40,217,0.25); border: 1px solid rgba(109,40,217,0.4); border-radius: 4px; padding: 0.2rem 0.6rem; margin-bottom: 0.75rem; }
-    .city-hero-title { font-family: 'Playfair Display Variable', serif; font-size: clamp(1.75rem, 4vw, 2.75rem); font-weight: 700; color: #faf6f2; line-height: 1.15; margin: 0 0 0.5rem; }
-    .city-hero-tagline { font-size: 1.1rem; color: #d6d3d1; margin: 0 0 1rem; font-style: italic; }
-    .city-hero-stats { display: flex; flex-wrap: wrap; gap: 0.35rem; font-size: 0.85rem; color: #a8a29e; }
-    .city-sep { color: #78716c; }
-
-    /* Spoke cards */
     .city-spokes-section { margin: 2.5rem 0; }
-    .city-spokes-heading { font-family: 'Playfair Display Variable', serif; font-size: 1.35rem; color: #1c1917; margin: 0 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #6D28D9; display: inline-block; }
-    .city-spokes-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
-    .city-spoke-card { display: flex; flex-direction: column; padding: 1.25rem; border-radius: 0.75rem; border: 1px solid #e7e5e4; background: #fff; text-decoration: none; transition: all 0.2s; }
-    .city-spoke-card:hover { border-color: #6D28D9; box-shadow: 0 4px 12px rgba(109,40,217,0.1); transform: translateY(-2px); }
-    .city-spoke-type { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #6D28D9; margin-bottom: 0.35rem; }
-    .city-spoke-title { font-weight: 600; color: #1c1917; font-size: 1rem; margin-bottom: 0.35rem; }
-    .city-spoke-desc { font-size: 0.85rem; color: #78716c; line-height: 1.4; flex: 1; }
-    .city-spoke-arrow { color: #6D28D9; font-weight: 600; margin-top: 0.5rem; }
+    .city-spokes-heading {
+        font-family: 'Playfair Display Variable', serif;
+        font-size: 1.35rem;
+        color: #1c1917;
+        margin: 0 0 1rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid #6D28D9;
+        display: inline-block;
+    }
+    .city-spokes-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1rem;
+    }
 </style>

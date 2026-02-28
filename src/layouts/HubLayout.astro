@@ -16,6 +16,8 @@
  */
 
 import BaseLayout from './BaseLayout.astro';
+import HubHero from '../components/HubHero.astro';
+import SiblingNav from '../components/SiblingNav.astro';
 import '@fontsource-variable/playfair-display/wght.css';
 import { getCollection } from 'astro:content';
 
@@ -262,59 +264,18 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
 <div class="progress-bar" id="progress-bar"></div>
 
 <!-- ═══════════════════ HERO ═══════════════════ -->
-<header class="hub-hero">
-    {image && (
-        <div class="hub-hero-img-wrap">
-            <img
-                src={`/.netlify/images?url=${encodeURIComponent(image)}&w=1080`}
-                srcset={[320,480,640,800,1080].map(w => `/.netlify/images?url=${encodeURIComponent(image)}&w=${w} ${w}w`).join(', ')}
-                sizes="100vw"
-                alt={imageAlt || title}
-                width="1200"
-                height="600"
-                loading="eager"
-                decoding="async"
-                fetchpriority="high"
-                class="hub-hero-img"
-            />
-        </div>
-        <div class="hub-hero-overlay"></div>
-    )}
-    <div class="hub-hero-inner container">
-        <div class="hub-hero-meta">
-            <span class="hub-hero-badge">Pilgrimage Tradition</span>
-            {topics && topics.length > 0 && (
-                <div class="hub-hero-topics">
-                    {topics.slice(0, 4).map((topic: string) => (
-                        <span class="hub-hero-topic">{topic}</span>
-                    ))}
-                </div>
-            )}
-        </div>
-        <h1 class="hub-hero-title">{title}</h1>
-        <p class="hub-hero-desc">{description}</p>
-        <div class="hub-hero-stats">
-            <span class="hub-hero-stat">{spokeCount} related articles</span>
-            <span class="hub-hero-stat-sep">·</span>
-            <span class="hub-hero-stat">{allPlaces.length} places</span>
-            <span class="hub-hero-stat-sep">·</span>
-            <span class="hub-hero-stat">{allRoutes.length} routes</span>
-        </div>
-    </div>
-    <svg class="hub-hero-pattern" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
-        <g stroke="rgba(250,246,242,0.06)" stroke-width="1" fill="none">
-            <path d="M0,200 Q100,120 200,180 T400,160 T600,200 T800,170" />
-            <path d="M0,240 Q150,180 250,220 T450,190 T650,240 T800,210" />
-            <path d="M0,280 Q120,220 220,260 T420,230 T620,270 T800,250" />
-            <path d="M0,320 Q130,270 260,300 T460,270 T660,310 T800,290" />
-            <path d="M0,160 Q180,100 280,140 T480,120 T680,160 T800,130" />
-            <circle cx="150" cy="180" r="35" /><circle cx="420" cy="150" r="25" />
-            <circle cx="650" cy="210" r="40" /><circle cx="300" cy="250" r="20" />
-        </g>
-    </svg>
-    <div class="hub-hero-grain"></div>
-    <div class="hub-hero-fade"></div>
-</header>
+<HubHero
+    image={image}
+    imageAlt={imageAlt}
+    badge="Pilgrimage Tradition"
+    title={title}
+    description={description}
+    stats={[
+        { label: `${spokeCount} related articles` },
+        { label: `${allPlaces.length} places` },
+        { label: `${allRoutes.length} routes` },
+    ]}
+/>
 
 <!-- ═══════════════════ MOBILE TOC ═══════════════════ -->
 <div class="mobile-toc-wrapper container" id="mobile-toc">
@@ -372,22 +333,11 @@ const siblingHubs = allHubs.filter(h => h.slug !== hubSlug);
 })} />
 
 <!-- ═══════════════════ SIBLING HUBS ═══════════════════ -->
-{siblingHubs.length > 0 && (
-<section class="sibling-section">
-    <div class="container">
-        <p class="sibling-label">Also explore</p>
-        <div class="sibling-grid">
-            {siblingHubs.map((hub) => (
-                <a href={`/journeys/${hub.slug}`} class="sibling-card">
-                    <h3 class="sibling-title">{hub.data.title}</h3>
-                    <p class="sibling-desc">{hub.data.description}</p>
-                    <span class="sibling-arrow">&rarr;</span>
-                </a>
-            ))}
-        </div>
-    </div>
-</section>
-)}
+<SiblingNav
+    label="Also explore"
+    basePath="/journeys"
+    items={siblingHubs.map(h => ({ slug: h.slug, title: h.data.title, description: h.data.description }))}
+/>
 
 </BaseLayout>
 

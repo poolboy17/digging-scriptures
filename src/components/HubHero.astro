@@ -1,0 +1,150 @@
+---
+/**
+ * ================================================================================
+ * SHARED HERO COMPONENT — used by both HubLayout and CityLayout
+ * ================================================================================
+ * Renders the full-bleed hero banner with image, overlay, badge, title,
+ * optional tagline, and stats bar.
+ * ================================================================================
+ */
+
+interface Props {
+    image?: string;
+    imageAlt?: string;
+    badge: string;
+    title: string;
+    description?: string;
+    tagline?: string;
+    stats?: { label: string }[];
+}
+
+const { image, imageAlt, badge, title, description, tagline, stats = [] } = Astro.props;
+---
+
+<header class="hub-hero">
+    {image && (
+        <div class="hub-hero-img-wrap">
+            <img
+                src={`/.netlify/images?url=${encodeURIComponent(image)}&w=1080`}
+                srcset={[320,480,640,800,1080].map(w => `/.netlify/images?url=${encodeURIComponent(image)}&w=${w} ${w}w`).join(', ')}
+                sizes="100vw"
+                alt={imageAlt || title}
+                width="1200" height="500"
+                loading="eager" decoding="async" fetchpriority="high"
+                class="hub-hero-img"
+            />
+        </div>
+        <div class="hub-hero-overlay"></div>
+    )}
+    <div class="hub-hero-inner container">
+        <div class="hub-hero-meta">
+            <span class="hub-hero-badge">{badge}</span>
+        </div>
+        <h1 class="hub-hero-title">{title}</h1>
+        {tagline && <p class="hub-hero-tagline">{tagline}</p>}
+        {description && <p class="hub-hero-desc">{description}</p>}
+        {stats.length > 0 && (
+            <div class="hub-hero-stats">
+                {stats.map((s, i) => (
+                    <>
+                        {i > 0 && <span class="hub-hero-stat-sep">·</span>}
+                        <span class="hub-hero-stat">{s.label}</span>
+                    </>
+                ))}
+            </div>
+        )}
+    </div>
+    <svg class="hub-hero-pattern" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+        <g stroke="rgba(250,246,242,0.06)" stroke-width="1" fill="none">
+            <path d="M0,200 Q100,120 200,180 T400,160 T600,200 T800,170" />
+            <path d="M0,240 Q150,180 250,220 T450,190 T650,240 T800,210" />
+            <path d="M0,280 Q120,220 220,260 T420,230 T620,270 T800,250" />
+            <circle cx="150" cy="180" r="35" /><circle cx="420" cy="150" r="25" />
+            <circle cx="650" cy="210" r="40" /><circle cx="300" cy="250" r="20" />
+        </g>
+    </svg>
+    <div class="hub-hero-fade"></div>
+</header>
+
+<style>
+    .hub-hero {
+        position: relative;
+        min-height: 340px;
+        display: flex;
+        align-items: flex-end;
+        overflow: hidden;
+    }
+    .hub-hero-img-wrap { position: absolute; inset: 0; }
+    .hub-hero-img { width: 100%; height: 100%; object-fit: cover; }
+    .hub-hero-overlay {
+        position: absolute; inset: 0;
+        background: linear-gradient(
+            to top,
+            rgba(15,10,30,0.88) 0%,
+            rgba(15,10,30,0.4) 50%,
+            rgba(15,10,30,0.15) 100%
+        );
+    }
+    .hub-hero-inner {
+        position: relative; z-index: 2;
+        padding: 2.5rem 1rem;
+        max-width: 900px;
+    }
+    .hub-hero-meta { margin-bottom: 0.5rem; }
+    .hub-hero-badge {
+        display: inline-block;
+        font-size: 0.72rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.09em;
+        color: #c4b5fd;
+        background: rgba(109,40,217,0.25);
+        border: 1px solid rgba(109,40,217,0.4);
+        border-radius: 4px;
+        padding: 0.2rem 0.65rem;
+    }
+    .hub-hero-title {
+        font-family: 'Playfair Display Variable', serif;
+        font-size: clamp(1.75rem, 4vw, 2.75rem);
+        font-weight: 700;
+        color: #faf6f2;
+        line-height: 1.15;
+        margin: 0.5rem 0;
+    }
+    .hub-hero-tagline {
+        font-size: 1.1rem;
+        color: #d6d3d1;
+        font-style: italic;
+        margin: 0 0 0.5rem;
+        line-height: 1.4;
+    }
+    .hub-hero-desc {
+        font-size: 1rem;
+        color: #d6d3d1;
+        margin: 0 0 0.75rem;
+        line-height: 1.5;
+        max-width: 650px;
+    }
+    .hub-hero-stats {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.35rem;
+        font-size: 0.85rem;
+        color: #a8a29e;
+    }
+    .hub-hero-stat-sep { color: #78716c; }
+    .hub-hero-pattern {
+        position: absolute;
+        inset: 0;
+        width: 100%; height: 100%;
+        pointer-events: none;
+        z-index: 1;
+    }
+    .hub-hero-fade {
+        position: absolute;
+        bottom: 0; left: 0; right: 0;
+        height: 60px;
+        background: linear-gradient(to bottom, transparent, #faf6f2);
+        z-index: 2;
+    }
+</style>
