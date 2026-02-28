@@ -1,6 +1,7 @@
 ---
 title: "The Three Festivals That Brought All of Israel to Jerusalem"
 parentHub: "jewish-pilgrimage-heritage"
+cityHub: "jerusalem"
 description: "How the biblical command of aliyah leregel created a pilgrimage system that defined Jewish worship, economy, and identity for a thousand years."
 contextType: "religious-context"
 faithTraditions:
@@ -89,6 +90,9 @@ The biblical foundations appear in Exodus 23:14-17, Exodus 34:22-24, and Deutero
 - [Jerusalem Old City](/places/jerusalem-old-city) — The city that received the pilgrims
 - [How the Diaspora Kept Pilgrimage Alive](/context/diaspora-pilgrimage)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Jewish Pilgrimage
 
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place

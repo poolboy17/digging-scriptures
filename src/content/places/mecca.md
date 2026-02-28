@@ -10,6 +10,7 @@ faithTraditions:
   - Islam
 placeType: "pilgrimage-destination"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "mecca-and-medina"
 relatedRoutes:
   - "hajj-route"
 hasExperienceSection: true
@@ -93,6 +94,9 @@ Transportation within the holy sites has been improved by the Haramain High Spee
 - [Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
 
+
+
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

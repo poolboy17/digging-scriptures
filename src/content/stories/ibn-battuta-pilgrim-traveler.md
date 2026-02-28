@@ -1,6 +1,7 @@
 ---
 title: "Ibn Battuta: The Pilgrim Traveler"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "mecca-and-medina"
 description: "How a young Moroccan scholar's Hajj journey in 1325 became one of the greatest travel narratives in human history."
 storyType: "historical-figure"
 faithTraditions:
@@ -80,6 +81,9 @@ Modern scholarship continues to mine the Rihla for insights into fourteenth-cent
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The tradition within which Ibn Battuta traveled
 - [Medina](/places/medina) — The Prophet's city, visited by Ibn Battuta multiple times
 
+
+
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

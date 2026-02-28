@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import CdnImage from '../components/CdnImage.astro';
 
 const hubs = await getCollection('hubs', ({ data }) => !data.draft);
+const cities = await getCollection('cities', ({ data }) => !data.draft);
 const places = await getCollection('places', ({ data }) => !data.draft);
 const routes = await getCollection('routes', ({ data }) => !data.draft);
 const stories = await getCollection('stories', ({ data }) => !data.draft);
@@ -186,6 +187,44 @@ const homepageSchema = {
                 </div>
             </article>
         ))}
+    </div>
+</section>
+
+
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- SACRED CITIES — Geographic silo entry points            -->
+<!-- Parallel SEO pyramid: Homepage → City Hubs → Spokes    -->
+<!-- ════════════════════════════════════════════════════════ -->
+<section class="section container">
+    <div class="section-header">
+        <span class="section-label">Sacred cities</span>
+        <h2 class="section-title">Explore by destination</h2>
+    </div>
+
+    <div class="city-grid">
+        {cities.map((city) => (
+            <a href={`/cities/${city.slug}`} class="city-home-card">
+                {city.data.image && (
+                    <div class="city-home-img-wrap">
+                        <CdnImage
+                            src={city.data.image}
+                            alt={city.data.imageAlt || city.data.title}
+                            width={400} height={240}
+                            loading="lazy" decoding="async"
+                            class="city-home-img"
+                        />
+                    </div>
+                )}
+                <div class="city-home-body">
+                    <span class="city-home-region">{city.data.country || city.data.region}</span>
+                    <h3 class="city-home-title">{city.data.title}</h3>
+                    {city.data.tagline && <p class="city-home-tagline">{city.data.tagline}</p>}
+                </div>
+            </a>
+        ))}
+    </div>
+    <div style="text-align:center;margin-top:1.25rem;">
+        <a href="/cities" class="section-link">View all sacred cities <span>&rarr;</span></a>
     </div>
 </section>
 
@@ -531,6 +570,18 @@ const homepageSchema = {
 
 .hub-row-arrow { transition: transform 0.2s; }
 .hub-row-cta:hover .hub-row-arrow { transform: translateX(2px); }
+
+/* City grid */
+.city-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.25rem; }
+.city-home-card { display: flex; flex-direction: column; border-radius: 0.75rem; overflow: hidden; border: 1px solid #e7e5e4; background: #fff; text-decoration: none; transition: all 0.25s; }
+.city-home-card:hover { border-color: #6D28D9; box-shadow: 0 6px 20px rgba(109,40,217,0.12); transform: translateY(-2px); }
+.city-home-img-wrap { height: 170px; overflow: hidden; }
+.city-home-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; }
+.city-home-card:hover .city-home-img { transform: scale(1.04); }
+.city-home-body { padding: 1rem 1.25rem 1.25rem; }
+.city-home-region { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #6D28D9; }
+.city-home-title { font-family: 'Playfair Display Variable', serif; font-size: 1.1rem; color: #1c1917; margin: 0.25rem 0 0.2rem; }
+.city-home-tagline { font-size: 0.85rem; color: #78716c; font-style: italic; margin: 0; line-height: 1.35; }
 
 
 /* ═══════════════════════════════════════════════════════ */

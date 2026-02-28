@@ -10,6 +10,7 @@ faithTraditions:
   - Buddhism
 difficulty: "challenging"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "kyoto"
 placesOnRoute:
   - "mount-koya"
 hasModernSection: true
@@ -109,6 +110,9 @@ The Kumano Kodō demonstrates a model of pilgrimage route management that balanc
 - [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Japan's other great Buddhist pilgrimage circuit
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder of Shingon Buddhism and his pilgrimage legacy
 
+
+
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
 ## More on Buddhist Pilgrimage
 
 - [Bodh Gaya](/places/bodh-gaya) — Place

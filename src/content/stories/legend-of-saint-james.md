@@ -1,6 +1,7 @@
 ---
 title: "The Legend of Saint James"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "santiago-de-compostela"
 description: "The traditional narrative surrounding the apostle James and the origins of the Santiago de Compostela pilgrimage."
 storyType: "legend"
 faithTraditions:
@@ -91,6 +92,9 @@ The story of Saint James thus serves as a case study in how sacred narratives fu
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The broader context of Christian pilgrimage
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage across traditions
 
+
+
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
 ## More on Christian Pilgrimage
 
 - [Jerusalem Old City](/places/jerusalem-old-city) — Place

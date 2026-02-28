@@ -10,6 +10,7 @@ faithTraditions:
   - Islam
 placeType: "mosque"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "jerusalem"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-26
@@ -90,6 +91,9 @@ Friday prayers at Al-Aqsa draw the largest regular congregations, with tens of t
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
 - [Western Wall](/places/western-wall)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Islamic Pilgrimage
 
 - [Mecca](/places/mecca) — Place

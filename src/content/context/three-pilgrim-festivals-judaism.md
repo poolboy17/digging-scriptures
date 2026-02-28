@@ -1,6 +1,7 @@
 ---
 title: "The Three Pilgrim Festivals of Judaism"
 parentHub: "jewish-pilgrimage-heritage"
+cityHub: "jerusalem"
 description: "Understanding the Shalosh Regalim — Passover, Shavuot, and Sukkot — the three annual festivals when ancient Israelites were commanded to appear at the..."
 contextType: "religious-context"
 faithTraditions:
@@ -94,6 +95,9 @@ The pilgrimage commandment appears in three Torah passages: Exodus 23:14-17, Exo
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later expression of Jewish pilgrimage longing
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Jewish Pilgrimage
 
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place

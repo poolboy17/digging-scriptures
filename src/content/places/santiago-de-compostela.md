@@ -11,6 +11,7 @@ faithTraditions:
   - Catholicism
 placeType: "church"
 parentHub: "faith-based-journeys"
+cityHub: "santiago-de-compostela"
 relatedRoutes:
   - "camino-de-santiago"
 hasExperienceSection: true
@@ -119,6 +120,9 @@ Some travelers engage organized pilgrimage programs that combine walking portion
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage traditions
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
 
+
+
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
 ## More on Faith-Based Journeys
 
 - [Varanasi](/places/varanasi) — Place

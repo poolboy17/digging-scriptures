@@ -12,6 +12,7 @@ faithTraditions:
   - Islam
 placeType: "pilgrimage-destination"
 parentHub: "faith-based-journeys"
+cityHub: "jerusalem"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-01-25
@@ -116,6 +117,9 @@ Accommodations in Jerusalem range from historic hospices and guesthouses maintai
 - [Dome of the Rock](/places/dome-of-the-rock)
 - [Jerusalem Old City](/places/jerusalem-old-city)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Faith-Based Journeys
 
 - [Varanasi](/places/varanasi) — Place

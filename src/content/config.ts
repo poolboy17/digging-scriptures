@@ -79,6 +79,7 @@ const places = defineCollection({
         
         // Relationships
         parentHub: z.string().optional(),
+        cityHub: z.string().optional(),
         relatedRoutes: z.array(z.string()).optional(),
         
         // Monetization flag
@@ -124,6 +125,7 @@ const routes = defineCollection({
         
         // Relationships
         parentHub: z.string().optional(),
+        cityHub: z.string().optional(),
         placesOnRoute: z.array(z.string()).optional(),
         
         // Monetization flag
@@ -173,6 +175,7 @@ const stories = defineCollection({
         
         // Relationships
         parentHub: z.string().optional(),
+        cityHub: z.string().optional(),
         relatedPlaces: z.array(z.string()).optional(),
         relatedRoutes: z.array(z.string()).optional(),
         
@@ -219,6 +222,7 @@ const context = defineCollection({
         
         // Relationships
         parentHub: z.string().optional(),
+        cityHub: z.string().optional(),
         
         // Image
         image: z.string().optional(),
@@ -234,10 +238,47 @@ const context = defineCollection({
 });
 
 // ================================================================================
+// CITIES COLLECTION
+// ================================================================================
+// Purpose: Geographic hub pages organizing content by city/region
+// Part of the parallel city silo (alongside the tradition-based hub silo)
+// Monetization: NEVER
+// Word count target: 2000-3000 words
+// ================================================================================
+const cities = defineCollection({
+    type: 'content',
+    schema: z.object({
+        title: z.string().max(80),
+        description: z.string().max(160),
+        tagline: z.string().optional(),
+        
+        // Geographic
+        region: z.string().optional(),
+        country: z.string().optional(),
+        
+        // Taxonomy
+        faithTraditions: z.array(z.string()).optional(),
+        
+        // Spoke articles
+        spokes: z.array(z.string()).optional(),
+        
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        imageCredit: z.string().optional(),
+        
+        // SEO
+        lastUpdated: z.date().optional(),
+        draft: z.boolean().default(false),
+    }),
+});
+
+// ================================================================================
 // EXPORT COLLECTIONS
 // ================================================================================
 export const collections = {
     hubs,
+    cities,
     places,
     routes,
     stories,

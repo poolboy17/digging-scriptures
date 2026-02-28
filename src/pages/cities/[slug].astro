@@ -1,0 +1,41 @@
+---
+/**
+ * ================================================================================
+ * CITY HUB PAGES ROUTE: /cities/[slug]
+ * ================================================================================
+ * Renders city collection entries at semantic URLs
+ * Example: /cities/jerusalem
+ * Part of the geographic (city) silo — parallel to /journeys/ tradition silo
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import CityLayout from '../../layouts/CityLayout.astro';
+
+export async function getStaticPaths() {
+    const cities = await getCollection('cities', ({ data }) => !data.draft);
+    
+    return cities.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<CityLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    tagline={entry.data.tagline}
+    region={entry.data.region}
+    country={entry.data.country}
+    faithTraditions={entry.data.faithTraditions}
+    spokes={entry.data.spokes}
+    image={entry.data.image}
+    imageAlt={entry.data.imageAlt}
+    imageCredit={entry.data.imageCredit}
+>
+    <Content />
+</CityLayout>

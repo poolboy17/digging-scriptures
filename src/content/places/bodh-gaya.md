@@ -10,6 +10,7 @@ faithTraditions:
   - Buddhism
 placeType: "pilgrimage-destination"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "varanasi"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
@@ -93,6 +94,9 @@ Accommodation ranges from dharamsalas (pilgrim guesthouses) maintained by variou
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context on the places the Buddha designated for pilgrimage
 - [Sarnath](/places/sarnath)
 
+
+
+This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi).
 ## More on Buddhist Pilgrimage
 
 - [Mount Koya](/places/mount-koya) — Place

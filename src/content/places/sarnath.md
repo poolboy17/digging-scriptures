@@ -10,6 +10,7 @@ faithTraditions:
   - Buddhism
 placeType: "pilgrimage-destination"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "varanasi"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-26
@@ -94,6 +95,9 @@ Most visitors base themselves in Varanasi, where accommodation ranges from budge
 - [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Why the Buddha designated these four places for pilgrimage
 - [Varanasi](/places/varanasi) — The neighboring Hindu holy city on the Ganges
 
+
+
+This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi).
 ## More on Buddhist Pilgrimage
 
 - [Mount Koya](/places/mount-koya) — Place

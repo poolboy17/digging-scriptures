@@ -3,6 +3,7 @@ title: "Ziyarat and the Tradition of Visiting Shrines in Islam"
 description: "The practice of voluntary pilgrimage to saints' tombs and holy sites across the Islamic world, and the theological debate it inspires."
 contextType: "religious-context"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "mecca-and-medina"
 faithTraditions:
   - Islam
 regions:
@@ -84,6 +85,9 @@ The hadith encouraging grave visitation appears in the collections of Muslim and
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
 
+
+
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

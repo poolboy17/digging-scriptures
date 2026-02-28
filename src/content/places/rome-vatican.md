@@ -10,6 +10,7 @@ faithTraditions:
   - Christianity
 placeType: "pilgrimage-destination"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "rome"
 relatedRoutes:
   - "via-francigena"
 hasExperienceSection: true
@@ -102,6 +103,9 @@ Accommodation options range from religious guesthouses and convents that welcome
 - [Jerusalem Old City](/places/jerusalem-old-city) — Christianity's other supreme pilgrimage destination
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The empress whose journey shaped Christian pilgrimage geography
 
+
+
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
 ## More on Christian Pilgrimage
 
 - [Lourdes](/places/lourdes) — Place

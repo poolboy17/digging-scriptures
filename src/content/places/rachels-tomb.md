@@ -12,6 +12,7 @@ faithTraditions:
   - Islam
 placeType: "shrine"
 parentHub: "jewish-pilgrimage-heritage"
+cityHub: "jerusalem"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-26
@@ -93,6 +94,9 @@ Transportation from Jerusalem is available by bus (lines serving the Gush Etzion
 - [Western Wall](/places/western-wall) — Judaism's holiest prayer site in Jerusalem
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A pilgrimage story driven by longing for the Holy Land
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Jewish Pilgrimage
 
 - [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place

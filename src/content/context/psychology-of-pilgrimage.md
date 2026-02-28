@@ -3,6 +3,7 @@ title: "Why Walking to Sacred Places Changes People"
 description: "The anthropology and psychology behind pilgrimage — liminality, communitas, and why the physical act of walking matters."
 contextType: "cultural-overview"
 parentHub: "faith-based-journeys"
+cityHub: "kyoto"
 faithTraditions:
   - Christianity
   - Islam
@@ -90,6 +91,9 @@ Victor Turner and Edith Turner, *Image and Pilgrimage in Christian Culture* (197
 - [The Camino de Santiago](/routes/camino-de-santiago)
 - [Pilgrimage Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era)
 
+
+
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

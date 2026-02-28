@@ -12,6 +12,7 @@ faithTraditions:
   - Islam
 placeType: "pilgrimage-destination"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "jerusalem"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-01-25
@@ -110,6 +111,9 @@ Accommodations in Jerusalem range widely, from modest pilgrim hospices maintaine
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [Dome of the Rock](/places/dome-of-the-rock)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Christian Pilgrimage
 
 - [Lourdes](/places/lourdes) — Place

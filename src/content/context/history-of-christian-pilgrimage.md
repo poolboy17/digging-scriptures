@@ -1,6 +1,7 @@
 ---
 title: "History of Christian Pilgrimage"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "rome"
 description: "An overview of the development of pilgrimage practices within Christian traditions from antiquity to the present."
 contextType: "historical-background"
 faithTraditions:
@@ -119,6 +120,9 @@ The study of pilgrimage has itself become a significant academic field. Scholars
 - [Jerusalem Old City](/places/jerusalem-old-city) — The original Christian pilgrimage destination
 - [Camino de Santiago](/routes/camino-de-santiago) — The most traveled medieval pilgrimage route
 
+
+
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
 ## More on Christian Pilgrimage
 
 - [Lourdes](/places/lourdes) — Place

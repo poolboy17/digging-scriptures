@@ -15,6 +15,7 @@ faithTraditions:
   - Judaism
 difficulty: "challenging"
 parentHub: "faith-based-journeys"
+cityHub: "santiago-de-compostela"
 placesOnRoute:
   - "hebron-cave-patriarchs"
   - "jerusalem-old-city"
@@ -109,6 +110,9 @@ The Abraham Path demonstrates that pilgrimage routes need not be ancient to be m
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Multi-faith pilgrimage traditions worldwide
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The evolving intersection of sacred and secular travel
 
+
+
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

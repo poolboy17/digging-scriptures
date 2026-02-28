@@ -1,6 +1,7 @@
 ---
 title: "Margery Kempe: The Medieval Pilgrim"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "rome"
 description: "An English laywoman whose dramatic pilgrimages and mystical experiences produced the first autobiography in the English language."
 storyType: "historical-figure"
 faithTraditions:
@@ -81,6 +82,9 @@ Margery Kempe remains a figure who resists comfortable categorization. She was a
 - [Camino de Santiago](/routes/camino-de-santiago) — One of Margery's pilgrimage routes
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition within which Margery traveled
 
+
+
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
 ## More on Christian Pilgrimage
 
 - [Lourdes](/places/lourdes) — Place

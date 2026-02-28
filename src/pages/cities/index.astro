@@ -1,0 +1,82 @@
+---
+/**
+ * ================================================================================
+ * CITIES INDEX: /cities
+ * ================================================================================
+ * Lists all city hub pages — the geographic entry point for the city silo
+ * ================================================================================
+ */
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const cities = await getCollection('cities', ({ data }) => !data.draft);
+---
+
+<BaseLayout 
+    title="Sacred Cities — Pilgrimage Destinations Around the World"
+    description="Explore the world's holiest cities — from Jerusalem and Rome to Kyoto and Varanasi. Each city hub guides you through the sacred sites, pilgrimage routes, and spiritual traditions of a place."
+>
+
+<section class="cities-hero">
+    <div class="container">
+        <span class="cities-badge">Geographic Guide</span>
+        <h1 class="cities-title">Sacred Cities</h1>
+        <p class="cities-desc">The world's holiest cities — explored through their sacred sites, pilgrimage routes, and living traditions.</p>
+    </div>
+</section>
+
+<section class="cities-grid-section">
+    <div class="container">
+        <div class="cities-grid">
+            {cities.map(city => (
+                <a href={`/cities/${city.slug}`} class="city-card">
+                    {city.data.image && (
+                        <div class="city-card-img-wrap">
+                            <img
+                                src={`/.netlify/images?url=${encodeURIComponent(city.data.image)}&w=480`}
+                                srcset={`/.netlify/images?url=${encodeURIComponent(city.data.image)}&w=320 320w, /.netlify/images?url=${encodeURIComponent(city.data.image)}&w=480 480w`}
+                                sizes="(max-width: 640px) 100vw, 480px"
+                                alt={city.data.imageAlt || city.data.title}
+                                width="480" height="280"
+                                loading="lazy" decoding="async"
+                                class="city-card-img"
+                            />
+                        </div>
+                    )}
+                    <div class="city-card-body">
+                        <span class="city-card-region">{city.data.country || city.data.region}</span>
+                        <h2 class="city-card-title">{city.data.title}</h2>
+                        {city.data.tagline && <p class="city-card-tagline">{city.data.tagline}</p>}
+                        <p class="city-card-desc">{city.data.description}</p>
+                        <span class="city-card-link">Explore →</span>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </div>
+</section>
+
+</BaseLayout>
+
+<style>
+    .cities-hero { background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4c1d95 100%); padding: 3rem 1rem 2.5rem; text-align: center; }
+    .cities-badge { display: inline-block; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: #c4b5fd; background: rgba(109,40,217,0.3); border: 1px solid rgba(109,40,217,0.4); border-radius: 4px; padding: 0.2rem 0.7rem; margin-bottom: 0.75rem; }
+    .cities-title { font-family: 'Playfair Display Variable', serif; font-size: clamp(2rem, 5vw, 3rem); color: #faf6f2; margin: 0 0 0.75rem; }
+    .cities-desc { font-size: 1.1rem; color: #d6d3d1; max-width: 600px; margin: 0 auto; line-height: 1.5; }
+
+    .cities-grid-section { padding: 2.5rem 1rem 3rem; }
+    .cities-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; max-width: 1100px; margin: 0 auto; }
+
+    .city-card { display: flex; flex-direction: column; border-radius: 0.75rem; overflow: hidden; border: 1px solid #e7e5e4; background: #fff; text-decoration: none; transition: all 0.25s; }
+    .city-card:hover { border-color: #6D28D9; box-shadow: 0 8px 24px rgba(109,40,217,0.12); transform: translateY(-3px); }
+    .city-card-img-wrap { height: 200px; overflow: hidden; }
+    .city-card-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; }
+    .city-card:hover .city-card-img { transform: scale(1.05); }
+    .city-card-body { padding: 1.25rem; flex: 1; display: flex; flex-direction: column; }
+    .city-card-region { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #6D28D9; margin-bottom: 0.3rem; }
+    .city-card-title { font-family: 'Playfair Display Variable', serif; font-size: 1.2rem; color: #1c1917; margin: 0 0 0.35rem; }
+    .city-card-tagline { font-size: 0.9rem; color: #6D28D9; font-style: italic; margin: 0 0 0.5rem; }
+    .city-card-desc { font-size: 0.85rem; color: #78716c; line-height: 1.4; flex: 1; }
+    .city-card-link { font-size: 0.85rem; font-weight: 600; color: #6D28D9; margin-top: 0.75rem; }
+</style>

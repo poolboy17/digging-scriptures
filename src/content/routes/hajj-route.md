@@ -10,6 +10,7 @@ faithTraditions:
   - Islam
 difficulty: "moderate"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "mecca-and-medina"
 placesOnRoute:
   - "mecca"
   - "medina"
@@ -100,6 +101,9 @@ Many pilgrims combine the Hajj with a visit to Medina, approximately 450 kilomet
 - [Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Understanding the Hajj within Islamic theology
 - [How the Umrah Differs from the Hajj](/routes/umrah)
 
+
+
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

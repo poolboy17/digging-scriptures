@@ -1,6 +1,7 @@
 ---
 title: "Kōbō Daishi and the Shikoku Circuit"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "kyoto"
 description: "The life and legacy of Kūkai, the monk who founded Shingon Buddhism in Japan and whose spirit is believed to accompany every pilgrim on the Shikoku 88..."
 storyType: "historical-figure"
 faithTraditions:
@@ -80,6 +81,9 @@ The modern revival of the Shikoku Pilgrimage, with its growing international par
 - [Kumano Kodō](/routes/kumano-kodo) — The pilgrimage trails through the Kii Peninsula connected to Kūkai's tradition
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 
+
+
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
 ## More on Buddhist Pilgrimage
 
 - [Bodh Gaya](/places/bodh-gaya) — Place

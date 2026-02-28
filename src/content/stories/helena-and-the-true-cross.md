@@ -1,6 +1,7 @@
 ---
 title: "Helena and the True Cross"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "jerusalem"
 description: "How the mother of Emperor Constantine traveled to the Holy Land in the fourth century and shaped the geography of Christian pilgrimage for all time."
 storyType: "historical-figure"
 faithTraditions:
@@ -79,6 +80,9 @@ The scholarly debate surrounding Helena's discoveries continues to evolve. Archa
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The relic culture Helena's discovery inaugurated
 - [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Christian Pilgrimage
 
 - [Lourdes](/places/lourdes) — Place

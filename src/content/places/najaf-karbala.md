@@ -10,6 +10,7 @@ faithTraditions:
   - Islam
 placeType: "pilgrimage-destination"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "mecca-and-medina"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-26
@@ -90,6 +91,9 @@ The climate is hot and arid, with summer temperatures regularly exceeding 45°C.
 - [Medina](/places/medina)
 - [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
 
+
+
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

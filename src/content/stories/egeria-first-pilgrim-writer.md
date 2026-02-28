@@ -1,6 +1,7 @@
 ---
 title: "Egeria: The First Pilgrim Writer"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "jerusalem"
 description: "A fourth-century woman whose detailed letters from the Holy Land provide the earliest surviving first-person account of Christian pilgrimage."
 storyType: "historical-figure"
 faithTraditions:
@@ -75,6 +76,9 @@ Egeria's text continues to generate scholarly discussion, with debates ongoing a
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture Egeria encountered
 - [Margery Kempe: Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Christian Pilgrimage
 
 - [Lourdes](/places/lourdes) — Place

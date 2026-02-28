@@ -3,6 +3,7 @@ title: "Women Who Shaped the History of Pilgrimage"
 description: "From Egeria to modern-day walkers, how women have navigated barriers and transformed pilgrimage traditions across centuries."
 contextType: "historical-background"
 parentHub: "faith-based-journeys"
+cityHub: "santiago-de-compostela"
 faithTraditions:
   - Christianity
   - Islam
@@ -90,6 +91,9 @@ Egeria's travel account survives in a single manuscript (the Codex Aretinus) and
 - [Lourdes](/places/lourdes)
 - [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
 
+
+
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

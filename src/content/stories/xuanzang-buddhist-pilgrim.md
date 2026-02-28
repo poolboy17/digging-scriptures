@@ -1,6 +1,7 @@
 ---
 title: "Xuanzang: The Buddhist Pilgrim"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "kyoto"
 description: "A seventh-century Chinese monk whose seventeen-year journey to India in search of Buddhist scriptures became one of history's great pilgrimage narratives."
 storyType: "historical-figure"
 faithTraditions:
@@ -78,6 +79,9 @@ Xuanzang's journey also demonstrates the transformative potential of pilgrimage 
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The geography Xuanzang's journey illuminated
 - [Lumbini](/places/lumbini) — The Buddha's birthplace, another site Xuanzang visited and documented
 
+
+
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
 ## More on Buddhist Pilgrimage
 
 - [Mount Koya](/places/mount-koya) — Place

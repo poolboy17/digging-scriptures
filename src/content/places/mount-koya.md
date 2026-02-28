@@ -10,6 +10,7 @@ faithTraditions:
   - Buddhism
 placeType: "monastery"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "kyoto"
 relatedRoutes:
   - "shikoku-88-temples"
   - "kumano-kodo"
@@ -95,6 +96,9 @@ The climate is notably cooler and wetter than the lowlands—temperatures averag
 - [Kumano Kodo](/routes/kumano-kodo) — The neighboring pilgrimage route network in the Kii Mountains
 - [Kobo Daishi and the Shikoku Pilgrimage](/stories/kobo-daishi-shikoku) — The founder of Mount Koya
 
+
+
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
 ## More on Buddhist Pilgrimage
 
 - [Bodh Gaya](/places/bodh-gaya) — Place

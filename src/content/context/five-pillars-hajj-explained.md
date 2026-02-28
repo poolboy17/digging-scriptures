@@ -1,6 +1,7 @@
 ---
 title: "The Five Pillars and the Hajj Explained"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "mecca-and-medina"
 description: "Understanding the Hajj pilgrimage within the theological framework of Islam's Five Pillars and the broader structure of Muslim obligation."
 contextType: "religious-context"
 faithTraditions:
@@ -87,6 +88,9 @@ The Quranic foundations of the Hajj appear primarily in Surah Al-Baqarah (2:196-
 - [Medina](/places/medina)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
 
+
+
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

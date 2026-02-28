@@ -10,6 +10,7 @@ faithTraditions:
   - Judaism
 difficulty: "moderate"
 parentHub: "jewish-pilgrimage-heritage"
+cityHub: "jerusalem"
 placesOnRoute:
   - "jerusalem-old-city"
   - "western-wall"
@@ -96,6 +97,9 @@ The question of Jewish prayer on the Temple Mount itself remains one of the most
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [Dome of the Rock](/places/dome-of-the-rock)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Jewish Pilgrimage
 
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place

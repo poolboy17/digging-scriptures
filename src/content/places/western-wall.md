@@ -10,6 +10,7 @@ faithTraditions:
   - Judaism
 placeType: "historical-site"
 parentHub: "jewish-pilgrimage-heritage"
+cityHub: "jerusalem"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
@@ -94,6 +95,9 @@ The Western Wall is located within the Old City, accessible through the Jaffa Ga
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Jewish Pilgrimage
 
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place

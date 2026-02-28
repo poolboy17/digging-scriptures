@@ -10,6 +10,7 @@ faithTraditions:
   - Christianity
 difficulty: "moderate"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "rome"
 placesOnRoute: []
 hasModernSection: true
 lastUpdated: 2026-02-25
@@ -108,6 +109,9 @@ The St. Olav's Way's integration into the Council of Europe's network of Cultura
 - [Camino de Santiago](/routes/camino-de-santiago) — The route that inspired modern pilgrimage revivals across Europe
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Contemporary pilgrimage route development
 
+
+
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
 ## More on Christian Pilgrimage
 
 - [Jerusalem Old City](/places/jerusalem-old-city) — Place

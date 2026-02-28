@@ -3,6 +3,7 @@ title: "What Is Pilgrimage and Why Do People Do It?"
 description: "How different world religions and cultures define the act of sacred travel, and what unites pilgrimage traditions across history."
 contextType: "cultural-overview"
 parentHub: "faith-based-journeys"
+cityHub: "varanasi"
 faithTraditions:
   - Christianity
   - Islam
@@ -84,6 +85,9 @@ Victor Turner's *Image and Pilgrimage in Christian Culture* (1978) remains found
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects)
 
+
+
+This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi).
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

@@ -12,6 +12,7 @@ faithTraditions:
   - Jainism
 placeType: "pilgrimage-destination"
 parentHub: "faith-based-journeys"
+cityHub: "varanasi"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
@@ -95,6 +96,9 @@ The best visiting season is October through March, when temperatures are moderat
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Comparative pilgrimage traditions
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The intersection of sacred travel and tourism
 
+
+
+This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi).
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

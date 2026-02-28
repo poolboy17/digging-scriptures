@@ -13,6 +13,7 @@ faithTraditions:
   - Christianity
 difficulty: "moderate"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "rome"
 placesOnRoute:
   - "rome-vatican"
 hasModernSection: true
@@ -107,6 +108,9 @@ The route's passage through four countries and multiple linguistic regions adds 
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — Early Christian pilgrimage that shaped the routes
 - [St. Olav's Way](/routes/st-olavs-way)
 
+
+
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
 ## More on Christian Pilgrimage
 
 - [Jerusalem Old City](/places/jerusalem-old-city) — Place

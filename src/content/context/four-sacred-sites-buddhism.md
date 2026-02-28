@@ -1,6 +1,7 @@
 ---
 title: "The Four Sacred Sites of Buddhism"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "kyoto"
 description: "Understanding the four places associated with the Buddha's life that form the foundational geography of Buddhist pilgrimage."
 contextType: "religious-context"
 faithTraditions:
@@ -105,6 +106,9 @@ The Mahaparinibbana Sutta (Digha Nikaya 16) provides the canonical foundation fo
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The monk who documented these sites in the seventh century
 
+
+
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
 ## More on Buddhist Pilgrimage
 
 - [Mount Koya](/places/mount-koya) — Place

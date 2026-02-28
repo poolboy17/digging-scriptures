@@ -13,6 +13,7 @@ faithTraditions:
   - Catholicism
 difficulty: "moderate"
 parentHub: "faith-based-journeys"
+cityHub: "santiago-de-compostela"
 placesOnRoute:
   - "santiago-de-compostela"
 hasModernSection: true
@@ -133,6 +134,9 @@ The diversity of contemporary pilgrims extends to their motivations and framewor
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
 - [The Legend of Saint James](/stories/legend-of-saint-james)
 
+
+
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
 ## More on Faith-Based Journeys
 
 - [Varanasi](/places/varanasi) — Place

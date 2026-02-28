@@ -1,6 +1,7 @@
 ---
 title: "Pilgrimage and Tourism in the Modern Era"
 parentHub: "faith-based-journeys"
+cityHub: "santiago-de-compostela"
 description: "How the boundaries between sacred travel and secular tourism have blurred, and what this means for pilgrimage sites, local communities, and the pilgrims..."
 contextType: "cultural-overview"
 faithTraditions:
@@ -111,6 +112,9 @@ Erik Cohen's foundational work on pilgrim-tourist typologies appears in "Pilgrim
 - [Camino de Santiago](/routes/camino-de-santiago) — The pilgrimage route most associated with modern revival
 - [Abraham Path](/routes/abraham-path) — A contemporary route designed for interfaith cultural exchange
 
+
+
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

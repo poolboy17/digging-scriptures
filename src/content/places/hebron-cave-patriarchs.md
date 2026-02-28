@@ -12,6 +12,7 @@ faithTraditions:
   - Christianity
 placeType: "shrine"
 parentHub: "jewish-pilgrimage-heritage"
+cityHub: "jerusalem"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
@@ -84,6 +85,9 @@ The Old City of Hebron, surrounding the Cave, contains a traditional market (sou
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The veneration of patriarchal remains across traditions
 - [Rachel's Tomb](/places/rachels-tomb)
 
+
+
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
 ## More on Jewish Pilgrimage
 
 - [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place

@@ -11,6 +11,7 @@ faithTraditions:
   - Hinduism
 difficulty: "challenging"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "varanasi"
 placesOnRoute: []
 hasModernSection: true
 lastUpdated: 2026-02-25
@@ -107,6 +108,9 @@ The environmental and cultural impact of increasing visitor numbers has raised c
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The geography of Buddhist pilgrimage
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Managing sacred sites in the contemporary world
 
+
+
+This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi).
 ## More on Buddhist Pilgrimage
 
 - [Bodh Gaya](/places/bodh-gaya) — Place

@@ -1,6 +1,7 @@
 ---
 title: "Relics and Sacred Objects"
 parentHub: "faith-based-journeys"
+cityHub: "rome"
 description: "The role of physical objects — bones, clothing, artifacts, and natural features — in the practice and motivation of pilgrimage across religious traditions."
 contextType: "cultural-overview"
 faithTraditions:
@@ -100,6 +101,9 @@ Peter Brown's The Cult of the Saints (1981) remains the foundational scholarly t
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition most shaped by relic veneration
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Sites connected to the original distribution of the Buddha's relics
 
+
+
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

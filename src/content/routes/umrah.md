@@ -10,6 +10,7 @@ faithTraditions:
   - Islam
 difficulty: "easy"
 parentHub: "islamic-pilgrimage-traditions"
+cityHub: "mecca-and-medina"
 placesOnRoute:
   - "mecca"
 hasModernSection: true
@@ -99,6 +100,9 @@ Ramadan is the peak season for Umrah. The Prophet Muhammad stated that performin
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Medina](/places/medina)
 
+
+
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

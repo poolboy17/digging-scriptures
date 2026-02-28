@@ -10,6 +10,7 @@ faithTraditions:
   - Buddhism
 difficulty: "challenging"
 parentHub: "buddhist-pilgrimage-paths"
+cityHub: "kyoto"
 placesOnRoute:
   - "mount-koya"
 hasModernSection: true
@@ -109,6 +110,9 @@ Unlike the Camino de Santiago, the Shikoku Pilgrimage has no central administrat
 - [Kumano Kodō](/routes/kumano-kodo) — Another Japanese pilgrimage route with ancient origins
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder's story and the pilgrimage he inspired
 
+
+
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
 ## More on Buddhist Pilgrimage
 
 - [Bodh Gaya](/places/bodh-gaya) — Place

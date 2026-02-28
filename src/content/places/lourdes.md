@@ -10,6 +10,7 @@ faithTraditions:
   - Christianity
 placeType: "shrine"
 parentHub: "christian-pilgrimage-traditions"
+cityHub: "rome"
 relatedRoutes: []
 hasExperienceSection: true
 lastUpdated: 2026-02-25
@@ -96,6 +97,9 @@ Accommodation ranges from hotels along the commercial boulevards to religious gu
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture of pilgrimage devotion
 - [Women Who Shaped Pilgrimage](/context/women-and-pilgrimage)
 
+
+
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
 ## More on Christian Pilgrimage
 
 - [Jerusalem Old City](/places/jerusalem-old-city) — Place
