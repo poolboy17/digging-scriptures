@@ -1,0 +1,85 @@
+{
+  "slug": "santiago-de-compostela",
+  "title": "Santiago de Compostela: End of the Camino",
+  "target_words": 2000,
+  "sections": [
+    {
+      "heading": "Intro",
+      "current_words": 193,
+      "target_words": 250,
+      "internal_links": [
+        "/places/santiago-de-compostela",
+        "/routes/camino-de-santiago",
+        "/context/psychology-of-pilgrimage",
+        "/journeys/christian-pilgrimage-traditions"
+      ]
+    },
+    {
+      "heading": "The Legend of Saint James",
+      "current_words": 224,
+      "target_words": 250,
+      "internal_links": [
+        "/stories/legend-of-saint-james"
+      ]
+    },
+    {
+      "heading": "The Camino Routes",
+      "current_words": 287,
+      "target_words": 287,
+      "internal_links": [
+        "/routes/camino-de-santiago",
+        "/routes/abraham-path",
+        "/cities/rome",
+        "/cities/kyoto"
+      ]
+    },
+    {
+      "heading": "Medieval Pilgrims on the Camino",
+      "current_words": 322,
+      "target_words": 322,
+      "internal_links": [
+        "/stories/margery-kempe-medieval-pilgrim",
+        "/context/women-and-pilgrimage"
+      ]
+    },
+    {
+      "heading": "The Modern Camino Revival",
+      "current_words": 307,
+      "target_words": 307,
+      "internal_links": [
+        "/context/pilgrimage-tourism-modern-era",
+        "/context/psychology-of-pilgrimage"
+      ]
+    },
+    {
+      "heading": "Arriving in Santiago",
+      "current_words": 281,
+      "target_words": 281,
+      "internal_links": [
+        "/cities/mecca-and-medina"
+      ]
+    },
+    {
+      "heading": "Experiences and Tours",
+      "current_words": 261,
+      "target_words": 261,
+      "internal_links": []
+    }
+  ],
+  "spoke_inventory": [
+    "places/santiago-de-compostela",
+    "routes/camino-de-santiago",
+    "routes/abraham-path",
+    "stories/legend-of-saint-james",
+    "stories/margery-kempe-medieval-pilgrim",
+    "context/pilgrimage-tourism-modern-era",
+    "context/psychology-of-pilgrimage",
+    "context/women-and-pilgrimage"
+  ],
+  "viator_dest_id": 565,
+  "spoke_coverage": {
+    "total": 8,
+    "linked": 8,
+    "unlinked": []
+  }
+}

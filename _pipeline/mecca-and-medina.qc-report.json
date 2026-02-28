@@ -1,104 +1,116 @@
 {
   "slug": "mecca-and-medina",
-  "passes": 20,
-  "fails": 14,
-  "total_words": 1080,
+  "passes": 36,
+  "fails": 0,
+  "total_words": 1999,
   "results": [
     {
       "category": "CONTENT",
       "name": "Total words \u2265 2000",
-      "passed": false,
-      "detail": "1080 words"
+      "passed": true,
+      "detail": "1999 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Intro' \u2264 500w",
       "passed": true,
-      "detail": "140 words"
+      "detail": "185 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Mecca: The Center of the Islam' \u2265 200w",
-      "passed": false,
-      "detail": "194 words"
+      "passed": true,
+      "detail": "283 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Mecca: The Center of the Islam' \u2264 500w",
       "passed": true,
-      "detail": "194 words"
+      "detail": "283 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Umrah: The Lesser Pilgrima' \u2265 200w",
-      "passed": false,
-      "detail": "119 words"
+      "passed": true,
+      "detail": "222 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Umrah: The Lesser Pilgrima' \u2264 500w",
       "passed": true,
-      "detail": "119 words"
+      "detail": "222 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Medina: The City of the Prophe' \u2265 200w",
-      "passed": false,
-      "detail": "184 words"
+      "passed": true,
+      "detail": "259 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Medina: The City of the Prophe' \u2264 500w",
       "passed": true,
-      "detail": "184 words"
+      "detail": "259 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Broader Geography of Islam' \u2265 200w",
-      "passed": false,
-      "detail": "134 words"
+      "passed": true,
+      "detail": "274 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Broader Geography of Islam' \u2264 500w",
       "passed": true,
-      "detail": "134 words"
+      "detail": "274 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Five Pillars and the Hajj'' \u2265 200w",
-      "passed": false,
-      "detail": "146 words"
+      "passed": true,
+      "detail": "267 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Five Pillars and the Hajj'' \u2264 500w",
       "passed": true,
-      "detail": "146 words"
+      "detail": "267 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Planning a Pilgrimage to Mecca' \u2265 200w",
-      "passed": false,
-      "detail": "123 words"
+      "passed": true,
+      "detail": "252 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Planning a Pilgrimage to Mecca' \u2264 500w",
       "passed": true,
-      "detail": "123 words"
+      "detail": "252 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2265 200w",
+      "passed": true,
+      "detail": "214 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2264 500w",
+      "passed": true,
+      "detail": "214 words"
     },
     {
       "category": "CONTENT",
       "name": "Readability (Flesch 40-65)",
-      "passed": false,
-      "detail": "Flesch score: 31.7"
+      "passed": true,
+      "detail": "Flesch score: 44.9"
     },
     {
       "category": "CONTENT",
       "name": "No sentences > 45 words",
-      "passed": false,
-      "detail": "2 long sentences"
+      "passed": true,
+      "detail": "0 long sentences"
     },
     {
       "category": "CONTENT",
@@ -121,14 +133,14 @@
     {
       "category": "LINKS",
       "name": "Links to tradition hub (cross-silo)",
-      "passed": false,
-      "detail": "0 hub links"
+      "passed": true,
+      "detail": "1 hub links"
     },
     {
       "category": "LINKS",
       "name": "Links to \u2265 2 sibling cities",
-      "passed": false,
-      "detail": "0 sibling links"
+      "passed": true,
+      "detail": "3 sibling links"
     },
     {
       "category": "SEO",
@@ -140,7 +152,7 @@
       "category": "SEO",
       "name": "Description \u2264 160 chars",
       "passed": true,
-      "detail": "145 chars"
+      "detail": "130 chars"
     },
     {
       "category": "SEO",
@@ -152,36 +164,36 @@
       "category": "SEO",
       "name": "Image alt \u2265 5 words",
       "passed": true,
-      "detail": "'The Grand Mosque in Mecca with the Kaaba at its ce' (14 words)"
+      "detail": "'The Grand Mosque in Mecca with the Kaaba at its ce' (13 words)"
     },
     {
       "category": "SEO",
       "name": "Keyword density < 3%",
       "passed": true,
-      "detail": "1.7%"
+      "detail": "1.8%"
     },
     {
       "category": "VIATOR",
       "name": "Experiences section present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "category": "VIATOR",
       "name": "\u2265 3 affiliate product links",
-      "passed": false,
-      "detail": "0 Viator links"
+      "passed": true,
+      "detail": "4 Viator links"
     },
     {
       "category": "VIATOR",
       "name": "Tracking PIDs present",
       "passed": true,
-      "detail": "0/0 have PID"
+      "detail": "4/4 have PID"
     },
     {
       "category": "VIATOR",
       "name": "Browse-all link present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
@@ -206,7 +218,7 @@
       "category": "STRUCTURE",
       "name": "\u2265 5 H2 sections",
       "passed": true,
-      "detail": "6 sections"
+      "detail": "7 sections"
     }
   ]
 }
