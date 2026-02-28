@@ -262,6 +262,9 @@ const cities = defineCollection({
         // Spoke articles
         spokes: z.array(z.string()).optional(),
         
+        // Viator affiliate integration
+        viatorDestId: z.number().optional(),
+        
         // Image
         image: z.string().optional(),
         imageAlt: z.string().optional(),

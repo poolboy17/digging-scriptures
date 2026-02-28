@@ -1,7 +1,7 @@
 ---
 title: "The Four Sacred Sites of Buddhism"
+cityHub: "varanasi"
 parentHub: "buddhist-pilgrimage-paths"
-cityHub: "kyoto"
 description: "Understanding the four places associated with the Buddha's life that form the foundational geography of Buddhist pilgrimage."
 contextType: "religious-context"
 faithTraditions:
@@ -117,4 +117,4 @@ This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancien
 - [Kumano Kodō](/routes/kumano-kodo) — Route
 - [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
-
+Explore our complete [Holy India guide](/cities/varanasi) for more sacred sites and experiences in this region.

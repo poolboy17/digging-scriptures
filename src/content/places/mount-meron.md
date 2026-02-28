@@ -9,6 +9,7 @@ coordinates:
 faithTraditions:
   - Judaism
 placeType: "shrine"
+cityHub: "jerusalem"
 parentHub: "jewish-pilgrimage-heritage"
 relatedRoutes: []
 hasExperienceSection: true
@@ -101,4 +102,4 @@ Safed itself warrants a visit. The hilltop city, with its blue-painted artists' 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
 - [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
 - [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
-
+Explore our complete [Jerusalem pilgrimage guide](/cities/jerusalem) for more sacred sites and experiences in this region.

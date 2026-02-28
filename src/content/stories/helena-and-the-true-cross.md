@@ -1,7 +1,7 @@
 ---
 title: "Helena and the True Cross"
+cityHub: "rome"
 parentHub: "christian-pilgrimage-traditions"
-cityHub: "jerusalem"
 description: "How the mother of Emperor Constantine traveled to the Holy Land in the fourth century and shaped the geography of Christian pilgrimage for all time."
 storyType: "historical-figure"
 faithTraditions:
@@ -91,4 +91,4 @@ This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths
 - [The Legend of Saint James](/stories/legend-of-saint-james) — Story
 - [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
-
+Explore our complete [Rome pilgrimage guide](/cities/rome) for more sacred sites and experiences in this region.

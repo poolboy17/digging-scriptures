@@ -1,5 +1,6 @@
 ---
 title: "How the Jewish Diaspora Kept Pilgrimage to Zion Alive"
+cityHub: "jerusalem"
 parentHub: "jewish-pilgrimage-heritage"
 description: "How dispersed Jewish communities sustained the longing for Jerusalem through text, prayer, and dangerous journeys across two millennia."
 contextType: "historical-background"
@@ -107,4 +108,4 @@ Benjamin of Tudela's Sefer ha-Massa'ot (c. 1173) is the foundational medieval Je
 - [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
 - [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
-
+Explore our complete [Jerusalem pilgrimage guide](/cities/jerusalem) for more sacred sites and experiences in this region.

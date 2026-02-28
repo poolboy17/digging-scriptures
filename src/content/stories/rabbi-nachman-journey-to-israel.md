@@ -1,5 +1,6 @@
 ---
 title: "Rabbi Nachman's Journey to Israel"
+cityHub: "jerusalem"
 parentHub: "jewish-pilgrimage-heritage"
 description: "How the founder of Breslov Hasidism undertook a perilous pilgrimage to the Land of Israel in 1798 that shaped his teachings and his movement."
 storyType: "historical-figure"
@@ -87,4 +88,4 @@ The relationship between Nachman's journey and his subsequent creative output ra
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
 - [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
 - [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
-
+Explore our complete [Jerusalem pilgrimage guide](/cities/jerusalem) for more sacred sites and experiences in this region.

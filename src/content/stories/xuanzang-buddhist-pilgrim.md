@@ -1,7 +1,7 @@
 ---
 title: "Xuanzang: The Buddhist Pilgrim"
+cityHub: "varanasi"
 parentHub: "buddhist-pilgrimage-paths"
-cityHub: "kyoto"
 description: "A seventh-century Chinese monk whose seventeen-year journey to India in search of Buddhist scriptures became one of history's great pilgrimage narratives."
 storyType: "historical-figure"
 faithTraditions:
@@ -90,4 +90,4 @@ This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancien
 - [Kumano Kodō](/routes/kumano-kodo) — Route
 - [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
-
+Explore our complete [Holy India guide](/cities/varanasi) for more sacred sites and experiences in this region.

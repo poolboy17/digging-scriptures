@@ -9,6 +9,7 @@ coordinates:
 faithTraditions:
   - Judaism
 placeType: "historical-site"
+cityHub: "jerusalem"
 parentHub: "jewish-pilgrimage-heritage"
 relatedRoutes: []
 hasExperienceSection: true
@@ -100,4 +101,4 @@ The Lag BaOmer celebration at Mount Meron (a short drive from Safed) occurs in l
 - [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
 - [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — Context
-
+Explore our complete [Jerusalem pilgrimage guide](/cities/jerusalem) for more sacred sites and experiences in this region.
