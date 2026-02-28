@@ -109,4 +109,12 @@ The Kumano Kodō demonstrates a model of pilgrimage route management that balanc
 - [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Japan's other great Buddhist pilgrimage circuit
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder of Shingon Buddhism and his pilgrimage legacy
 
+## More on Buddhist Pilgrimage
+
+- [Bodh Gaya](/places/bodh-gaya) — Place
+- [Lumbini](/places/lumbini) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
+- [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context
 

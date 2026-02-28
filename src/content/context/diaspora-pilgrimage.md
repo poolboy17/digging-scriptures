@@ -100,4 +100,11 @@ Benjamin of Tudela's Sefer ha-Massa'ot (c. 1173) is the foundational medieval Je
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A Hasidic master's pilgrimage from the diaspora
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festival cycle that sustained pilgrimage memory
 
+## More on Jewish Pilgrimage
+
+- [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
 

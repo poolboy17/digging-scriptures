@@ -100,4 +100,15 @@ Peter Brown's The Cult of the Saints (1981) remains the foundational scholarly t
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition most shaped by relic veneration
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Sites connected to the original distribution of the Buddha's relics
 
+## More on Faith-Based Journeys
+
+- [Jerusalem](/places/jerusalem) — Place
+- [Santiago de Compostela](/places/santiago-de-compostela) — Place
+- [Varanasi](/places/varanasi) — Place
+- [Abraham Path](/routes/abraham-path) — Route
+- [Camino de Santiago](/routes/camino-de-santiago) — Route
+- [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Context
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage) — Context
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
 

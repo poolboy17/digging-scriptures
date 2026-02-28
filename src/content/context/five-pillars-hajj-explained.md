@@ -87,3 +87,10 @@ The Quranic foundations of the Hajj appear primarily in Surah Al-Baqarah (2:196-
 - [Medina](/places/medina)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
 
+## More on Islamic Pilgrimage
+
+- [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place
+- [Dome of the Rock](/places/dome-of-the-rock) — Place
+- [Najaf and Karbala: Where Millions Walk for Shia Devotion](/places/najaf-karbala) — Place
+- [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
+

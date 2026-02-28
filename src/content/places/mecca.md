@@ -92,3 +92,10 @@ Transportation within the holy sites has been improved by the Haramain High Spee
 - [Najaf and Karbala](/places/najaf-karbala)
 - [Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
+
+## More on Islamic Pilgrimage
+
+- [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place
+- [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — Story
+- [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
+

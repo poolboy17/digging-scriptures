@@ -93,4 +93,12 @@ Transportation from Jerusalem is available by bus (lines serving the Gush Etzion
 - [Western Wall](/places/western-wall) — Judaism's holiest prayer site in Jerusalem
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A pilgrimage story driven by longing for the Holy Land
 
+## More on Jewish Pilgrimage
+
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Safed and the Kabbalistic Tradition](/places/safed-kabbalah) — Place
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
+- [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — Context
 

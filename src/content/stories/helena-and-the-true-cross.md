@@ -79,3 +79,12 @@ The scholarly debate surrounding Helena's discoveries continues to evolve. Archa
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The relic culture Helena's discovery inaugurated
 - [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer)
 
+## More on Christian Pilgrimage
+
+- [Lourdes](/places/lourdes) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Via Francigena](/routes/via-francigena) — Route
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
+

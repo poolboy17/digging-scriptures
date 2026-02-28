@@ -111,4 +111,13 @@ Erik Cohen's foundational work on pilgrim-tourist typologies appears in "Pilgrim
 - [Camino de Santiago](/routes/camino-de-santiago) — The pilgrimage route most associated with modern revival
 - [Abraham Path](/routes/abraham-path) — A contemporary route designed for interfaith cultural exchange
 
+## More on Faith-Based Journeys
+
+- [Jerusalem](/places/jerusalem) — Place
+- [Santiago de Compostela](/places/santiago-de-compostela) — Place
+- [Varanasi](/places/varanasi) — Place
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage) — Context
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects) — Context
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
 

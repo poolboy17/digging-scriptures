@@ -96,3 +96,15 @@ The Western Wall plaza, directly below the platform's western retaining wall, pr
 - [Western Wall](/places/western-wall) — The Jewish pilgrimage site at the base of the Temple Mount
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
+
+## More on Islamic Pilgrimage
+
+- [Mecca](/places/mecca) — Place
+- [Medina](/places/medina) — Place
+- [Najaf and Karbala: Where Millions Walk for Shia Devotion](/places/najaf-karbala) — Place
+- [The Hajj Route](/routes/hajj-route) — Route
+- [How the Umrah Differs from the Hajj](/routes/umrah) — Route
+- [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — Story
+- [The Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Context
+- [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
+

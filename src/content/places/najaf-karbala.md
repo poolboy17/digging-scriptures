@@ -90,3 +90,11 @@ The climate is hot and arid, with summer temperatures regularly exceeding 45°C.
 - [Medina](/places/medina)
 - [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
 
+## More on Islamic Pilgrimage
+
+- [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place
+- [Dome of the Rock](/places/dome-of-the-rock) — Place
+- [The Hajj Route](/routes/hajj-route) — Route
+- [How the Umrah Differs from the Hajj](/routes/umrah) — Route
+- [The Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Context
+

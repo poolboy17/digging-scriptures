@@ -107,4 +107,14 @@ The environmental and cultural impact of increasing visitor numbers has raised c
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The geography of Buddhist pilgrimage
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Managing sacred sites in the contemporary world
 
+## More on Buddhist Pilgrimage
+
+- [Bodh Gaya](/places/bodh-gaya) — Place
+- [Lumbini](/places/lumbini) — Place
+- [Mount Koya](/places/mount-koya) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kumano Kodō](/routes/kumano-kodo) — Route
+- [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
+- [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
+- [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
 

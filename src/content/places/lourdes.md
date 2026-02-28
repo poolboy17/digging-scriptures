@@ -96,3 +96,14 @@ Accommodation ranges from hotels along the commercial boulevards to religious gu
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture of pilgrimage devotion
 - [Women Who Shaped Pilgrimage](/context/women-and-pilgrimage)
 
+## More on Christian Pilgrimage
+
+- [Jerusalem Old City](/places/jerusalem-old-city) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Via Francigena](/routes/via-francigena) — Route
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [Helena and the True Cross](/stories/helena-and-the-true-cross) — Story
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
+

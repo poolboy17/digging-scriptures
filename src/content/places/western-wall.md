@@ -93,3 +93,14 @@ The Western Wall is located within the Old City, accessible through the Jaffa Ga
 - [Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festivals that drove Temple-era pilgrimage
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
+
+## More on Jewish Pilgrimage
+
+- [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [Safed and the Kabbalistic Tradition](/places/safed-kabbalah) — Place
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — Story
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
+

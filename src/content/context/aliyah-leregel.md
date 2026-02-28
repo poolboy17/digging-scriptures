@@ -89,3 +89,11 @@ The biblical foundations appear in Exodus 23:14-17, Exodus 34:22-24, and Deutero
 - [Jerusalem Old City](/places/jerusalem-old-city) — The city that received the pilgrims
 - [How the Diaspora Kept Pilgrimage Alive](/context/diaspora-pilgrimage)
 
+## More on Jewish Pilgrimage
+
+- [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [Safed and the Kabbalistic Tradition](/places/safed-kabbalah) — Place
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — Story
+

@@ -84,3 +84,13 @@ Victor Turner's *Image and Pilgrimage in Christian Culture* (1978) remains found
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects)
 
+## More on Faith-Based Journeys
+
+- [Jerusalem](/places/jerusalem) — Place
+- [Santiago de Compostela](/places/santiago-de-compostela) — Place
+- [Varanasi](/places/varanasi) — Place
+- [Abraham Path](/routes/abraham-path) — Route
+- [Camino de Santiago](/routes/camino-de-santiago) — Route
+- [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Context
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
+

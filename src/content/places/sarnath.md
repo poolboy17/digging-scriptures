@@ -94,4 +94,12 @@ Most visitors base themselves in Varanasi, where accommodation ranges from budge
 - [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Why the Buddha designated these four places for pilgrimage
 - [Varanasi](/places/varanasi) — The neighboring Hindu holy city on the Ganges
 
+## More on Buddhist Pilgrimage
+
+- [Mount Koya](/places/mount-koya) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Kumano Kodō](/routes/kumano-kodo) — Route
+- [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
+- [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
+- [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
 

@@ -91,3 +91,10 @@ Visitors typically spend two to four days in Medina. Beyond the Prophet's Mosque
 - [Ziyarat: Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam)
 - [Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [How the Umrah Differs from the Hajj](/routes/umrah)
+
+## More on Islamic Pilgrimage
+
+- [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place
+- [Dome of the Rock](/places/dome-of-the-rock) — Place
+- [Najaf and Karbala: Where Millions Walk for Shia Devotion](/places/najaf-karbala) — Place
+

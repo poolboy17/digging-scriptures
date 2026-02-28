@@ -95,3 +95,14 @@ The best visiting season is October through March, when temperatures are moderat
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Comparative pilgrimage traditions
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The intersection of sacred travel and tourism
 
+## More on Faith-Based Journeys
+
+- [Jerusalem](/places/jerusalem) — Place
+- [Santiago de Compostela](/places/santiago-de-compostela) — Place
+- [Abraham Path](/routes/abraham-path) — Route
+- [Camino de Santiago](/routes/camino-de-santiago) — Route
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage) — Context
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects) — Context
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
+

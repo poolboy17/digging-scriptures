@@ -94,4 +94,13 @@ The pilgrimage commandment appears in three Torah passages: Exodus 23:14-17, Exo
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later expression of Jewish pilgrimage longing
 
+## More on Jewish Pilgrimage
+
+- [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [Safed and the Kabbalistic Tradition](/places/safed-kabbalah) — Place
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
 

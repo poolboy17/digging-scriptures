@@ -84,3 +84,11 @@ The hadith encouraging grave visitation appears in the collections of Muslim and
 - [The Five Pillars and Hajj Explained](/context/five-pillars-hajj-explained)
 - [Ibn Battuta: Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler)
 
+## More on Islamic Pilgrimage
+
+- [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place
+- [Dome of the Rock](/places/dome-of-the-rock) — Place
+- [Mecca](/places/mecca) — Place
+- [The Hajj Route](/routes/hajj-route) — Route
+- [How the Umrah Differs from the Hajj](/routes/umrah) — Route
+

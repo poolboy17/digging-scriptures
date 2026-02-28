@@ -80,4 +80,12 @@ Modern scholarship continues to mine the Rihla for insights into fourteenth-cent
 - [Islamic Pilgrimage Traditions](/journeys/islamic-pilgrimage-traditions) — The tradition within which Ibn Battuta traveled
 - [Medina](/places/medina) — The Prophet's city, visited by Ibn Battuta multiple times
 
+## More on Islamic Pilgrimage
+
+- [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place
+- [Dome of the Rock](/places/dome-of-the-rock) — Place
+- [Najaf and Karbala: Where Millions Walk for Shia Devotion](/places/najaf-karbala) — Place
+- [How the Umrah Differs from the Hajj](/routes/umrah) — Route
+- [The Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Context
+- [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
 

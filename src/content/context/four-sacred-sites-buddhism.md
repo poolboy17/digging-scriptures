@@ -105,4 +105,12 @@ The Mahaparinibbana Sutta (Digha Nikaya 16) provides the canonical foundation fo
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 - [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The monk who documented these sites in the seventh century
 
+## More on Buddhist Pilgrimage
+
+- [Mount Koya](/places/mount-koya) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Kumano Kodō](/routes/kumano-kodo) — Route
+- [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
+- [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
 

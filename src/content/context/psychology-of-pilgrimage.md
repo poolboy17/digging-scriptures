@@ -90,3 +90,11 @@ Victor Turner and Edith Turner, *Image and Pilgrimage in Christian Culture* (197
 - [The Camino de Santiago](/routes/camino-de-santiago)
 - [Pilgrimage Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era)
 
+## More on Faith-Based Journeys
+
+- [Jerusalem](/places/jerusalem) — Place
+- [Santiago de Compostela](/places/santiago-de-compostela) — Place
+- [Varanasi](/places/varanasi) — Place
+- [Abraham Path](/routes/abraham-path) — Route
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects) — Context
+

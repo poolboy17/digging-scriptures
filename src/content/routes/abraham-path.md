@@ -109,4 +109,14 @@ The Abraham Path demonstrates that pilgrimage routes need not be ancient to be m
 - [Faith-Based Journeys](/journeys/faith-based-journeys) — Multi-faith pilgrimage traditions worldwide
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The evolving intersection of sacred and secular travel
 
+## More on Faith-Based Journeys
+
+- [Jerusalem](/places/jerusalem) — Place
+- [Santiago de Compostela](/places/santiago-de-compostela) — Place
+- [Varanasi](/places/varanasi) — Place
+- [Camino de Santiago](/routes/camino-de-santiago) — Route
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage) — Context
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects) — Context
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
 

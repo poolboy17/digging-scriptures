@@ -108,4 +108,14 @@ The St. Olav's Way's integration into the Council of Europe's network of Cultura
 - [Camino de Santiago](/routes/camino-de-santiago) — The route that inspired modern pilgrimage revivals across Europe
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Contemporary pilgrimage route development
 
+## More on Christian Pilgrimage
+
+- [Jerusalem Old City](/places/jerusalem-old-city) — Place
+- [Lourdes](/places/lourdes) — Place
+- [Rome and the Vatican](/places/rome-vatican) — Place
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [Helena and the True Cross](/stories/helena-and-the-true-cross) — Story
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
 

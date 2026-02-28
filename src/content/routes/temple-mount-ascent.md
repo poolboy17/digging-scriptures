@@ -96,3 +96,12 @@ The question of Jewish prayer on the Temple Mount itself remains one of the most
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [Dome of the Rock](/places/dome-of-the-rock)
 
+## More on Jewish Pilgrimage
+
+- [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [Safed and the Kabbalistic Tradition](/places/safed-kabbalah) — Place
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — Story
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
+

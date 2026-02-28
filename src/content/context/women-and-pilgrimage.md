@@ -90,3 +90,14 @@ Egeria's travel account survives in a single manuscript (the Codex Aretinus) and
 - [Lourdes](/places/lourdes)
 - [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
 
+## More on Faith-Based Journeys
+
+- [Jerusalem](/places/jerusalem) — Place
+- [Santiago de Compostela](/places/santiago-de-compostela) — Place
+- [Varanasi](/places/varanasi) — Place
+- [Abraham Path](/routes/abraham-path) — Route
+- [Camino de Santiago](/routes/camino-de-santiago) — Route
+- [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Context
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects) — Context
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
+

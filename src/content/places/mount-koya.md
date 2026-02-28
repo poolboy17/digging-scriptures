@@ -95,3 +95,12 @@ The climate is notably cooler and wetter than the lowlands—temperatures averag
 - [Kumano Kodo](/routes/kumano-kodo) — The neighboring pilgrimage route network in the Kii Mountains
 - [Kobo Daishi and the Shikoku Pilgrimage](/stories/kobo-daishi-shikoku) — The founder of Mount Koya
 
+## More on Buddhist Pilgrimage
+
+- [Bodh Gaya](/places/bodh-gaya) — Place
+- [Lumbini](/places/lumbini) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
+- [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context
+

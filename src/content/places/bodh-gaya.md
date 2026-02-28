@@ -92,3 +92,12 @@ Accommodation ranges from dharamsalas (pilgrim guesthouses) maintained by variou
 - [Xuanzang, Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The Chinese monk who visited Bodh Gaya in the seventh century
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context on the places the Buddha designated for pilgrimage
 - [Sarnath](/places/sarnath)
+
+## More on Buddhist Pilgrimage
+
+- [Mount Koya](/places/mount-koya) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Kumano Kodō](/routes/kumano-kodo) — Route
+- [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
+- [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
+

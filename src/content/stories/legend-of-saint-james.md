@@ -91,3 +91,15 @@ The story of Saint James thus serves as a case study in how sacred narratives fu
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The broader context of Christian pilgrimage
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage across traditions
 
+## More on Christian Pilgrimage
+
+- [Jerusalem Old City](/places/jerusalem-old-city) — Place
+- [Lourdes](/places/lourdes) — Place
+- [Rome and the Vatican](/places/rome-vatican) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Via Francigena](/routes/via-francigena) — Route
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [Helena and the True Cross](/stories/helena-and-the-true-cross) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
+

@@ -90,3 +90,14 @@ Friday prayers at Al-Aqsa draw the largest regular congregations, with tens of t
 - [How Pilgrims Ascended the Temple Mount](/routes/temple-mount-ascent)
 - [Western Wall](/places/western-wall)
 
+## More on Islamic Pilgrimage
+
+- [Mecca](/places/mecca) — Place
+- [Medina](/places/medina) — Place
+- [Najaf and Karbala: Where Millions Walk for Shia Devotion](/places/najaf-karbala) — Place
+- [The Hajj Route](/routes/hajj-route) — Route
+- [How the Umrah Differs from the Hajj](/routes/umrah) — Route
+- [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — Story
+- [The Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Context
+- [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
+

@@ -79,4 +79,12 @@ The relationship between Nachman's journey and his subsequent creative output ra
 - [Jewish Pilgrimage Heritage](/journeys/jewish-pilgrimage-heritage) — The broader tradition of Jewish sacred travel
 - [Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The liturgical framework connecting Jews to the Land of Israel
 
+## More on Jewish Pilgrimage
+
+- [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
 

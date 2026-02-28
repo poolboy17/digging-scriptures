@@ -116,3 +116,14 @@ Accommodations in Jerusalem range from historic hospices and guesthouses maintai
 - [Dome of the Rock](/places/dome-of-the-rock)
 - [Jerusalem Old City](/places/jerusalem-old-city)
 
+## More on Faith-Based Journeys
+
+- [Varanasi](/places/varanasi) — Place
+- [Abraham Path](/routes/abraham-path) — Route
+- [Camino de Santiago](/routes/camino-de-santiago) — Route
+- [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Context
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage) — Context
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects) — Context
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
+

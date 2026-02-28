@@ -110,3 +110,15 @@ Accommodations in Jerusalem range widely, from modest pilgrim hospices maintaine
 - [Al-Aqsa Mosque](/places/al-aqsa-mosque)
 - [Dome of the Rock](/places/dome-of-the-rock)
 
+## More on Christian Pilgrimage
+
+- [Lourdes](/places/lourdes) — Place
+- [Rome and the Vatican](/places/rome-vatican) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Via Francigena](/routes/via-francigena) — Route
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [Helena and the True Cross](/stories/helena-and-the-true-cross) — Story
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
+

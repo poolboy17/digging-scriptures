@@ -80,4 +80,12 @@ The modern revival of the Shikoku Pilgrimage, with its growing international par
 - [Kumano Kodō](/routes/kumano-kodo) — The pilgrimage trails through the Kii Peninsula connected to Kūkai's tradition
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 
+## More on Buddhist Pilgrimage
+
+- [Bodh Gaya](/places/bodh-gaya) — Place
+- [Lumbini](/places/lumbini) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
+- [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context
 

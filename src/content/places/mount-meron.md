@@ -93,4 +93,12 @@ Safed itself warrants a visit. The hilltop city, with its blue-painted artists' 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A Hasidic master's transformative pilgrimage
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The biblical pilgrimage cycle
 
+## More on Jewish Pilgrimage
+
+- [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Place
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [Western Wall](/places/western-wall) — Place
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
 

@@ -109,4 +109,12 @@ Unlike the Camino de Santiago, the Shikoku Pilgrimage has no central administrat
 - [Kumano Kodō](/routes/kumano-kodo) — Another Japanese pilgrimage route with ancient origins
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder's story and the pilgrimage he inspired
 
+## More on Buddhist Pilgrimage
+
+- [Bodh Gaya](/places/bodh-gaya) — Place
+- [Lumbini](/places/lumbini) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
+- [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context
 

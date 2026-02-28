@@ -100,3 +100,11 @@ Many pilgrims combine the Hajj with a visit to Medina, approximately 450 kilomet
 - [Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Understanding the Hajj within Islamic theology
 - [How the Umrah Differs from the Hajj](/routes/umrah)
 
+## More on Islamic Pilgrimage
+
+- [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place
+- [Dome of the Rock](/places/dome-of-the-rock) — Place
+- [Najaf and Karbala: Where Millions Walk for Shia Devotion](/places/najaf-karbala) — Place
+- [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — Story
+- [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
+

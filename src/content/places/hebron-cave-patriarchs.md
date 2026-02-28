@@ -83,3 +83,14 @@ The Old City of Hebron, surrounding the Cave, contains a traditional market (sou
 - [Jerusalem Old City](/places/jerusalem-old-city) — The multi-faith sacred city nearby
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The veneration of patriarchal remains across traditions
 - [Rachel's Tomb](/places/rachels-tomb)
+
+## More on Jewish Pilgrimage
+
+- [The Lag BaOmer Pilgrimage to Mount Meron](/places/mount-meron) — Place
+- [Safed and the Kabbalistic Tradition](/places/safed-kabbalah) — Place
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — Story
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
+- [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — Context
+

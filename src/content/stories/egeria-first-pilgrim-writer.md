@@ -75,3 +75,12 @@ Egeria's text continues to generate scholarly discussion, with debates ongoing a
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture Egeria encountered
 - [Margery Kempe: Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim)
 
+## More on Christian Pilgrimage
+
+- [Lourdes](/places/lourdes) — Place
+- [Rome and the Vatican](/places/rome-vatican) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Via Francigena](/routes/via-francigena) — Route
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
+

@@ -78,4 +78,12 @@ Xuanzang's journey also demonstrates the transformative potential of pilgrimage 
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The geography Xuanzang's journey illuminated
 - [Lumbini](/places/lumbini) — The Buddha's birthplace, another site Xuanzang visited and documented
 
+## More on Buddhist Pilgrimage
+
+- [Mount Koya](/places/mount-koya) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Kumano Kodō](/routes/kumano-kodo) — Route
+- [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
+- [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
 

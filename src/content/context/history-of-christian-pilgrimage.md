@@ -119,3 +119,14 @@ The study of pilgrimage has itself become a significant academic field. Scholars
 - [Jerusalem Old City](/places/jerusalem-old-city) — The original Christian pilgrimage destination
 - [Camino de Santiago](/routes/camino-de-santiago) — The most traveled medieval pilgrimage route
 
+## More on Christian Pilgrimage
+
+- [Lourdes](/places/lourdes) — Place
+- [Rome and the Vatican](/places/rome-vatican) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Via Francigena](/routes/via-francigena) — Route
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [Helena and the True Cross](/stories/helena-and-the-true-cross) — Story
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+

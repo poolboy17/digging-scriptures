@@ -88,3 +88,12 @@ Accommodation options include guest houses in Lumbini village, lodgings offered 
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — The places designated by the Buddha for pilgrimage
 - [Xuanzang, Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The Chinese monk who recorded his visit to Lumbini
 
+## More on Buddhist Pilgrimage
+
+- [Mount Koya](/places/mount-koya) — Place
+- [Sarnath and the Buddha's First Sermon at the Deer Park](/places/sarnath) — Place
+- [Kora Around Mount Kailash](/routes/kora-mount-kailash) — Route
+- [Kumano Kodō](/routes/kumano-kodo) — Route
+- [Shikoku 88 Temple Pilgrimage](/routes/shikoku-88-temples) — Route
+- [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
+

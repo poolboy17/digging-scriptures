@@ -92,3 +92,12 @@ The Lag BaOmer celebration at Mount Meron (a short drive from Safed) occurs in l
 - [Hebron and the Cave of the Patriarchs](/places/hebron-cave-patriarchs) — Another major Jewish pilgrimage destination
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later mystical figure influenced by Safed's legacy
 - [Mount Meron](/places/mount-meron)
+
+## More on Jewish Pilgrimage
+
+- [Rachel's Tomb and Why Pilgrims Still Pray There](/places/rachels-tomb) — Place
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent) — Route
+- [The Three Festivals That Brought All of Israel to Jerusalem](/context/aliyah-leregel) — Context
+- [How the Jewish Diaspora Kept Pilgrimage to Zion Alive](/context/diaspora-pilgrimage) — Context
+- [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — Context
+

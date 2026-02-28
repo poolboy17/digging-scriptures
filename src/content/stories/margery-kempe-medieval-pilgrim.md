@@ -81,4 +81,13 @@ Margery Kempe remains a figure who resists comfortable categorization. She was a
 - [Camino de Santiago](/routes/camino-de-santiago) — One of Margery's pilgrimage routes
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition within which Margery traveled
 
+## More on Christian Pilgrimage
+
+- [Lourdes](/places/lourdes) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Via Francigena](/routes/via-francigena) — Route
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [Helena and the True Cross](/stories/helena-and-the-true-cross) — Story
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
 

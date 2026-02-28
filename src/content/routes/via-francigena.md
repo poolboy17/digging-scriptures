@@ -107,3 +107,12 @@ The route's passage through four countries and multiple linguistic regions adds 
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — Early Christian pilgrimage that shaped the routes
 - [St. Olav's Way](/routes/st-olavs-way)
 
+## More on Christian Pilgrimage
+
+- [Jerusalem Old City](/places/jerusalem-old-city) — Place
+- [Lourdes](/places/lourdes) — Place
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
+

@@ -102,4 +102,12 @@ Accommodation options range from religious guesthouses and convents that welcome
 - [Jerusalem Old City](/places/jerusalem-old-city) — Christianity's other supreme pilgrimage destination
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The empress whose journey shaped Christian pilgrimage geography
 
+## More on Christian Pilgrimage
+
+- [Lourdes](/places/lourdes) — Place
+- [St. Olav's Way](/routes/st-olavs-way) — Route
+- [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer) — Story
+- [The Legend of Saint James](/stories/legend-of-saint-james) — Story
+- [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
 

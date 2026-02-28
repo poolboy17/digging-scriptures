@@ -119,4 +119,13 @@ Some travelers engage organized pilgrimage programs that combine walking portion
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage traditions
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
 
+## More on Faith-Based Journeys
+
+- [Varanasi](/places/varanasi) — Place
+- [Abraham Path](/routes/abraham-path) — Route
+- [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Context
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage) — Context
+- [Relics and Sacred Objects](/context/relics-and-sacred-objects) — Context
+- [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
+- [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
 
