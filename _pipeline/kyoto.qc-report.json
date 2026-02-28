@@ -1,98 +1,110 @@
 {
   "slug": "kyoto",
-  "passes": 20,
-  "fails": 14,
-  "total_words": 997,
+  "passes": 36,
+  "fails": 0,
+  "total_words": 2001,
   "results": [
     {
       "category": "CONTENT",
       "name": "Total words \u2265 2000",
-      "passed": false,
-      "detail": "997 words"
+      "passed": true,
+      "detail": "2001 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Intro' \u2264 500w",
       "passed": true,
-      "detail": "127 words"
+      "detail": "217 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Mount K\u014dya: The Mountain Monas' \u2265 200w",
-      "passed": false,
-      "detail": "159 words"
+      "passed": true,
+      "detail": "242 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Mount K\u014dya: The Mountain Monas' \u2264 500w",
       "passed": true,
-      "detail": "159 words"
+      "detail": "242 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Kumano Kod\u014d: Where Gods Wa' \u2265 200w",
-      "passed": false,
-      "detail": "183 words"
+      "passed": true,
+      "detail": "271 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Kumano Kod\u014d: Where Gods Wa' \u2264 500w",
       "passed": true,
-      "detail": "183 words"
+      "detail": "271 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Shikoku 88 Temples: Walkin' \u2265 200w",
-      "passed": false,
-      "detail": "172 words"
+      "passed": true,
+      "detail": "270 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Shikoku 88 Temples: Walkin' \u2264 500w",
       "passed": true,
-      "detail": "172 words"
+      "detail": "270 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Psychology of Japanese Pil' \u2265 200w",
-      "passed": false,
-      "detail": "123 words"
+      "passed": true,
+      "detail": "256 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Psychology of Japanese Pil' \u2264 500w",
       "passed": true,
-      "detail": "123 words"
+      "detail": "256 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Wider Buddhist Pilgrimage ' \u2265 200w",
-      "passed": false,
-      "detail": "103 words"
+      "passed": true,
+      "detail": "249 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Wider Buddhist Pilgrimage ' \u2264 500w",
       "passed": true,
-      "detail": "103 words"
+      "detail": "249 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Experiencing Sacred Japan Toda' \u2265 200w",
-      "passed": false,
-      "detail": "94 words"
+      "passed": true,
+      "detail": "233 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Experiencing Sacred Japan Toda' \u2264 500w",
       "passed": true,
-      "detail": "94 words"
+      "detail": "233 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2265 200w",
+      "passed": true,
+      "detail": "224 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiences and Tours' \u2264 500w",
+      "passed": true,
+      "detail": "224 words"
     },
     {
       "category": "CONTENT",
       "name": "Readability (Flesch 40-65)",
-      "passed": false,
-      "detail": "Flesch score: 29.3"
+      "passed": true,
+      "detail": "Flesch score: 41.5"
     },
     {
       "category": "CONTENT",
@@ -121,14 +133,14 @@
     {
       "category": "LINKS",
       "name": "Links to tradition hub (cross-silo)",
-      "passed": false,
-      "detail": "0 hub links"
+      "passed": true,
+      "detail": "4 hub links"
     },
     {
       "category": "LINKS",
       "name": "Links to \u2265 2 sibling cities",
-      "passed": false,
-      "detail": "0 sibling links"
+      "passed": true,
+      "detail": "4 sibling links"
     },
     {
       "category": "SEO",
@@ -145,7 +157,7 @@
     {
       "category": "SEO",
       "name": "Primary keyword in first 100 words",
-      "passed": false,
+      "passed": true,
       "detail": "Looking for 'kyoto' variants"
     },
     {
@@ -158,30 +170,30 @@
       "category": "SEO",
       "name": "Keyword density < 3%",
       "passed": true,
-      "detail": "0.0%"
+      "detail": "0.7%"
     },
     {
       "category": "VIATOR",
       "name": "Experiences section present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "category": "VIATOR",
       "name": "\u2265 3 affiliate product links",
-      "passed": false,
-      "detail": "0 Viator links"
+      "passed": true,
+      "detail": "5 Viator links"
     },
     {
       "category": "VIATOR",
       "name": "Tracking PIDs present",
       "passed": true,
-      "detail": "0/0 have PID"
+      "detail": "5/5 have PID"
     },
     {
       "category": "VIATOR",
       "name": "Browse-all link present",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
@@ -206,7 +218,7 @@
       "category": "STRUCTURE",
       "name": "\u2265 5 H2 sections",
       "passed": true,
-      "detail": "6 sections"
+      "detail": "7 sections"
     }
   ]
 }

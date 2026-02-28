@@ -1,0 +1,76 @@
+{
+  "slug": "kyoto",
+  "title": "Sacred Japan: Kyoto, K\u014dya, and the Ancient Pilgrimages",
+  "target_words": 2000,
+  "sections": [
+    {
+      "heading": "Intro",
+      "current_words": 127,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "Mount K\u014dya: The Mountain Monastery",
+      "current_words": 159,
+      "target_words": 250,
+      "internal_links": [
+        "/places/mount-koya",
+        "/stories/kobo-daishi-shikoku"
+      ]
+    },
+    {
+      "heading": "The Kumano Kod\u014d: Where Gods Walk in the Forest",
+      "current_words": 183,
+      "target_words": 250,
+      "internal_links": [
+        "/routes/kumano-kodo"
+      ]
+    },
+    {
+      "heading": "The Shikoku 88 Temples: Walking with K\u014db\u014d Daishi",
+      "current_words": 172,
+      "target_words": 250,
+      "internal_links": [
+        "/routes/shikoku-88-temples"
+      ]
+    },
+    {
+      "heading": "The Psychology of Japanese Pilgrimage",
+      "current_words": 123,
+      "target_words": 250,
+      "internal_links": [
+        "/context/psychology-of-pilgrimage"
+      ]
+    },
+    {
+      "heading": "The Wider Buddhist Pilgrimage World",
+      "current_words": 103,
+      "target_words": 250,
+      "internal_links": [
+        "/context/four-sacred-sites-buddhism",
+        "/stories/xuanzang-buddhist-pilgrim"
+      ]
+    },
+    {
+      "heading": "Experiencing Sacred Japan Today",
+      "current_words": 94,
+      "target_words": 250,
+      "internal_links": []
+    }
+  ],
+  "spoke_inventory": [
+    "places/mount-koya",
+    "routes/kumano-kodo",
+    "routes/shikoku-88-temples",
+    "stories/kobo-daishi-shikoku",
+    "stories/xuanzang-buddhist-pilgrim",
+    "context/four-sacred-sites-buddhism",
+    "context/psychology-of-pilgrimage"
+  ],
+  "viator_dest_id": 332,
+  "spoke_coverage": {
+    "total": 7,
+    "linked": 7,
+    "unlinked": []
+  }
+}
