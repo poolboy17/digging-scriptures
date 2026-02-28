@@ -37,7 +37,7 @@ The [Western Wall](/places/western-wall)—a retaining wall of the Temple Mount 
 
 Jewish pilgrimage extends well beyond Jerusalem to sites scattered across Israel and the diaspora. The most significant of these are the tombs of biblical and rabbinic figures, which have attracted visitors seeking spiritual merit, healing, and connection to sacred history.
 
-<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=800" alt="Hanukkah" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-1-327123.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Hanukkah" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Hanukkah*
 
@@ -52,7 +52,7 @@ The [tomb of Rachel](/places/rachels-tomb) near Bethlehem, the tomb of Joseph ne
 
 Jewish pilgrimage cannot be separated from the concept of [aliyah](/context/aliyah-leregel), literally "going up," which denotes both the ancient act of ascending to the Temple and the modern act of immigrating to Israel. The linguistic connection between pilgrimage and immigration reflects a theological understanding that the land of Israel itself holds sacred status, not only specific sites within it.
 
-<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=800" alt="Torah" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-2-b2c9ac.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Torah" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Torah*
 
@@ -65,7 +65,7 @@ Contemporary birthright programs that bring young [diaspora](/context/diaspora-p
 
 In the centuries of dispersion, Jewish communities developed pilgrimage practices adapted to their circumstances. Unable to reach Jerusalem easily, diaspora Jews created local sacred geographies centered on the tombs of revered rabbis, the sites of famous academies, or synagogues associated with significant historical events.
 
-<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=800" alt="Western Wall" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-3-c80615.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Western Wall" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Western Wall*
 
@@ -77,7 +77,7 @@ The pilgrimage to [Uman](/stories/rabbi-nachman-journey-to-israel) represents a 
 
 Even when physical pilgrimage was impossible, Jewish liturgy preserved its memory. The Passover Seder concludes with "Next year in Jerusalem," a declaration that transforms every celebration into an act of anticipatory pilgrimage. The three pilgrim festivals retain their Temple-era names and themes, and prayers for the restoration of Temple worship appear throughout the traditional liturgy.
 
-<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=800" alt="Boy" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/jewish-pilgrimage-heritage-4-7a845d.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Boy" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Boy*
 

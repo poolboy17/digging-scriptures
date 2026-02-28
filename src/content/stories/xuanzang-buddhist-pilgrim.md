@@ -24,7 +24,7 @@ The journey that followed lasted seventeen years and covered approximately 16,00
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=800" alt="The vast Silk Road landscape through Central Asia" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fxuanzang-silk-road.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The vast Silk Road landscape through Central Asia" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The vast Silk Road landscape through Central Asia</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ His arrival in India, the source land of Buddhism, initiated a period of intensi
 
 The intellectual center of Xuanzang's Indian sojourn was Nalanda, the great Buddhist university in Bihar, where he studied for five years under the master Shilabhadra. Nalanda, which housed several thousand monks and students, represented the summit of Buddhist intellectual achievement, and Xuanzang's detailed description of its curriculum, library, debate practices, and daily routines provides the most comprehensive account of the institution at its height. He mastered Sanskrit, studied the major schools of Buddhist philosophy, and engaged in formal debates that enhanced his reputation across the Indian Buddhist world.
 
-<img src="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=800" alt="Kashgar" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-2-cc514e.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Kashgar" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Kashgar*
 
@@ -50,7 +50,7 @@ The political geography of Xuanzang's journey reveals the extent of Buddhism's r
 
 The relationship between pilgrimage and scholarship in Xuanzang's journey challenges any simplistic distinction between devotional and intellectual motivations. His visits to the Four Sacred Sites of the Buddha's life were acts of profound veneration — he records weeping at Bodh Gaya and prostrating at Kushinagar — but they were simultaneously research expeditions, as he documented inscriptions, measured structures, and collected oral traditions with scholarly rigor. For Xuanzang, devotion and scholarship were not competing impulses but complementary aspects of a single engagement with the Buddhist tradition.
 
-<img src="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=800" alt="Fireworks" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/xuanzang-buddhist-pilgrim-3-18335e.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Fireworks" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Fireworks*
 

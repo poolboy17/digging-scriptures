@@ -28,7 +28,7 @@ No mountain on earth carries such a density of sacred meaning across so many tra
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=800" alt="Mount Kailash rising above the Tibetan plateau" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-kailash-view.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Mount Kailash rising above the Tibetan plateau" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Mount Kailash rising above the Tibetan plateau</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ The practice of circumambulating Mount Kailash — known as kora in Tibetan, par
 
 Tibetan Buddhist tradition holds that a single kora erases the sins of one lifetime, while 108 circuits guarantee enlightenment. The most devoted practitioners perform the kora by full-body prostration — lying face down, marking the spot reached by the fingertips, standing, walking to that mark, and prostrating again — a method that extends the three-day walk to two or three weeks and demands extraordinary physical endurance and spiritual commitment.
 
-<img src="/.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=800" alt="Tibet" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-3-28fda4.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Tibet" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Tibet*
 
@@ -54,7 +54,7 @@ The kora circuit of approximately 52 kilometers typically requires three days fo
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=800" alt="A Tibetan Buddhist pilgrim prostrating on the kora path" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkora-pilgrims-prostrating.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A Tibetan Buddhist pilgrim prostrating on the kora path" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Tibetan Buddhist pilgrim prostrating on the kora path</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ The experience of the kora is shaped fundamentally by altitude and remoteness. A
 
 Access to Mount Kailash requires permits obtained through a licensed travel agency, as independent travel in the Tibet Autonomous Region is not permitted for foreign visitors. Groups must be accompanied by a government-appointed guide and driver, and permits can be revoked or denied without explanation, particularly during politically sensitive periods. This administrative framework makes the Kailash pilgrimage one of the more difficult sacred journeys to plan with certainty.
 
-<img src="/.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=800" alt="Tibet" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/kora-mount-kailash-4-9838ba.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Tibet" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Tibet*
 

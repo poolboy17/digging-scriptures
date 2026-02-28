@@ -29,7 +29,7 @@ The city's sacred status predates Christianity. As the location of Solomon's Tem
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=800" alt="The interior of the Church of the Holy Sepulchre in Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-church-sepulchre.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The interior of the Church of the Holy Sepulchre in Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The interior of the Church of the Holy Sepulchre in Jerusalem</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The Christian Quarter clusters around the Church of the Holy Sepulchre, containi
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=800" alt="Narrow stone streets of Jerusalem's Old City" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-streets.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Narrow stone streets of Jerusalem's Old City" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Narrow stone streets of Jerusalem's Old City</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ The presence of Judaism and Islam adds dimensions that complicate and enrich the
 
 The Church of the Holy Sepulchre remains the preeminent Christian pilgrimage site in Jerusalem. The building encompasses both Golgotha, the traditional site of the crucifixion, and the tomb where Jesus was buried and from which he rose. The current structure presents a complex architectural palimpsest, incorporating elements from the twelfth-century Crusader church along with later additions and modifications.
 
-<img src="/.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=800" alt="Carousel" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/jerusalem-old-city-3-87b1b4.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Carousel" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Carousel*
 

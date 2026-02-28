@@ -25,7 +25,7 @@ Helena's personal history had prepared her for this role in unexpected ways. Bor
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=800" alt="A gold-adorned church interior in the Holy Land" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhelena-cross.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A gold-adorned church interior in the Holy Land" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A gold-adorned church interior in the Holy Land</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Constantine's conversion to Christianity — or at least his decision to favor t
 
 The central narrative of Helena's journey involves the discovery of the True Cross — the wooden cross on which Jesus was crucified. According to traditions that crystallized in the late fourth century (the earliest accounts, by Eusebius, mention Helena's journey but not the cross discovery), Helena directed excavations near the site of the Crucifixion and discovered three crosses buried beneath a Roman temple. The true cross was identified through a miracle — in some versions, a sick woman was healed upon touching it; in others, a corpse was restored to life. The discovery, whether historical event or devotional legend, provided Christianity with its most significant relic and established the precedent of archaeological recovery as a mode of sacred encounter.
 
-<img src="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=800" alt="Architecture" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-2-61b2b4.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Architecture" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Architecture*
 
@@ -51,7 +51,7 @@ The process of identifying sacred sites in fourth-century Palestine was neither 
 
 The relic culture that Helena's discovery of the True Cross helped to inaugurate would profoundly shape medieval Christianity. Fragments of the cross were distributed across the Christian world, each fragment carrying the sacred potency of the whole. Relic veneration created a network of sacred sites extending far beyond Palestine, as churches competed to acquire and house relics that would draw pilgrims and the economic benefits they brought. The authentication and commerce of relics became significant ecclesiastical activities, and the desire to possess and venerate physical objects associated with sacred history became a driving force of medieval pilgrimage.
 
-<img src="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=800" alt="Italy" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/helena-and-the-true-cross-3-960747.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Italy" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Italy*
 

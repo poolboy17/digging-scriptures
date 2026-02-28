@@ -36,7 +36,7 @@ Meshullam of Volterra, an Italian Jewish merchant, traveled to the Holy Land in 
 
 The sixteenth-century settlement of Kabbalists in Safed — Isaac Luria, Moses Cordovero, Joseph Caro, and their disciples — introduced a new dimension to Jewish pilgrimage in the Land of Israel. These mystics did not merely visit holy sites; they invested the landscape with Kabbalistic meaning, identifying tombs, springs, caves, and mountains as points of connection with the sefirot (divine attributes) and with the souls of the righteous who were buried there. Luria developed the practice of prostrating on the graves of sages and communing with their spirits, receiving mystical revelations through this contact.
 
-<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=800" alt="Church Window" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-2-cf0432.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Church Window" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Church Window*
 
@@ -47,7 +47,7 @@ The Safed Kabbalists also formalized the pilgrimage to Meron on Lag BaOmer and c
 
 The line between pilgrimage and immigration has always been blurred in Jewish tradition. The Hebrew word aliyah — ascent — describes both the biblical pilgrim's journey to the Temple and the modern immigrant's relocation to Israel. This linguistic continuity is not coincidental. Many of the early waves of Jewish immigration to Palestine, beginning in the 1880s, were motivated by religious impulses that drew directly on the pilgrimage tradition. The settlers of the First Aliyah (1882-1903), though often influenced by secular nationalism as well, used the language of return and redemption that had animated Jewish pilgrimage for centuries.
 
-<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=800" alt="Antique" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-3-254d6e.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Antique" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Antique*
 
@@ -58,7 +58,7 @@ The ultra-Orthodox communities that established themselves in Jerusalem, Hebron,
 
 The most widespread expression of pilgrimage longing in diaspora Judaism requires no journey at all. At the conclusion of the Passover Seder, Jews in every corner of the world recite the phrase "L'shanah haba'ah b'Yerushalayim" — "Next year in Jerusalem." The declaration is simultaneously a prayer, a statement of faith, and an acknowledgment of incompleteness. It says: we are here, but we belong there. The pilgrimage is unfinished.
 
-<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=800" alt="Marseille" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/diaspora-pilgrimage-4-a85d07.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Marseille" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Marseille*
 
@@ -75,7 +75,7 @@ The relationship between ancient pilgrimage and modern practice remains a subjec
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=800" alt="A Jewish prayer shawl, symbol of diaspora longing for Zion" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdiaspora-longing.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A Jewish prayer shawl, symbol of diaspora longing for Zion" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Jewish prayer shawl, symbol of diaspora longing for Zion</figcaption>
 </figure>
 

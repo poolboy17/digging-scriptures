@@ -37,7 +37,7 @@ The medieval relic trade generated both economic activity and theological contro
 
 The Buddhist relic tradition originates with the distribution of the Buddha's cremation remains among eight claimant groups, as described in the Mahaparinibbana Sutta. These relics were enshrined in stupas — dome-shaped monuments that became the architectural foundation of Buddhist sacred space. Emperor Ashoka is said to have redistributed the original relics across 84,000 stupas throughout his empire, democratizing access to the Buddha's physical remains and establishing a pattern of stupa veneration that spread with Buddhism across Asia.
 
-<img src="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=800" alt="Face" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-2-4d0fb5.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Face" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Face*
 
@@ -50,7 +50,7 @@ Buddhist relic veneration extends beyond the Buddha's remains to include relics 
 
 Islam's relationship to sacred objects is more complex and contested than that of Christianity or Buddhism. The tradition's strong emphasis on tawhid (the oneness of God) and its prohibition of shirk (associating anything with God) creates a theological framework that is, in principle, hostile to the veneration of physical objects. Yet in practice, several objects and sites within Islam function in ways that parallel relic veneration in other traditions.
 
-<img src="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=800" alt="Museum" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/relics-and-sacred-objects-3-2d0c08.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Museum" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Museum*
 
@@ -75,7 +75,7 @@ The scholarly study of relics, pioneered by historians like Peter Brown and Patr
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=800" alt="A gold reliquary in a medieval church, housing sacred relics" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frelics-objects.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A gold reliquary in a medieval church, housing sacred relics" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A gold reliquary in a medieval church, housing sacred relics</figcaption>
 </figure>
 

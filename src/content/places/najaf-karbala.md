@@ -27,7 +27,7 @@ Karbala, eighty kilometers to the north, is where Imam Hussein — Ali's son and
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=800" alt="The golden dome of the Imam Ali Shrine in Najaf" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fnajaf-imam-ali.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The golden dome of the Imam Ali Shrine in Najaf" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The golden dome of the Imam Ali Shrine in Najaf</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ The Arba'een pilgrimage, held forty days after Ashura, has become the world's la
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=800" alt="Pilgrims walking during the Arba'een pilgrimage to Karbala" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkarbala-procession.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Pilgrims walking during the Arba'een pilgrimage to Karbala" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims walking during the Arba'een pilgrimage to Karbala</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Najaf is also the seat of the Hawza, the most important center of Shia religious
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=800" alt="Japanese Lantern" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/najaf-karbala-3-0574cf.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Japanese Lantern" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Japanese Lantern*
 

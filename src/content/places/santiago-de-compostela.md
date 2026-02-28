@@ -29,7 +29,7 @@ Santiago de Compostela became one of the three great pilgrimage destinations of 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=800" alt="The ornate Baroque facade of Santiago de Compostela Cathedral" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-cathedral-facade.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The ornate Baroque facade of Santiago de Compostela Cathedral" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The ornate Baroque facade of Santiago de Compostela Cathedral</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ The Cathedral of Santiago de Compostela houses the relics of Saint James in a si
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=800" alt="The cathedral nave where pilgrims gather after completing the Camino" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsantiago-botafumeiro.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The cathedral nave where pilgrims gather after completing the Camino" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The cathedral nave where pilgrims gather after completing the Camino</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ The feast of Saint James on July 25 brings special celebrations to the city. Whe
 
 The experience of arriving at Santiago de Compostela has changed considerably over the centuries while retaining certain constant elements. Medieval pilgrims approached after journeys of weeks or months, often having faced dangers from disease, weather, bandits, and simple exhaustion. The first sight of the cathedral's towers, visible from surrounding hills, marked the journey's approaching end; the entry into the city and the cathedral marked its completion.
 
-<img src="/.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=800" alt="Santiago" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-3-2ce895.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Santiago" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Santiago*
 
@@ -96,7 +96,7 @@ Some pilgrims extend their journey beyond Santiago to Finisterre, the cape on th
 
 Arrival in Santiago de Compostela traditionally follows from walking one of the Camino routes, and the experience of the city differs depending on whether one arrives on foot after days or weeks of walking or by other means. Those who have walked describe the approach—catching the first glimpse of the cathedral towers, entering through the old gates, crossing the Praza do Obradoiro—as among the most emotionally significant moments of their journey.
 
-<img src="/.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=800" alt="Incense Sticks" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/santiago-de-compostela-4-03c627.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Incense Sticks" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Incense Sticks*
 

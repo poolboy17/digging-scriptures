@@ -42,7 +42,7 @@ In the Islamic world, the Hajj has been obligatory for women who meet the condit
 
 Women's pilgrimage accounts reveal experiences that differ in texture from men's, even when the route is the same. Physical safety is a recurring concern — not abstract but practical. Margery Kempe's account includes episodes of threatened assault. Modern female pilgrims on the Camino de Santiago report navigating the tension between the route's culture of openness and the reality of walking alone as a woman. These experiences do not define women's pilgrimage, but they shape it in ways that are absent from most male accounts.
 
-<img src="/.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=800" alt="Kyoto" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/women-and-pilgrimage-2-769b64.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Kyoto" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Kyoto*
 
@@ -67,7 +67,7 @@ Contemporary women pilgrims frequently describe the journey as a space of autono
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=800" alt="Women gathered in prayer at a temple" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwomen-pilgrimage.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Women gathered in prayer at a temple" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Women gathered in prayer at a temple</figcaption>
 </figure>
 

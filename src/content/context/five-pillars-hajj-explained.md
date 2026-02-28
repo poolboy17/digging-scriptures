@@ -32,7 +32,7 @@ The concept of ihram — the state of ritual consecration that pilgrims enter be
 
 The standing at Arafat (wuquf) on the ninth of Dhul Hijjah is considered the essential rite of the Hajj — the Prophet Muhammad stated that "Hajj is Arafat," meaning that the entire pilgrimage depends on this single observance. The gathering on the Plain of Arafat, when over two million pilgrims stand in prayer and supplication from noon to sunset, is often described as a rehearsal for the Day of Judgment, when all of humanity will stand before God to account for their lives.
 
-<img src="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=800" alt="Architecture" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-2-f31439.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Architecture" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Architecture*
 
@@ -43,7 +43,7 @@ The theological weight of Arafat derives partly from its association with severa
 
 Islamic jurisprudence has developed detailed criteria for determining who is obligated to perform the Hajj. The requirement applies to every Muslim who is: adult (having reached puberty), sane, free (not enslaved), physically able to travel, and financially capable of covering the expenses of the journey while maintaining their dependents at home. This last condition — known as istita'a (capability) — means that Muslims who cannot afford the pilgrimage without impoverishing their families are not required to perform it. The Hajj is an obligation for those with means, not a burden imposed on the poor.
 
-<img src="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=800" alt="Ayat Al Kursi" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/five-pillars-hajj-explained-3-581efb.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ayat Al Kursi" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Ayat Al Kursi*
 
@@ -60,7 +60,7 @@ Women's participation in the Hajj has been the subject of evolving jurisprudenti
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=800" alt="Islamic calligraphy from the Quran, the spiritual foundation of Hajj" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffive-pillars.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Islamic calligraphy from the Quran, the spiritual foundation of Hajj" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Islamic calligraphy from the Quran, the spiritual foundation of Hajj</figcaption>
 </figure>
 

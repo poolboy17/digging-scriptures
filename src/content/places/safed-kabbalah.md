@@ -27,7 +27,7 @@ The expulsion of Jews from Spain in 1492 scattered one of the most intellectuall
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=800" alt="The interior of a historic synagogue in Safed" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-synagogue.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The interior of a historic synagogue in Safed" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The interior of a historic synagogue in Safed</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ The concept of tikkun olam (repair of the world), which has become one of the mo
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=800" alt="The blue-painted streets of Safed's artists' quarter" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsafed-streets.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The blue-painted streets of Safed's artists' quarter" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The blue-painted streets of Safed's artists' quarter</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ The annual celebration of Lag BaOmer draws hundreds of thousands of visitors to 
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Jerusalem*
 

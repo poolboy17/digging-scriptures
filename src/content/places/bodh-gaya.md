@@ -27,7 +27,7 @@ The Emperor Ashoka visited Bodh Gaya in the third century BCE and is credited wi
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=800" alt="The Bodhi Tree at Bodh Gaya, where pilgrims meditate beneath its branches" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-bodhi-tree.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Bodhi Tree at Bodh Gaya, where pilgrims meditate beneath its branches" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Bodhi Tree at Bodh Gaya, where pilgrims meditate beneath its branches</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ The Tibetan Buddhist community maintains a particularly strong presence, partly 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=800" alt="Buddhist monks gathering for ceremony at the Mahabodhi Temple complex" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fbodh-gaya-monks.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Buddhist monks gathering for ceremony at the Mahabodhi Temple complex" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Buddhist monks gathering for ceremony at the Mahabodhi Temple complex</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ The site's management has been a source of ongoing tension. Buddhist organizatio
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800" alt="Temple" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Temple" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Temple*
 

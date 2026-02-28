@@ -29,7 +29,7 @@ The pre-Islamic Hajj had evolved considerably from its Abrahamic origins by the 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=800" alt="The vast tent city at Mina during the Hajj pilgrimage" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-mina-tents.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The vast tent city at Mina during the Hajj pilgrimage" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The vast tent city at Mina during the Hajj pilgrimage</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The Hajj unfolds over five to six days during the eighth through thirteenth of D
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=800" alt="Pilgrims gathered on the Plain of Arafat during Hajj" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fhajj-arafat.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Pilgrims gathered on the Plain of Arafat during Hajj" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims gathered on the Plain of Arafat during Hajj</figcaption>
 </figure>
 

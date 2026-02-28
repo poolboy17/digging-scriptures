@@ -28,7 +28,7 @@ Muhammad's first act upon arrival was to establish a mosque, initially a simple 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=800" alt="The Prophet's Mosque in Medina with its distinctive green dome" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-prophets-mosque.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Prophet's Mosque in Medina with its distinctive green dome" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Prophet's Mosque in Medina with its distinctive green dome</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ The Prophet's Mosque occupies a unique position in Islamic sacred geography. It 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=800" alt="The columned interior of the Prophet's Mosque in Medina" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmedina-interior.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The columned interior of the Prophet's Mosque in Medina" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The columned interior of the Prophet's Mosque in Medina</figcaption>
 </figure>
 

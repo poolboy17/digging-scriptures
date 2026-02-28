@@ -27,7 +27,7 @@ The ecclesiastical investigation, conducted by the Bishop of Tarbes between 1858
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=800" alt="The grotto at Lourdes where Bernadette reported her visions" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-grotto.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The grotto at Lourdes where Bernadette reported her visions" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The grotto at Lourdes where Bernadette reported her visions</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ The International Military Pilgrimage, held annually since 1958, brings military
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=800" alt="The Basilica of Our Lady of the Rosary at Lourdes" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Flourdes-basilica.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Basilica of Our Lady of the Rosary at Lourdes" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Basilica of Our Lady of the Rosary at Lourdes</figcaption>
 </figure>
 

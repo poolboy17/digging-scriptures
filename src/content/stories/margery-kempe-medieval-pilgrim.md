@@ -27,7 +27,7 @@ Her spiritual awakening followed a severe mental crisis after the birth of her f
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=800" alt="A medieval English Gothic church from Margery Kempe's era" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmargery-kempe-medieval.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A medieval English Gothic church from Margery Kempe's era" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A medieval English Gothic church from Margery Kempe's era</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Margery's first major pilgrimage, to Jerusalem in 1413–1414, involved an overl
 
 In Jerusalem, Margery's mystical experiences reached their peak intensity. At the Church of the Holy Sepulchre, standing at the site of the Crucifixion, she experienced what she described as a complete emotional and physical collapse, crying and screaming in response to a vivid interior vision of Christ's suffering. This episode marked the beginning of the "gift of tears" that would characterize the rest of her spiritual life — a form of mystical expression with precedents in figures like Mary Magdalene and contemporary continental mystics like Bridget of Sweden, but one that proved uniquely controversial in the English context.
 
-<img src="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=800" alt="Priest" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-2-c0c4fc.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Priest" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Priest*
 
@@ -53,7 +53,7 @@ The social dynamics of medieval pilgrimage emerge vividly from Margery's account
 
 Margery's mystical experiences place her within a tradition of female visionary piety that flourished in the late medieval period. Figures like Julian of Norwich (whom Margery visited and consulted), Bridget of Sweden, Catherine of Siena, and Hildegard of Bingen had established precedents for women's claims to direct divine communication. Margery's contribution to this tradition is distinctive in its combination of mystical intensity with practical worldliness — she negotiated with bishops, managed financial affairs, arranged travel logistics, and navigated hostile social situations with a resourcefulness that complicates any image of the medieval mystic as a withdrawn contemplative.
 
-<img src="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=800" alt="York Minster" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/margery-kempe-medieval-pilgrim-3-671fb6.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="York Minster" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *York Minster*
 

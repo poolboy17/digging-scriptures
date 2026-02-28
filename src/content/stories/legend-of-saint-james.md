@@ -27,7 +27,7 @@ The Acts of the Apostles records James's death with stark brevity: "Herod the ki
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=800" alt="A medieval pilgrim sculpture on the way to Santiago" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsaint-james-scallop.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A medieval pilgrim sculpture on the way to Santiago" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A medieval pilgrim sculpture on the way to Santiago</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The dating of this discovery varies among sources but falls somewhere between 82
 
 The historical assessment of the Santiago tradition involves distinguishing several questions that are often conflated. Whether James preached in Spain, whether the remains discovered in the ninth century are genuinely his, and whether the pilgrimage tradition has value independently of these historical claims are separate matters requiring different kinds of evidence.
 
-<img src="/.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=800" alt="Cathedral" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-2-71c834.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Cathedral" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Cathedral*
 
@@ -71,7 +71,7 @@ The Liber Sancti Jacobi, compiled in the mid-twelfth century and sometimes attri
 
 The legend of Saint James demonstrates how narratives, regardless of their historical foundations, can generate cultural realities of enormous significance. The pilgrimage to Santiago de Compostela, whatever the identity of the relics in its cathedral, has shaped European geography, architecture, art, and self-understanding for over a millennium. Towns exist because pilgrims needed shelter; bridges span rivers because pilgrims needed crossing; hospitals were founded because pilgrims fell ill. The cultural heritage of the [Camino de Santiago](/routes/camino-de-santiago) is real even where the legend that inspired it cannot be verified.
 
-<img src="/.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=800" alt="Shells" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/legend-of-saint-james-3-5b7918.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Shells" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Shells*
 

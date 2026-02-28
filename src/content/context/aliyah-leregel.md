@@ -36,7 +36,7 @@ Sukkot was the longest and most elaborate of the three festivals, lasting seven 
 
 The three annual pilgrimages were the engine of Jerusalem's economy. The city produced little — it had no port, no major trade routes, and limited agricultural land. What it had was the Temple, and the Temple drew pilgrims who needed food, lodging, animals for sacrifice, currency exchange, and ritual objects. The commercial infrastructure that supported the pilgrimage was substantial: markets for sacrificial animals operated on the Mount of Olives and within the Temple precincts, money changers converted foreign currencies into the Tyrian shekels required for the Temple tax, and workshops produced the lamps, incense, and offerings that pilgrims purchased.
 
-<img src="/.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=800" alt="Aerial" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/aliyah-leregel-2-1c1af1.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Aerial" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Aerial*
 
@@ -47,7 +47,7 @@ The half-shekel Temple tax, collected annually from every adult Jewish male, pro
 
 The destruction of the Second Temple by Rome in 70 CE ended the pilgrimage system. There was no longer a Temple to ascend to, no altar on which to offer sacrifice, no priesthood to receive the pilgrim's gifts. The loss was total and immediate, and its consequences shaped the development of Judaism for the next two millennia.
 
-<img src="/.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=800" alt="Field" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/aliyah-leregel-3-15a877.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Field" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Field*
 
@@ -64,7 +64,7 @@ The phrase "Next year in Jerusalem," recited at the conclusion of the Passover S
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=800" alt="Ancient Jerusalem stone walls where pilgrims once ascended" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Faliyah-leregel.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ancient Jerusalem stone walls where pilgrims once ascended" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Ancient Jerusalem stone walls where pilgrims once ascended</figcaption>
 </figure>
 

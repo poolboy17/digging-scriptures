@@ -29,7 +29,7 @@ Kukai had studied esoteric Buddhist teachings in China under the master Huiguo a
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=800" alt="The moss-covered Okunoin cemetery path on Mount Koya" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-cemetery.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The moss-covered Okunoin cemetery path on Mount Koya" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The moss-covered Okunoin cemetery path on Mount Koya</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ The overnight temple stay (shukubo) has become one of Mount Koya's most distinct
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=800" alt="A traditional temple gate on Mount Koya in autumn" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmount-koya-temple.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A traditional temple gate on Mount Koya in autumn" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A traditional temple gate on Mount Koya in autumn</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Mount Koya's designation as a UNESCO World Heritage Site in 2004 (as part of the
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=800" alt="Mount Fuji" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/mount-koya-3-97deef.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Mount Fuji" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Mount Fuji*
 

@@ -31,7 +31,7 @@ The Via Francigena served purposes beyond pilgrimage. It functioned as a diploma
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=800" alt="The Tuscan countryside along the Via Francigena" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-tuscany.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Tuscan countryside along the Via Francigena" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Tuscan countryside along the Via Francigena</figcaption>
 </figure>
 
@@ -52,12 +52,12 @@ The French section, comprising roughly a third of the total distance, passes thr
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=800" alt="An ancient Roman road section of the Via Francigena" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvia-francigena-rome.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="An ancient Roman road section of the Via Francigena" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">An ancient Roman road section of the Via Francigena</figcaption>
 </figure>
 
 
-<img src="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800" alt="Path" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Path" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Path*
 

@@ -26,7 +26,7 @@ The young Kūkai's asceticism was extreme even by the standards of Japanese moun
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=800" alt="A Buddhist monk statue at a Japanese temple, honoring Kobo Daishi" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkobo-daishi-statue.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A Buddhist monk statue at a Japanese temple, honoring Kobo Daishi" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Buddhist monk statue at a Japanese temple, honoring Kobo Daishi</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ In 804, Kūkai received imperial permission to travel to Tang dynasty China as p
 
 Kūkai returned to Japan in 806 carrying texts, ritual implements, mandalas, and a comprehensive knowledge of esoteric Buddhist theory and practice that was without precedent in Japan. Over the following decades, he established Shingon ("True Word") Buddhism as a distinct school, founded the monastic complex on Mount Kōya that remains Shingon's headquarters today, served as abbot of the important Tō-ji temple in Kyoto, and produced a body of philosophical, poetic, and calligraphic work that earned him recognition as one of the supreme cultural figures of Japanese civilization.
 
-<img src="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=800" alt="Japanese Garden" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-2-073905.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Japanese Garden" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Japanese Garden*
 
@@ -52,7 +52,7 @@ Esoteric Buddhism (mikkyō), the tradition Kūkai brought to Japan, differs sign
 
 The relationship between Kūkai and Shikoku is both historical and mythological. Historical evidence confirms that he was born there, practiced asceticism at locations around the island, and maintained connections to Shikoku throughout his life. The mythological dimension, however, goes further: the Shikoku Pilgrimage tradition holds that Kūkai personally established or visited each of the eighty-eight temples, a claim that exceeds what historical documentation can support. The gap between historical Kūkai and legendary Kōbō Daishi is itself significant — it reveals the process by which a historical figure becomes a sacred presence, his biography expanding to fill the spiritual that his followers need him to inhabit.
 
-<img src="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=800" alt="Zen" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/kobo-daishi-shikoku-3-18982d.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Zen" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Zen*
 

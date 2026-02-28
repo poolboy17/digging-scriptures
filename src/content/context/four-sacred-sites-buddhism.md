@@ -32,7 +32,7 @@ The Maya Devi Temple at the center of the modern Lumbini complex preserves the M
 
 Bodh Gaya, in the Indian state of Bihar, marks the site where Siddhartha Gautama attained enlightenment (bodhi) beneath a pipal tree, becoming the Buddha — the "Awakened One." The event, traditionally dated to the full moon of the month of Vesakha (April–May), represents the central moment in Buddhist history: the point at which a human being achieved complete understanding of the nature of suffering, its causes, and the path to its cessation. The Mahabodhi Temple, a UNESCO World Heritage Site, stands at the spot where this transformation occurred.
 
-<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=800" alt="Temple" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-2-67f3ac.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Temple" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Temple*
 
@@ -45,7 +45,7 @@ Bodh Gaya has become an international Buddhist center, with monasteries and temp
 
 Sarnath, located approximately ten kilometers northeast of Varanasi in northern India, marks the site where the Buddha delivered his first discourse after attaining enlightenment. This sermon, known as the Dhammacakkappavattana Sutta ("Setting in Motion the Wheel of the Dharma"), was addressed to five former ascetic companions and articulated the Four Noble Truths and the Eightfold Path — the foundational teachings of Buddhism. The event is described as "setting in motion the wheel of the Dharma" because it initiated the transmission of the Buddha's understanding to others, creating the possibility of a community of practitioners.
 
-<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=800" alt="Ancient" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-3-7418df.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ancient" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Ancient*
 
@@ -58,7 +58,7 @@ Emperor Ashoka's patronage left significant marks at Sarnath, including the Lion
 
 Kushinagar, in the Gorakhpur district of Uttar Pradesh, is identified as the site of the Buddha's parinirvana — his death and entry into final nirvana at approximately eighty years of age. The event, traditionally dated to 483 BCE, occurred in a grove of sal trees where the Buddha, suffering from food poisoning, lay down between two trees and delivered his final instructions to his assembled followers. His last words, according to the Pali Canon, were: "All conditioned things are impermanent. Work out your salvation with diligence."
 
-<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=800" alt="Deer" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/four-sacred-sites-buddhism-4-f549aa.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Deer" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Deer*
 
@@ -79,7 +79,7 @@ The four sites, while individually significant, gain additional meaning when und
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=800" alt="A Buddhist stupa at sunset, one of the faith's sacred sites" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ffour-sites-buddhism.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A Buddhist stupa at sunset, one of the faith's sacred sites" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Buddhist stupa at sunset, one of the faith's sacred sites</figcaption>
 </figure>
 

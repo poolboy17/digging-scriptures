@@ -25,7 +25,7 @@ The journey itself was an ordeal. Nachman traveled overland through the Ottoman 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=800" alt="Hasidic prayer candles glowing in a devotional setting" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frabbi-nachman-hasidic.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Hasidic prayer candles glowing in a devotional setting" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Hasidic prayer candles glowing in a devotional setting</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ His time in the Land of Israel was remarkably brief — approximately seven mont
 
 Nachman's understanding of what the journey accomplished operated on a level that resists conventional explanation. In Hasidic thought, the Land of Israel possesses a unique spiritual quality — it is the place where divine presence is most intensely accessible, where prayer reaches its highest efficacy, and where the soul can achieve refinements impossible elsewhere. Nachman understood his presence in the Land not as tourism or even conventional pilgrimage but as a metaphysical operation: by bringing his consciousness into contact with the Land's spiritual essence, he believed he had activated capacities within himself that would inform his teaching for the rest of his life.
 
-<img src="/.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-2-79233f.jpg&w=800" alt="Cemetery" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-2-79233f.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-2-79233f.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-2-79233f.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-2-79233f.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-2-79233f.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-2-79233f.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Cemetery" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Cemetery*
 
@@ -51,7 +51,7 @@ The Hasidic movement, founded by the Baal Shem Tov in the first half of the eigh
 
 The late eighteenth century saw a small but significant movement of Hasidic leaders and their followers toward settlement in the Land of Israel. Rabbi Menachem Mendel of Vitebsk had led a group of three hundred Hasidim to Palestine in 1777, establishing communities in Safed and Tiberias that Nachman would have encountered during his visit. These communities existed in conditions of considerable hardship — poverty, disease, Ottoman bureaucratic obstacles, and tensions with existing Sephardic communities — yet they maintained a spiritual vitality that drew visitors and immigrants throughout the period.
 
-<img src="/.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-3-5d56e0.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-3-5d56e0.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-3-5d56e0.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-3-5d56e0.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-3-5d56e0.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-3-5d56e0.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rabbi-nachman-journey-to-israel-3-5d56e0.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Jerusalem*
 

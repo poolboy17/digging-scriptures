@@ -53,7 +53,7 @@ Contemporary pilgrims often describe motivations that do not fit neatly into tra
 
 Pilgrimage destinations acquire their sacred status through various means, and understanding these processes illuminates how certain locations come to draw travelers across distances and centuries.
 
-<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=800" alt="Woman" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/faith-based-journeys-1-e69450.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Woman" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Woman*
 
@@ -74,7 +74,7 @@ The relationship between pilgrims and places operates in both directions. Pilgri
 
 While destinations anchor pilgrimage, the journey itself has been understood across traditions as spiritually significant. The process of traveling—the physical movement through space over time—constitutes pilgrimage as much as arrival at the sacred site.
 
-<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=800" alt="Steps" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/faith-based-journeys-2-4b07c3.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Steps" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Steps*
 
@@ -95,7 +95,7 @@ Community forms along pilgrimage routes. Strangers walking the same path, stayin
 
 Pilgrimage connects individuals to communities extending across space and time. The solitary pilgrim walks in the company of all who have made the same journey before, and the act of pilgrimage reinforces bonds with those who share the practice.
 
-<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=800" alt="Buddhist" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/faith-based-journeys-3-a02d04.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Buddhist" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Buddhist*
 
@@ -114,7 +114,7 @@ Conflict and contestation also mark pilgrimage traditions. Different communities
 
 Modernity has transformed pilgrimage without eliminating it. The intersection of [pilgrimage and tourism](/context/pilgrimage-tourism-modern-era) raises questions about authenticity, commercialization, and meaning that every contemporary sacred journey must navigate. Technologies of transportation and communication, processes of secularization and religious revival, and changing patterns of leisure and tourism have all shaped contemporary pilgrimage practice.
 
-<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=800" alt="Mundan Ceremony" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/faith-based-journeys-4-0e311a.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Mundan Ceremony" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Mundan Ceremony*
 
@@ -135,7 +135,7 @@ Environmental and ethical questions increasingly attend pilgrimage practice. The
 
 This site presents faith-based journeys as a subject of study and exploration, not as a practice to be promoted or discouraged. The goal is to describe pilgrimage as it has been and continues to be practiced, providing information useful to those seeking to understand these traditions or considering participating in them.
 
-<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=800" alt="Temple" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/faith-based-journeys-5-f50169.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Temple" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Temple*
 

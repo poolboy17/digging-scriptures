@@ -32,7 +32,7 @@ The Passover Seder, the ritual meal that replaced the sacrificial ritual after t
 
 Shavuot, observed seven weeks after Passover (hence its name), falls in the Hebrew month of Sivan (typically May or June). In its agricultural dimension, Shavuot marks the wheat harvest and the bringing of first fruits (bikkurim) to the Temple. The Mishnah's description of the first fruits procession provides one of the most vivid pictures of pilgrimage in ancient Jewish literature: delegations from across the country converging on Jerusalem, their wagons decorated with garlands, led by an ox with gilded horns, bringing baskets of fruit to the Temple accompanied by music and singing.
 
-<img src="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=800" alt="Christmas Tree" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-2-e31c1f.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Christmas Tree" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Christmas Tree*
 
@@ -43,7 +43,7 @@ The historical dimension of Shavuot commemorates the revelation at Sinai — the
 
 Sukkot, beginning on the fifteenth of the Hebrew month of Tishrei (typically September or October), is the most elaborate of the three pilgrim festivals in both its agricultural and liturgical dimensions. The festival commemorates the Israelites' forty years of wandering in the wilderness after the Exodus, during which they lived in temporary shelters (sukkot). The practice of dwelling in booths — temporary structures with roofs of natural materials through which the sky is visible — translates the historical narrative into embodied experience, as families eat and, in some traditions, sleep in these fragile structures for seven days.
 
-<img src="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=800" alt="Passover" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/three-pilgrim-festivals-judaism-3-e46f18.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Passover" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Passover*
 
@@ -68,7 +68,7 @@ The Western Wall in Jerusalem became the closest accessible point to the Temple'
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=800" alt="A Torah scroll in a synagogue, central to Jewish festival traditions" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fthree-festivals.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A Torah scroll in a synagogue, central to Jewish festival traditions" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Torah scroll in a synagogue, central to Jewish festival traditions</figcaption>
 </figure>
 

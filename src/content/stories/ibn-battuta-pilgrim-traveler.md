@@ -26,7 +26,7 @@ Ibn Battuta's initial motivation was straightforward: the Hajj. As a young man o
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=800" alt="A medieval Islamic-style map of the known world" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fibn-battuta-map.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A medieval Islamic-style map of the known world" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A medieval Islamic-style map of the known world</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ The journey east revealed a world that was simultaneously vast and connected. Th
 
 His first Hajj, performed in 1326, was a transformative experience that deepened rather than satisfied his appetite for travel. Rather than returning directly to Morocco, he explored Iraq, Persia, and the East African coast before performing the Hajj a second time. He then traveled to Anatolia, crossed the Black Sea to the territories of the Golden Horde, journeyed to Constantinople as part of a diplomatic mission, traversed Central Asia to reach India, spent eight years in the service of the Sultan of Delhi, and eventually made his way to China — all while continuing to perform the Hajj whenever his travels brought him within range of Mecca.
 
-<img src="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=800" alt="Al-Aqsa" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-2-2d63c1.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Al-Aqsa" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Al-Aqsa*
 
@@ -52,7 +52,7 @@ The infrastructure that supported Ibn Battuta's travels — caravansaries, pilgr
 
 The legal dimension of Ibn Battuta's travels reflects the portability of Islamic jurisprudence. Trained in Maliki law, one of Sunni Islam's four major legal schools, Ibn Battuta found employment as a judge (qadi) in multiple jurisdictions — India, the Maldives, and eventually Morocco — because Islamic legal principles transcended political boundaries. This portability of professional qualification, grounded in shared religious education and legal methodology, had no parallel in the medieval Christian world, where legal systems were far more locally specific.
 
-<img src="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=800" alt="Compass" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/ibn-battuta-pilgrim-traveler-3-914ba8.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Compass" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Compass*
 

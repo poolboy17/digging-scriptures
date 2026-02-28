@@ -27,7 +27,7 @@ The cult of St. Olav spread rapidly across Scandinavia and beyond. Churches dedi
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=800" alt="Nidaros Cathedral in Trondheim, the destination of St Olav's Way" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-norway.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Nidaros Cathedral in Trondheim, the destination of St Olav's Way" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Nidaros Cathedral in Trondheim, the destination of St Olav's Way</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ The revival of St. Olav's Way began in the 1990s, inspired by the broader Europe
 
 <Fragment slot="journey">
 
-<img src="/.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=800" alt="Stave Church" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/st-olavs-way-3-2aecd6.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Stave Church" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Stave Church*
 
@@ -53,7 +53,7 @@ The departure from Oslo begins at the medieval church ruins at Gamle Aker Kirke,
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=800" alt="A mountain trail through the Norwegian countryside" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fst-olavs-trail.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A mountain trail through the Norwegian countryside" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A mountain trail through the Norwegian countryside</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ The Gudbrandsdalen itself — a broad valley carved by glacial action and flanke
 
 The crossing of the Dovre mountains represents the route's physical climax. The terrain rises above the treeline into a stark alpine of rock, moss, and wind-scoured ridges. The historical significance of this crossing — Dovre served as the symbolic boundary between southern and northern Norway — adds a geographical and cultural milestone to the physical challenge. The descent from Dovre leads into the Trøndelag region, and the character of the shifts subtly: the light becomes more northern, the horizons broader, and the awareness of approaching Trondheim builds with each passing day.
 
-<img src="/.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=800" alt="Norway" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/st-olavs-way-4-98586d.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Norway" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Norway*
 

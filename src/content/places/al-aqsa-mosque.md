@@ -27,7 +27,7 @@ The Haram al-Sharif (Noble Sanctuary) — the raised platform in Jerusalem's Old
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=800" alt="The Dome of the Chain on the Haram al-Sharif in Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fal-aqsa-dome-chain.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Dome of the Chain on the Haram al-Sharif in Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Dome of the Chain on the Haram al-Sharif in Jerusalem</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ The site's history is inseparable from political conflict. The Crusaders capture
 
 For Muslims, the Haram al-Sharif occupies a theological position second only to the two holy mosques of Mecca and Medina. The Prophet Muhammad initially directed his followers to pray facing Jerusalem (the first qibla) before the qibla was changed to Mecca. This historical primacy — Jerusalem as the original direction of prayer — reinforces the city's sanctity even though Mecca ultimately displaced it as the liturgical focal point.
 
-<img src="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=800" alt="Al-Aqsa Mosque" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-2-24cb03.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Al-Aqsa Mosque" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Al-Aqsa Mosque*
 
@@ -61,7 +61,7 @@ The political dimension of Al-Aqsa's sanctity is inescapable. The site sits at t
 
 Al-Aqsa Mosque, at the southern end of the Haram al-Sharif, is a congregational mosque capable of holding several thousand worshippers. Its silver-grey lead dome, wide nave, and seven-aisle interior reflect multiple periods of construction and reconstruction. The mihrab (prayer niche indicating the direction of Mecca) and the minbar (pulpit) are attributed to Saladin's restoration following the Crusader period. Below the main prayer hall, the Marwani Musalla (sometimes called Solomon's Stables) provides additional prayer space in a vaulted subterranean hall.
 
-<img src="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/al-aqsa-mosque-3-cf6199.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Jerusalem*
 

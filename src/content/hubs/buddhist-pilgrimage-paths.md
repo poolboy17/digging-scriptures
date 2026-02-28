@@ -42,7 +42,7 @@ Kushinagar, in eastern Uttar Pradesh, is the site of the Buddha's parinirvana—
 
 As Buddhism spread across Asia, new pilgrimage traditions developed that adapted the practice to local geographies and cultural contexts. These circuits often involve visiting multiple sites in sequence, creating journeys that combine physical challenge with spiritual discipline.
 
-<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=800" alt="Umbrella" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-1-6338ca.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Umbrella" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Umbrella*
 
@@ -56,7 +56,7 @@ In China, four sacred mountains—Wutai Shan, Putuo Shan, Emei Shan, and Jiuhua 
 
 Circumambulation—walking around a sacred object or site—constitutes one of the most characteristic Buddhist pilgrimage practices. The kora, as it is known in Tibetan, involves walking clockwise around a mountain, stupa, or temple while reciting mantras and prayers. The practice reflects the belief that physical movement around a sacred center generates merit and deepens spiritual understanding.
 
-<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=800" alt="Buddha" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-2-675f86.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Buddha" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Buddha*
 
@@ -71,7 +71,7 @@ The practice of circumambulation connects Buddhist pilgrimage to broader pattern
 
 The veneration of relics occupies a central place in Buddhist pilgrimage. Following the Buddha's cremation, his remains were divided among eight claimants, and stupas were constructed to house them. This initial distribution of relics established a pattern that would multiply sacred sites across the Buddhist world as relics were further divided, transported, and enshrined.
 
-<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=800" alt="Prayer Flag" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-3-c04bd0.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Prayer Flag" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Prayer Flag*
 
@@ -84,7 +84,7 @@ In Thailand, Myanmar, and other Theravada countries, important relics housed in 
 
 Contemporary Buddhist pilgrimage combines traditional devotion with modern tourism and cultural exchange. The Indian government and international Buddhist organizations have invested in developing the Four Great Sites as modern pilgrimage destinations, improving transportation, accommodation, and interpretation. The Buddhist Circuit, connecting Lumbini, Bodh Gaya, Sarnath, and Kushinagar, has been promoted as a travel route, though infrastructure gaps persist.
 
-<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=800" alt="Stupa" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/buddhist-pilgrimage-paths-4-bb8268.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Stupa" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Stupa*
 

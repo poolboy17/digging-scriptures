@@ -29,7 +29,7 @@ Jerusalem occupies a position in pilgrimage history that no other city can claim
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=800" alt="A panoramic view of Jerusalem with the Dome of the Rock" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-panorama.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A panoramic view of Jerusalem with the Dome of the Rock" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A panoramic view of Jerusalem with the Dome of the Rock</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The Christian Quarter of Jerusalem's Old City clusters around the Church of the 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=800" alt="The Mount of Olives overlooking the Old City of Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fjerusalem-mount-olives.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Mount of Olives overlooking the Old City of Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Mount of Olives overlooking the Old City of Jerusalem</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Jewish pilgrimage to Jerusalem predates and continues alongside Christian practi
 
 The Church of the Holy Sepulchre has functioned as the focal point of Christian pilgrimage to Jerusalem since its fourth-century construction. The building encompasses multiple sacred sites within a single complex structure, allowing pilgrims to venerate the locations of crucifixion and resurrection without leaving its walls. The current structure dates substantially from the Crusader period, incorporating elements rebuilt after the destruction ordered by the Fatimid caliph al-Hakim in 1009.
 
-<img src="/.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=800" alt="Sarajevo" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/jerusalem-3-e5e019.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Sarajevo" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Sarajevo*
 
@@ -92,7 +92,7 @@ The practice of walking the Via Dolorosa developed over centuries, with the curr
 
 Jerusalem's Old City is compact enough to explore on foot, though its hilly terrain and crowded streets require reasonable physical fitness. The area within the walls contains few accommodations; most visitors stay in hotels in West or East Jerusalem and enter through one of the several gates. The Jaffa Gate, Damascus Gate, and Lions' Gate provide the most common entry points for visitors to Christian sites.
 
-<img src="/.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/jerusalem-4-dc236e.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Jerusalem*
 

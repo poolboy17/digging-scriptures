@@ -28,7 +28,7 @@ The rituals of Umrah are a subset of the Hajj rituals. Both begin with entering 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=800" alt="Pilgrims performing Tawaf around the Kaaba during Umrah" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-tawaf.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Pilgrims performing Tawaf around the Kaaba during Umrah" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims performing Tawaf around the Kaaba during Umrah</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Entering ihram involves a ritual washing (ghusl), the donning of ihram garments 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=800" alt="The grand corridor where pilgrims perform the Sai ritual" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fumrah-sai.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The grand corridor where pilgrims perform the Sai ritual" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The grand corridor where pilgrims perform the Sai ritual</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ After Tawaf, the pilgrim performs two cycles of prayer (raka'at) behind the Maqa
 
 Sa'i consists of walking seven times between the hills of Safa and Marwa, which are now enclosed within the Grand Mosque complex in a long, air-conditioned gallery. The walk commemorates Hagar's desperate search for water for her infant son in the desert, running between the two hillocks looking for help. The distance between Safa and Marwa is approximately 450 meters, so the seven traversals total roughly 3.15 kilometers.
 
-<img src="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800" alt="Makka" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Makka" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Makka*
 

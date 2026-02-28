@@ -39,7 +39,7 @@ Turner's related concept of communitas — the intense, spontaneous fellowship t
 
 Pilgrimage provides something that ordinary travel rarely offers: a narrative structure. The pilgrim is not merely a tourist visiting interesting places but a character in a story with a beginning (departure), a middle (the road), and an end (arrival at the sacred site). This narrative arc aligns with the structure that psychologists have identified as central to human meaning-making. Jerome Bruner argued that humans understand their experience primarily through narrative — we make sense of what happens to us by fitting it into stories. Pilgrimage provides a ready-made story that the pilgrim inhabits bodily.
 
-<img src="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=800" alt="Man" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-2-da24a6.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Man" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Man*
 
@@ -50,7 +50,7 @@ The narrative dimension explains why pilgrimage often produces retrospective tra
 
 The most neglected phase of pilgrimage is the return. Van Gennep's model of rites of passage — separation, liminality, reincorporation — gives equal weight to the final stage, but pilgrimage scholarship has tended to focus on the journey and the destination. Yet pilgrims consistently describe the return home as disorienting and difficult. The world they left has not changed, but they have, and the gap between their transformed interior and their unchanged exterior life can produce a sense of dislocation.
 
-<img src="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=800" alt="Mountains" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/psychology-of-pilgrimage-3-1e3089.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Mountains" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Mountains*
 
@@ -65,7 +65,7 @@ This difficulty may itself be part of the process. The psychologist Robert Kegan
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=800" alt="A person walking a quiet nature path in contemplation" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fpsychology-walking.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A person walking a quiet nature path in contemplation" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A person walking a quiet nature path in contemplation</figcaption>
 </figure>
 

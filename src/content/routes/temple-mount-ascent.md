@@ -29,7 +29,7 @@ The pilgrim's journey began well before reaching Jerusalem. Travelers from the G
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=800" alt="Ancient steps near the Jerusalem archaeological park" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-steps.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ancient steps near the Jerusalem archaeological park" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Ancient steps near the Jerusalem archaeological park</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The sacrificial rituals performed at the Temple during each festival were specif
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=800" alt="A detailed model of the ancient Jerusalem Temple" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Ftemple-mount-model.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A detailed model of the ancient Jerusalem Temple" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A detailed model of the ancient Jerusalem Temple</figcaption>
 </figure>
 

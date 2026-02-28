@@ -39,7 +39,7 @@ The custom of chalaka — bringing three-year-old boys to Meron for their first 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=800" alt="A Lag BaOmer bonfire celebration at night" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-bonfire.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A Lag BaOmer bonfire celebration at night" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A Lag BaOmer bonfire celebration at night</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Beyond Lag BaOmer, Meron attracts visitors throughout the year. The tomb compoun
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/mount-meron-3-8df5e1.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Jerusalem*
 
@@ -63,7 +63,7 @@ The roof of the tomb building serves as the platform for the Lag BaOmer bonfires
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=800" alt="Worshippers praying at the tomb shrine on Mount Meron" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fmeron-tomb.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Worshippers praying at the tomb shrine on Mount Meron" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Worshippers praying at the tomb shrine on Mount Meron</figcaption>
 </figure>
 

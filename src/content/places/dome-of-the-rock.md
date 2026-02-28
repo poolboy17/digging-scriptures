@@ -28,7 +28,7 @@ The Foundation Stone carries layered meanings. In Jewish tradition, it is the Ev
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=800" alt="Intricate blue and turquoise tilework on the Dome of the Rock" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-tiles.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Intricate blue and turquoise tilework on the Dome of the Rock" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Intricate blue and turquoise tilework on the Dome of the Rock</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ The building's golden dome—originally lead-covered, gilded in 1994 with eighty
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800" alt="Jerusalem" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Jerusalem*
 
@@ -64,7 +64,7 @@ The exterior is clad in ceramic tiles installed during Suleiman the Magnificent'
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=800" alt="The gold mosaic interior of the Dome of the Rock" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fdome-rock-interior.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The gold mosaic interior of the Dome of the Rock" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The gold mosaic interior of the Dome of the Rock</figcaption>
 </figure>
 

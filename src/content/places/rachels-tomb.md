@@ -37,7 +37,7 @@ The tomb is sacred in Christianity and Islam as well. Christians identify Rachel
 
 Jewish women have maintained a particularly strong devotional attachment to Rachel's Tomb. Because Rachel died in childbirth, she is regarded as a special intercessor for fertility, safe pregnancy, and the health of children. Women who are struggling to conceive, who are pregnant, or who have sick children travel to the tomb to pray, weep, and recite psalms. This tradition is ancient — medieval travelers recorded the practice — and it continues today with an intensity that makes Rachel's Tomb one of the most emotionally charged pilgrimage sites in Israel.
 
-<img src="/.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=800" alt="Children" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rachels-tomb-2-aa908d.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Children" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Children*
 
@@ -46,7 +46,7 @@ The custom of wrapping a red thread around the tomb seven times and then wearing
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=800" alt="A woman praying by candlelight at a sacred tomb" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frachels-tomb-interior.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A woman praying by candlelight at a sacred tomb" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A woman praying by candlelight at a sacred tomb</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ The current compound is a heavily fortified structure surrounded by concrete wal
 
 The cenotaph — the stone structure understood to mark Rachel's burial place — occupies the center of the prayer hall, draped in velvet coverings embroidered with biblical verses. Worshippers press against it, lay their hands on it, and recite psalms, Kabbalistic prayers, and personal supplications. The intensity of devotion at the cenotaph is palpable; the coverings are frequently wet with tears.
 
-<img src="/.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=800" alt="Prayer" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rachels-tomb-3-f7461c.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Prayer" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Prayer*
 

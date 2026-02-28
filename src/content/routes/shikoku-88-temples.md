@@ -28,7 +28,7 @@ The historical development of the pilgrimage from scattered sites of ascetic pra
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=800" alt="A pilgrim at a Japanese temple on the Shikoku pilgrimage" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-pilgrim.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A pilgrim at a Japanese temple on the Shikoku pilgrimage" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A pilgrim at a Japanese temple on the Shikoku pilgrimage</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The pilgrimage's association with Kōbō Daishi extends beyond historical connec
 
 <Fragment slot="journey">
 
-<img src="/.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=800" alt="Landscape" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-3-4be714.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Landscape" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Landscape*
 
@@ -54,7 +54,7 @@ The Tokushima section (Temples 1–23) introduces the pilgrim to the practice th
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=800" alt="A forested mountain path on the Shikoku 88 temple circuit" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fshikoku-path.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A forested mountain path on the Shikoku 88 temple circuit" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A forested mountain path on the Shikoku 88 temple circuit</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ The Ehime section (Temples 40–65), associated with enlightenment, moves throug
 
 The Kagawa section (Temples 66–88), associated with nirvana, brings the pilgrim back to the northeastern corner of Shikoku. The completion of the circuit at Temple 88 (Ōkubo-ji) marks the formal end of the pilgrimage, though tradition holds that the journey is truly complete only after the pilgrim visits Mount Kōya in Wakayama Prefecture on the main island of Honshū to pay respects at Kūkai's mausoleum in the Oku-no-in cemetery. This final visit closes the circle by connecting the pilgrimage's end to its spiritual source.
 
-<img src="/.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=800" alt="Backpack" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/shikoku-88-temples-4-e33ae2.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Backpack" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Backpack*
 

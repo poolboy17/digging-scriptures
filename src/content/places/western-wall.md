@@ -27,7 +27,7 @@ The wall's transformation from structural remnant to Judaism's holiest site occu
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=800" alt="Worshippers praying at the Western Wall in Jerusalem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-prayers.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Worshippers praying at the Western Wall in Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Worshippers praying at the Western Wall in Jerusalem</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ The practice of inserting written prayers (kvitlach) into crevices between the w
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=800" alt="The Western Wall plaza with the golden Dome of the Rock above" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fwestern-wall-plaza.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Western Wall plaza with the golden Dome of the Rock above" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Western Wall plaza with the golden Dome of the Rock above</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ The Wall functions as both a national monument and a religious site, a dual iden
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=800" alt="Wailing Wall" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/western-wall-3-47cdf4.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Wailing Wall" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Wailing Wall*
 

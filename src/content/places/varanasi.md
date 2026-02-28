@@ -29,7 +29,7 @@ Hindu tradition identifies Varanasi as the city of Shiva, where the great deity 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=800" alt="Morning rituals on the ghats along the Ganges in Varanasi" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-ghats-morning.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Morning rituals on the ghats along the Ganges in Varanasi" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Morning rituals on the ghats along the Ganges in Varanasi</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Cremation at Varanasi holds unique significance in Hindu belief. Death in Kashi 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=800" alt="Boats on the Ganges River at Varanasi" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fvaranasi-boats.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Boats on the Ganges River at Varanasi" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Boats on the Ganges River at Varanasi</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ The city's scholarly tradition is equally ancient. Varanasi has functioned as a 
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800" alt="Ganges" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ganges" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Ganges*
 

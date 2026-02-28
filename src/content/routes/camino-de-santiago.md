@@ -31,7 +31,7 @@ The Camino de Santiago exists as a network of paths rather than a single road, a
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=800" alt="Pilgrims walking a country road on the Camino de Santiago in Spain" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-walkers.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Pilgrims walking a country road on the Camino de Santiago in Spain" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Pilgrims walking a country road on the Camino de Santiago in Spain</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ The Camino Francés, the most traveled route, runs approximately eight hundred k
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=800" alt="The scallop shell waymark guiding pilgrims along the Camino" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fcamino-shell.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The scallop shell waymark guiding pilgrims along the Camino" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The scallop shell waymark guiding pilgrims along the Camino</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ The daily rhythm of walking structures the Camino experience regardless of route
 
 The experience of walking the Camino has changed considerably across centuries while retaining recognizable continuities. Medieval pilgrims faced hardships largely unknown to contemporary walkers: roads that were often little more than muddy tracks; bandits who preyed on vulnerable travelers; diseases that could claim lives far from home; the simple uncertainty of whether one would return. The pilgrim leaving home had reason to settle affairs and say farewells that might prove final.
 
-<img src="/.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=800" alt="Backpack" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/camino-de-santiago-3-c0af30.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Backpack" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Backpack*
 

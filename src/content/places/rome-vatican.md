@@ -28,7 +28,7 @@ The transformation of Rome from imperial capital to Christian pilgrimage center 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=800" alt="The grand interior of St. Peter's Basilica in Vatican City" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-st-peters-interior.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The grand interior of St. Peter's Basilica in Vatican City" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The grand interior of St. Peter's Basilica in Vatican City</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ St. Peter's Basilica, completed in its current form in 1626 after more than a ce
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=800" alt="Ancient Roman catacombs beneath the city" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Frome-catacombs.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ancient Roman catacombs beneath the city" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Ancient Roman catacombs beneath the city</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ The Papal Audience, held weekly in St. Peter's Square or the adjacent audience h
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800" alt="Rome" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Rome" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Rome*
 

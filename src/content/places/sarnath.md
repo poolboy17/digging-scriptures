@@ -27,7 +27,7 @@ The first discourse, known as the Dhammacakkappavattana Sutta (Setting the Wheel
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=800" alt="Archaeological ruins of ancient monasteries at Sarnath" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ruins.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Archaeological ruins of ancient monasteries at Sarnath" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Archaeological ruins of ancient monasteries at Sarnath</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ The relationship between Sarnath and neighboring Varanasi creates an unusual jux
 
 <Fragment slot="features">
 
-<img src="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800" alt="Sunset" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Sunset" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Sunset*
 
@@ -61,7 +61,7 @@ The Dhamek Stupa is Sarnath's most prominent monument, a cylindrical structure r
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=800" alt="The Ashoka lion capital from Sarnath, now India's national emblem" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fsarnath-ashoka-pillar.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Ashoka lion capital from Sarnath, now India's national emblem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">The Ashoka lion capital from Sarnath, now India's national emblem</figcaption>
 </figure>
 

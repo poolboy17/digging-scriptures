@@ -28,7 +28,7 @@ The religious significance of the Kumano region predates organized Buddhism and 
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=800" alt="A torii gate along the forested Kumano Kodo pilgrimage trail" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-torii.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A torii gate along the forested Kumano Kodo pilgrimage trail" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">A torii gate along the forested Kumano Kodo pilgrimage trail</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The pilgrimage democratized during the Muromachi (1336–1573) and Edo (1603–1
 
 <Fragment slot="journey">
 
-<img src="/.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=800" alt="Forest" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/kumano-kodo-3-14b8c8.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Forest" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Forest*
 
@@ -58,7 +58,7 @@ The Ōhechi (Great Route) follows the Pacific coastline of the Kii Peninsula, of
 
 The Iseji route connects the Ise Grand Shrine (Shinto's most sacred site) with the Kumano shrines, traversing the eastern coast of the Kii Peninsula. This route links two of Japan's supreme pilgrimage destinations and was historically popular with pilgrims who combined visits to Ise and Kumano in a single journey. Sections of the Iseji preserve some of the finest original stone paving of any Kumano route, with steps and retaining walls that have survived centuries of monsoon rains and typhoons.
 
-<img src="/.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=800" alt="Japan" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/kumano-kodo-4-dd05ad.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Japan" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Japan*
 
@@ -75,7 +75,7 @@ The daily rhythm of Kumano walking involves early starts to maximize daylight, s
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=800" alt="Nachi Falls, one of the sacred sites along the Kumano Kodo" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fkumano-waterfall.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Nachi Falls, one of the sacred sites along the Kumano Kodo" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">Nachi Falls, one of the sacred sites along the Kumano Kodo</figcaption>
 </figure>
 

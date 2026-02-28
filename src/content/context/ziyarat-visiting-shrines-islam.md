@@ -36,7 +36,7 @@ Shia ziyarat is structured and liturgical. Visitors recite specific prayers (ziy
 
 Across the Sunni world, the shrines of Sufi saints (awliya, "friends of God") have served for centuries as centers of devotion, healing, and community. The shrine of Moinuddin Chishti in Ajmer, India, draws millions of visitors from multiple faiths — Hindus and Sikhs as well as Muslims — who seek the saint's baraka. The shrine of Moulay Idriss in Morocco, the mausoleum of Rumi in Konya, Turkey, and the tomb of Data Ganj Bakhsh in Lahore, Pakistan, are similarly major pilgrimage destinations with their own annual festivals (urs, celebrating the saint's death anniversary as a spiritual "wedding" with God).
 
-<img src="/.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=800" alt="Stained Glass" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/ziyarat-visiting-shrines-islam-2-4f27b6.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Stained Glass" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Stained Glass*
 
@@ -57,7 +57,7 @@ Despite theological opposition, ziyarat remains one of the most widely practiced
 
 
 <figure>
-<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=800" alt="An ornate Islamic shrine doorway adorned with decorative tilework" width="800" height="500" loading="lazy" decoding="async" style="border-radius:0.75rem; width:100%; height:auto;" />
+<img src="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=800" srcset="/.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=320 320w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=480 480w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=640 640w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=800 800w, /.netlify/images?url=%2Fimages%2Fcontent%2Finline%2Fziyarat-shrine.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="An ornate Islamic shrine doorway adorned with decorative tilework" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 <figcaption style="font-size:0.8125rem; color:#a8a29e; margin-top:0.5rem; font-style:italic;">An ornate Islamic shrine doorway adorned with decorative tilework</figcaption>
 </figure>
 

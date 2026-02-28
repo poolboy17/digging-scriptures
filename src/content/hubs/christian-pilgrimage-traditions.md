@@ -42,7 +42,7 @@ Yet not all voices in the early church endorsed pilgrimage. Gregory of Nyssa, wr
 
 The medieval period witnessed an extraordinary expansion of Christian pilgrimage in both scope and intensity. Jerusalem remained the supreme goal, but the difficulties and dangers of the journey meant that most European Christians could never hope to reach it. Alternative destinations emerged, offering comparable spiritual benefits to those who could not travel so far.
 
-<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=800" alt="Prague" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-1-6c5dbc.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Prague" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Prague*
 
@@ -63,7 +63,7 @@ Yet pilgrimage also offered pleasures and freedoms unavailable in ordinary life.
 
 The Protestant Reformation of the sixteenth century brought fundamental challenges to the theology and practice of pilgrimage. Martin Luther initially critiqued abuses in the pilgrimage system—the selling of indulgences, the multiplication of dubious relics, the commercial exploitation of popular devotion—before coming to reject the practice more thoroughly. If salvation came through faith alone, the physical journey to a shrine could add nothing to the believer's standing before God.
 
-<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=800" alt="Monk" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-2-997a7a.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Monk" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Monk*
 
@@ -78,7 +78,7 @@ The Counter-Reformation also saw the development of new forms of sacred journey.
 
 The eighteenth and nineteenth centuries brought new challenges to pilgrimage. Enlightenment rationalism questioned miraculous claims, while industrialization and urbanization disrupted traditional patterns of life. Revolutions and anticlerical movements suppressed pilgrimage in some regions, confiscating church properties and dispersing religious communities that had served pilgrims for centuries.
 
-<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=800" alt="Cloister" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-3-46b599.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Cloister" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Cloister*
 
@@ -97,12 +97,12 @@ Orthodox Christianity maintains rich pilgrimage traditions, with Mount Athos, th
 
 Reflection on pilgrimage across Christian history reveals certain persistent themes alongside significant variations. The notion that physical movement through space can facilitate spiritual transformation appears in virtually every period and tradition, even if explained in different theological terms. The liminal quality of the pilgrim state, suspended between departure and arrival, creates conditions understood to be spiritually productive.
 
-<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=800" alt="Candles" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-4-34c42a.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Candles" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Candles*
 
 
-<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=800" alt="Church" loading="lazy" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/christian-pilgrimage-traditions-5-d42ec2.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Church" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
 *Church*
 
