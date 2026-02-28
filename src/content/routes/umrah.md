@@ -58,9 +58,9 @@ After Tawaf, the pilgrim performs two cycles of prayer (raka'at) behind the Maqa
 
 Sa'i consists of walking seven times between the hills of Safa and Marwa, which are now enclosed within the Grand Mosque complex in a long, air-conditioned gallery. The walk commemorates Hagar's desperate search for water for her infant son in the desert, running between the two hillocks looking for help. The distance between Safa and Marwa is approximately 450 meters, so the seven traversals total roughly 3.15 kilometers.
 
-<img src="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Makka" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/umrah-3-541a3a.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Pilgrims in white ihram garments walking near the Grand Mosque in Mecca" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Makka*
+*Pilgrims in white ihram garments walking near the Grand Mosque in Mecca*
 
 
 The Umrah concludes with the halq or taqsir — shaving or trimming the hair — which marks the pilgrim's exit from the state of ihram. Men typically shave the head completely (halq) or trim it short (taqsir); women cut a small portion of their hair. With this act, the restrictions of ihram are lifted, and the Umrah is complete.

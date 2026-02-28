@@ -52,9 +52,9 @@ The relationship between Sarnath and neighboring Varanasi creates an unusual jux
 
 
 
-<img src="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Sunset" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/sarnath-3-b9b842.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Golden sunset over the ancient Buddhist ruins at Sarnath" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Sunset*
+*Golden sunset over the ancient Buddhist ruins at Sarnath*
 
 
 The Dhamek Stupa is Sarnath's most prominent monument, a cylindrical structure rising approximately forty-three meters with a diameter of nearly twenty-eight meters at its base. The lower sections feature carved bands of geometric and floral ornamentation dating to the Gupta period — among the finest surviving examples of Gupta decorative sculpture. The stupa's massive, unadorned upper drum gives it a quality of austere solidity that distinguishes it from the more elaborate stupas of Southeast Asia. No internal chamber has been found, and the stupa is understood as a solid monument marking the approximate location of the first sermon.

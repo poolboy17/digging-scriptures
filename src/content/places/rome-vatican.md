@@ -64,9 +64,9 @@ The Papal Audience, held weekly in St. Peter's Square or the adjacent audience h
 
 
 
-<img src="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Rome" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/rome-vatican-3-f1a7f5.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A sweeping view of Rome with historic domes and rooftops" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Rome*
+*A sweeping view of Rome with historic domes and rooftops*
 
 
 St. Peter's Square, designed by Bernini and completed in 1667, welcomes pilgrims with its elliptical colonnades — 284 columns and 88 pilasters arranged in four rows, topped by 140 statues of saints. The design was intended to represent the embrace of the Church, with the arms of the colonnade reaching out to enfold the arriving faithful. At the center stands an Egyptian obelisk, brought to Rome by Emperor Caligula and repositioned by Pope Sixtus V in 1586, flanked by two fountains whose sound fills the square.

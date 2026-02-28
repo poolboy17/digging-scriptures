@@ -61,9 +61,9 @@ The city's scholarly tradition is equally ancient. Varanasi has functioned as a 
 
 
 
-<img src="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Ganges" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/varanasi-3-7e843b.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Evening ceremony along the ghats of the sacred Ganges River in Varanasi" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Ganges*
+*Evening ceremony along the ghats of the sacred Ganges River in Varanasi*
 
 
 Manikarnika Ghat, the primary cremation ghat, presents one of the most confronting sacred spectacles accessible to visitors anywhere in the world. The ghat rises steeply from the river, its steps blackened by centuries of fire. Funeral pyres burn at multiple points simultaneously, tended by male relatives of the deceased and by the Dom workers who manage the cremation process. The open display of death and its rituals embodies the Hindu philosophical teaching that death is not to be feared but understood as transformation—a visible theology enacted in public space.

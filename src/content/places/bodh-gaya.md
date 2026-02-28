@@ -59,9 +59,9 @@ The site's management has been a source of ongoing tension. Buddhist organizatio
 
 
 
-<img src="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Temple" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/bodh-gaya-3-025ef2.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Mahabodhi Temple complex at Bodh Gaya surrounded by pilgrims" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Temple*
+*The Mahabodhi Temple complex at Bodh Gaya surrounded by pilgrims*
 
 
 The Mahabodhi Temple rises approximately fifty-five meters, its distinctive pyramidal shikhara (tower) tapering to a stupa-shaped finial. The temple's architectural style, which influenced Buddhist temple design across Southeast Asia—notably at Ananda Temple in Bagan and Wat Jet Yot in Chiang Mai—makes it one of the most architecturally consequential buildings in Buddhist history. The current structure reflects restorations conducted in the nineteenth century under British direction and in subsequent decades, but the core masonry dates to the Gupta period.

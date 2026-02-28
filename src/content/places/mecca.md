@@ -57,9 +57,9 @@ The Zamzam well, located within the Masjid al-Haram compound, produces water tha
 
 
 
-<img src="/.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Mosque" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/mecca-3-c2b1e4.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="The Grand Mosque of Mecca illuminated at night with pilgrims circling the Kaaba" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Mosque*
+*The Grand Mosque of Mecca illuminated at night with pilgrims circling the Kaaba*
 
 
 The Kaaba stands approximately thirteen meters high, with sides ranging from ten to twelve meters in length. Its walls are constructed of gray stone quarried from surrounding hills, though the structure has been rebuilt multiple times—most recently following a siege in 1979 and flood damage at various points in history. The kiswa, an embroidered black cloth covering the Kaaba, is replaced annually, with the old cloth cut into pieces and distributed as gifts. Gold-embroidered Quranic verses on the kiswa represent some of the finest textile artistry in the Islamic world.

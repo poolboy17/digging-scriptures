@@ -53,9 +53,9 @@ The building's golden dome—originally lead-covered, gilded in 1994 with eighty
 
 
 
-<img src="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/dome-of-the-rock-3-6c3724.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Panoramic view of Jerusalem's Temple Mount with the golden dome" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Jerusalem*
+*Panoramic view of Jerusalem's Temple Mount with the golden dome*
 
 
 The Dome of the Rock's octagonal plan, approximately twenty meters per side, supports a dome approximately twenty meters in diameter rising to a height of thirty-five meters above the platform. The design reflects late antique architectural traditions, drawing on Byzantine centrally planned buildings while creating something distinctly new. The double-ambulatory plan—two concentric walkways around the central rock—guides visitors in circumambulation, a practice that parallels the tawaf around the Kaaba.

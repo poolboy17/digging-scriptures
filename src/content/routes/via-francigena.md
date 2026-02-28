@@ -57,9 +57,9 @@ The French section, comprising roughly a third of the total distance, passes thr
 </figure>
 
 
-<img src="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Path" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/via-francigena-3-fe5d14.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="A sunlit path through the Tuscan countryside lined with cypress trees" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Path*
+*A sunlit path through the Tuscan countryside lined with cypress trees*
 
 
 The crossing of the Alps via the Great St. Bernard Pass, at 2,469 meters, represents the route's physical and psychological climax. The pass is typically accessible from June through October, and medieval pilgrims who arrived outside this window faced the choice of waiting or attempting the crossing in potentially lethal conditions. The hospice at the summit, with its famous rescue dogs, became legendary for the assistance it provided to travelers in distress. The descent into the Aosta Valley brings the pilgrim into Italy, where the shifts to Mediterranean vegetation and the cultural atmosphere becomes recognizably Italian.

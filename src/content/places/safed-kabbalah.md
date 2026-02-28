@@ -59,9 +59,9 @@ The annual celebration of Lag BaOmer draws hundreds of thousands of visitors to 
 
 
 
-<img src="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Jerusalem" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
+<img src="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800" srcset="/.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=320 320w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=480 480w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=640 640w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=800 800w, /.netlify/images?url=/images/content/inline/safed-kabbalah-3-4be3aa.jpg&w=1080 1080w" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 800px" alt="Narrow stone alleyways in an ancient hilltop town in the Galilee" width="800" height="533" loading="lazy" decoding="async" style="border-radius:0.75rem;width:100%;height:auto;max-height:400px;object-fit:cover;" />
 
-*Jerusalem*
+*Narrow stone alleyways in an ancient hilltop town in the Galilee*
 
 
 The Ari Ashkenazi Synagogue, built in the sixteenth century and named for Isaac Luria, preserves the space where the Ari taught and prayed. The building's modest exterior belies an interior decorated with painted walls and an ornate ark housing Torah scrolls. Tradition holds that the Ari received mystical insights in this space, and visitors report a palpable atmosphere of concentrated spirituality. The adjacent Ari Sephardi Synagogue, also associated with Luria, preserves a cave where he is said to have studied with the prophet Elijah.
