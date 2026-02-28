@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import rehypeImageOptimize from './rehype-image-optimize.mjs';
 
 // ================================================================================
 // ASTRO CONFIGURATION — PILGRIMAGE SITE
@@ -54,6 +55,11 @@ export default defineConfig({
     
     // Site configuration
     site: 'https://diggingscriptures.com',
+    
+    // Markdown: auto-optimize images at build time
+    markdown: {
+        rehypePlugins: [rehypeImageOptimize],
+    },
     
     // Trailing slashes for clean URLs
     trailingSlash: 'never'
