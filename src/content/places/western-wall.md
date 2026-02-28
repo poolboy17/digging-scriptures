@@ -83,7 +83,7 @@ Shabbat (Friday evening through Saturday evening) transforms the Western Wall ex
 
 The Western Wall Tunnel tours require advance booking and typically last approximately seventy-five minutes. Tours are offered in multiple languages and provide archaeological and historical context that enriches understanding of the wall's significance. The tunnel exit emerges in the Muslim Quarter via a separate route from the entrance—an arrangement that occasionally generates friction during periods of political tension.
 
-The Western Wall is located within the Old City, accessible through the Jaffa Gate or Dung Gate (the nearest entrance). The surrounding Jewish Quarter, rebuilt after 1967, contains archaeological sites, synagogues, and the Cardo—a section of the Roman-era main street. Most visitors combine the Western Wall visit with the Old City's other major sites: the Church of the Holy Sepulchre and the Dome of the Rock, all within walking distance.
+The Western Wall is located within the Old City, accessible through the Jaffa Gate or Dung Gate (the nearest entrance). Our [Jerusalem planning guide](/cities/jerusalem/planning-your-jerusalem-pilgrimage) covers dress codes, Shabbat schedules, and access details for all of the Old City's sacred sites. The surrounding Jewish Quarter, rebuilt after 1967, contains archaeological sites, synagogues, and the Cardo—a section of the Roman-era main street. Most visitors combine the Western Wall visit with the Old City's other major sites: the Church of the Holy Sepulchre and the Dome of the Rock, all within walking distance.
 
 
 

@@ -43,6 +43,7 @@ const allPlaces = await getCollection('places', ({ data }) => !data.draft);
 const allRoutes = await getCollection('routes', ({ data }) => !data.draft);
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
 const allContext = await getCollection('context', ({ data }) => !data.draft);
+const allGuides = await getCollection('guides', ({ data }) => !data.draft && data.citySlug === citySlug);
 
 const placeMap = Object.fromEntries(allPlaces.map(p => [`places/${p.slug}`, p]));
 const routeMap = Object.fromEntries(allRoutes.map(r => [`routes/${r.slug}`, r]));
@@ -68,6 +69,15 @@ const routeSpokes = resolvedSpokes.filter(s => s.type === 'routes');
 const storySpokes = resolvedSpokes.filter(s => s.type === 'stories');
 const contextSpokes = resolvedSpokes.filter(s => s.type === 'context');
 
+// ── Resolve destination guides for this city ──
+const guideSpokes = allGuides.map(g => ({
+    type: g.data.guideType,
+    slug: g.slug,
+    title: g.data.title,
+    description: g.data.description,
+    url: `/cities/${citySlug}/${g.slug}`,
+}));
+
 // ── Sibling cities ──
 const allCities = await getCollection('cities', ({ data }) => !data.draft);
 const siblingCities = allCities
@@ -75,11 +85,15 @@ const siblingCities = allCities
     .map(c => ({ slug: c.slug, title: c.data.title, description: c.data.description }));
 
 // ── Stats ──
+const totalArticles = resolvedSpokes.length + guideSpokes.length;
 const heroStats = [
-    { label: `${resolvedSpokes.length} articles` },
+    { label: `${totalArticles} articles` },
     { label: `${placeSpokes.length} places` },
     { label: `${routeSpokes.length} routes` },
 ];
+if (guideSpokes.length > 0) {
+    heroStats.push({ label: `${guideSpokes.length} guides` });
+}
 if (faithTraditions && faithTraditions.length > 0) {
     heroStats.push({ label: faithTraditions.slice(0, 3).join(', ') });
 }
@@ -118,6 +132,23 @@ if (faithTraditions && faithTraditions.length > 0) {
             <section class="city-content">
                 <slot />
             </section>
+
+            <!-- PRACTICAL GUIDES (destination silo spokes) -->
+            {guideSpokes.length > 0 && (
+                <section class="city-spokes-section">
+                    <h2 class="city-spokes-heading">Practical Guides</h2>
+                    <div class="city-spokes-grid">
+                        {guideSpokes.map(spoke => (
+                            <SpokeCard
+                                href={spoke.url}
+                                type={spoke.type}
+                                title={spoke.title}
+                                description={spoke.description}
+                            />
+                        ))}
+                    </div>
+                </section>
+            )}
 
             <!-- SPOKE CARDS BY TYPE (shared SpokeCard component) -->
             {placeSpokes.length > 0 && (

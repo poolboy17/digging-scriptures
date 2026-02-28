@@ -98,7 +98,7 @@ The best visiting season is October through March, when temperatures are moderat
 
 
 
-This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi).
+This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi). See our [Varanasi planning guide](/cities/varanasi/planning-your-varanasi-pilgrimage) for ghat etiquette, temple access, and health tips.
 ## More on Faith-Based Journeys
 
 - [Jerusalem](/places/jerusalem) — Place

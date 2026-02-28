@@ -93,7 +93,7 @@ Friday prayers at Al-Aqsa draw the largest regular congregations, with tens of t
 
 
 
-This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem).
+This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths](/cities/jerusalem). See our [Jerusalem planning guide](/cities/jerusalem/planning-your-jerusalem-pilgrimage) for current Temple Mount access hours and dress code requirements.
 ## More on Islamic Pilgrimage
 
 - [Mecca](/places/mecca) — Place

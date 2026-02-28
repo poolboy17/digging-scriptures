@@ -105,7 +105,7 @@ Accommodation options range from religious guesthouses and convents that welcome
 
 
 
-This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome). Our [Rome planning guide](/cities/rome/planning-your-rome-pilgrimage) covers Vatican tickets and logistics, and our [4-day itinerary](/cities/rome/4-days-in-rome) maps the seven pilgrimage churches into a practical sequence.
 ## More on Christian Pilgrimage
 
 - [Lourdes](/places/lourdes) — Place

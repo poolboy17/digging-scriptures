@@ -98,7 +98,7 @@ The climate is notably cooler and wetter than the lowlands—temperatures averag
 
 
 
-This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto). Our [Japan planning guide](/cities/kyoto/planning-your-sacred-japan-trip) covers temple lodging bookings and trail logistics.
 ## More on Buddhist Pilgrimage
 
 - [Bodh Gaya](/places/bodh-gaya) — Place

@@ -136,7 +136,7 @@ The diversity of contemporary pilgrims extends to their motivations and framewor
 
 
 
-This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela). For practical preparation, see our [Camino planning guide](/cities/santiago-de-compostela/planning-your-camino-pilgrimage) and [last 100km itinerary](/cities/santiago-de-compostela/last-100km-camino-frances).
 ## More on Faith-Based Journeys
 
 - [Varanasi](/places/varanasi) — Place

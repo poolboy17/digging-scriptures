@@ -110,7 +110,7 @@ The route's passage through four countries and multiple linguistic regions adds 
 
 
 
-This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome).
+This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrimage City](/cities/rome). Our [Rome planning guide](/cities/rome/planning-your-rome-pilgrimage) covers what awaits at journey's end.
 ## More on Christian Pilgrimage
 
 - [Jerusalem Old City](/places/jerusalem-old-city) — Place

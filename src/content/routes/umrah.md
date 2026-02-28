@@ -102,7 +102,7 @@ Ramadan is the peak season for Umrah. The Prophet Muhammad stated that performin
 
 
 
-This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina). Our [Hajj and Umrah planning guide](/cities/mecca-and-medina/planning-your-hajj-or-umrah) covers the visa process and ritual requirements.
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

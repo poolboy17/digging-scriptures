@@ -103,7 +103,7 @@ Many pilgrims combine the Hajj with a visit to Medina, approximately 450 kilomet
 
 
 
-This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina).
+This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](/cities/mecca-and-medina). Our [complete Hajj itinerary](/cities/mecca-and-medina/complete-hajj-itinerary) walks through each ritual day in sequence.
 ## More on Islamic Pilgrimage
 
 - [Al-Aqsa and the Night Journey That Made Jerusalem Holy](/places/al-aqsa-mosque) — Place

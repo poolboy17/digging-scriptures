@@ -122,7 +122,7 @@ Some travelers engage organized pilgrimage programs that combine walking portion
 
 
 
-This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela).
+This article is part of our guide to [Santiago de Compostela and the Camino](/cities/santiago-de-compostela). Our [Camino planning guide](/cities/santiago-de-compostela/planning-your-camino-pilgrimage) covers route selection and preparation, and our [last 100km itinerary](/cities/santiago-de-compostela/last-100km-camino-frances) maps the final week stage by stage.
 ## More on Faith-Based Journeys
 
 - [Varanasi](/places/varanasi) — Place

@@ -97,7 +97,7 @@ Most visitors base themselves in Varanasi, where accommodation ranges from budge
 
 
 
-This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi).
+This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the Buddha's Path](/cities/varanasi). Our [3-day Varanasi itinerary](/cities/varanasi/3-days-in-varanasi) includes a half-day Sarnath circuit.
 ## More on Buddhist Pilgrimage
 
 - [Mount Koya](/places/mount-koya) — Place

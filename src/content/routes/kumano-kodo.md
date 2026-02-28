@@ -112,7 +112,7 @@ The Kumano Kodō demonstrates a model of pilgrimage route management that balanc
 
 
 
-This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto).
+This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancient Pilgrimages](/cities/kyoto). Our [7-day Japan itinerary](/cities/kyoto/7-days-in-sacred-japan) includes a 3-day Kumano Kodō trek.
 ## More on Buddhist Pilgrimage
 
 - [Bodh Gaya](/places/bodh-gaya) — Place

@@ -86,7 +86,7 @@ Non-Muslims are not currently permitted to enter the Dome of the Rock or al-Aqsa
 
 Security screening at the Mughrabi Gate can involve significant queues, particularly during tourist seasons. Modest dress is required, and items with religious symbols may draw scrutiny. Visitors should be aware that the site's political sensitivity means that access can be suspended without notice during periods of unrest or on politically significant dates.
 
-The Western Wall plaza, directly below the platform's western retaining wall, provides the nearest accessible point for Jewish worship. The juxtaposition of the two sites—Jewish prayers at the wall below, Islamic worship on the platform above—visually encapsulates the overlapping sacred geographies that define Jerusalem. Many visitors to the Dome of the Rock combine the visit with the Western Wall and the Church of the Holy Sepulchre, all within walking distance in the Old City.
+The Western Wall plaza, directly below the platform's western retaining wall, provides the nearest accessible point for Jewish worship. The juxtaposition of the two sites—Jewish prayers at the wall below, Islamic worship on the platform above—visually encapsulates the overlapping sacred geographies that define Jerusalem. Many visitors to the Dome of the Rock combine the visit with the Western Wall and the Church of the Holy Sepulchre, all within walking distance in the Old City. Our [3-day Jerusalem itinerary](/cities/jerusalem/3-days-in-jerusalem) sequences these sites to align with the Temple Mount's narrow access windows.
 
 
 
