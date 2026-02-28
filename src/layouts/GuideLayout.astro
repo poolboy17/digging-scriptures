@@ -1,0 +1,120 @@
+---
+/**
+ * ================================================================================
+ * GUIDE PAGE TEMPLATE
+ * ================================================================================
+ * Purpose: Practical destination guides (planning, walking, accommodation, etiquette, itineraries)
+ * Part of the city silo — nested under /cities/[city]/[slug]
+ * Word count target: 1500-2500 words
+ * 
+ * MONETIZATION: YES — Viator products where naturally relevant
+ * ================================================================================
+ */
+
+import BaseLayout from './BaseLayout.astro';
+import CdnImage from '../components/CdnImage.astro';
+import SpokeSidebar from '../components/SpokeSidebar.astro';
+import SpokeMobileToc from '../components/SpokeMobileToc.astro';
+
+interface Props {
+    title: string;
+    description: string;
+    guideType: string;
+    citySlug: string;
+    cityTitle: string;
+    faithTraditions?: string[];
+    image?: string;
+    imageAlt?: string;
+    imageCredit?: string;
+}
+
+const guideTypeLabels: Record<string, string> = {
+    'planning': 'Planning Guide',
+    'walking': 'Walking Guide',
+    'accommodation': 'Where to Stay',
+    'etiquette': 'Etiquette & Access',
+    'itinerary': 'Itinerary',
+};
+
+const { 
+    title, 
+    description, 
+    guideType,
+    citySlug,
+    cityTitle,
+    faithTraditions,
+    image,
+    imageAlt,
+    imageCredit,
+} = Astro.props;
+
+const typeLabel = guideTypeLabels[guideType] || 'Guide';
+---
+
+<BaseLayout 
+    title={title} 
+    description={description}
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Cities', url: '/cities' },
+        { name: cityTitle, url: `/cities/${citySlug}` },
+        { name: typeLabel, url: Astro.url.pathname }
+    ]}
+    schema={{
+        "@context": "https://schema.org",
+        "@type": "TravelGuide",
+        "name": title,
+        "description": description,
+        "url": `https://diggingscriptures.com${Astro.url.pathname}`,
+        "about": {
+            "@type": "City",
+            "name": cityTitle
+        }
+    }}
+>
+    <article class="section">
+        <div class="container">
+
+        <SpokeMobileToc />
+        <div class="spoke-layout">
+        <div class="spoke-main">
+
+        
+            <!-- HERO IMAGE -->
+            {image && (
+                <div class="hero-image mb-8 rounded-xl overflow-hidden">
+                    <CdnImage src={image} alt={imageAlt || title} loading="eager" fetchpriority="high" width={1080} height={720} sizes="(max-width: 1080px) 100vw, 1080px" class="w-full object-cover rounded-xl" style="max-height:420px;" />
+                    {imageCredit && <p class="text-xs text-text-light mt-2">{imageCredit}</p>}
+                </div>
+            )}
+
+            <!-- HEADER -->
+            <header class="mb-10">
+                <div class="card-meta mb-4">
+                    <span class="badge">{typeLabel}</span>
+                    <a href={`/cities/${citySlug}`} class="hover:text-primary transition-colors">{cityTitle}</a>
+                </div>
+                <h1 class="mb-4">{title}</h1>
+                <p class="text-lg text-text-muted leading-relaxed">{description}</p>
+            </header>
+
+            <!-- ARTICLE CONTENT -->
+            <div class="content">
+                <slot />
+            </div>
+
+            <!-- BACK TO CITY HUB -->
+            <nav class="mt-12 pt-8 border-t border-border">
+                <a href={`/cities/${citySlug}`} class="inline-flex items-center gap-2 text-primary hover:underline">
+                    <span>←</span>
+                    <span>Back to {cityTitle} hub</span>
+                </a>
+            </nav>
+
+        </div>
+        <SpokeSidebar products={[]} productHeading="Plan Your Visit" />
+        </div>
+
+        </div>
+    </article>
+</BaseLayout>

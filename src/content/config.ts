@@ -277,11 +277,55 @@ const cities = defineCollection({
 });
 
 // ================================================================================
+// GUIDES COLLECTION
+// ================================================================================
+// Purpose: Practical destination guides (planning, walking, accommodation, etiquette, itineraries)
+// Part of the city silo — nested under /cities/[city]/[slug]
+// Monetization: YES — Viator products where naturally relevant
+// Word count target: 1500-2500 words
+// ================================================================================
+const guides = defineCollection({
+    type: 'content',
+    schema: z.object({
+        title: z.string().max(80),
+        description: z.string().max(160),
+        
+        // Guide categorization
+        guideType: z.enum([
+            'planning',
+            'walking',
+            'accommodation',
+            'etiquette',
+            'itinerary',
+        ]),
+        
+        // Parent city (must match a cities collection slug)
+        citySlug: z.string(),
+        
+        // Taxonomy
+        faithTraditions: z.array(z.string()).optional(),
+        
+        // Viator affiliate integration
+        viatorDestId: z.number().optional(),
+        
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        imageCredit: z.string().optional(),
+        
+        // SEO
+        lastUpdated: z.date().optional(),
+        draft: z.boolean().default(false),
+    }),
+});
+
+// ================================================================================
 // EXPORT COLLECTIONS
 // ================================================================================
 export const collections = {
     hubs,
     cities,
+    guides,
     places,
     routes,
     stories,

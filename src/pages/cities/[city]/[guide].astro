@@ -1,0 +1,54 @@
+---
+/**
+ * ================================================================================
+ * GUIDE PAGES ROUTE: /cities/[city]/[guide]
+ * ================================================================================
+ * Renders guide collection entries nested under their parent city
+ * Example: /cities/jerusalem/planning-your-pilgrimage
+ * Part of the geographic (city) silo
+ * ================================================================================
+ */
+
+import { getCollection } from 'astro:content';
+import GuideLayout from '../../../layouts/GuideLayout.astro';
+
+export async function getStaticPaths() {
+    const guides = await getCollection('guides', ({ data }) => !data.draft);
+    const cities = await getCollection('cities', ({ data }) => !data.draft);
+    
+    // Build a lookup for city titles
+    const cityTitles: Record<string, string> = {};
+    for (const city of cities) {
+        // Strip common suffixes for cleaner display
+        cityTitles[city.slug] = city.data.title.split(':')[0].trim();
+    }
+    
+    return guides.map((entry) => ({
+        params: { 
+            city: entry.data.citySlug,
+            guide: entry.slug,
+        },
+        props: { 
+            entry,
+            cityTitle: cityTitles[entry.data.citySlug] || entry.data.citySlug,
+        },
+    }));
+}
+
+const { entry, cityTitle } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<GuideLayout
+    title={entry.data.title}
+    description={entry.data.description}
+    guideType={entry.data.guideType}
+    citySlug={entry.data.citySlug}
+    cityTitle={cityTitle}
+    faithTraditions={entry.data.faithTraditions}
+    image={entry.data.image}
+    imageAlt={entry.data.imageAlt}
+    imageCredit={entry.data.imageCredit}
+>
+    <Content />
+</GuideLayout>
