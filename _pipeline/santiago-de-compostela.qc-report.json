@@ -1,0 +1,200 @@
+{
+  "slug": "santiago-de-compostela",
+  "passes": 19,
+  "fails": 13,
+  "total_words": 883,
+  "results": [
+    {
+      "category": "CONTENT",
+      "name": "Total words \u2265 2000",
+      "passed": false,
+      "detail": "883 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Intro' \u2264 500w",
+      "passed": true,
+      "detail": "142 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'The Legend of Saint James' \u2265 200w",
+      "passed": false,
+      "detail": "144 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'The Legend of Saint James' \u2264 500w",
+      "passed": true,
+      "detail": "144 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'The Camino Routes' \u2265 200w",
+      "passed": false,
+      "detail": "155 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'The Camino Routes' \u2264 500w",
+      "passed": true,
+      "detail": "155 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Medieval Pilgrims on the Camin' \u2265 200w",
+      "passed": false,
+      "detail": "121 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Medieval Pilgrims on the Camin' \u2264 500w",
+      "passed": true,
+      "detail": "121 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'The Modern Camino Revival' \u2265 200w",
+      "passed": false,
+      "detail": "148 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'The Modern Camino Revival' \u2264 500w",
+      "passed": true,
+      "detail": "148 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Arriving in Santiago' \u2265 200w",
+      "passed": false,
+      "detail": "153 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Arriving in Santiago' \u2264 500w",
+      "passed": true,
+      "detail": "153 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Readability (Flesch 40-65)",
+      "passed": false,
+      "detail": "Flesch score: 30.9"
+    },
+    {
+      "category": "CONTENT",
+      "name": "No sentences > 45 words",
+      "passed": false,
+      "detail": "1 long sentences"
+    },
+    {
+      "category": "CONTENT",
+      "name": "No duplicate H2 headings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "category": "LINKS",
+      "name": "All spokes linked in prose",
+      "passed": true,
+      "detail": "all linked"
+    },
+    {
+      "category": "LINKS",
+      "name": "No broken internal links",
+      "passed": true,
+      "detail": "all valid"
+    },
+    {
+      "category": "LINKS",
+      "name": "Links to tradition hub (cross-silo)",
+      "passed": false,
+      "detail": "0 hub links"
+    },
+    {
+      "category": "LINKS",
+      "name": "Links to \u2265 2 sibling cities",
+      "passed": false,
+      "detail": "0 sibling links"
+    },
+    {
+      "category": "SEO",
+      "name": "Title \u2264 80 chars",
+      "passed": true,
+      "detail": "37 chars"
+    },
+    {
+      "category": "SEO",
+      "name": "Description \u2264 160 chars",
+      "passed": true,
+      "detail": "146 chars"
+    },
+    {
+      "category": "SEO",
+      "name": "Primary keyword in first 100 words",
+      "passed": true,
+      "detail": "Looking for 'santiago de compostela' variants"
+    },
+    {
+      "category": "SEO",
+      "name": "Image alt \u2265 5 words",
+      "passed": true,
+      "detail": "'The grand fa\u00e7ade of Santiago de Compostela Cathedr' (11 words)"
+    },
+    {
+      "category": "SEO",
+      "name": "Keyword density < 3%",
+      "passed": true,
+      "detail": "1.9%"
+    },
+    {
+      "category": "VIATOR",
+      "name": "Experiences section present",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "category": "VIATOR",
+      "name": "\u2265 3 affiliate product links",
+      "passed": false,
+      "detail": "0 Viator links"
+    },
+    {
+      "category": "VIATOR",
+      "name": "Tracking PIDs present",
+      "passed": true,
+      "detail": "0/0 have PID"
+    },
+    {
+      "category": "VIATOR",
+      "name": "Browse-all link present",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "Frontmatter has title",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "Frontmatter has description",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "Frontmatter has spokes",
+      "passed": true,
+      "detail": "8 spokes"
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "\u2265 5 H2 sections",
+      "passed": true,
+      "detail": "5 sections"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "slug": "varanasi",
+  "passes": 23,
+  "fails": 11,
+  "total_words": 1081,
+  "results": [
+    {
+      "category": "CONTENT",
+      "name": "Total words \u2265 2000",
+      "passed": false,
+      "detail": "1081 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Intro' \u2264 500w",
+      "passed": true,
+      "detail": "125 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Varanasi: The City That Never ' \u2265 200w",
+      "passed": true,
+      "detail": "215 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Varanasi: The City That Never ' \u2264 500w",
+      "passed": true,
+      "detail": "215 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Bodh Gaya: Where the Buddha Aw' \u2265 200w",
+      "passed": true,
+      "detail": "220 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Bodh Gaya: Where the Buddha Aw' \u2264 500w",
+      "passed": true,
+      "detail": "220 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Sarnath: The First Teaching' \u2265 200w",
+      "passed": false,
+      "detail": "124 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Sarnath: The First Teaching' \u2264 500w",
+      "passed": true,
+      "detail": "124 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Lumbini: The Buddha's Birthpla' \u2265 200w",
+      "passed": false,
+      "detail": "108 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Lumbini: The Buddha's Birthpla' \u2264 500w",
+      "passed": true,
+      "detail": "108 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Mount Kailash: The Sacred Moun' \u2265 200w",
+      "passed": false,
+      "detail": "131 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Mount Kailash: The Sacred Moun' \u2264 500w",
+      "passed": true,
+      "detail": "131 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiencing India's Sacred Ge' \u2265 200w",
+      "passed": false,
+      "detail": "128 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Section 'Experiencing India's Sacred Ge' \u2264 500w",
+      "passed": true,
+      "detail": "128 words"
+    },
+    {
+      "category": "CONTENT",
+      "name": "Readability (Flesch 40-65)",
+      "passed": true,
+      "detail": "Flesch score: 38.7"
+    },
+    {
+      "category": "CONTENT",
+      "name": "No sentences > 45 words",
+      "passed": false,
+      "detail": "1 long sentences"
+    },
+    {
+      "category": "CONTENT",
+      "name": "No duplicate H2 headings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "category": "LINKS",
+      "name": "All spokes linked in prose",
+      "passed": true,
+      "detail": "all linked"
+    },
+    {
+      "category": "LINKS",
+      "name": "No broken internal links",
+      "passed": true,
+      "detail": "all valid"
+    },
+    {
+      "category": "LINKS",
+      "name": "Links to tradition hub (cross-silo)",
+      "passed": false,
+      "detail": "0 hub links"
+    },
+    {
+      "category": "LINKS",
+      "name": "Links to \u2265 2 sibling cities",
+      "passed": false,
+      "detail": "0 sibling links"
+    },
+    {
+      "category": "SEO",
+      "name": "Title \u2264 80 chars",
+      "passed": true,
+      "detail": "54 chars"
+    },
+    {
+      "category": "SEO",
+      "name": "Description \u2264 160 chars",
+      "passed": true,
+      "detail": "152 chars"
+    },
+    {
+      "category": "SEO",
+      "name": "Primary keyword in first 100 words",
+      "passed": true,
+      "detail": "Looking for 'varanasi' variants"
+    },
+    {
+      "category": "SEO",
+      "name": "Image alt \u2265 5 words",
+      "passed": true,
+      "detail": "'Evening aarti ceremony on the ghats of Varanasi wi' (15 words)"
+    },
+    {
+      "category": "SEO",
+      "name": "Keyword density < 3%",
+      "passed": true,
+      "detail": "0.8%"
+    },
+    {
+      "category": "VIATOR",
+      "name": "Experiences section present",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "category": "VIATOR",
+      "name": "\u2265 3 affiliate product links",
+      "passed": false,
+      "detail": "0 Viator links"
+    },
+    {
+      "category": "VIATOR",
+      "name": "Tracking PIDs present",
+      "passed": true,
+      "detail": "0/0 have PID"
+    },
+    {
+      "category": "VIATOR",
+      "name": "Browse-all link present",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "Frontmatter has title",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "Frontmatter has description",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "Frontmatter has spokes",
+      "passed": true,
+      "detail": "8 spokes"
+    },
+    {
+      "category": "STRUCTURE",
+      "name": "\u2265 5 H2 sections",
+      "passed": true,
+      "detail": "6 sections"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "jerusalem",
+  "title": "Jerusalem: The City Sacred to Three Faiths",
+  "target_words": 2000,
+  "sections": [
+    {
+      "heading": "Intro",
+      "current_words": 158,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "Jewish Pilgrimage to Jerusalem",
+      "current_words": 125,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "Christian Pilgrimage to Jerusalem",
+      "current_words": 133,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "Islamic Pilgrimage to Jerusalem",
+      "current_words": 122,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "The Old City: One Square Kilometer of Sacred Geography",
+      "current_words": 161,
+      "target_words": 250,
+      "internal_links": []
+    },
+    {
+      "heading": "Beyond the Walls",
+      "current_words": 131,
+      "target_words": 250,
+      "internal_links": [
+        "/places/hebron-cave-patriarchs",
+        "/places/rachels-tomb"
+      ]
+    },
+    {
+      "heading": "Experiencing Jerusalem Today",
+      "current_words": 174,
+      "target_words": 250,
+      "internal_links": []
+    }
+  ],
+  "spoke_inventory": [
+    "places/jerusalem",
+    "places/jerusalem-old-city",
+    "places/dome-of-the-rock",
+    "places/al-aqsa-mosque",
+    "places/western-wall",
+    "places/hebron-cave-patriarchs",
+    "places/rachels-tomb",
+    "routes/temple-mount-ascent",
+    "context/aliyah-leregel",
+    "context/three-pilgrim-festivals-judaism",
+    "stories/helena-and-the-true-cross",
+    "stories/egeria-first-pilgrim-writer",
+    "places/mount-meron",
+    "places/safed-kabbalah",
+    "stories/rabbi-nachman-journey-to-israel",
+    "context/diaspora-pilgrimage"
+  ],
+  "viator_dest_id": 921,
+  "spoke_coverage": {
+    "total": 16,
+    "linked": 2,
+    "unlinked": [
+      "places/jerusalem",
+      "places/jerusalem-old-city",
+      "places/dome-of-the-rock",
+      "places/al-aqsa-mosque",
+      "places/western-wall",
+      "routes/temple-mount-ascent",
+      "context/aliyah-leregel",
+      "context/three-pilgrim-festivals-judaism",
+      "stories/helena-and-the-true-cross",
+      "stories/egeria-first-pilgrim-writer",
+      "places/mount-meron",
+      "places/safed-kabbalah",
+      "stories/rabbi-nachman-journey-to-israel",
+      "context/diaspora-pilgrimage"
+    ]
+  }
+}
