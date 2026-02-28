@@ -2,13 +2,13 @@
   "slug": "santiago-de-compostela",
   "passes": 33,
   "fails": 1,
-  "total_words": 1817,
+  "total_words": 1898,
   "results": [
     {
       "category": "CONTENT",
       "name": "Total words \u2265 2000",
       "passed": false,
-      "detail": "1817 words"
+      "detail": "1898 words"
     },
     {
       "category": "CONTENT",
@@ -44,25 +44,25 @@
       "category": "CONTENT",
       "name": "Section 'Medieval Pilgrims on the Camin' \u2265 200w",
       "passed": true,
-      "detail": "269 words"
+      "detail": "322 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'Medieval Pilgrims on the Camin' \u2264 500w",
       "passed": true,
-      "detail": "269 words"
+      "detail": "322 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Modern Camino Revival' \u2265 200w",
       "passed": true,
-      "detail": "279 words"
+      "detail": "307 words"
     },
     {
       "category": "CONTENT",
       "name": "Section 'The Modern Camino Revival' \u2264 500w",
       "passed": true,
-      "detail": "279 words"
+      "detail": "307 words"
     },
     {
       "category": "CONTENT",
@@ -92,7 +92,7 @@
       "category": "CONTENT",
       "name": "Readability (Flesch 40-65)",
       "passed": true,
-      "detail": "Flesch score: 41.6"
+      "detail": "Flesch score: 42.3"
     },
     {
       "category": "CONTENT",
@@ -158,7 +158,7 @@
       "category": "SEO",
       "name": "Keyword density < 3%",
       "passed": true,
-      "detail": "2.0%"
+      "detail": "1.9%"
     },
     {
       "category": "VIATOR",
