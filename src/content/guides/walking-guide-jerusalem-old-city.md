@@ -110,6 +110,10 @@ Carry water at all times — the Old City has limited public water fountains. Su
 
 The walks can be done independently or combined with guided tours. For the Via Dolorosa and Temple Mount especially, a knowledgeable guide adds context that transforms numbered stations into living narrative. See our [3-day itinerary](/cities/jerusalem/3-days-in-jerusalem) for how to sequence these walks across multiple days.
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Jerusalem's sacred sites](/cities/jerusalem/etiquette-jerusalem).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/jerusalem/where-to-stay-jerusalem).
+
 ## Experiences and Tours
 
 **[Best seller! Jerusalem old city four quarters tour](https://www.viator.com/tours/Jerusalem/Israel-tours/d921-324805P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $450 · ★ 5.0 (148 reviews)

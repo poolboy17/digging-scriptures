@@ -103,6 +103,8 @@ The Hajj connects to a pilgrimage tradition as old as the patriarch Ibrahim, who
 ## More Hajj and Umrah Guides
 
 Our [complete Hajj itinerary](/cities/mecca-and-medina/complete-hajj-itinerary) walks through each ritual day in sequence. The [Hajj walking guide](/cities/mecca-and-medina/walking-guide-hajj-rituals) covers distances and physical demands of tawaf, sa'i, and the transit between sites. For Mecca hotels, Mina tents, and Medina lodging, see [where to stay for Hajj](/cities/mecca-and-medina/where-to-stay-hajj).
+For dress codes, photography rules, and site-specific protocols, see our [Hajj and Umrah etiquette guide](/cities/mecca-and-medina/etiquette-hajj).
+
 ## Experiences and Tours
 
 **[Private Guided Spiritual Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 (97 reviews)

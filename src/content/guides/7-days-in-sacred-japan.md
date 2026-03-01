@@ -101,6 +101,10 @@ Luggage forwarding on the Kumano Kodō must be arranged in advance through the T
 
 For the broader spiritual context of this journey, explore the [Buddhist pilgrimage traditions](/journeys/buddhist-pilgrimage-paths) hub page. The Kumano Kodō's twinning with the [Camino de Santiago](/cities/santiago-de-compostela) means completing both earns the Dual Pilgrim certificate.
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Japan's shrines and temples](/cities/kyoto/etiquette-japan).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/kyoto/where-to-stay-kyoto).
+
 ## Experiences and Tours
 
 **[Kyoto: Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 (63 reviews)

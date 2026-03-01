@@ -99,6 +99,10 @@ The Nakahechi is well-marked with bilingual signs (Japanese and English) and num
 
 For the broader spiritual context of what you are walking through — and to see how this trail fits into a complete week including Kyoto temples and Mount Kōya — see our [7-day Sacred Japan itinerary](/cities/kyoto/7-days-in-sacred-japan). Also explore our articles on the [Kumano Kodō](/routes/kumano-kodo) route history and [Buddhist pilgrimage traditions](/journeys/buddhist-pilgrimage-paths). For the parallel experience of long-distance pilgrimage in Europe, see our [Camino walking guide](/cities/santiago-de-compostela/last-100km-camino-frances).
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Japan's shrines and temples](/cities/kyoto/etiquette-japan).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/kyoto/where-to-stay-kyoto).
+
 ## Experiences and Tours
 
 **[Kyoto: Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 (63 reviews)

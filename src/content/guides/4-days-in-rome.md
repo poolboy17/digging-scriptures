@@ -104,6 +104,10 @@ A Roma Pass (72-hour version) covers unlimited public transport and two museum e
 
 For the spiritual and historical context behind these sites, explore the [history of Christian pilgrimage](/context/history-of-christian-pilgrimage) and the [Christian pilgrimage traditions](/journeys/christian-pilgrimage-traditions) hub page. Rome connects naturally to [Jerusalem](/cities/jerusalem) — where the stories these churches commemorate began — and to [Santiago](/cities/santiago-de-compostela), the third point in the medieval pilgrimage triangle.
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Rome's churches and the Vatican](/cities/rome/etiquette-rome).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/rome/where-to-stay-rome).
+
 ## Experiences and Tours
 
 **[Private Tour - City Center ](https://www.viator.com/tours/Rome/Private-Tour-City-Center/d511-47029P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $138 · ★ 5.0 (163 reviews)

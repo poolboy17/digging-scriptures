@@ -107,6 +107,10 @@ Stay near Assi Ghat or Dashashwamedh Ghat for the easiest access to both the riv
 
 For the complete practical information on health, transport, and budget, see our [Varanasi planning guide](/cities/varanasi/planning-your-varanasi-pilgrimage).
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Varanasi's ghats and temples](/cities/varanasi/etiquette-varanasi).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/varanasi/where-to-stay-varanasi).
+
 ## Experiences and Tours
 
 **[Walking tours - for an authentic Varanasi experience ](https://www.viator.com/tours/Varanasi/Walking-Tours/d22015-69335P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (40 reviews)

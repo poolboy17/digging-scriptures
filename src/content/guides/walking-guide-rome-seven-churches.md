@@ -120,6 +120,10 @@ Philip Neri understood something that modern pilgrims rediscover on this route: 
 
 For the theological and historical context that connects these seven churches to the broader [history of Christian pilgrimage](/context/history-of-christian-pilgrimage), and to understand how Rome became one of the three great medieval pilgrimage destinations alongside [Jerusalem](/cities/jerusalem) and [Santiago de Compostela](/cities/santiago-de-compostela), explore our tradition hub on [Christian pilgrimage traditions](/journeys/christian-pilgrimage-traditions).
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Rome's churches and the Vatican](/cities/rome/etiquette-rome).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/rome/where-to-stay-rome).
+
 ## Experiences and Tours
 
 **[Private Tour - City Center ](https://www.viator.com/tours/Rome/Private-Tour-City-Center/d511-47029P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $138 · ★ 5.0 (163 reviews)

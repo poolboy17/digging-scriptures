@@ -102,6 +102,10 @@ The Old City is roughly one square kilometer. Everything on Days 1 and 2 is walk
 
 For more on access rules, Shabbat schedules, dress codes, and budget planning, see our comprehensive [Jerusalem planning guide](/cities/jerusalem/planning-your-jerusalem-pilgrimage) and [Old City walking guide](/cities/jerusalem/walking-guide-jerusalem-old-city). For the broader theological context of what you encounter at each site, explore the [Christian pilgrimage traditions](/journeys/christian-pilgrimage-traditions) and [Islamic pilgrimage traditions](/journeys/islamic-pilgrimage-traditions) hub pages.
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Jerusalem's sacred sites](/cities/jerusalem/etiquette-jerusalem).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/jerusalem/where-to-stay-jerusalem).
+
 ## Experiences and Tours
 
 **[Best seller! Jerusalem old city four quarters tour](https://www.viator.com/tours/Jerusalem/Israel-tours/d921-324805P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $450 · ★ 5.0 (148 reviews)

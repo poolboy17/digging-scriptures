@@ -102,6 +102,10 @@ Touts and boat operators will approach frequently, especially at Dashashwamedh a
 
 For the broader context of what makes Varanasi sacred — the theology of moksha, the role of the Ganges in Hindu cosmology, and the city's place in the wider geography of Indian pilgrimage — explore our [Varanasi city hub](/cities/varanasi).
 
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Varanasi's ghats and temples](/cities/varanasi/etiquette-varanasi).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/varanasi/where-to-stay-varanasi).
+
 ## Experiences and Tours
 
 **[Walking tours - for an authentic Varanasi experience ](https://www.viator.com/tours/Varanasi/Walking-Tours/d22015-69335P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (40 reviews)

@@ -97,6 +97,8 @@ The [psychology of pilgrimage](/context/psychology-of-pilgrimage) — why walkin
 ## More Camino Guides
 
 Our [stage-by-stage walking guide](/cities/santiago-de-compostela/walking-guide-camino-frances-stages) breaks the full Francés into five geographic phases. The [last 100km itinerary](/cities/santiago-de-compostela/last-100km-camino-frances) maps Sarria to Santiago day by day. For albergues, private hostels, and booking strategy, see [where to stay on the Camino](/cities/santiago-de-compostela/where-to-stay-camino).
+For dress codes, photography rules, and site-specific protocols, see our [Camino etiquette guide](/cities/santiago-de-compostela/etiquette-camino).
+
 ## Experiences and Tours
 
 **[Secrets of Compostela Private Tour](https://www.viator.com/tours/Santiago-de-Compostela/Walking-Tour-of-the-Secrets-of-Santiago-de-Compostela/d565-281562P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $60 · ★ 5.0 (24 reviews)

@@ -102,6 +102,8 @@ The practical preparation in this guide creates space for that intensity to reac
 ## More Varanasi Guides
 
 Our [3-day itinerary](/cities/varanasi/3-days-in-varanasi) structures the experience from dawn boat rides through the temple circuit to Sarnath. The [ghat walking guide](/cities/varanasi/walking-guide-varanasi-ghats) covers the essential stretch from Assi to Manikarnika. For old city guesthouses versus modern hotels, see [where to stay in Varanasi](/cities/varanasi/where-to-stay-varanasi).
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Varanasi's ghats and temples](/cities/varanasi/etiquette-varanasi).
+
 ## Experiences and Tours
 
 **[Walking tours - for an authentic Varanasi experience ](https://www.viator.com/tours/Varanasi/Walking-Tours/d22015-69335P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (40 reviews)

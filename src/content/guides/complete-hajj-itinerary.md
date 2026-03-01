@@ -134,6 +134,10 @@ The Hajj is intensely communal — you are never alone, which is both its power 
 
 For the theological context that transforms these physical rituals into spiritual practice, explore the [five pillars and the Hajj's place within Islam](/context/five-pillars-hajj-explained), the story of [Ibn Battuta](/stories/ibn-battuta-pilgrim-traveler) whose legendary journey began as a Hajj pilgrimage, and the broader [Islamic pilgrimage traditions](/journeys/islamic-pilgrimage-traditions) hub page.
 
+For dress codes, photography rules, and site-specific protocols, see our [Hajj and Umrah etiquette guide](/cities/mecca-and-medina/etiquette-hajj).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/mecca-and-medina/where-to-stay-hajj).
+
 ## Experiences and Tours
 
 **[Private Guided Spiritual Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 (97 reviews)

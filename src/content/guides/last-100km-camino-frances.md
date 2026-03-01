@@ -87,6 +87,10 @@ Galician weather is unpredictable — rain gear is essential even in summer. The
 
 For the broader story of why this route exists and what draws hundreds of thousands of people to walk it each year, explore the [Legend of Saint James](/stories/legend-of-saint-james), the [Camino de Santiago](/routes/camino-de-santiago) route page, and the [history of Christian pilgrimage](/context/history-of-christian-pilgrimage) that connects Santiago to [Rome](/cities/rome) and [Jerusalem](/cities/jerusalem) as the three great medieval pilgrimage destinations.
 
+For dress codes, photography rules, and site-specific protocols, see our [Camino etiquette guide](/cities/santiago-de-compostela/etiquette-camino).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/santiago-de-compostela/where-to-stay-camino).
+
 ## Experiences and Tours
 
 **[Secrets of Compostela Private Tour](https://www.viator.com/tours/Santiago-de-Compostela/Walking-Tour-of-the-Secrets-of-Santiago-de-Compostela/d565-281562P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $60 · ★ 5.0 (24 reviews)

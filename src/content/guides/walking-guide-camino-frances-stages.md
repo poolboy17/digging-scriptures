@@ -84,6 +84,10 @@ Albergues (pilgrim hostels) are spaced every 5-10 kilometers along the route. Mu
 
 The Camino connects to the broader [history of Christian pilgrimage](/context/history-of-christian-pilgrimage) and to Rome and Jerusalem as the three great medieval pilgrimage destinations. For the psychological dimension of why walking long distances changes people, see our article on the [psychology of pilgrimage](/context/psychology-of-pilgrimage).
 
+For dress codes, photography rules, and site-specific protocols, see our [Camino etiquette guide](/cities/santiago-de-compostela/etiquette-camino).
+
+For neighborhood advice and lodging options, see our [accommodation guide](/cities/santiago-de-compostela/where-to-stay-camino).
+
 ## Experiences and Tours
 
 **[Secrets of Compostela Private Tour](https://www.viator.com/tours/Santiago-de-Compostela/Walking-Tour-of-the-Secrets-of-Santiago-de-Compostela/d565-281562P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $60 · ★ 5.0 (24 reviews)

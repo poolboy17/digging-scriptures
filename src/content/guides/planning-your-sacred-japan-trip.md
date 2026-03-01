@@ -90,6 +90,8 @@ Kyoto itself is the starting point and the spiritual context for everything that
 ## More Japan Guides
 
 Our [7-day itinerary](/cities/kyoto/7-days-in-sacred-japan) maps a journey from Kyoto temples through Kōya-san to the Kumano Kodō. The [Nakahechi walking guide](/cities/kyoto/walking-guide-kumano-kodo-nakahechi) covers each trail stage with distances and guesthouse stops. For temple lodging, ryokan, and trail accommodation, see [where to stay in sacred Japan](/cities/kyoto/where-to-stay-kyoto).
+For dress codes, photography rules, and site-specific protocols, see our [etiquette guide for Japan's shrines and temples](/cities/kyoto/etiquette-japan).
+
 ## Experiences and Tours
 
 **[Kyoto: Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 (63 reviews)
