@@ -49,6 +49,405 @@ const {
 } = Astro.props;
 
 const typeLabel = guideTypeLabels[guideType] || 'Guide';
+
+// FAQ data for rich snippets (extracted from guide H2 sections)
+const guideFaqs: Record<string, Array<{question: string, answer: string}>> = {
+    "3-days-in-jerusalem": [
+        {
+            "question": "What should pilgrims know about practical notes?",
+            "answer": "This itinerary works best starting on a Sunday, Monday, or Tuesday. Starting on Wednesday means Day 3's Temple Mount visit falls on a Friday, when non-Muslim access is closed. Starting on Thursday pushes Day 2 into Shabbat, when the Jewish Quarter shuts down."
+        }
+    ],
+    "3-days-in-varanasi": [
+        {
+            "question": "What should pilgrims know about practical notes?",
+            "answer": "This itinerary works in any season, though dawn boat rides may be suspended during heavy monsoon rains (July-September). Winter mornings (November-February) produce the most atmospheric river mist but require warm layers at 5:00am."
+        }
+    ],
+    "4-days-in-rome": [
+        {
+            "question": "What should pilgrims know about day 2: the four major basilicas?",
+            "answer": "Today covers four of the seven pilgrimage churches \u2014 all major basilicas with deep historical significance. This is the most walking-intensive day, covering roughly 12 kilometers, but Metro connections shorten the distances."
+        },
+        {
+            "question": "What should pilgrims know about practical notes?",
+            "answer": "The seven churches circuit is now complete across Days 1-3: St. Peter's (Day 1), St. John Lateran, Santa Croce, Santa Maria Maggiore, San Lorenzo (Day 2), St. Paul Outside the Walls, San Sebastiano (Day 3). This matches the traditional Philip Neri route spread across a manageable three-day framework"
+        }
+    ],
+    "7-days-in-sacred-japan": [
+        {
+            "question": "What should pilgrims know about practical notes?",
+            "answer": "This itinerary requires a 7-day JR Pass plus separate Nankai Railway tickets for the Mount K\u014dya transit. Our Nakahechi walking guide covers each stage in detail with elevation profiles and guesthouse stops. Book temple lodging and Kumano Kod\u014d guesthouses through Kumano Travel at least two weeks ahea"
+        }
+    ],
+    "complete-hajj-itinerary": [
+        {
+            "question": "What should pilgrims know about before the hajj: arriving in mecca?",
+            "answer": "Most pilgrims arrive 2-3 days before the Hajj begins to perform Umrah \u2014 the lesser pilgrimage that includes tawaf (seven circuits of the Kaaba) and sa'i (seven lengths between the hills of Safa and Marwa). Performing Umrah before Hajj is the practice known as Hajj al-Tamattu, the most common form."
+        },
+        {
+            "question": "What should pilgrims know about day 3 (10th dhul hijjah): eid al-adha?",
+            "answer": "This is the busiest and most complex day of the Hajj, with four major rituals performed in sequence."
+        },
+        {
+            "question": "What should pilgrims know about farewell tawaf?",
+            "answer": "Before leaving Mecca, every pilgrim must perform the Tawaf al-Wada (farewell circumambulation) \u2014 seven circuits of the Kaaba as the final act of the Hajj. This is performed in regular clothing (not ihram). The emotional weight of this final tawaf is profound \u2014 many pilgrims are unsure if they will e"
+        }
+    ],
+    "etiquette-camino": [
+        {
+            "question": "What is the Camino credencial and how does it work?",
+            "answer": "Your credencial (pilgrim passport) is both your identity document and your accommodation key on the Camino. You need it to access pilgrim albergues, and you need at least two stamps per day in the last 100 kilometers to qualify for the Compostela certificate in Santiago."
+        },
+        {
+            "question": "What are the etiquette rules in Camino albergues?",
+            "answer": "Albergues are shared spaces and the code of conduct is simple: be considerate of others."
+        },
+        {
+            "question": "What should pilgrims know about trail etiquette?",
+            "answer": "Greeting: say \"Buen Camino\" to fellow pilgrims. This is the universal greeting and farewell. It is almost always returned."
+        }
+    ],
+    "etiquette-hajj": [
+        {
+            "question": "What is the ihram state during Hajj?",
+            "answer": "Ihram is not just clothing \u2014 it is a state of spiritual purity entered with a specific intention (niyyah). For men, ihram consists of two unstitched white cloths \u2014 one wrapped around the waist, one draped over the left shoulder. No underwear, socks, or shoes that cover the ankles. Sandals are standa"
+        },
+        {
+            "question": "What should pilgrims know about inside the grand mosque (masjid al-haram)?",
+            "answer": "Enter with the right foot. Recite the dua for entering the mosque. Maintain wudu (ablution) at all times inside the mosque. Ablution facilities are available throughout the complex."
+        },
+        {
+            "question": "What should pilgrims know about sa'i: between safa and marwa?",
+            "answer": "Walk the seven lengths between Safa and Marwa in the designated corridor. Men should walk briskly between the green fluorescent markers. Women walk at normal pace throughout. Recite prayers or make dua during the walk."
+        }
+    ],
+    "etiquette-japan": [
+        {
+            "question": "What is the proper etiquette at Japanese Shinto shrines?",
+            "answer": "Torii gate: bow once before passing through. Walk to the side of the path \u2014 the center is reserved for the kami (deity). This is not strictly enforced but shows awareness."
+        },
+        {
+            "question": "What etiquette should visitors follow at Buddhist temples in Japan?",
+            "answer": "Buddhist temples follow different protocols than Shinto shrines. There is no clapping. Prayer is conducted silently with hands pressed together (gassho)."
+        },
+        {
+            "question": "What should pilgrims know about temple lodging (shukub\u014d)?",
+            "answer": "At Mount K\u014dya and other temple stays, additional protocols apply. Dinner is served at a set time (typically 5:30-6:00pm) \u2014 be punctual. Morning prayers (6:00am) are optional but attending shows respect. Walk quietly in corridors. The bath (ofuro) has specific hours \u2014 bathing before dinner is standar"
+        }
+    ],
+    "etiquette-jerusalem": [
+        {
+            "question": "What is the dress code for sacred sites in Jerusalem?",
+            "answer": "Modest dress is required at every sacred site in Jerusalem regardless of faith. For both men and women, this means shoulders covered and knees covered. Women should carry a scarf that can cover the head when needed. Men need a head covering (kippah) at the Western Wall and Jewish sites \u2014 free paper "
+        },
+        {
+            "question": "What etiquette should visitors follow at the Western Wall?",
+            "answer": "The Western Wall plaza is accessible 24 hours and free of charge. The prayer area is gender-separated \u2014 men on the left, women on the right. Approach the wall quietly. Many people are in deep prayer. You may touch the wall, place a written prayer in the cracks, and stand silently."
+        },
+        {
+            "question": "What are the access rules for the Temple Mount?",
+            "answer": "Non-Muslim access is restricted to specific morning hours (typically 7:30-11:00am, Sunday through Thursday) through the Mughrabi Gate only. Hours change without notice. Confirm the current schedule the evening before."
+        }
+    ],
+    "etiquette-rome": [
+        {
+            "question": "What should pilgrims know about dress code?",
+            "answer": "Every church in Rome enforces a dress code: shoulders covered, knees covered. This applies to everyone \u2014 men and women alike. St. Peter's Basilica, the Vatican Museums, and the major basilicas have guards who will turn you away."
+        },
+        {
+            "question": "What should pilgrims know about photography?",
+            "answer": "Photography rules vary by church. Most churches allow photography without flash. The Sistine Chapel prohibits all photography and video \u2014 guards enforce this. Santa Maria del Popolo, San Luigi dei Francesi (with the Caravaggio paintings), and several other art-significant churches prohibit photograp"
+        },
+        {
+            "question": "What should pilgrims know about behavior in churches?",
+            "answer": "Enter quietly. Dip your fingers in the holy water font at the entrance and make the sign of the cross if you are Catholic; otherwise simply enter respectfully. Do not walk in front of the altar during services. Sit in pews quietly if you want to rest."
+        }
+    ],
+    "etiquette-varanasi": [
+        {
+            "question": "What are the rules at Varanasi's cremation ghats?",
+            "answer": "This is the most important etiquette point in Varanasi: do not photograph the cremation ceremonies at Manikarnika or Harishchandra Ghat. This is strictly enforced and deeply offensive to the families present. It is not a spectacle \u2014 it is the most sacred moment of a family's life, the release of a s"
+        },
+        {
+            "question": "What should pilgrims know about photography?",
+            "answer": "Beyond the cremation ghats, photography in Varanasi requires constant judgment. The general principle: people bathing at the ghats are performing a sacred act. Photographing them without consent is invasive. Photographing the ghats themselves \u2014 the architecture, the stairs, the boats \u2014 is fine."
+        },
+        {
+            "question": "What should pilgrims know about temple access?",
+            "answer": "Kashi Vishwanath Temple (the Golden Temple) is open to Hindu visitors. Non-Hindus can access the viewing corridor (the Kashi Vishwanath Corridor) for views of the temple exterior but cannot enter the inner sanctum. Online booking reduces the queue from hours to minutes. No phones, cameras, bags, or "
+        }
+    ],
+    "last-100km-camino-frances": [
+        {
+            "question": "What should pilgrims know about getting to sarria?",
+            "answer": "Sarria is the starting point for most 100km pilgrims. The town is accessible by train from Madrid (5-6 hours via Ourense) or bus from Santiago (2.5 hours) or Lugo (45 minutes). Most pilgrims arrive the evening before they start walking, check into an albergue or hotel, and obtain their credencial st"
+        },
+        {
+            "question": "What should pilgrims know about stage 1: sarria to portomar\u00edn (22km)?",
+            "answer": "The first stage is the longest and tests whether your training was sufficient. Leave Sarria early \u2014 by 7:00am if possible \u2014 to spread the distance across the coolest hours. The trail descends to the R\u00edo Mi\u00f1o valley, passes through small villages with Romanesque churches, and crosses the modern bridg"
+        },
+        {
+            "question": "What should pilgrims know about stage 2: portomar\u00edn to palas de rei (25km)?",
+            "answer": "The longest stage in this itinerary. The terrain is forested and undulating, with no significant climbs but persistent small hills that accumulate fatigue. Pass through the hamlet of Castromaior (small Romanesque church worth a stop) and the village of Airexe before reaching Palas de Rei."
+        }
+    ],
+    "planning-your-camino-pilgrimage": [
+        {
+            "question": "What should pilgrims know about choosing your route?",
+            "answer": "The Camino de Santiago is not a single trail but a network of routes converging on Santiago de Compostela. The most popular options each offer a different experience."
+        },
+        {
+            "question": "What should pilgrims know about the credencial and the compostela?",
+            "answer": "The credencial del peregrino (pilgrim passport) is your essential document. It proves you walked the Camino and entitles you to stay in pilgrim-only albergues. Get it stamped at least once per day \u2014 at albergues, churches, bars, and tourist offices along the route. You can obtain a credencial from y"
+        },
+        {
+            "question": "What should pilgrims know about when to walk?",
+            "answer": "May, June, and September are the sweet spot \u2014 mild temperatures, long daylight, and manageable crowds. May offers wildflowers and green landscapes. September has the warmth of summer without the worst heat or crowds."
+        }
+    ],
+    "planning-your-hajj-or-umrah": [
+        {
+            "question": "What should pilgrims know about hajj vs. umrah: understanding the difference?",
+            "answer": "The Hajj is obligatory for every Muslim who is physically and financially able. It takes place during the 8th through 12th of Dhul Hijjah, the final month of the Islamic calendar. The dates shift roughly 11 days earlier each Gregorian year. The rituals span five days and include sites in Mecca, Mina"
+        },
+        {
+            "question": "What should pilgrims know about the visa process?",
+            "answer": "Hajj visas are issued through a quota system. Each country receives an allocation of Hajj visas based on its Muslim population. In the United States, approximately 12,000 Hajj visas are available annually. You must apply through a Saudi-authorized Hajj travel agency in your home country. The process"
+        },
+        {
+            "question": "What is the ihram state during Hajj?",
+            "answer": "Entering ihram is the first ritual act of both Hajj and Umrah. The pilgrim enters this state at designated boundary points called miqat before reaching Mecca."
+        }
+    ],
+    "planning-your-jerusalem-pilgrimage": [
+        {
+            "question": "What should pilgrims know about when to go?",
+            "answer": "Spring (March through May) and autumn (September through November) offer the best conditions. Temperatures are comfortable for walking, the light is beautiful for photography, and the major summer crowds have thinned. The shoulder seasons also align with important religious calendars: Easter and Pas"
+        },
+        {
+            "question": "What should pilgrims know about entry requirements and visas?",
+            "answer": "As of January 2025, most Western visitors need an ETA-IL (Electronic Travel Authorization) before arriving in Israel. The application is online, costs approximately $25, and is typically approved within 48-72 hours. Apply at least a week before travel. Your passport must be valid for six months beyo"
+        },
+        {
+            "question": "What should pilgrims know about dress codes by sacred site?",
+            "answer": "Dress code enforcement in Jerusalem is strict and varies by site. Arriving underdressed means being turned away after potentially long waits."
+        }
+    ],
+    "planning-your-rome-pilgrimage": [
+        {
+            "question": "What should pilgrims know about when to go?",
+            "answer": "Late autumn (October through November) and early spring (March through April) offer the best balance of tolerable weather and manageable crowds. Roman summers are brutal \u2014 temperatures above 35\u00b0C, relentless sun, and tourist volumes that turn Vatican queues into two-hour ordeals. If summer is unavoi"
+        },
+        {
+            "question": "What should pilgrims know about vatican access and queues?",
+            "answer": "The Vatican is the single site that breaks most Rome pilgrimage plans. Understanding how to navigate it saves hours."
+        },
+        {
+            "question": "What should pilgrims know about the seven pilgrimage churches?",
+            "answer": "The traditional Roman pilgrimage visits seven basilicas, a circuit established by Saint Philip Neri in the sixteenth century. The full walk covers roughly 20 kilometers. Most modern pilgrims spread this across two or three days rather than attempting it in one."
+        }
+    ],
+    "planning-your-sacred-japan-trip": [
+        {
+            "question": "What should pilgrims know about when to go?",
+            "answer": "Spring (late March through May) and autumn (October through November) are the ideal seasons. Cherry blossoms in spring and fiery maple leaves in autumn add visual splendor to the walking experience. Temperatures are mild \u2014 15-25\u00b0C \u2014 and rainfall is moderate."
+        },
+        {
+            "question": "What should pilgrims know about getting to the trails?",
+            "answer": "Kyoto is the natural gateway. All three major pilgrimage circuits \u2014 the Kumano Kod\u014d, the Shikoku 88 temples, and Mount K\u014dya \u2014 are accessible from the city."
+        },
+        {
+            "question": "What should pilgrims know about accommodation: temple lodging and guesthouses?",
+            "answer": "Shukub\u014d (temple lodging) on Mount K\u014dya is the signature accommodation experience of Japanese pilgrimage. Over fifty temples offer overnight stays that include Buddhist vegetarian dinner (sh\u014djin ry\u014dri), breakfast, and optional attendance at morning prayers (typically 6am). Prices range from \u00a510,000-2"
+        }
+    ],
+    "planning-your-varanasi-pilgrimage": [
+        {
+            "question": "What should pilgrims know about when to go?",
+            "answer": "October through March is the best window. Temperatures are comfortable (10-25\u00b0C), humidity is low, and the sky is clear enough for sunrise boat rides. November and February are ideal months \u2014 cool mornings create atmospheric mist on the Ganges that lifts as the sun rises, producing the most visually"
+        },
+        {
+            "question": "What should pilgrims know about entry requirements?",
+            "answer": "Most Western visitors obtain an Indian e-visa online before travel. The e-Tourist visa costs $10-80 depending on nationality and duration (30 days, 1 year, or 5 years). Apply at least 4 days before travel through the official Indian government portal. Processing typically takes 72 hours. Print a cop"
+        },
+        {
+            "question": "What should pilgrims know about the ghats: orientation and access?",
+            "answer": "Varanasi has 84 ghats stretching along a 7-kilometer curve of the Ganges. The five most important for pilgrims are Dashashwamedh Ghat (the main ceremonial ghat), Assi Ghat (the southern boundary, peaceful and popular with visitors), Manikarnika Ghat (the primary cremation ghat), Panchganga Ghat (whe"
+        }
+    ],
+    "walking-guide-camino-frances-stages": [
+        {
+            "question": "What should pilgrims know about phase 1: the pyrenees and navarra (days 1-7)?",
+            "answer": "Saint-Jean-Pied-de-Port to Estella \u2014 approximately 140km"
+        },
+        {
+            "question": "What should pilgrims know about practical notes?",
+            "answer": "The Camino Franc\u00e9s is marked with yellow arrows and scallop shell waymarkers. Navigation is straightforward \u2014 losing the trail is unusual and typically corrected within minutes."
+        }
+    ],
+    "walking-guide-hajj-rituals": [
+        {
+            "question": "What should pilgrims know about tawaf: circling the kaaba?",
+            "answer": "Distance: approximately 3.5 kilometers (7 circuits). Duration: 45 minutes to 2+ hours depending on crowd level and floor. Terrain: polished marble and stone \u2014 flat, smooth, climate-controlled indoors."
+        },
+        {
+            "question": "What should pilgrims know about sa'i: walking between safa and marwa?",
+            "answer": "Distance: approximately 3.5 kilometers (7 lengths). Duration: 1-2 hours. Terrain: enclosed, air-conditioned corridor with smooth flooring."
+        },
+        {
+            "question": "What should pilgrims know about mecca to mina (day 1)?",
+            "answer": "Distance: approximately 8 kilometers. Duration: variable \u2014 organized transport is standard."
+        }
+    ],
+    "walking-guide-jerusalem-old-city": [
+        {
+            "question": "What should pilgrims know about orientation: the four quarters?",
+            "answer": "The Old City divides into four unequal quarters, each with its own character, sounds, and rhythms."
+        },
+        {
+            "question": "What should pilgrims know about walk 1: the via dolorosa (1.5\u20132 hours)?",
+            "answer": "Best time: 7:00\u20139:00am before tour groups arrive, or Friday at 3:00pm when Franciscan friars lead a procession."
+        },
+        {
+            "question": "What should pilgrims know about walk 2: the jewish quarter and western wall (2\u20133 hours)?",
+            "answer": "Best time: any morning except Saturday (Shabbat). Friday morning works well \u2014 the quarter is active before the afternoon shutdown."
+        }
+    ],
+    "walking-guide-kumano-kodo-nakahechi": [
+        {
+            "question": "What should pilgrims know about route overview?",
+            "answer": "Total distance: approximately 70 kilometers from Takijiri-\u014dji to Kumano Nachi Taisha. Walking days: 4-5 (with a bus transfer for the final section). Elevation: cumulative climbing of approximately 2,500 meters across the route. Difficulty: moderate \u2014 the trails are well-maintained but involve signif"
+        },
+        {
+            "question": "What should pilgrims know about getting to the trailhead?",
+            "answer": "From Kyoto or Osaka, take the JR limited express to Kii-Tanabe station (3-4 hours from Kyoto with a change in Osaka). From Kii-Tanabe, a local bus runs to Takijiri (40 minutes, \u00a5950). The bus is not covered by the JR Pass \u2014 pay in cash with exact change."
+        },
+        {
+            "question": "What should pilgrims know about stage 1: takijiri-\u014dji to takahara (3.7km, 2-3 hours)?",
+            "answer": "Elevation gain: approximately 450 meters. Trail character: steep forest climb on stone steps and root-covered paths."
+        }
+    ],
+    "walking-guide-rome-seven-churches": [
+        {
+            "question": "What should pilgrims know about the route at a glance?",
+            "answer": "The traditional sequence, with approximate distances between churches:"
+        },
+        {
+            "question": "What should pilgrims know about completing the circuit?",
+            "answer": "Finishing at Santa Maria Maggiore places you near Termini station \u2014 well connected to any part of Rome by Metro, bus, or taxi. The traditional response to completing the seven-church circuit is to give thanks for the grace of the journey and to recognize that the physical walk through Rome's sacred "
+        }
+    ],
+    "walking-guide-varanasi-ghats": [
+        {
+            "question": "What should pilgrims know about the walk at a glance?",
+            "answer": "Route: Assi Ghat (south) to Adi Keshava Ghat (north). Essential stretch: Assi to Manikarnika \u2014 approximately 3 kilometers, 90 minutes without stops. Full walk: Assi to Adi Keshava \u2014 approximately 5 kilometers, 2.5-3 hours. Best time: dawn (5:00-8:00am) for bathing rituals and morning light, or late "
+        },
+        {
+            "question": "What should pilgrims know about practical notes?",
+            "answer": "The ghats are open 24 hours. The stone steps are uneven and can be slippery when wet \u2014 especially near the water's edge where algae accumulates. Sturdy shoes with grip are essential. Sandals are risky."
+        }
+    ],
+    "where-to-stay-camino": [
+        {
+            "question": "What should pilgrims know about albergues: the traditional pilgrim hostel?",
+            "answer": "Albergues are the backbone of the Camino. They exist solely for pilgrims walking or cycling the route and require a credencial (pilgrim passport) for entry. Three types operate along the Franc\u00e9s:"
+        },
+        {
+            "question": "What should pilgrims know about hotels, pensiones, and casa rurales?",
+            "answer": "Pilgrims who want private rooms have abundant options. Pensiones (small family-run hotels) line the Camino in every town of any size. Expect \u20ac25-50 for a private room with shared or private bathroom. Hotels are available in larger towns and cities for \u20ac40-80+."
+        },
+        {
+            "question": "What should pilgrims know about in santiago de compostela?",
+            "answer": "Santiago has accommodation across every price range. Pilgrim albergues in Santiago require arrival on foot with a credencial. The large public albergue on R\u00faa das Fonti\u00f1as is the traditional first-night stop \u2014 basic but located minutes from the cathedral."
+        }
+    ],
+    "where-to-stay-hajj": [
+        {
+            "question": "What should pilgrims know about mecca: distance from the haram?",
+            "answer": "Hotel pricing in Mecca is almost entirely determined by walking distance to the Grand Mosque (Masjid al-Haram). The Haram is the center of gravity \u2014 everything radiates outward from it."
+        },
+        {
+            "question": "What should pilgrims know about hajj-specific: mina tents and arafat?",
+            "answer": "During the Hajj ritual days, accommodation is not in hotels but in designated tent camps."
+        },
+        {
+            "question": "What should pilgrims know about choosing a hajj package?",
+            "answer": "Your Hajj agency determines your accommodation quality more than any individual hotel choice. When selecting an agency, ask specifically about:"
+        }
+    ],
+    "where-to-stay-jerusalem": [
+        {
+            "question": "Where should pilgrims stay inside Jerusalem's Old City?",
+            "answer": "Staying within the walls puts you steps from the Holy Sepulchre, the Western Wall, and the Via Dolorosa. The trade-off is noise, narrow lanes with luggage, and limited modern amenities."
+        },
+        {
+            "question": "Is the Mount of Olives a good base for pilgrims?",
+            "answer": "The Mount of Olives provides the iconic panoramic view of Jerusalem and proximity to Gethsemane, the Church of All Nations, and the Jewish cemetery. The neighborhood is quieter than the Old City and predominantly Arab. It is a 15-20 minute walk downhill to the Lions' Gate entrance (and a steep walk "
+        },
+        {
+            "question": "What should pilgrims know about east jerusalem (outside the walls)?",
+            "answer": "The area immediately north and east of the Old City \u2014 particularly around the Damascus Gate and Salah ad-Din Street \u2014 provides good access to the Muslim Quarter and the Old City's northern gates. This area is predominantly Palestinian and has its own vibrant market culture."
+        }
+    ],
+    "where-to-stay-kyoto": [
+        {
+            "question": "What should pilgrims know about kyoto: choosing your base?",
+            "answer": "Kyoto's sacred sites fan out from the city center in every direction. The best base depends on which temples are your priority and how you prefer to move."
+        },
+        {
+            "question": "What should pilgrims know about temple lodging on mount k\u014dya?",
+            "answer": "Mount K\u014dya (K\u014dya-san) has over 50 temples offering shukub\u014d \u2014 temple lodging. This is one of Japan's most distinctive accommodation experiences and an essential part of the K\u014dya-san pilgrimage."
+        },
+        {
+            "question": "What should pilgrims know about kumano kod\u014d trail: guesthouses and minshuku?",
+            "answer": "The Nakahechi route passes through small mountain villages with limited accommodation. Lodging must be booked in advance \u2014 there is no walk-in availability on most of the trail."
+        }
+    ],
+    "where-to-stay-rome": [
+        {
+            "question": "Where should pilgrims stay near the Vatican?",
+            "answer": "The most practical base for pilgrims whose primary focus is St. Peter's and the Vatican Museums. The Prati neighborhood, just north of the Vatican walls, is a residential area with good restaurants, wide streets, and easy Metro access (Ottaviano station, Line A)."
+        },
+        {
+            "question": "What should pilgrims know about historic center (centro storico)?",
+            "answer": "The dense heart of Rome \u2014 the Pantheon, Piazza Navona, the Trevi Fountain, and dozens of smaller churches are packed into a walkable area roughly 2 kilometers across. Staying here puts you at the center of Roman life but farther from the Vatican (30-minute walk or one Metro ride)."
+        },
+        {
+            "question": "What should pilgrims know about trastevere?",
+            "answer": "Across the Tiber from the historic center, Trastevere has cobblestone lanes, ivy-covered buildings, and the best evening atmosphere in Rome. Santa Maria in Trastevere \u2014 one of the oldest churches in Rome, with extraordinary twelfth-century mosaics \u2014 anchors the neighborhood's piazza."
+        }
+    ],
+    "where-to-stay-varanasi": [
+        {
+            "question": "What should pilgrims know about the old city: ghat-side guesthouses?",
+            "answer": "Staying in the old city puts the ghats at your doorstep. You can walk to the river for sunrise in two minutes. The trade-off is narrow lanes that no vehicle can enter (luggage must be carried the last 100-500 meters), erratic electricity, basic plumbing, and noise."
+        },
+        {
+            "question": "What should pilgrims know about heritage hotels?",
+            "answer": "A middle ground between ghat proximity and modern comfort. Several old city havelis (traditional mansions) have been converted into heritage hotels offering character, air conditioning, and functioning plumbing."
+        },
+        {
+            "question": "What should pilgrims know about cantonment and modern varanasi?",
+            "answer": "South of the old city, the Cantonment area and the neighborhoods along the main roads (Sigra, Lanka) have modern hotels with reliable amenities \u2014 consistent hot water, air conditioning, elevators, room service. These are 3-5 kilometers from the ghats, requiring auto-rickshaw rides (\u20b9100-200) each wa"
+        }
+    ]
+};
+
+const currentFaqs = guideFaqs[Astro.url.pathname.split('/').filter(Boolean).pop() || ''] || [];
+const faqSchema = currentFaqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": currentFaqs.map(faq => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": faq.answer
+        }
+    }))
+} : null;
+
 ---
 
 <BaseLayout 
@@ -61,17 +460,20 @@ const typeLabel = guideTypeLabels[guideType] || 'Guide';
         { name: cityTitle, url: `/cities/${citySlug}` },
         { name: typeLabel, url: Astro.url.pathname }
     ]}
-    schema={{
-        "@context": "https://schema.org",
-        "@type": "TravelGuide",
-        "name": title,
-        "description": description,
-        "url": `https://diggingscriptures.com${Astro.url.pathname}`,
-        "about": {
-            "@type": "City",
-            "name": cityTitle
-        }
-    }}
+    schema={[
+        {
+            "@context": "https://schema.org",
+            "@type": "TravelGuide",
+            "name": title,
+            "description": description,
+            "url": `https://diggingscriptures.com${Astro.url.pathname}`,
+            "about": {
+                "@type": "City",
+                "name": cityTitle
+            }
+        },
+        ...(faqSchema ? [faqSchema] : [])
+    ]}
 >
     <article class="section">
         <div class="container">
