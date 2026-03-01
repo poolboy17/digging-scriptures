@@ -87,6 +87,8 @@ Kyoto itself is the starting point and the spiritual context for everything that
 
 ## Experiences and Tours
 
+Our [7-day itinerary](/cities/kyoto/7-days-in-sacred-japan) maps a complete journey from Kyoto temples through Kōya-san to the Kumano Kodō, and our [Nakahechi walking guide](/cities/kyoto/walking-guide-kumano-kodo-nakahechi) covers the trail stage by stage.
+
 Guided experiences in Kyoto and the surrounding region open doors that independent visitors often miss. Temple ceremonies, tea rituals, and forest trail walks all benefit from local knowledge that connects the visible landscape to its spiritual significance.
 
 **[Kiyomizu Temple and Backstreets of Gion Walking Tour](https://www.viator.com/tours/Kyoto/Kiyomizu-Temple-and-Backstreets-of-Gion-Half-Day-Private-Tour/d332-21490P133?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $59 · ★ 5.0 (51 reviews) · Group tour

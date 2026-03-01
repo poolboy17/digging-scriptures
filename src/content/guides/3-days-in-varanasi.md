@@ -13,7 +13,7 @@ imageAlt: "Dawn breaking over the Varanasi ghats with pilgrims at the water's ed
 
 Three days in Varanasi lets you experience the city's three temporal rhythms: dawn on the river, the midday temple circuit, and the evening aarti ceremony. This itinerary organizes each day around a different dimension of sacred Varanasi — the river, the old city, and the Buddhist circuit — building from observation to participation as your comfort with the city deepens.
 
-Read our [Varanasi planning guide](/cities/varanasi/planning-your-varanasi-pilgrimage) for visa requirements, health precautions, and ghat etiquette before you arrive.
+Read our [Varanasi planning guide](/cities/varanasi/planning-your-varanasi-pilgrimage) for visa requirements, and our [ghat walking guide](/cities/varanasi/walking-guide-varanasi-ghats) for a detailed stretch-by-stretch breakdown, health precautions, and ghat etiquette before you arrive.
 
 ## Day 1: The River
 

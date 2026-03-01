@@ -97,7 +97,7 @@ The Nakahechi is well-marked with bilingual signs (Japanese and English) and num
 
 **Seasons**: spring (April-May) and autumn (October-November) are ideal. Summer is hot and humid with leeches on some forest sections. Winter is cold on the passes but quiet. The rainy season (mid-June to mid-July) makes the stone paths treacherous.
 
-For the broader spiritual context of what you are walking through, explore our articles on the [Kumano Kodō](/routes/kumano-kodo) route history and [Buddhist pilgrimage traditions](/journeys/buddhist-pilgrimage-paths). For the parallel experience of long-distance pilgrimage in Europe, see our [Camino walking guide](/cities/santiago-de-compostela/last-100km-camino-frances).
+For the broader spiritual context of what you are walking through — and to see how this trail fits into a complete week including Kyoto temples and Mount Kōya — see our [7-day Sacred Japan itinerary](/cities/kyoto/7-days-in-sacred-japan). Also explore our articles on the [Kumano Kodō](/routes/kumano-kodo) route history and [Buddhist pilgrimage traditions](/journeys/buddhist-pilgrimage-paths). For the parallel experience of long-distance pilgrimage in Europe, see our [Camino walking guide](/cities/santiago-de-compostela/last-100km-camino-frances).
 
 ## Experiences and Tours
 

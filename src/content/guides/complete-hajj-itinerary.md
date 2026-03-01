@@ -12,7 +12,7 @@ imageAlt: "Pilgrims circling the Kaaba during Hajj at the Grand Mosque in Mecca"
 
 The Hajj unfolds across five ritual days in the month of Dhul Hijjah, following a sequence established by the Prophet Muhammad during his farewell pilgrimage in 632 CE. Every Muslim who performs Hajj follows the same steps, in the same places, in the same order — a unity of practice that makes the Hajj the largest synchronized act of worship on earth.
 
-This itinerary walks through each day in sequence, explaining what happens, where, and what the pilgrim should expect physically and spiritually. Read our [Hajj planning guide](/cities/mecca-and-medina/planning-your-hajj-or-umrah) for visa logistics, ihram preparation, and health advice before departure.
+This itinerary walks through each day in sequence, explaining what happens, where, and what the pilgrim should expect physically and spiritually. Read our [Hajj planning guide](/cities/mecca-and-medina/planning-your-hajj-or-umrah) for visa logistics. Our [Hajj walking guide](/cities/mecca-and-medina/walking-guide-hajj-rituals) covers the physical demands and distances of each ritual, ihram preparation, and health advice before departure.
 
 ## Before the Hajj: Arriving in Mecca
 

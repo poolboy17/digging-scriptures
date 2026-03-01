@@ -112,6 +112,8 @@ Whatever tradition brings you to Jerusalem, the city rewards preparation. Arrive
 
 ## Experiences and Tours
 
+For a structured day-by-day approach, see our [3-day Jerusalem itinerary](/cities/jerusalem/3-days-in-jerusalem), and for detailed site-by-site navigation, our [Old City walking guide](/cities/jerusalem/walking-guide-jerusalem-old-city).
+
 Guided tours in Jerusalem provide access and context that independent visitors often miss. A knowledgeable guide navigates the access schedules, explains the layered history at each site, and handles logistics so you can focus on the experience. For first-time visitors especially, a guided walking tour of the Old City is the single best investment of time and money.
 
 **[Jerusalem Three Religions Holy City Walking Tour](https://www.viator.com/tours/Jerusalem/Jerusalem-Three-Religions-Holy-City-Walking-Tour/d1096-11454666?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $0 (free) · ★ 4.7 (2,500+ reviews) · Group walking tour

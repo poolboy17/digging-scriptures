@@ -99,6 +99,8 @@ The practical preparation in this guide creates space for that intensity to reac
 
 ## Experiences and Tours
 
+Our [3-day itinerary](/cities/varanasi/3-days-in-varanasi) structures the experience from dawn boat rides through the temple circuit to Sarnath, and our [ghat walking guide](/cities/varanasi/walking-guide-varanasi-ghats) covers the essential stretch from Assi to Manikarnika.
+
 A knowledgeable local guide transforms Varanasi from chaotic to comprehensible. The best guides explain not just what you are seeing but why it matters — the theology behind the cremation rituals, the symbolism of the aarti lamps, the stories embedded in each ghat's architecture.
 
 **[Morning Boat Ride and Walking Tour](https://www.viator.com/tours/Varanasi/Varanasi-Morning-Boat-Ride-Walking-Tour/d29093-29093MORNING?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $25 · ★ 4.9 · Dawn on the Ganges

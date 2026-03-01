@@ -94,6 +94,8 @@ The [psychology of pilgrimage](/context/psychology-of-pilgrimage) — why walkin
 
 ## Experiences and Tours
 
+Our [stage-by-stage walking guide](/cities/santiago-de-compostela/walking-guide-camino-frances-stages) breaks the full Francés into its five geographic phases, and our [last 100km itinerary](/cities/santiago-de-compostela/last-100km-camino-frances) maps the Sarria-to-Santiago stretch day by day.
+
 For pilgrims who want guidance on the final approach to Santiago, or who prefer a supported walking experience with luggage transfers and pre-booked accommodation, guided Camino services bridge the gap between fully independent walking and organized group tours.
 
 **[Santiago de Compostela Walking Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-de-Compostela-Walking-Tour/d5765-5765P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $15 · ★ 4.9 · Old town exploration

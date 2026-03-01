@@ -100,6 +100,8 @@ The Hajj connects to a pilgrimage tradition as old as the patriarch Ibrahim, who
 
 ## Experiences and Tours
 
+Our [complete Hajj itinerary](/cities/mecca-and-medina/complete-hajj-itinerary) walks through each ritual day in sequence, and our [Hajj walking guide](/cities/mecca-and-medina/walking-guide-hajj-rituals) covers the physical demands of tawaf, sa'i, and the transit between Mina, Arafat, and Muzdalifah.
+
 Guided ziyarat tours in Medina help pilgrims understand the historical and spiritual significance of sites that might otherwise be passed without full appreciation.
 
 **[Private Guided Spiritual Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 (97 reviews) · Private

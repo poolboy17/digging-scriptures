@@ -100,7 +100,7 @@ Comfortable walking shoes are essential — you will cover 8-12 kilometers per d
 
 The Old City is roughly one square kilometer. Everything on Days 1 and 2 is walkable. Day 3's Bethlehem trip requires transport — a taxi costs approximately 200-250 ILS roundtrip, or join a guided tour for about $50-80 per person.
 
-For more on access rules, Shabbat schedules, dress codes, and budget planning, see our comprehensive [Jerusalem planning guide](/cities/jerusalem/planning-your-jerusalem-pilgrimage). For the broader theological context of what you encounter at each site, explore the [Christian pilgrimage traditions](/journeys/christian-pilgrimage-traditions) and [Islamic pilgrimage traditions](/journeys/islamic-pilgrimage-traditions) hub pages.
+For more on access rules, Shabbat schedules, dress codes, and budget planning, see our comprehensive [Jerusalem planning guide](/cities/jerusalem/planning-your-jerusalem-pilgrimage) and [Old City walking guide](/cities/jerusalem/walking-guide-jerusalem-old-city). For the broader theological context of what you encounter at each site, explore the [Christian pilgrimage traditions](/journeys/christian-pilgrimage-traditions) and [Islamic pilgrimage traditions](/journeys/islamic-pilgrimage-traditions) hub pages.
 
 ## Experiences and Tours
 

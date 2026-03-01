@@ -98,7 +98,7 @@ Return train to Rome departs in the late afternoon. The journey back provides ti
 
 ## Practical Notes
 
-The seven churches circuit is now complete across Days 1-3: St. Peter's (Day 1), St. John Lateran, Santa Croce, Santa Maria Maggiore, San Lorenzo (Day 2), St. Paul Outside the Walls, San Sebastiano (Day 3). This matches the traditional Philip Neri route spread across a manageable three-day framework.
+The seven churches circuit is now complete across Days 1-3: St. Peter's (Day 1), St. John Lateran, Santa Croce, Santa Maria Maggiore, San Lorenzo (Day 2), St. Paul Outside the Walls, San Sebastiano (Day 3). This matches the traditional Philip Neri route spread across a manageable three-day framework. Our [seven churches walking guide](/cities/rome/walking-guide-rome-seven-churches) provides the complete route with distances and Metro shortcuts for each segment.
 
 A Roma Pass (72-hour version) covers unlimited public transport and two museum entries. Purchase it at any Metro station on Day 1.
 

@@ -88,6 +88,8 @@ Rome is not a destination you exhaust. It is a city that reveals itself in layer
 
 ## Experiences and Tours
 
+For the full seven-church route with distances and directions, see our [walking guide to the seven pilgrimage churches](/cities/rome/walking-guide-rome-seven-churches). Our [4-day itinerary](/cities/rome/4-days-in-rome) organizes the churches, catacombs, and an Assisi day trip into a practical sequence.
+
 Guided tours in Rome provide skip-the-line access that independent visitors cannot get, especially at the Vatican. A good guide transforms the Vatican Museums from an overwhelming maze into a curated encounter with two thousand years of Christian art.
 
 **[St. Peter's Basilica Dome Climb and Tour](https://www.viator.com/tours/Rome/Skip-the-Line-Vatican-Museums-Walking-Tour/d511-2660VATTOUR?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $36 · ★ 4.8 · Skip-the-line access

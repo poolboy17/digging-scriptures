@@ -95,11 +95,11 @@ Afternoon bus to Kii-Katsuura station, then JR train back to Osaka or Kyoto (3-4
 
 ## Practical Notes
 
-This itinerary requires a 7-day JR Pass plus separate Nankai Railway tickets for the Mount Kōya transit. Book temple lodging and Kumano Kodō guesthouses through [Kumano Travel](https://www.kumano-travel.com) at least two weeks ahead — capacity is limited and beds fill quickly in spring and autumn.
+This itinerary requires a 7-day JR Pass plus separate Nankai Railway tickets for the Mount Kōya transit. Our [Nakahechi walking guide](/cities/kyoto/walking-guide-kumano-kodo-nakahechi) covers each stage in detail with elevation profiles and guesthouse stops. Book temple lodging and Kumano Kodō guesthouses through [Kumano Travel](https://www.kumano-travel.com) at least two weeks ahead — capacity is limited and beds fill quickly in spring and autumn.
 
 Luggage forwarding on the Kumano Kodō must be arranged in advance through the Tanabe City Tourism Bureau. Walk with a daypack containing rain gear, water, snacks, and a warm layer.
 
-For the broader spiritual context of this journey, explore the [Buddhist pilgrimage traditions](/journeys/buddhist-pilgrimage-paths) and [Shinto and nature pilgrimage](/journeys/shinto-nature-pilgrimage) hub pages. The Kumano Kodō's twinning with the [Camino de Santiago](/cities/santiago-de-compostela) means completing both earns the Dual Pilgrim certificate.
+For the broader spiritual context of this journey, explore the [Buddhist pilgrimage traditions](/journeys/buddhist-pilgrimage-paths) hub page. The Kumano Kodō's twinning with the [Camino de Santiago](/cities/santiago-de-compostela) means completing both earns the Dual Pilgrim certificate.
 
 ## Experiences and Tours
 

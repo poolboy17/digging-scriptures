@@ -12,7 +12,7 @@ imageAlt: "A stone waymarker on the Camino de Santiago with a scallop shell dire
 
 The last 100 kilometers of the Camino Francés — from Sarria to Santiago de Compostela — is the most popular section of the entire Camino network. It meets the minimum distance requirement for the Compostela certificate, takes 5-7 days, and passes through the green rolling hills and eucalyptus forests of Galicia. For many pilgrims, this stretch serves as either an introduction to long-distance pilgrimage or the culmination of a longer journey.
 
-Read our [Camino planning guide](/cities/santiago-de-compostela/planning-your-camino-pilgrimage) for credencial logistics, packing advice, and training recommendations before departure.
+Read our [Camino planning guide](/cities/santiago-de-compostela/planning-your-camino-pilgrimage) for credencial logistics. Our [Camino Francés walking guide](/cities/santiago-de-compostela/walking-guide-camino-frances-stages) covers the full 800km route in five phases, packing advice, and training recommendations before departure.
 
 ## Getting to Sarria
 
