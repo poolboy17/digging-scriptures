@@ -322,6 +322,28 @@ const guides = defineCollection({
 // ================================================================================
 // EXPORT COLLECTIONS
 // ================================================================================
+
+// ================================================================================
+// BLOG COLLECTION
+// ================================================================================
+// Purpose: Timely articles, seasonal guides, news, and fresh content signals
+// Monetization: OPTIONAL — Viator links where relevant
+// ================================================================================
+const blog = defineCollection({
+    type: 'content',
+    schema: z.object({
+        title: z.string().max(80),
+        description: z.string().max(160),
+        publishDate: z.date(),
+        author: z.string().default('Digging Scriptures'),
+        tags: z.array(z.string()).optional(),
+        faithTraditions: z.array(z.string()).optional(),
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+        draft: z.boolean().default(false),
+    }),
+});
+
 export const collections = {
     hubs,
     cities,
@@ -330,4 +352,5 @@ export const collections = {
     routes,
     stories,
     context,
+    blog,
 };
