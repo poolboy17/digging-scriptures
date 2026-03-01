@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "About — Digging Scriptures";
+const description = "About Digging Scriptures — an independent research project documenting pilgrimage traditions, sacred places, and faith-based travel across world religions.";
+const breadcrumbs = [
+    { name: "Home", url: "/" },
+    { name: "About", url: "/about" },
+];
+
+const aboutSchema = {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "About Digging Scriptures",
+    "description": description,
+    "url": "https://diggingscriptures.com/about",
+    "isPartOf": {
+        "@type": "WebSite",
+        "name": "Digging Scriptures",
+        "url": "https://diggingscriptures.com"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Digging Scriptures",
+        "url": "https://diggingscriptures.com",
+        "description": "An independent research project documenting pilgrimage traditions and sacred travel across world religions.",
+        "foundingDate": "2025",
+        "sameAs": [
+            "https://github.com/poolboy17/digging-scriptures"
+        ]
+    }
+};
+---
+
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs} schema={aboutSchema}>
+    <div class="container section">
+        <article class="content" style="max-width: 65ch;">
+            <h1>About Digging Scriptures</h1>
+
+            <p>Digging Scriptures is an independent research project that documents pilgrimage traditions, sacred places, and faith-based travel across the world's religious traditions. The site covers Christianity, Islam, Judaism, Buddhism, Hinduism, and Shinto — from the via dolorosa in Jerusalem to the torii gates of Kyoto, from the Hajj rituals in Mecca to the albergues of the Camino de Santiago.</p>
+
+            <h2>What We Cover</h2>
+
+            <p>Our content falls into two categories. The <strong>tradition side</strong> examines the history, theology, and cultural significance of pilgrimage — why people have walked to sacred places for thousands of years, what the journeys meant in their original contexts, and how they've evolved into the modern era. The <strong>destination side</strong> provides practical guidance for people planning their own pilgrimages — itineraries, walking guides, accommodation options, etiquette, and the logistics that turn intention into experience.</p>
+
+            <p>We currently maintain in-depth coverage of six sacred cities — <a href="/cities/jerusalem">Jerusalem</a>, <a href="/cities/rome">Rome</a>, <a href="/cities/kyoto">Kyoto</a>, <a href="/cities/varanasi">Varanasi</a>, <a href="/cities/santiago-de-compostela">Santiago de Compostela</a>, and <a href="/cities/mecca-and-medina">Mecca and Medina</a> — with five practical guides for each destination covering planning, itineraries, walking routes, accommodation, and etiquette.</p>
+
+            <h2>Our Approach</h2>
+
+            <p>We aim to be accurate, respectful, and useful. Pilgrimage is a living practice across multiple faith traditions, and we treat it as such — not as a historical curiosity or a travel marketing category, but as something that matters deeply to billions of people.</p>
+
+            <p>Where we discuss theology, ritual, or religious history, we draw on scholarly sources and primary texts. Where we provide practical advice, we prioritize firsthand experience and current conditions over generic travel content. We distinguish clearly between what tradition teaches and what historians have documented, and we present debates honestly rather than flattening them.</p>
+
+            <p>We are not affiliated with any religious institution, denomination, or government. We do not advocate for any particular faith tradition. Our goal is to help people understand the world's pilgrimage traditions and — if they choose to participate — to do so with knowledge and respect.</p>
+
+            <h2>How We're Funded</h2>
+
+            <p>Digging Scriptures is funded through affiliate partnerships. When we link to tours, accommodation, or experiences through our partner Viator, we earn a small commission if you book through our link. This costs you nothing extra. We only recommend products and experiences that are relevant to the pilgrimage destinations we cover.</p>
+
+            <p>We do not accept sponsored content, paid reviews, or pay-for-coverage arrangements. Our editorial decisions are independent of our affiliate relationships. For full details, see our <a href="/affiliate-disclaimer">affiliate disclaimer</a>.</p>
+
+            <h2>Accuracy and Corrections</h2>
+
+            <p>We take accuracy seriously, particularly when writing about religious practices, sacred sites, and cultural traditions. If you find a factual error, an outdated access detail, or something we've misrepresented about a tradition or place, please let us know at <a href="mailto:hello@diggingscriptures.com">hello@diggingscriptures.com</a>. Corrections from readers — especially from practitioners and people with firsthand knowledge of the places we cover — make the site better for everyone.</p>
+
+            <h2>Contact</h2>
+
+            <p>For questions, feedback, partnership inquiries, or corrections, reach us at <a href="mailto:hello@diggingscriptures.com">hello@diggingscriptures.com</a> or visit our <a href="/contact">contact page</a>.</p>
+        </article>
+    </div>
+</BaseLayout>

@@ -23,14 +23,15 @@ import Footer from '../components/Footer.astro';
 interface Props {
     title: string;
     description: string;
+    image?: string;
     schema?: Record<string, any>;
     breadcrumbs?: { name: string; url: string }[];
 }
 
-const { title, description, schema, breadcrumbs } = Astro.props;
+const { title, description, image, schema, breadcrumbs } = Astro.props;
 const siteUrl = 'https://diggingscriptures.com';
 const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
-const ogImage = `${siteUrl}/images/og-default.jpg`;
+const ogImage = image ? `${siteUrl}${image}` : `${siteUrl}/images/og-default.jpg`;
 
 // Build WebSite schema (global on every page)
 const websiteSchema = {
