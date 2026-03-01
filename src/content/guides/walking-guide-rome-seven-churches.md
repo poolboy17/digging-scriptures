@@ -122,10 +122,12 @@ For the theological and historical context that connects these seven churches to
 
 ## Experiences and Tours
 
-**[Seven Churches Pilgrimage Walking Tour](https://www.viator.com/tours/Rome/Christian-Rome-and-Underground-Catacombs-Tour/d511-3589CATACOMBS?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $89 · ★ 4.7 · Guided with transport
+**[Private Tour - City Center ](https://www.viator.com/tours/Rome/Private-Tour-City-Center/d511-47029P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $138 · ★ 5.0 (163 reviews)
 
-**[St. Peter's Basilica Dome and Crypt Tour](https://www.viator.com/tours/Rome/Skip-the-Line-Vatican-Museums-Walking-Tour/d511-2660VATTOUR?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $36 · ★ 4.8 · Skip the line
+**[Private Walking Tour of the Squares and Fountains in Rome](https://www.viator.com/tours/Rome/Walking-Tour-of-The-Roman-most-Beautiful-Squares/d511-49976P3?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $229 · ★ 5.0 (130 reviews)
 
-**[Catacombs of San Sebastiano and Via Appia Tour](https://www.viator.com/tours/Rome/Appian-Way-Catacombs-Tour/d511-3589APPIAN?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $59 · ★ 4.6 · Ancient road + underground
+**[The Very Best Tour of Rome](https://www.viator.com/tours/Rome/THE-VERY-BEST-TOUR-OF-ROME/d511-150563P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $842 · ★ 5.0 (95 reviews)
 
-[Browse all Rome walking tours →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)
+**[Private Tour: Ancient Rome by Car](https://www.viator.com/tours/Rome/7-hour-Ancient-Rome-driving-tour/d511-20217P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $466 · ★ 5.0 (146 reviews)
+
+[Browse all experiences →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)

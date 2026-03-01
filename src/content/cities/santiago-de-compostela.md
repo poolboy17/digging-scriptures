@@ -68,16 +68,10 @@ The city itself is a UNESCO World Heritage Site. The old quarter's granite archi
 
 ## Experiences and Tours
 
-The cathedral city and the surrounding region offer guided experiences that deepen the pilgrimage connection. For those who cannot walk the full route, guided walking tours of the cathedral and old town provide context for the city's heritage. The cathedral's recently restored Pórtico de la Gloria, a twelfth-century masterpiece of Romanesque sculpture, rewards guided interpretation. Local guides connect the sculptural program to the pilgrim experience it was designed to culminate. The cathedral museum houses the Codex Calixtinus — the medieval pilgrim guide that shaped the trail's infrastructure — and seeing it in person connects modern walkers to their medieval predecessors.
+**[Secrets of Compostela Private Tour](https://www.viator.com/tours/Santiago-de-Compostela/Walking-Tour-of-the-Secrets-of-Santiago-de-Compostela/d565-281562P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $60 · ★ 5.0 (24 reviews)
 
-Galician food culture — pulpo a la gallega, Albariño wine, tetilla cheese, empanada gallega — is itself a pilgrim tradition. For centuries, the meal at the end of the journey was the walker's reward. Today that tradition continues in the restaurants and tapas bars surrounding the cathedral, where pilgrims celebrate their arrival over plates of fresh seafood and local wine. The Mercado de Abastos, a covered market a few minutes from the cathedral, is the best place to taste the region's products and watch Galician daily life unfold.
+**[Finisterre & Costa da Morte "Private" day tour from Santiago de Compostela](https://www.viator.com/tours/Santiago-de-Compostela/Day-Tour-of-Galicias-Death-Coast-Costa-da-Morte/d565-101652P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $476 · ★ 5.0 (7 reviews)
 
-**[Santiago de Compostela Holy Sites Guided Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-de-Compostela-Holy-Sites-Guided-Tour-for-Catholics/d565-117433P14?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $284 · ★ 5.0 · Guided · Free cancellation
+**[Private Walking Tour in Santiago with Beer or Wine](https://www.viator.com/tours/Santiago-de-Compostela/Private-Tour-in-Santiago-de-Compostela-with-Beer-or-Wine/d565-447599P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $54 · ★ 5.0 (2 reviews)
 
-**[Tapas Tasting with Drinks in Santiago Old Town](https://www.viator.com/tours/Santiago-de-Compostela/Tapas-tour-with-drinks-and-tapas-included-at-old-town-of-santiago/d565-149464P16?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $42 · ★ 5.0 · Group tour
-
-**[Private Walking Tour of Santiago de Compostela](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-private-tour-with-official-Galician-guide/d565-270053P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $78 · ★ 5.0 · Private
-
-**[Private Walking Tour with Beer or Wine](https://www.viator.com/tours/Santiago-de-Compostela/Private-Tour-in-Santiago-de-Compostela-with-Beer-or-Wine/d565-447599P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $54 · ★ 5.0 · Private · Free cancellation
-
-[Browse all Santiago experiences →](https://www.viator.com/Santiago-de-Compostela/d565-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Santiago-de-Compostela/d565-ttd?pid=P00166886&mcid=42383&medium=api)

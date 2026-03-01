@@ -88,16 +88,12 @@ Rome is not a destination you exhaust. It is a city that reveals itself in layer
 
 ## Experiences and Tours
 
-For the full seven-church route with distances and directions, see our [walking guide to the seven pilgrimage churches](/cities/rome/walking-guide-rome-seven-churches). Our [4-day itinerary](/cities/rome/4-days-in-rome) organizes the churches, catacombs, and an Assisi day trip into a practical sequence.
+**[Private Tour - City Center ](https://www.viator.com/tours/Rome/Private-Tour-City-Center/d511-47029P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $138 · ★ 5.0 (163 reviews)
 
-Guided tours in Rome provide skip-the-line access that independent visitors cannot get, especially at the Vatican. A good guide transforms the Vatican Museums from an overwhelming maze into a curated encounter with two thousand years of Christian art.
+**[Private Walking Tour of the Squares and Fountains in Rome](https://www.viator.com/tours/Rome/Walking-Tour-of-The-Roman-most-Beautiful-Squares/d511-49976P3?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $229 · ★ 5.0 (130 reviews)
 
-**[St. Peter's Basilica Dome Climb and Tour](https://www.viator.com/tours/Rome/Skip-the-Line-Vatican-Museums-Walking-Tour/d511-2660VATTOUR?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $36 · ★ 4.8 · Skip-the-line access
+**[The Very Best Tour of Rome](https://www.viator.com/tours/Rome/THE-VERY-BEST-TOUR-OF-ROME/d511-150563P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $842 · ★ 5.0 (95 reviews)
 
-**[Vatican Museums and Sistine Chapel Early Entry Tour](https://www.viator.com/tours/Rome/Early-Morning-Vatican-Tour/d511-5765P7?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $72 · ★ 4.9 · Before public opening
+**[Private Tour: Ancient Rome by Car](https://www.viator.com/tours/Rome/7-hour-Ancient-Rome-driving-tour/d511-20217P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $466 · ★ 5.0 (146 reviews)
 
-**[Private Vatican and St. Peter's Complete Tour](https://www.viator.com/tours/Rome/Private-Tour-Vatican-Museums/d511-3731P6?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $445 · ★ 5.0 · Private guide, all access
-
-**[Full-Day Christian Rome and Catacombs Tour](https://www.viator.com/tours/Rome/Christian-Rome-and-Underground-Catacombs-Tour/d511-3589CATACOMBS?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $89 · ★ 4.7 · Churches + catacombs + lunch
-
-[Browse all Rome experiences →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)

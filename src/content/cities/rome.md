@@ -74,16 +74,12 @@ The eternal city shares its role as a pilgrimage capital with [Jerusalem](/citie
 
 ## Experiences and Tours
 
-The sacred sites here reward guided exploration. The Vatican alone could occupy a week of focused visits. Private guides can navigate the museums' vast collections to focus on the art and architecture most relevant to pilgrimage history. They can provide access to areas not open to general visitors and explain the theological significance behind artistic choices that casual tourists might overlook.
+**[Private Tour - City Center ](https://www.viator.com/tours/Rome/Private-Tour-City-Center/d511-47029P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $138 · ★ 5.0 (163 reviews)
 
-The combination of ancient sacred sites and modern city infrastructure makes this destination unusually accessible. Unlike remote pilgrimage sites that require physical endurance, the holy places here can be reached by metro, bus, or a short walk from any central hotel. This accessibility makes it ideal for pilgrims of all ages and physical abilities. Whether exploring the catacombs, attending a papal audience, or walking the seven-church circuit, visitors find a pilgrimage tradition that meets them where they are.
+**[Private Walking Tour of the Squares and Fountains in Rome](https://www.viator.com/tours/Rome/Walking-Tour-of-The-Roman-most-Beautiful-Squares/d511-49976P3?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $229 · ★ 5.0 (130 reviews)
 
-**[St. Peter's Basilica Guided Tour](https://www.viator.com/tours/Rome/Rome-Exclusive-St-Peters-Basilica-Tour-Skip-the-Line/d511-90652P22?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $36 · ★ 5.0 (11 reviews) · Skip the line
+**[The Very Best Tour of Rome](https://www.viator.com/tours/Rome/THE-VERY-BEST-TOUR-OF-ROME/d511-150563P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $842 · ★ 5.0 (95 reviews)
 
-**[Vatican Museums and Sistine Chapel Private Tour](https://www.viator.com/tours/Vatican-City/Private-Guided-Tour-of-the-Vatican-Museums-and-Sistine-Chapel/d60477-361990P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $445 · ★ 5.0 (5 reviews) · Private
+**[Private Tour: Ancient Rome by Car](https://www.viator.com/tours/Rome/7-hour-Ancient-Rome-driving-tour/d511-20217P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $466 · ★ 5.0 (146 reviews)
 
-**[Exclusive Private Tour of the Vatican Museums](https://www.viator.com/tours/Vatican-City/Private-guided-tour-vatican/d60477-148384P40?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $721 · ★ 5.0 (6 reviews) · Private
-
-**[Full Day Private Guided Tour of Rome](https://www.viator.com/tours/Rome/Full-day-private-guided-tour-of-Rome-by-golf-cart-and-Colosseum-and-Roman-Forum/d511-7377P19?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $1,642 · ★ 5.0 (80 reviews) · Private · Free cancellation
-
-[Browse all Rome experiences →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)

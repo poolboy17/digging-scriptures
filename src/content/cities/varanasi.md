@@ -68,16 +68,12 @@ The optimal season for pilgrimage in northern India is October through March. Su
 
 ## Experiences and Tours
 
-India's sacred sites reward guided exploration. The rituals at Varanasi's ghats, the meditation practices at Bodh Gaya, and the archaeological significance of Sarnath all benefit from guides who can provide cultural context. The density of sacred activity in Varanasi alone — the morning boat ride past the ghats, the evening aarti ceremony, the silk weaving workshops, the narrow alleyways of the old city — makes expert guidance valuable for first-time visitors. Local guides navigate the complex social and religious dynamics of the ghats with sensitivity, ensuring visitors can observe ceremonies respectfully without intruding.
+**[Walking tours - for an authentic Varanasi experience ](https://www.viator.com/tours/Varanasi/Walking-Tours/d22015-69335P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (40 reviews)
 
-Walking tours offer the best way to experience Varanasi's labyrinthine old quarter. The streets are too narrow for vehicles and every turn reveals a temple, a shrine, or a scene of daily devotion that has been repeated for centuries. Full-day tours that combine Varanasi's ghats with Sarnath provide a powerful contrast between Hindu and Buddhist sacred geography within a single day.
+**[Varanasi Sunrise Boat Ride with Walking Tour](https://www.viator.com/tours/Varanasi/Bokun-Free-Product-October/d22015-63169P22?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $34 · ★ 5.0 (15 reviews)
 
-**[Spiritual and Heritage Walking Tour in Varanasi](https://www.viator.com/tours/Varanasi/Varanasis-Spiritual-and-heritage-Free-Walking-Tour/d22015-402382P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $11 · ★ 5.0 (9 reviews) · Free cancellation
+**[Varanasi & Sarnath: Full-Day Tour with Ganges Boat Ride](https://www.viator.com/tours/Varanasi/Discover-Varanasi-in-a-Day-Ancient-Temples-Sarnath-and-Ghats/d22015-5599595P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $90 · ★ 5.0 (17 reviews)
 
-**[Varanasi in a Day: Ancient Temples, Sarnath, and Ghats](https://www.viator.com/tours/Varanasi/Discover-Varanasi-in-a-Day-Ancient-Temples-Sarnath-and-Ghats/d22015-5599595P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $90 · ★ 5.0 (17 reviews) · Free cancellation
+**[Essential Varanasi (North and Manikarnika) Walking Tour ](https://www.viator.com/tours/Varanasi/Varanasi-Walking-Tour-Pay-as-you-wish/d22015-67395P13?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $41 · ★ 5.0 (27 reviews)
 
-**[Explore the Ancient and Hidden Sides of Varanasi](https://www.viator.com/tours/Varanasi/Heritage-Walk-Experience-The-Ancient-and-Hidden-Varanasi/d22015-5516664P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (13 reviews) · Free cancellation
-
-**[Sunrise and Morning Walking Tour of Varanasi](https://www.viator.com/tours/Varanasi/Sunrise-and-Morning-down-town-walking-tour-Daily-Tour/d22015-139177P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $64 · ★ 5.0 (16 reviews) · Free cancellation
-
-[Browse all Varanasi experiences →](https://www.viator.com/Varanasi/d22015-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Varanasi/d22015-ttd?pid=P00166886&mcid=42383&medium=api)

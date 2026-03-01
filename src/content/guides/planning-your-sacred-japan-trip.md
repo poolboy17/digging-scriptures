@@ -87,16 +87,14 @@ Kyoto itself is the starting point and the spiritual context for everything that
 
 ## Experiences and Tours
 
-Our [7-day itinerary](/cities/kyoto/7-days-in-sacred-japan) maps a complete journey from Kyoto temples through Kōya-san to the Kumano Kodō, and our [Nakahechi walking guide](/cities/kyoto/walking-guide-kumano-kodo-nakahechi) covers the trail stage by stage.
+**[Kyoto: Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 (63 reviews)
 
-Guided experiences in Kyoto and the surrounding region open doors that independent visitors often miss. Temple ceremonies, tea rituals, and forest trail walks all benefit from local knowledge that connects the visible landscape to its spiritual significance.
+**[Kiyomizu Temple and Backstreets of Gion, Half Day Group Tour](https://www.viator.com/tours/Kyoto/Kiyomizu-Temple-and-Backstreets-of-Gion-Half-Day-Private-Tour/d332-21490P133?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $59 · ★ 5.0 (51 reviews)
 
-**[Kiyomizu Temple and Backstreets of Gion Walking Tour](https://www.viator.com/tours/Kyoto/Kiyomizu-Temple-and-Backstreets-of-Gion-Half-Day-Private-Tour/d332-21490P133?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $59 · ★ 5.0 (51 reviews) · Group tour
+**[Kyoto: Zen Garden, Zen Mind (Private)](https://www.viator.com/tours/Kyoto/Kyoto-Zen-Garden-Zen-Mind/d332-72156P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $380 · ★ 5.0 (126 reviews)
 
-**[Private Tea Ceremony and Sake Tasting in Samurai House](https://www.viator.com/tours/Kyoto/Tea-ceremony-and-sake-tasting-in-300-year-old-Kyoto-samurai-house/d332-402518P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $131 · ★ 5.0 (163 reviews) · Private
+**[Kyoto Hiking Tour: The Nature and Legends of Kurama and Kibune](https://www.viator.com/tours/Kyoto/1-Day-Hiking-Tour-in-the-Mountains-of-Kyoto/d332-22178P67?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $190 · ★ 5.0 (77 reviews)
 
-**[Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 (74 reviews) · Free cancellation
+**[Private Tea Ceremony and Sake Tasting in Kyoto Samurai House](https://www.viator.com/tours/Kyoto/Tea-ceremony-and-sake-tasting-in-300-year-old-Kyoto-samurai-house/d332-402518P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $131 · ★ 5.0 (163 reviews)
 
-**[Hiking Tour: Nature and Legends of Kurama and Kibune](https://www.viator.com/tours/Kyoto/1-Day-Hiking-Tour-in-the-Mountains-of-Kyoto/d332-22178P67?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $190 · ★ 5.0 (77 reviews) · Free cancellation
-
-[Browse all Kyoto experiences →](https://www.viator.com/Kyoto/d332-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Kyoto/d332-ttd?pid=P00166886&mcid=42383&medium=api)

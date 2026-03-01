@@ -103,10 +103,14 @@ For the broader spiritual context of this journey, explore the [Buddhist pilgrim
 
 ## Experiences and Tours
 
-**[Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 · Expert shrine guide
+**[Kyoto: Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 (63 reviews)
 
-**[Arashiyama Bamboo Grove and Temple Tour](https://www.viator.com/tours/Kyoto/Arashiyama-Walking-Tour/d332-22178P12?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $65 · ★ 4.9 · Includes Tenryū-ji
+**[Kiyomizu Temple and Backstreets of Gion, Half Day Group Tour](https://www.viator.com/tours/Kyoto/Kiyomizu-Temple-and-Backstreets-of-Gion-Half-Day-Private-Tour/d332-21490P133?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $59 · ★ 5.0 (51 reviews)
 
-**[Private Tea Ceremony Experience](https://www.viator.com/tours/Kyoto/Tea-ceremony-and-sake-tasting-in-300-year-old-Kyoto-samurai-house/d332-402518P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $131 · ★ 5.0 · In historic samurai house
+**[Kyoto: Zen Garden, Zen Mind (Private)](https://www.viator.com/tours/Kyoto/Kyoto-Zen-Garden-Zen-Mind/d332-72156P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $380 · ★ 5.0 (126 reviews)
 
-[Browse all Kyoto experiences →](https://www.viator.com/Kyoto/d332-ttd?pid=P00166886&mcid=42383&medium=api)
+**[Kyoto Hiking Tour: The Nature and Legends of Kurama and Kibune](https://www.viator.com/tours/Kyoto/1-Day-Hiking-Tour-in-the-Mountains-of-Kyoto/d332-22178P67?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $190 · ★ 5.0 (77 reviews)
+
+**[Private Tea Ceremony and Sake Tasting in Kyoto Samurai House](https://www.viator.com/tours/Kyoto/Tea-ceremony-and-sake-tasting-in-300-year-old-Kyoto-samurai-house/d332-402518P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $131 · ★ 5.0 (163 reviews)
+
+[Browse all experiences →](https://www.viator.com/Kyoto/d332-ttd?pid=P00166886&mcid=42383&medium=api)

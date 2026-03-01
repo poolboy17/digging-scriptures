@@ -94,14 +94,10 @@ The [psychology of pilgrimage](/context/psychology-of-pilgrimage) — why walkin
 
 ## Experiences and Tours
 
-Our [stage-by-stage walking guide](/cities/santiago-de-compostela/walking-guide-camino-frances-stages) breaks the full Francés into its five geographic phases, and our [last 100km itinerary](/cities/santiago-de-compostela/last-100km-camino-frances) maps the Sarria-to-Santiago stretch day by day.
+**[Secrets of Compostela Private Tour](https://www.viator.com/tours/Santiago-de-Compostela/Walking-Tour-of-the-Secrets-of-Santiago-de-Compostela/d565-281562P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $60 · ★ 5.0 (24 reviews)
 
-For pilgrims who want guidance on the final approach to Santiago, or who prefer a supported walking experience with luggage transfers and pre-booked accommodation, guided Camino services bridge the gap between fully independent walking and organized group tours.
+**[Finisterre & Costa da Morte "Private" day tour from Santiago de Compostela](https://www.viator.com/tours/Santiago-de-Compostela/Day-Tour-of-Galicias-Death-Coast-Costa-da-Morte/d565-101652P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $476 · ★ 5.0 (7 reviews)
 
-**[Santiago de Compostela Walking Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-de-Compostela-Walking-Tour/d5765-5765P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $15 · ★ 4.9 · Old town exploration
+**[Private Walking Tour in Santiago with Beer or Wine](https://www.viator.com/tours/Santiago-de-Compostela/Private-Tour-in-Santiago-de-Compostela-with-Beer-or-Wine/d565-447599P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $54 · ★ 5.0 (2 reviews)
 
-**[Cathedral Rooftop Tour](https://www.viator.com/tours/Santiago-de-Compostela/Santiago-Cathedral-Rooftops/d5765-5765ROOF?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $12 · ★ 4.8 · Panoramic views
-
-**[Galician Food and Wine Tour](https://www.viator.com/tours/Santiago-de-Compostela/Food-Wine-Tour-Santiago/d5765-5765FOOD?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $65 · ★ 5.0 · Post-Camino celebration
-
-[Browse all Santiago experiences →](https://www.viator.com/Santiago-de-Compostela/d5765-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Santiago-de-Compostela/d565-ttd?pid=P00166886&mcid=42383&medium=api)

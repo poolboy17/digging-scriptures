@@ -106,10 +106,12 @@ For the spiritual and historical context behind these sites, explore the [histor
 
 ## Experiences and Tours
 
-**[Early Entry Vatican Museums and Sistine Chapel Tour](https://www.viator.com/tours/Rome/Early-Morning-Vatican-Tour/d511-5765P7?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $72 · ★ 4.9 · Before public opening
+**[Private Tour - City Center ](https://www.viator.com/tours/Rome/Private-Tour-City-Center/d511-47029P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $138 · ★ 5.0 (163 reviews)
 
-**[Catacombs and Underground Rome Tour](https://www.viator.com/tours/Rome/Christian-Rome-and-Underground-Catacombs-Tour/d511-3589CATACOMBS?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $89 · ★ 4.7 · Includes transport
+**[Private Walking Tour of the Squares and Fountains in Rome](https://www.viator.com/tours/Rome/Walking-Tour-of-The-Roman-most-Beautiful-Squares/d511-49976P3?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $229 · ★ 5.0 (130 reviews)
 
-**[Assisi Full-Day Tour from Rome](https://www.viator.com/tours/Rome/Assisi-Day-Trip-From-Rome/d511-5544P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $110 · ★ 4.6 · Transport + guide included
+**[The Very Best Tour of Rome](https://www.viator.com/tours/Rome/THE-VERY-BEST-TOUR-OF-ROME/d511-150563P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $842 · ★ 5.0 (95 reviews)
 
-[Browse all Rome experiences →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)
+**[Private Tour: Ancient Rome by Car](https://www.viator.com/tours/Rome/7-hour-Ancient-Rome-driving-tour/d511-20217P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $466 · ★ 5.0 (146 reviews)
+
+[Browse all experiences →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)

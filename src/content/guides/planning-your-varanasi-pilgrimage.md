@@ -99,14 +99,12 @@ The practical preparation in this guide creates space for that intensity to reac
 
 ## Experiences and Tours
 
-Our [3-day itinerary](/cities/varanasi/3-days-in-varanasi) structures the experience from dawn boat rides through the temple circuit to Sarnath, and our [ghat walking guide](/cities/varanasi/walking-guide-varanasi-ghats) covers the essential stretch from Assi to Manikarnika.
+**[Walking tours - for an authentic Varanasi experience ](https://www.viator.com/tours/Varanasi/Walking-Tours/d22015-69335P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (40 reviews)
 
-A knowledgeable local guide transforms Varanasi from chaotic to comprehensible. The best guides explain not just what you are seeing but why it matters — the theology behind the cremation rituals, the symbolism of the aarti lamps, the stories embedded in each ghat's architecture.
+**[Varanasi Sunrise Boat Ride with Walking Tour](https://www.viator.com/tours/Varanasi/Bokun-Free-Product-October/d22015-63169P22?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $34 · ★ 5.0 (15 reviews)
 
-**[Morning Boat Ride and Walking Tour](https://www.viator.com/tours/Varanasi/Varanasi-Morning-Boat-Ride-Walking-Tour/d29093-29093MORNING?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $25 · ★ 4.9 · Dawn on the Ganges
+**[Varanasi & Sarnath: Full-Day Tour with Ganges Boat Ride](https://www.viator.com/tours/Varanasi/Discover-Varanasi-in-a-Day-Ancient-Temples-Sarnath-and-Ghats/d22015-5599595P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $90 · ★ 5.0 (17 reviews)
 
-**[Evening Ganga Aarti Experience](https://www.viator.com/tours/Varanasi/Varanasi-Evening-Aarti-Tour/d29093-29093AARTI?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $20 · ★ 4.8 · Guided ceremony viewing
+**[Essential Varanasi (North and Manikarnika) Walking Tour ](https://www.viator.com/tours/Varanasi/Varanasi-Walking-Tour-Pay-as-you-wish/d22015-67395P13?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $41 · ★ 5.0 (27 reviews)
 
-**[Full Day Varanasi and Sarnath Private Tour](https://www.viator.com/tours/Varanasi/Full-Day-Varanasi-Sarnath-Tour/d29093-29093FULL?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $45 · ★ 4.9 · Complete sacred circuit
-
-[Browse all Varanasi experiences →](https://www.viator.com/Varanasi/d29093-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Varanasi/d22015-ttd?pid=P00166886&mcid=42383&medium=api)

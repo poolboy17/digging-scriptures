@@ -87,16 +87,14 @@ Jerusalem shares the characteristic of layered sacred history with [Rome](/citie
 
 ## Experiences and Tours
 
-Jerusalem's sacred sites reward guided exploration. A knowledgeable local guide can explain the significance of architectural details that casual visitors walk past. They can navigate the complex access rules that govern sites like the Temple Mount. They can connect the stories behind each stone to the living traditions still practiced there today. The best guides bring Jerusalem's layered history into focus — showing how a Herodian wall supports a Crusader arch that frames an Ottoman fountain.
+**[Best seller! Jerusalem old city four quarters tour](https://www.viator.com/tours/Jerusalem/Israel-tours/d921-324805P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $450 · ★ 5.0 (148 reviews)
 
-Private tours allow pilgrims to focus on the tradition most meaningful to them. Christian-focused tours follow the Via Dolorosa and the churches of the Holy Sepulchre. Jewish heritage tours explore the Western Wall tunnels and the ancient city of David. Multi-faith tours cover all four quarters in a single day. Walking tours are the most rewarding way to experience the Old City, where the streets are too narrow for vehicles and every hundred meters reveals a different century.
+**[Magical Walking Tour in Old City of Jerusalem](https://www.viator.com/tours/Jerusalem/Tours-in-Israel/d921-333258P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 5.0 (27 reviews)
 
-**[Jerusalem Old City Private Tour — Explore Life Then and Now](https://www.viator.com/tours/Jerusalem/Jerusalem-Old-City-private-tour-EXPLORE-LIFE-THEN-and-NOW/d921-195268P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $450 · ★ 5.0 (119 reviews) · Private · Free cancellation
+**[Bethlehem Half Day Private Tour - Pick up from Jerusalem/Tel Aviv/Ashdod](https://www.viator.com/tours/Jerusalem/Bethlehem-Half-Day-Private-Tour-Free-Hotel-Pick-up-and-Drop-Off-from-Tel-Aviv/d921-115730P7?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $350 · ★ 5.0 (55 reviews)
 
-**[Full Day Private Christian Tour in Jerusalem](https://www.viator.com/tours/Jerusalem/Touring-Israel-with-a-Tour-Guide/d921-385765P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $750 · ★ 5.0 (29 reviews) · Private · Free cancellation
+**[Full Day Jerusalem Tour: In Jesus' Steps](https://www.viator.com/tours/Jerusalem/Full-Day-Jerusalem-Tour-In-Jesus-Steps/d921-43354P3?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $350 · ★ 5.0 (22 reviews)
 
-**[Magical Walking Tour in the Old City of Jerusalem](https://www.viator.com/tours/Jerusalem/Tours-in-Israel/d921-333258P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 5.0 (27 reviews) · Free cancellation
+**[Full Day Private Christian Tour in Jerusalem with Tour Guide](https://www.viator.com/tours/Jerusalem/Touring-Israel-with-a-Tour-Guide/d921-385765P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $750 · ★ 5.0 (29 reviews)
 
-**[Explore Jerusalem's Old City](https://www.viator.com/tours/Jerusalem/Explore-Jerusalem-Old-and-New/d921-189806P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $579 · ★ 5.0 (24 reviews) · Private · Free cancellation
-
-[Browse all Jerusalem experiences →](https://www.viator.com/Jerusalem/d921-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Jerusalem/d921-ttd?pid=P00166886&mcid=42383&medium=api)

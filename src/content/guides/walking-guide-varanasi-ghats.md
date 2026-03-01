@@ -104,10 +104,12 @@ For the broader context of what makes Varanasi sacred — the theology of moksha
 
 ## Experiences and Tours
 
-**[Morning Boat Ride and Ghat Walking Tour](https://www.viator.com/tours/Varanasi/Varanasi-Morning-Boat-Ride-Walking-Tour/d29093-29093MORNING?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $25 · ★ 4.9 · Dawn on the Ganges + ghat walk
+**[Walking tours - for an authentic Varanasi experience ](https://www.viator.com/tours/Varanasi/Walking-Tours/d22015-69335P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (40 reviews)
 
-**[Evening Ganga Aarti Experience](https://www.viator.com/tours/Varanasi/Varanasi-Evening-Aarti-Tour/d29093-29093AARTI?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $20 · ★ 4.8 · Guided ceremony viewing
+**[Varanasi Sunrise Boat Ride with Walking Tour](https://www.viator.com/tours/Varanasi/Bokun-Free-Product-October/d22015-63169P22?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $34 · ★ 5.0 (15 reviews)
 
-**[Heritage Walk Through Old Varanasi](https://www.viator.com/tours/Varanasi/Full-Day-Varanasi-Sarnath-Tour/d29093-29093FULL?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $45 · ★ 4.9 · Lanes + ghats + history
+**[Varanasi & Sarnath: Full-Day Tour with Ganges Boat Ride](https://www.viator.com/tours/Varanasi/Discover-Varanasi-in-a-Day-Ancient-Temples-Sarnath-and-Ghats/d22015-5599595P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $90 · ★ 5.0 (17 reviews)
 
-[Browse all Varanasi walking tours →](https://www.viator.com/Varanasi/d29093-ttd?pid=P00166886&mcid=42383&medium=api)
+**[Essential Varanasi (North and Manikarnika) Walking Tour ](https://www.viator.com/tours/Varanasi/Varanasi-Walking-Tour-Pay-as-you-wish/d22015-67395P13?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $41 · ★ 5.0 (27 reviews)
+
+[Browse all experiences →](https://www.viator.com/Varanasi/d22015-ttd?pid=P00166886&mcid=42383&medium=api)

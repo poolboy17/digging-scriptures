@@ -104,14 +104,14 @@ For more on access rules, Shabbat schedules, dress codes, and budget planning, s
 
 ## Experiences and Tours
 
-Guided tours add context that transforms the experience — a good guide connects the stones to the stories that give them meaning. These options cover the key elements of this itinerary.
+**[Best seller! Jerusalem old city four quarters tour](https://www.viator.com/tours/Jerusalem/Israel-tours/d921-324805P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $450 · ★ 5.0 (148 reviews)
 
-**[Old City Three Religions Walking Tour](https://www.viator.com/tours/Jerusalem/Jerusalem-Three-Religions-Holy-City-Walking-Tour/d1096-11454666?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $0 (free) · ★ 4.7 · Covers all quarters
+**[Magical Walking Tour in Old City of Jerusalem](https://www.viator.com/tours/Jerusalem/Tours-in-Israel/d921-333258P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 5.0 (27 reviews)
 
-**[City of David and Underground Jerusalem Tour](https://www.viator.com/tours/Jerusalem/City-of-David-Underground-Jerusalem/d1096-11450841?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $35 · ★ 4.8 · Includes Hezekiah's Tunnel
+**[Bethlehem Half Day Private Tour - Pick up from Jerusalem/Tel Aviv/Ashdod](https://www.viator.com/tours/Jerusalem/Bethlehem-Half-Day-Private-Tour-Free-Hotel-Pick-up-and-Drop-Off-from-Tel-Aviv/d921-115730P7?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $350 · ★ 5.0 (55 reviews)
 
-**[Bethlehem Half-Day Tour from Jerusalem](https://www.viator.com/tours/Jerusalem/Bethlehem-Half-Day-Tour/d1096-3674JERBETH?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $49 · ★ 4.6 · Church of the Nativity + Shepherd's Field
+**[Full Day Jerusalem Tour: In Jesus' Steps](https://www.viator.com/tours/Jerusalem/Full-Day-Jerusalem-Tour-In-Jesus-Steps/d921-43354P3?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $350 · ★ 5.0 (22 reviews)
 
-**[Mount of Olives and Garden of Gethsemane Tour](https://www.viator.com/tours/Jerusalem/Mount-of-Olives-Gethsemane-Tour/d1096-2660OLIVES?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $45 · ★ 4.7 · Panoramic views + ancient garden
+**[Full Day Private Christian Tour in Jerusalem with Tour Guide](https://www.viator.com/tours/Jerusalem/Touring-Israel-with-a-Tour-Guide/d921-385765P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $750 · ★ 5.0 (29 reviews)
 
-[Browse all Jerusalem experiences →](https://www.viator.com/Jerusalem/d1096-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Jerusalem/d921-ttd?pid=P00166886&mcid=42383&medium=api)

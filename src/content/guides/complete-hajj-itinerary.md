@@ -136,8 +136,10 @@ For the theological context that transforms these physical rituals into spiritua
 
 ## Experiences and Tours
 
-**[Private Guided Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 · Historical sites tour
+**[Private Guided Spiritual Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 (97 reviews)
 
-**[Madinah Ziyarats: Holy Places Visit](https://www.viator.com/tours/Medina/Medina-Ziyarah-A-Spiritual-Journey-in-the-City-of-the-Prophet/d50350-464257P71?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $220 · ★ 5.0 · Comprehensive ziyarat
+**[Half - Day Tour in Prophet Mohammed City](https://www.viator.com/tours/Medina/Prophet-Mohammed-Mosque-Al-Masjid-an-Nabawi/d50350-5524632P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $149 · ★ 5.0 (7 reviews)
 
-[Browse all Medina experiences →](https://www.viator.com/Medina/d50350-ttd?pid=P00166886&mcid=42383&medium=api)
+**[Madinah Islamic Heritage Tour](https://www.viator.com/tours/Medina/Historical-Tour-of-Medina-Explore-Key-Islamic-Landmarks/d50350-5608329P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $140 · ★ 5.0 (5 reviews)
+
+[Browse all experiences →](https://www.viator.com/Medina/d50350-ttd?pid=P00166886&mcid=42383&medium=api)

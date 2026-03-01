@@ -71,14 +71,10 @@ The pilgrimage experience itself lasts between five and ten days for Hajj, or a 
 
 ## Experiences and Tours
 
-Guided ziyarat tours in Medina provide context and access to the holy sites surrounding the Prophet's Mosque. Knowledgeable local guides can explain the historical significance of each location and help pilgrims navigate the crowds. For first-time visitors, a guided tour transforms what might be an overwhelming experience into a structured and meaningful journey through Islamic sacred history.
+**[Private Guided Spiritual Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 (97 reviews)
 
-Medina's historical sites extend beyond the Prophet's Mosque to include the battlefields of Uhud and Badr, the Quba Mosque, and the mosques of the Qiblatain and the Seven Mosques. Each site connects to a specific moment in the life of the Prophet and the early Muslim community. Walking between them creates a narrative pilgrimage through the founding events of Islam. Many guides are themselves scholars of Islamic history and can provide insights that go far beyond what any guidebook offers. The personal stories they share — of their own pilgrimages, of the pilgrims they have guided — add a human dimension to the historical narrative.
+**[Half - Day Tour in Prophet Mohammed City](https://www.viator.com/tours/Medina/Prophet-Mohammed-Mosque-Al-Masjid-an-Nabawi/d50350-5524632P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $149 · ★ 5.0 (7 reviews)
 
-**[Private Guided Spiritual Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 (97 reviews) · Private
+**[Madinah Islamic Heritage Tour](https://www.viator.com/tours/Medina/Historical-Tour-of-Medina-Explore-Key-Islamic-Landmarks/d50350-5608329P4?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $140 · ★ 5.0 (5 reviews)
 
-**[Half-Day Tour in Prophet Mohammed City](https://www.viator.com/tours/Medina/Prophet-Mohammed-Mosque-Al-Masjid-an-Nabawi/d50350-5524632P2?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $149 · ★ 5.0 (7 reviews)
-
-**[Madinah Ziyarats: Holy Places Visit](https://www.viator.com/tours/Medina/Medina-Ziyarah-A-Spiritual-Journey-in-the-City-of-the-Prophet/d50350-464257P71?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $220 · ★ 5.0 (1 review) · Free cancellation
-
-[Browse all Medina experiences →](https://www.viator.com/Medina/d50350-ttd?pid=P00166886&mcid=42383&medium=api)
+[Browse all experiences →](https://www.viator.com/Medina/d50350-ttd?pid=P00166886&mcid=42383&medium=api)
