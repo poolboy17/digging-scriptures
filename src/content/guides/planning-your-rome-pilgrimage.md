@@ -86,6 +86,11 @@ Day trips from Rome extend the pilgrimage further. Assisi, the home of Saint Fra
 
 Rome is not a destination you exhaust. It is a city that reveals itself in layers — a crypt beneath a church beneath a basilica beneath the sky. The practical preparation in this guide frees you to receive those layers on their own terms, without the friction of missed queues and wrong turns interfering with the encounter that brought you here.
 
+
+
+## More Rome Guides
+
+Our [4-day itinerary](/cities/rome/4-days-in-rome) organizes the Vatican, seven churches, catacombs, and an Assisi day trip into a practical sequence. The [seven churches walking guide](/cities/rome/walking-guide-rome-seven-churches) provides the full Philip Neri route with distances and Metro shortcuts. For Vatican-area hotels, religious guesthouses, and neighborhood advice, see [where to stay in Rome](/cities/rome/where-to-stay-rome).
 ## Experiences and Tours
 
 **[Private Tour - City Center ](https://www.viator.com/tours/Rome/Private-Tour-City-Center/d511-47029P8?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $138 · ★ 5.0 (163 reviews)

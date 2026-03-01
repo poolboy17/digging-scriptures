@@ -97,6 +97,11 @@ Varanasi connects to every major pilgrimage tradition represented on this site. 
 
 The practical preparation in this guide creates space for that intensity to reach you. Arrive knowing the rhythms of the ghats, the etiquette of the cremation grounds, and the logistics of the temples, and you free your attention for what Varanasi actually offers: the oldest continuously inhabited city in the world, still performing the rituals that have defined it for three millennia.
 
+
+
+## More Varanasi Guides
+
+Our [3-day itinerary](/cities/varanasi/3-days-in-varanasi) structures the experience from dawn boat rides through the temple circuit to Sarnath. The [ghat walking guide](/cities/varanasi/walking-guide-varanasi-ghats) covers the essential stretch from Assi to Manikarnika. For old city guesthouses versus modern hotels, see [where to stay in Varanasi](/cities/varanasi/where-to-stay-varanasi).
 ## Experiences and Tours
 
 **[Walking tours - for an authentic Varanasi experience ](https://www.viator.com/tours/Varanasi/Walking-Tours/d22015-69335P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $28 · ★ 5.0 (40 reviews)

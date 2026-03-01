@@ -85,6 +85,11 @@ The [psychology of pilgrimage](/context/psychology-of-pilgrimage) — the way su
 
 Kyoto itself is the starting point and the spiritual context for everything that radiates outward into the mountains. A few days exploring the city's thousand-plus temples before heading to the trails provides essential background. The aesthetics of a Zen rock garden, the ritual precision of a tea ceremony, the stillness of a bamboo grove — these are the cultural frequencies that Japanese pilgrimage operates on. Arriving at the Kumano Kodō trailhead without first experiencing Kyoto is like reading the middle chapters of a book.
 
+
+
+## More Japan Guides
+
+Our [7-day itinerary](/cities/kyoto/7-days-in-sacred-japan) maps a journey from Kyoto temples through Kōya-san to the Kumano Kodō. The [Nakahechi walking guide](/cities/kyoto/walking-guide-kumano-kodo-nakahechi) covers each trail stage with distances and guesthouse stops. For temple lodging, ryokan, and trail accommodation, see [where to stay in sacred Japan](/cities/kyoto/where-to-stay-kyoto).
 ## Experiences and Tours
 
 **[Kyoto: Fushimi Inari Shrine Walking Tour](https://www.viator.com/tours/Kyoto/Kyoto-Fushimi-Inari-Taisha-Shrine-Walking-Tour/d332-5580936P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $39 · ★ 5.0 (63 reviews)

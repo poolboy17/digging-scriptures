@@ -98,6 +98,11 @@ The Hajj connects to a pilgrimage tradition as old as the patriarch Ibrahim, who
 
 [Jerusalem](/cities/jerusalem) — Islam's third holiest city — is a natural extension for pilgrims who have completed the Hajj. Many combine the two journeys, connecting the sacred geography of Arabia to the Levantine landscape where Ibrahim, Musa, and Isa walked. The triangulation of Mecca, Medina, and Jerusalem creates a pilgrimage circuit that spans the full breadth of Islamic sacred geography.
 
+
+
+## More Hajj and Umrah Guides
+
+Our [complete Hajj itinerary](/cities/mecca-and-medina/complete-hajj-itinerary) walks through each ritual day in sequence. The [Hajj walking guide](/cities/mecca-and-medina/walking-guide-hajj-rituals) covers distances and physical demands of tawaf, sa'i, and the transit between sites. For Mecca hotels, Mina tents, and Medina lodging, see [where to stay for Hajj](/cities/mecca-and-medina/where-to-stay-hajj).
 ## Experiences and Tours
 
 **[Private Guided Spiritual Ziyarat Tour of Madinah](https://www.viator.com/tours/Medina/Private-Guided-Spiritual-Ziyarat-Tour-of-Madinah/d50350-5570506P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $100 · ★ 4.9 (97 reviews)

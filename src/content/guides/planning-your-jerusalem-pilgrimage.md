@@ -110,6 +110,11 @@ For Jewish pilgrims, Jerusalem is the center — the city toward which every syn
 
 Whatever tradition brings you to Jerusalem, the city rewards preparation. Arrive knowing the access rules, the dress codes, and the rhythms of Shabbat, and you free yourself to focus on what you actually came for — the encounter with the sacred that has drawn pilgrims here for three thousand years.
 
+
+
+## More Jerusalem Guides
+
+For a structured day-by-day approach, see our [3-day Jerusalem itinerary](/cities/jerusalem/3-days-in-jerusalem). Our [Old City walking guide](/cities/jerusalem/walking-guide-jerusalem-old-city) covers the Via Dolorosa, Western Wall, and Temple Mount quarter by quarter. For guesthouses, hospices, and hotel neighborhoods, see [where to stay in Jerusalem](/cities/jerusalem/where-to-stay-jerusalem).
 ## Experiences and Tours
 
 **[Best seller! Jerusalem old city four quarters tour](https://www.viator.com/tours/Jerusalem/Israel-tours/d921-324805P1?mcid=42383&pid=P00166886&medium=api&api_version=2.0)** — From $450 · ★ 5.0 (148 reviews)
