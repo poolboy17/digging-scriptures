@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import CdnImage from '../components/CdnImage.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 
 interface Props {
     title: string;
@@ -88,6 +89,8 @@ const articleSchema = {
                 <div class="content prose-custom">
                     <slot />
                 </div>
+
+                <NewsletterSignup />
             </div>
         </div>
     </article>
