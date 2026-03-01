@@ -102,3 +102,8 @@ This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](
 - [Dome of the Rock](/places/dome-of-the-rock) — Place
 - [Najaf and Karbala: Where Millions Walk for Shia Devotion](/places/najaf-karbala) — Place
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Medina →](https://www.viator.com/Medina/d50350-ttd?pid=P00166886&mcid=42383&medium=api)

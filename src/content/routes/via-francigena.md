@@ -120,3 +120,8 @@ This article is part of our guide to [Rome and the Vatican: The Eternal Pilgrima
 - [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Rome →](https://www.viator.com/Rome/d511-ttd?pid=P00166886&mcid=42383&medium=api)

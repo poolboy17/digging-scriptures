@@ -126,3 +126,8 @@ This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths
 - [Margery Kempe: The Medieval Pilgrim](/stories/margery-kempe-medieval-pilgrim) — Story
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage) — Context
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Jerusalem →](https://www.viator.com/Jerusalem/d921-ttd?pid=P00166886&mcid=42383&medium=api)

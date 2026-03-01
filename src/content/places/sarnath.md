@@ -107,3 +107,8 @@ This article is part of our guide to [Holy India: Varanasi, Bodh Gaya, and the B
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — Story
 - [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Varanasi →](https://www.viator.com/Varanasi/d22015-ttd?pid=P00166886&mcid=42383&medium=api)

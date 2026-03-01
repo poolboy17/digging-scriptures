@@ -147,3 +147,8 @@ This article is part of our guide to [Santiago de Compostela and the Camino](/ci
 - [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
 - [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Santiago de Compostela →](https://www.viator.com/Santiago-de-Compostela/d565-ttd?pid=P00166886&mcid=42383&medium=api)

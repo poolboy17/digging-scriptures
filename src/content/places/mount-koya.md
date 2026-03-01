@@ -108,3 +108,8 @@ This article is part of our guide to [Sacred Japan: Kyoto, Kōya, and the Ancien
 - [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — Story
 - [The Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Kyoto →](https://www.viator.com/Kyoto/d332-ttd?pid=P00166886&mcid=42383&medium=api)

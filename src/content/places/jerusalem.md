@@ -131,3 +131,8 @@ This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths
 - [What Is Pilgrimage and Why Do People Do It?](/context/what-is-pilgrimage) — Context
 - [Women Who Shaped the History of Pilgrimage](/context/women-and-pilgrimage) — Context
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Jerusalem →](https://www.viator.com/Jerusalem/d921-ttd?pid=P00166886&mcid=42383&medium=api)

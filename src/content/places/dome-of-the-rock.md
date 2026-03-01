@@ -112,3 +112,8 @@ This article is part of our guide to [Jerusalem: The City Sacred to Three Faiths
 - [The Five Pillars and the Hajj Explained](/context/five-pillars-hajj-explained) — Context
 - [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Jerusalem →](https://www.viator.com/Jerusalem/d921-ttd?pid=P00166886&mcid=42383&medium=api)

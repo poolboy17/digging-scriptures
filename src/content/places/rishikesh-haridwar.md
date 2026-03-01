@@ -53,3 +53,9 @@ The river's theology is direct: contact with Ganga water removes sin. The water 
 **Note**: both cities are strictly vegetarian and alcohol-free by municipal regulation. Non-vegetarian food and alcohol are not available.
 
 For the broader Hindu pilgrimage landscape, see our [Hindu pilgrimage traditions hub](/journeys/hindu-pilgrimage-traditions). For the mountain circuit that begins here, see [the Char Dham](/context/char-dham-pilgrimage). For India's holiest downstream city, see our [Varanasi hub](/cities/varanasi).
+
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Varanasi →](https://www.viator.com/Varanasi/d22015-ttd?pid=P00166886&mcid=42383&medium=api)

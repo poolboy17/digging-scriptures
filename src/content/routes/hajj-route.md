@@ -112,3 +112,8 @@ This article is part of our guide to [Mecca and Medina: Islam's Holiest Cities](
 - [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — Story
 - [Ziyarat and the Tradition of Visiting Shrines in Islam](/context/ziyarat-visiting-shrines-islam) — Context
 
+## Experiences and Tours
+
+Explore guided tours, walking experiences, and cultural activities in the area.
+
+[Browse all experiences in Medina →](https://www.viator.com/Medina/d50350-ttd?pid=P00166886&mcid=42383&medium=api)
